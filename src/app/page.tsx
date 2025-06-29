@@ -133,7 +133,7 @@ export default function Home() {
             <h2 className="text-2xl font-bold text-gray-600">検索ランキング TOP10</h2>
           </div>
 
-          <div className="space-y-3">
+          <div className="space-y-2">
             {isLoadingRanking ? (
               <div className="text-center py-8">
                 <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
@@ -141,11 +141,11 @@ export default function Home() {
             ) : searchRankingTop10.map((item) => (
               <div
                 key={item.rank}
-                className="flex items-center justify-between p-4 rounded-xl hover:bg-gray-50 transition-colors group"
+                className="flex items-center justify-between p-3 rounded-xl hover:bg-gray-50 transition-colors group"
               >
-                <div className="flex items-center gap-4">
+                <div className="flex items-center gap-3">
                   <div className={`
-                    w-10 h-10 rounded-full flex items-center justify-center font-bold text-sm
+                    w-8 h-8 rounded-full flex items-center justify-center font-bold text-sm
                     ${item.rank <= 3 ? 'bg-gradient-to-br from-yellow-400 to-orange-400 text-white' : 'bg-gray-100 text-gray-600'}
                   `}>
                     {item.rank}
@@ -157,19 +157,10 @@ export default function Home() {
                     >
                       {item.keyword}
                     </a>
-                    <div className="flex items-center gap-3 mt-1">
-                      <span className="text-xs text-gray-500">最高還元: {item.site}</span>
-                      {item.change !== 0 && (
-                        <span className={`text-xs font-medium ${item.change > 0 ? 'text-green-600' : 'text-red-600'}`}>
-                          {item.change > 0 ? '↑' : '↓'} {Math.abs(item.change)}
-                        </span>
-                      )}
-                    </div>
                   </div>
                 </div>
                 <div className="text-right">
-                  <p className="text-xl font-bold text-green-600">{item.cashback}</p>
-                  <p className="text-xs text-gray-500">還元率</p>
+                  <p className="text-lg font-bold text-green-600">{item.cashback}</p>
                 </div>
               </div>
             ))}
