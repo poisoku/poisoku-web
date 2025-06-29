@@ -14,16 +14,17 @@ export default function Header() {
               <div className="hidden md:block">
                 <div className="flex items-center gap-6">
                   <div className="relative">
-                    <h1 className="text-4xl font-bold tracking-tight">
-                      <span className="text-gray-900">ポイ</span><span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">速</span>
+                    <h1 className="text-4xl font-bold tracking-tight bg-gradient-to-r from-gray-900 via-blue-800 to-blue-600 bg-clip-text text-transparent">
+                      ポイ速
                     </h1>
-                    <div className="absolute -top-1 -right-1 w-2 h-2 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full opacity-70"></div>
+                    <div className="absolute -top-1 -right-1 w-2 h-2 bg-gradient-to-br from-gray-700 to-blue-500 rounded-full opacity-80"></div>
+                    <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-8 h-0.5 bg-gradient-to-r from-gray-800 to-blue-500 rounded-full opacity-60"></div>
                   </div>
                   <div className="flex flex-col items-start">
                     <div className="flex items-center gap-2 mb-2">
-                      <div className="w-2 h-2 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
-                      <div className="w-12 h-px bg-gradient-to-r from-blue-600 to-purple-600"></div>
-                      <div className="w-1.5 h-1.5 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
+                      <div className="w-2 h-2 bg-gradient-to-br from-gray-700 to-blue-500 rounded-full"></div>
+                      <div className="w-12 h-px bg-gradient-to-r from-gray-600 to-blue-600"></div>
+                      <div className="w-1.5 h-1.5 bg-gradient-to-br from-gray-600 to-blue-400 rounded-full"></div>
                     </div>
                     <p className="text-sm font-medium text-gray-700 tracking-wide">
                       ポイントサイト案件検索エンジン
@@ -33,16 +34,17 @@ export default function Header() {
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
-                <div className="relative inline-block mb-2">
-                  <h1 className="text-3xl font-bold tracking-tight">
-                    <span className="text-gray-900">ポイ</span><span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">速</span>
+                <div className="relative inline-block mb-3">
+                  <h1 className="text-3xl font-bold tracking-tight bg-gradient-to-r from-gray-900 via-blue-800 to-blue-600 bg-clip-text text-transparent">
+                    ポイ速
                   </h1>
-                  <div className="absolute -top-1 -right-1 w-1.5 h-1.5 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full opacity-70"></div>
+                  <div className="absolute -top-1 -right-1 w-1.5 h-1.5 bg-gradient-to-br from-gray-700 to-blue-500 rounded-full opacity-80"></div>
+                  <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 w-6 h-0.5 bg-gradient-to-r from-gray-800 to-blue-500 rounded-full opacity-60"></div>
                 </div>
                 <div className="flex items-center justify-center gap-2 mb-2">
-                  <div className="w-1.5 h-1.5 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
-                  <div className="w-10 h-px bg-gradient-to-r from-blue-600 to-purple-600"></div>
-                  <div className="w-1 h-1 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
+                  <div className="w-1.5 h-1.5 bg-gradient-to-br from-gray-700 to-blue-500 rounded-full"></div>
+                  <div className="w-10 h-px bg-gradient-to-r from-gray-600 to-blue-600"></div>
+                  <div className="w-1 h-1 bg-gradient-to-br from-gray-600 to-blue-400 rounded-full"></div>
                 </div>
                 <p className="text-xs font-medium text-gray-700 tracking-wide">
                   ポイントサイト案件検索エンジン
