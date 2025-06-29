@@ -36,36 +36,65 @@ function SearchContent() {
   const searchCampaigns = async (searchQuery: string) => {
     setLoading(true);
     try {
-      // ローカルストレージから設定を取得
-      const settings = localStorage.getItem('pointSiteSettings') || '{}';
-      const response = await fetch(`/api/search?q=${encodeURIComponent(searchQuery)}&settings=${encodeURIComponent(settings)}`);
-      const data = await response.json();
+      // モックデータで検索をシミュレート
+      const mockCampaigns = [
+        {
+          id: '1',
+          name: 'Yahoo!ショッピング',
+          siteName: 'ハピタス',
+          cashback: '1.0%',
+          device: 'All' as const,
+          url: '#',
+          campaignUrl: '#',
+          pointSiteUrl: '#',
+        },
+        {
+          id: '2',
+          name: '楽天市場',
+          siteName: 'ハピタス',
+          cashback: '1.0%',
+          device: 'All' as const,
+          url: '#',
+          campaignUrl: '#',
+          pointSiteUrl: '#',
+        },
+        {
+          id: '3',
+          name: 'Amazon',
+          siteName: 'モッピー',
+          cashback: '0.5%',
+          device: 'All' as const,
+          url: '#',
+          campaignUrl: '#',
+          pointSiteUrl: '#',
+        },
+      ];
 
-      if (!response.ok) {
-        throw new Error(data.error || '検索に失敗しました');
-      }
+      // 検索キーワードでフィルター
+      const filtered = mockCampaigns
+        .filter(campaign => 
+          campaign.name.toLowerCase().includes(searchQuery.toLowerCase())
+        )
+        .map(campaign => ({
+          id: campaign.id,
+          siteName: campaign.siteName,
+          cashback: campaign.cashback,
+          device: campaign.device,
+          url: campaign.url,
+          lastUpdated: new Date().toLocaleString('ja-JP'),
+          description: campaign.name,
+          campaignUrl: campaign.campaignUrl,
+          pointSiteUrl: campaign.pointSiteUrl,
+        }));
 
-      // APIレスポンスを表示用の形式に変換
-      const formattedResults: SearchResult[] = data.campaigns.map((campaign: any) => ({
-        id: campaign.id,
-        siteName: campaign.point_sites.name,
-        cashback: campaign.cashback_rate,
-        device: campaign.device,
-        url: campaign.campaign_url || campaign.point_sites.url,
-        lastUpdated: new Date(campaign.updated_at).toLocaleString('ja-JP'),
-        description: campaign.name, // 案件名をdescriptionに格納
-        campaignUrl: campaign.campaign_url, // スクレイピングで取得した案件ページのURL
-        pointSiteUrl: campaign.point_sites.url, // ポイントサイトのURL
-      }));
+      setResults(filtered);
 
-      setResults(formattedResults);
-
-      // 過去7日間の最高額
-      if (data.maxCashback7Days) {
+      // モックの最高額データ
+      if (filtered.length > 0) {
         setMaxCashback7Days({
-          amount: data.maxCashback7Days.cashback_rate,
-          site: data.maxCashback7Days.campaigns.point_sites.name,
-          date: new Date(data.maxCashback7Days.recorded_at).toLocaleDateString('ja-JP'),
+          amount: '1.5%',
+          site: 'ハピタス',
+          date: new Date().toLocaleDateString('ja-JP'),
         });
       }
     } catch (error) {
