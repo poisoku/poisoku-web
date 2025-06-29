@@ -14,7 +14,7 @@ export default function Header() {
               <div className="hidden md:block">
                 <div className="relative">
                   <div className="flex items-center gap-3">
-                    <h1 className="text-4xl font-black tracking-tight">
+                    <h1 className="text-4xl font-light tracking-tight">
                       <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
                         ポイ速
                       </span>
@@ -35,7 +35,7 @@ export default function Header() {
                       <div className="w-6 h-px bg-gradient-to-r from-blue-400 to-purple-400"></div>
                       <div className="w-4 h-px bg-gradient-to-r from-purple-400 to-indigo-400 mt-0.5"></div>
                     </div>
-                    <h1 className="text-3xl font-black tracking-tight">
+                    <h1 className="text-3xl font-light tracking-tight">
                       <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
                         ポイ速
                       </span>
