@@ -14,12 +14,17 @@ export default function Header() {
               <div className="hidden md:block">
                 <div className="flex items-center gap-6">
                   <div className="relative">
-                    <h1 className="text-4xl font-bold tracking-tight text-gray-900">
-                      ポ<span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">イ</span>速
+                    <h1 className="text-4xl font-bold tracking-tight">
+                      <span className="text-gray-900">ポイ</span><span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">速</span>
                     </h1>
+                    <div className="absolute -top-1 -right-1 w-2 h-2 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full opacity-70"></div>
                   </div>
-                  <div className="flex flex-col">
-                    <div className="w-8 h-px bg-gradient-to-r from-blue-600 to-purple-600 mb-2"></div>
+                  <div className="flex flex-col items-start">
+                    <div className="flex items-center gap-2 mb-2">
+                      <div className="w-2 h-2 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
+                      <div className="w-12 h-px bg-gradient-to-r from-blue-600 to-purple-600"></div>
+                      <div className="w-1.5 h-1.5 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
+                    </div>
                     <p className="text-sm font-medium text-gray-700 tracking-wide">
                       ポイントサイト案件検索エンジン
                     </p>
@@ -28,10 +33,17 @@ export default function Header() {
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
-                <h1 className="text-3xl font-bold tracking-tight text-gray-900 mb-2">
-                  ポ<span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">イ</span>速
-                </h1>
-                <div className="w-12 h-px bg-gradient-to-r from-blue-600 to-purple-600 mx-auto mb-2"></div>
+                <div className="relative inline-block mb-2">
+                  <h1 className="text-3xl font-bold tracking-tight">
+                    <span className="text-gray-900">ポイ</span><span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">速</span>
+                  </h1>
+                  <div className="absolute -top-1 -right-1 w-1.5 h-1.5 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full opacity-70"></div>
+                </div>
+                <div className="flex items-center justify-center gap-2 mb-2">
+                  <div className="w-1.5 h-1.5 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
+                  <div className="w-10 h-px bg-gradient-to-r from-blue-600 to-purple-600"></div>
+                  <div className="w-1 h-1 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full"></div>
+                </div>
                 <p className="text-xs font-medium text-gray-700 tracking-wide">
                   ポイントサイト案件検索エンジン
                 </p>
