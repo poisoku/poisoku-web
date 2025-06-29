@@ -41,6 +41,19 @@ export default function Header() {
           </nav>
 
         </div>
+        
+        {/* モバイル用ナビリンク */}
+        <div className="md:hidden mt-4 flex justify-center gap-6 pb-4 border-b">
+          <Link href="/guide" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
+            📖 ポイ速の使い方
+          </Link>
+          <Link href="/settings" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
+            ⚙️ サイト選択/除外
+          </Link>
+          <Link href="/ranking" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
+            🔥 検索ランキング
+          </Link>
+        </div>
       </div>
     </header>
   );

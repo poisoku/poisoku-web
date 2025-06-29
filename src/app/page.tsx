@@ -97,19 +97,6 @@ export default function Home() {
             </p>
           </form>
 
-          {/* モバイル用ナビリンク */}
-          <div className="md:hidden mt-6 flex justify-center gap-6">
-            <Link href="/guide" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
-              📖 ポイ速の使い方
-            </Link>
-            <Link href="/settings" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
-              ⚙️ サイト選択/除外
-            </Link>
-            <Link href="/ranking" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
-              🔥 検索ランキング
-            </Link>
-          </div>
-
           {/* カテゴリーカード */}
           <div className="mt-12 max-w-3xl mx-auto">
             <h3 className="text-xl font-semibold text-gray-700 text-center mb-2">カテゴリーで探す</h3>
@@ -189,7 +176,7 @@ export default function Home() {
         </div>
 
         {/* ポイ速の特徴 */}
-        <div className="mt-16 mb-16">
+        <div className="mt-16 mb-8">
           <div className="relative overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-purple-50 to-indigo-50 opacity-60"></div>
             <div className="relative max-w-4xl mx-auto py-12 px-6">
