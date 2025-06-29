@@ -12,16 +12,26 @@ export default function Header() {
             <div className="cursor-pointer">
               {/* デスクトップ版 */}
               <div className="hidden md:block">
-                <div className="flex items-center gap-6">
-                  <div className="relative">
-                    <h1 className="text-4xl font-extrabold tracking-tight bg-gradient-to-r from-slate-900 to-blue-700 bg-clip-text text-transparent">
-                      ポイ速
-                    </h1>
-                    <div className="absolute -bottom-1 left-0 w-8 h-0.5 bg-gradient-to-r from-blue-600 to-indigo-500 rounded-full"></div>
+                <div className="flex items-center gap-8">
+                  <div className="relative group">
+                    <div className="absolute -inset-1 bg-gradient-to-r from-blue-100 via-indigo-50 to-purple-100 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div className="relative bg-white px-4 py-2 rounded-lg">
+                      <h1 className="text-4xl font-bold tracking-wide bg-gradient-to-br from-gray-800 via-blue-700 to-indigo-600 bg-clip-text text-transparent">
+                        ポイ速
+                      </h1>
+                      <div className="flex items-center justify-center mt-1 space-x-1">
+                        <div className="w-1 h-1 bg-blue-400 rounded-full"></div>
+                        <div className="w-2 h-1 bg-indigo-400 rounded-full"></div>
+                        <div className="w-1 h-1 bg-purple-400 rounded-full"></div>
+                      </div>
+                    </div>
                   </div>
-                  <div className="flex flex-col">
-                    <div className="w-12 h-px bg-gradient-to-r from-blue-500 to-indigo-600 mb-2"></div>
-                    <p className="text-sm font-medium text-slate-600 tracking-wide">
+                  <div className="border-l-2 border-gradient-to-b from-blue-200 to-indigo-300 pl-6">
+                    <div className="flex items-center space-x-2 mb-1">
+                      <div className="w-1.5 h-1.5 bg-blue-500 rounded-full"></div>
+                      <div className="w-1.5 h-1.5 bg-indigo-500 rounded-full"></div>
+                    </div>
+                    <p className="text-sm font-semibold text-gray-700 tracking-wide">
                       ポイントサイト案件検索エンジン
                     </p>
                   </div>
@@ -29,14 +39,23 @@ export default function Header() {
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
-                <div className="relative inline-block mb-3">
-                  <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-slate-900 to-blue-700 bg-clip-text text-transparent">
-                    ポイ速
-                  </h1>
-                  <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 w-6 h-0.5 bg-gradient-to-r from-blue-600 to-indigo-500 rounded-full"></div>
+                <div className="relative inline-block mb-4">
+                  <div className="bg-white px-3 py-2 rounded-lg shadow-sm border border-gray-100">
+                    <h1 className="text-3xl font-bold tracking-wide bg-gradient-to-br from-gray-800 via-blue-700 to-indigo-600 bg-clip-text text-transparent">
+                      ポイ速
+                    </h1>
+                    <div className="flex items-center justify-center mt-1 space-x-1">
+                      <div className="w-1 h-1 bg-blue-400 rounded-full"></div>
+                      <div className="w-2 h-1 bg-indigo-400 rounded-full"></div>
+                      <div className="w-1 h-1 bg-purple-400 rounded-full"></div>
+                    </div>
+                  </div>
                 </div>
-                <div className="w-10 h-px bg-gradient-to-r from-blue-500 to-indigo-600 mx-auto mb-2"></div>
-                <p className="text-xs font-medium text-slate-600 tracking-wide">
+                <div className="flex items-center justify-center space-x-1 mb-2">
+                  <div className="w-1 h-1 bg-blue-500 rounded-full"></div>
+                  <div className="w-1 h-1 bg-indigo-500 rounded-full"></div>
+                </div>
+                <p className="text-xs font-semibold text-gray-700 tracking-wide">
                   ポイントサイト案件検索エンジン
                 </p>
               </div>

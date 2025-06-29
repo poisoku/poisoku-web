@@ -130,7 +130,7 @@ export default function Home() {
         {/* 検索ランキング */}
         <div className="bg-white rounded-2xl shadow-sm p-8">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-gray-900">🔥 検索ランキング TOP10</h2>
+            <h2 className="text-2xl font-bold text-gray-900">検索ランキング TOP10</h2>
             <a href="/ranking" className="text-blue-600 hover:text-blue-700 text-sm font-medium flex items-center gap-1">
               すべて見る
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
