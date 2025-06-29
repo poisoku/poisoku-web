@@ -15,10 +15,8 @@ export default function Header() {
                 <div className="flex items-center gap-8">
                   <div className="relative group">
                     <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 to-purple-600/20 blur-2xl group-hover:blur-3xl transition-all duration-700 opacity-50"></div>
-                    <h1 className="relative text-4xl font-extrabold tracking-tighter">
-                      <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent animate-gradient bg-300%">
-                        ポイ速
-                      </span>
+                    <h1 className="relative text-4xl font-extrabold tracking-tighter text-gray-700">
+                      ポイ速
                     </h1>
                     <div className="absolute -bottom-3 left-0 right-0 h-1 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500 rounded-full"></div>
                   </div>
@@ -39,10 +37,8 @@ export default function Header() {
               <div className="md:hidden text-center">
                 <div className="relative group inline-block mb-4">
                   <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 to-purple-600/20 blur-xl opacity-50"></div>
-                  <h1 className="relative text-3xl font-extrabold tracking-tighter">
-                    <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent animate-gradient bg-300%">
-                      ポイ速
-                    </span>
+                  <h1 className="relative text-3xl font-extrabold tracking-tighter text-gray-700">
+                    ポイ速
                   </h1>
                   <div className="absolute -bottom-2 left-0 right-0 h-0.5 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 rounded-full"></div>
                 </div>
