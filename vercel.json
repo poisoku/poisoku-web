@@ -2,11 +2,7 @@
   "crons": [
     {
       "path": "/api/cron/ranking",
-      "schedule": "1 0,6,12,18 * * *"
-    },
-    {
-      "path": "/api/cron/scraping",
-      "schedule": "30 2,8,14,20 * * *"
+      "schedule": "0 6 * * *"
     }
   ]
 }
