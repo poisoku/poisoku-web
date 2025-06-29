@@ -24,19 +24,20 @@ export default function Home() {
 
   const fetchRankingData = async () => {
     try {
-      const response = await fetch('/api/ranking');
-      const data = await response.json();
-      
-      if (response.ok && data.top10) {
-        const formattedRanking = data.top10.map((item: any, index: number) => ({
-          rank: index + 1,
-          keyword: item.keyword,
-          site: item.topCampaign?.point_sites?.name || '-',
-          cashback: item.topCampaign?.cashback_rate || '-',
-          change: 0, // 変動は後で実装
-        }));
-        setSearchRankingTop10(formattedRanking);
-      }
+      // モックデータを使用
+      const mockRanking = [
+        { rank: 1, keyword: 'Yahoo!ショッピング', site: 'ハピタス', cashback: '1.0%', change: 0 },
+        { rank: 2, keyword: '楽天市場', site: 'ハピタス', cashback: '1.0%', change: 0 },
+        { rank: 3, keyword: 'Amazon', site: 'モッピー', cashback: '0.5%', change: 0 },
+        { rank: 4, keyword: 'じゃらん', site: 'ハピタス', cashback: '2.0%', change: 0 },
+        { rank: 5, keyword: 'ZOZOTOWN', site: 'ハピタス', cashback: '1.0%', change: 0 },
+        { rank: 6, keyword: '楽天トラベル', site: 'ハピタス', cashback: '1.5%', change: 0 },
+        { rank: 7, keyword: 'dカード', site: 'ハピタス', cashback: '8000円', change: 0 },
+        { rank: 8, keyword: 'U-NEXT', site: 'ハピタス', cashback: '1200円', change: 0 },
+        { rank: 9, keyword: 'Netflix', site: 'モッピー', cashback: '500円', change: 0 },
+        { rank: 10, keyword: '楽天カード', site: 'ハピタス', cashback: '10000円', change: 0 },
+      ];
+      setSearchRankingTop10(mockRanking);
     } catch (error) {
       console.error('ランキング取得エラー:', error);
     } finally {

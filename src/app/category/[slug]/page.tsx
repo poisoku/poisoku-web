@@ -1,5 +1,3 @@
-'use client';
-
 import { useState, useEffect } from 'react';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
@@ -52,6 +50,17 @@ const categoryMap: Record<string, CategoryInfo> = {
   }
 };
 
+export async function generateStaticParams() {
+  return [
+    { slug: 'shopping' },
+    { slug: 'travel' },
+    { slug: 'app' },
+    { slug: 'creditcard' },
+    { slug: 'money' },
+    { slug: 'entertainment' },
+  ];
+}
+
 export default function CategoryRankingPage() {
   const params = useParams();
   const slug = params.slug as string;
@@ -71,19 +80,16 @@ export default function CategoryRankingPage() {
   const fetchRankings = async () => {
     setIsLoading(true);
     try {
-      // 最高還元率ランキングを取得
-      const cashbackRes = await fetch(`/api/category-ranking/cashback?category=${slug}`);
-      if (cashbackRes.ok) {
-        const data = await cashbackRes.json();
-        setCashbackRanking(data.campaigns || []);
-      }
-
-      // 人気案件ランキングを取得
-      const popularRes = await fetch(`/api/category-ranking/popular?category=${slug}`);
-      if (popularRes.ok) {
-        const data = await popularRes.json();
-        setPopularRanking(data.campaigns || []);
-      }
+      // モックデータを使用
+      const mockCampaigns = [
+        { id: '1', name: 'Yahoo!ショッピング', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 150 },
+        { id: '2', name: '楽天市場', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 120 },
+        { id: '3', name: 'Amazon', cashback_rate: '0.5%', point_site: 'モッピー', campaign_url: '#', search_count: 95 },
+        { id: '4', name: 'じゃらん', cashback_rate: '2.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 80 },
+        { id: '5', name: 'ZOZOTOWN', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 70 },
+      ];
+      setCashbackRanking(mockCampaigns);
+      setPopularRanking(mockCampaigns);
     } catch (error) {
       console.error('ランキング取得エラー:', error);
     } finally {
