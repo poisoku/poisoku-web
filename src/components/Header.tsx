@@ -12,17 +12,31 @@ export default function Header() {
             <div className="cursor-pointer">
               {/* デスクトップ版 */}
               <div className="hidden md:block">
-                <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-blue-500 bg-clip-text text-transparent">
-                  ポイ速
-                </h1>
-                <p className="text-sm text-gray-600 mt-1 font-medium">ポイントサイト案件検索エンジン</p>
+                <div className="relative">
+                  <h1 className="text-4xl font-black tracking-tight">
+                    <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
+                      ポイ速
+                    </span>
+                  </h1>
+                  <div className="flex items-center gap-2 mt-2">
+                    <div className="w-6 h-0.5 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full"></div>
+                    <p className="text-sm text-gray-500 font-medium tracking-wide uppercase">Point Search Engine</p>
+                  </div>
+                </div>
               </div>
               {/* モバイル版 */}
-              <div className="md:hidden">
-                <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-blue-500 bg-clip-text text-transparent text-center">
-                  ポイ速
-                </h1>
-                <p className="text-sm text-gray-600 text-center mt-1 font-medium">ポイントサイト案件検索エンジン</p>
+              <div className="md:hidden text-center">
+                <div className="relative">
+                  <h1 className="text-3xl font-black tracking-tight">
+                    <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
+                      ポイ速
+                    </span>
+                  </h1>
+                  <div className="flex items-center justify-center gap-2 mt-2">
+                    <div className="w-4 h-0.5 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full"></div>
+                    <p className="text-xs text-gray-500 font-medium tracking-wide uppercase">Point Search</p>
+                  </div>
+                </div>
               </div>
             </div>
           </Link>
