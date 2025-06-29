@@ -65,7 +65,7 @@ export default function Home() {
         <div className="container mx-auto max-w-6xl px-4 py-16 relative">
           
           {/* モバイル用ナビリンク */}
-          <div className="md:hidden mb-6">
+          <div className="md:hidden mb-6 -mt-8">
             <div className="flex justify-center gap-6">
               <Link href="/guide" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
                 使い方
