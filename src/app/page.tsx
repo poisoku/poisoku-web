@@ -97,6 +97,21 @@ export default function Home() {
             </p>
           </form>
 
+          {/* モバイル用ナビリンク */}
+          <div className="md:hidden mt-6">
+            <div className="flex justify-center gap-6">
+              <Link href="/guide" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
+                使い方
+              </Link>
+              <Link href="/settings" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
+                サイト設定
+              </Link>
+              <Link href="/ranking" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
+                ランキング
+              </Link>
+            </div>
+          </div>
+
           {/* カテゴリーカード */}
           <div className="mt-12 max-w-3xl mx-auto">
             <h3 className="text-xl font-semibold text-gray-700 text-center mb-2">カテゴリーで探す</h3>

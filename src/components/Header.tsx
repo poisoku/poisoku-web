@@ -6,7 +6,7 @@ export default function Header() {
 
   return (
     <header className="bg-white/95 backdrop-blur-md shadow-sm md:sticky md:top-0 z-50">
-      <div className="container mx-auto max-w-6xl px-4 py-4 md:py-4 pb-0">
+      <div className="container mx-auto max-w-6xl px-4 py-4">
         <div className="flex items-center justify-between md:justify-between justify-center">
           <Link href="/">
             <div className="cursor-pointer">
@@ -40,24 +40,6 @@ export default function Header() {
             </Link>
           </nav>
 
-        </div>
-        
-        {/* モバイル用ナビリンク */}
-        <div className="md:hidden mt-4">
-          <div className="relative">
-            <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-transparent to-purple-50 opacity-60"></div>
-            <div className="relative flex justify-center gap-6 py-3 px-4">
-              <Link href="/guide" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
-                使い方
-              </Link>
-              <Link href="/settings" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
-                サイト設定
-              </Link>
-              <Link href="/ranking" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
-                ランキング
-              </Link>
-            </div>
-          </div>
         </div>
       </div>
     </header>
