@@ -12,42 +12,61 @@ export default function Header() {
             <div className="cursor-pointer">
               {/* デスクトップ版 */}
               <div className="hidden md:block">
-                <div className="relative">
-                  <div className="flex items-baseline gap-4">
-                    <div className="relative">
-                      <h1 className="text-4xl font-extralight tracking-wider relative z-10">
-                        <span className="bg-gradient-to-br from-blue-600 via-violet-600 to-purple-700 bg-clip-text text-transparent">
-                          ポイ速
-                        </span>
-                      </h1>
-                      <div className="absolute -bottom-1 left-0 w-full h-0.5 bg-gradient-to-r from-blue-400/30 via-violet-400/50 to-purple-500/30 rounded-full"></div>
-                    </div>
-                    <div className="flex items-center gap-3 mb-1">
-                      <div className="w-2 h-2 rounded-full bg-gradient-to-br from-blue-500 to-violet-600 animate-pulse"></div>
-                      <p className="text-sm text-gray-500 font-light tracking-wide">
-                        ポイントサイト案件検索エンジン
-                      </p>
+                <div className="relative group">
+                  <div className="absolute -inset-2 bg-gradient-to-r from-rose-50 via-blue-50 to-violet-50 rounded-2xl opacity-0 group-hover:opacity-100 transition-all duration-700 blur-sm"></div>
+                  <div className="relative bg-white/80 backdrop-blur-sm rounded-xl px-4 py-3 border border-white/20 shadow-lg">
+                    <div className="flex items-center gap-4">
+                      <div className="relative">
+                        <h1 className="text-4xl font-bold tracking-tight relative">
+                          <span className="text-slate-800">ポ</span>
+                          <span className="bg-gradient-to-r from-emerald-600 via-cyan-600 to-blue-700 bg-clip-text text-transparent">イ</span>
+                          <span className="text-slate-800">速</span>
+                        </h1>
+                        <div className="absolute -top-1 -right-1 w-2 h-2 bg-gradient-to-br from-emerald-400 to-cyan-500 rounded-full animate-bounce"></div>
+                      </div>
+                      <div className="flex flex-col gap-1">
+                        <div className="flex items-center gap-2">
+                          <div className="w-8 h-px bg-gradient-to-r from-emerald-300 to-cyan-400"></div>
+                          <div className="w-3 h-3 rounded-full bg-gradient-to-br from-emerald-400 to-cyan-500 flex items-center justify-center">
+                            <div className="w-1 h-1 bg-white rounded-full"></div>
+                          </div>
+                        </div>
+                        <p className="text-xs text-slate-600 font-medium tracking-wide uppercase">
+                          Point Site Search Engine
+                        </p>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
-                <div className="relative">
-                  <div className="relative inline-block">
-                    <h1 className="text-3xl font-extralight tracking-wider relative z-10">
-                      <span className="bg-gradient-to-br from-blue-600 via-violet-600 to-purple-700 bg-clip-text text-transparent">
-                        ポイ速
-                      </span>
-                    </h1>
-                    <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 w-3/4 h-0.5 bg-gradient-to-r from-blue-400/30 via-violet-400/50 to-purple-500/30 rounded-full"></div>
-                  </div>
-                  <div className="flex items-center justify-center gap-2 mt-3">
-                    <div className="w-1.5 h-1.5 rounded-full bg-gradient-to-br from-blue-500 to-violet-600 animate-pulse"></div>
-                    <p className="text-xs text-gray-500 font-light tracking-wide">
-                      ポイントサイト案件検索エンジン
-                    </p>
-                    <div className="w-1.5 h-1.5 rounded-full bg-gradient-to-br from-violet-500 to-purple-600 animate-pulse"></div>
+                <div className="relative group">
+                  <div className="absolute -inset-2 bg-gradient-to-r from-rose-50 via-blue-50 to-violet-50 rounded-2xl opacity-0 group-hover:opacity-100 transition-all duration-700 blur-sm"></div>
+                  <div className="relative bg-white/80 backdrop-blur-sm rounded-xl px-4 py-3 border border-white/20 shadow-lg">
+                    <div className="flex items-center justify-center gap-2 mb-2">
+                      <div className="w-4 h-px bg-gradient-to-r from-emerald-300 to-cyan-400"></div>
+                      <div className="relative">
+                        <h1 className="text-3xl font-bold tracking-tight">
+                          <span className="text-slate-800">ポ</span>
+                          <span className="bg-gradient-to-r from-emerald-600 via-cyan-600 to-blue-700 bg-clip-text text-transparent">イ</span>
+                          <span className="text-slate-800">速</span>
+                        </h1>
+                        <div className="absolute -top-1 -right-1 w-1.5 h-1.5 bg-gradient-to-br from-emerald-400 to-cyan-500 rounded-full animate-bounce"></div>
+                      </div>
+                      <div className="w-4 h-px bg-gradient-to-r from-cyan-400 to-blue-500"></div>
+                    </div>
+                    <div className="flex items-center justify-center gap-2">
+                      <div className="w-2 h-2 rounded-full bg-gradient-to-br from-emerald-400 to-cyan-500 flex items-center justify-center">
+                        <div className="w-0.5 h-0.5 bg-white rounded-full"></div>
+                      </div>
+                      <p className="text-xs text-slate-600 font-medium tracking-wide">
+                        ポイントサイト案件検索エンジン
+                      </p>
+                      <div className="w-2 h-2 rounded-full bg-gradient-to-br from-cyan-400 to-blue-500 flex items-center justify-center">
+                        <div className="w-0.5 h-0.5 bg-white rounded-full"></div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
