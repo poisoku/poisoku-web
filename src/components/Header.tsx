@@ -13,39 +13,42 @@ export default function Header() {
               {/* デスクトップ版 */}
               <div className="hidden md:block">
                 <div className="relative">
-                  <div className="flex items-center gap-3">
-                    <h1 className="text-4xl font-light tracking-tight">
-                      <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
-                        ポイ速
-                      </span>
-                    </h1>
-                    <div className="flex flex-col">
-                      <div className="w-12 h-px bg-gradient-to-r from-blue-400 to-purple-400"></div>
-                      <div className="w-8 h-px bg-gradient-to-r from-purple-400 to-indigo-400 mt-1"></div>
+                  <div className="flex items-baseline gap-4">
+                    <div className="relative">
+                      <h1 className="text-4xl font-extralight tracking-wider relative z-10">
+                        <span className="bg-gradient-to-br from-blue-600 via-violet-600 to-purple-700 bg-clip-text text-transparent">
+                          ポイ速
+                        </span>
+                      </h1>
+                      <div className="absolute -bottom-1 left-0 w-full h-0.5 bg-gradient-to-r from-blue-400/30 via-violet-400/50 to-purple-500/30 rounded-full"></div>
+                    </div>
+                    <div className="flex items-center gap-3 mb-1">
+                      <div className="w-2 h-2 rounded-full bg-gradient-to-br from-blue-500 to-violet-600 animate-pulse"></div>
+                      <p className="text-sm text-gray-500 font-light tracking-wide">
+                        ポイントサイト案件検索エンジン
+                      </p>
                     </div>
                   </div>
-                  <p className="text-sm text-gray-600 font-medium mt-1 ml-1">ポイントサイト案件検索エンジン</p>
                 </div>
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
                 <div className="relative">
-                  <div className="flex items-center justify-center gap-2">
-                    <div className="flex flex-col">
-                      <div className="w-6 h-px bg-gradient-to-r from-blue-400 to-purple-400"></div>
-                      <div className="w-4 h-px bg-gradient-to-r from-purple-400 to-indigo-400 mt-0.5"></div>
-                    </div>
-                    <h1 className="text-3xl font-light tracking-tight">
-                      <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
+                  <div className="relative inline-block">
+                    <h1 className="text-3xl font-extralight tracking-wider relative z-10">
+                      <span className="bg-gradient-to-br from-blue-600 via-violet-600 to-purple-700 bg-clip-text text-transparent">
                         ポイ速
                       </span>
                     </h1>
-                    <div className="flex flex-col">
-                      <div className="w-6 h-px bg-gradient-to-r from-blue-400 to-purple-400"></div>
-                      <div className="w-4 h-px bg-gradient-to-r from-purple-400 to-indigo-400 mt-0.5"></div>
-                    </div>
+                    <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 w-3/4 h-0.5 bg-gradient-to-r from-blue-400/30 via-violet-400/50 to-purple-500/30 rounded-full"></div>
                   </div>
-                  <p className="text-xs text-gray-600 font-medium mt-2">ポイントサイト案件検索エンジン</p>
+                  <div className="flex items-center justify-center gap-2 mt-3">
+                    <div className="w-1.5 h-1.5 rounded-full bg-gradient-to-br from-blue-500 to-violet-600 animate-pulse"></div>
+                    <p className="text-xs text-gray-500 font-light tracking-wide">
+                      ポイントサイト案件検索エンジン
+                    </p>
+                    <div className="w-1.5 h-1.5 rounded-full bg-gradient-to-br from-violet-500 to-purple-600 animate-pulse"></div>
+                  </div>
                 </div>
               </div>
             </div>
