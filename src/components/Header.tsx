@@ -43,7 +43,7 @@ export default function Header() {
         </div>
         
         {/* モバイル用ナビリンク */}
-        <div className="md:hidden mt-6 pb-4 border-b border-gray-100 bg-gray-50/30">
+        <div className="md:hidden mt-6 pb-4">
           <div className="flex justify-center gap-8 py-3">
             <Link href="/guide" className="text-xs font-medium text-gray-600 hover:text-blue-600 transition-colors py-2 px-3 rounded-lg hover:bg-white hover:shadow-sm">
               使い方
