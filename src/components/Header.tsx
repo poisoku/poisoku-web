@@ -5,7 +5,7 @@ import Link from 'next/link';
 export default function Header() {
 
   return (
-    <header className="md:sticky md:top-0 z-50">
+    <header className="bg-white md:sticky md:top-0 z-50">
       <div className="container mx-auto max-w-6xl px-4 py-4">
         <div className="flex items-center justify-between md:justify-between justify-center">
           <Link href="/">
@@ -14,14 +14,13 @@ export default function Header() {
               <div className="hidden md:block">
                 <div className="flex items-center gap-6">
                   <div className="relative">
-                    <h1 className="text-5xl font-black tracking-tight bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent drop-shadow-sm">
-                      ポイ速
+                    <h1 className="text-4xl font-bold tracking-tight text-gray-900">
+                      ポ<span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">イ</span>速
                     </h1>
-                    <div className="absolute -bottom-1 left-0 right-0 h-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-30"></div>
                   </div>
                   <div className="flex flex-col">
-                    <div className="w-12 h-px bg-gradient-to-r from-blue-600 to-purple-600 mb-2"></div>
-                    <p className="text-sm font-semibold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent tracking-wide">
+                    <div className="w-8 h-px bg-gradient-to-r from-blue-600 to-purple-600 mb-2"></div>
+                    <p className="text-sm font-medium text-gray-700 tracking-wide">
                       ポイントサイト案件検索エンジン
                     </p>
                   </div>
@@ -29,13 +28,11 @@ export default function Header() {
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
-                <div className="relative mb-3">
-                  <h1 className="text-4xl font-black tracking-tight bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent drop-shadow-sm">
-                    ポイ速
-                  </h1>
-                  <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 w-16 h-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-30"></div>
-                </div>
-                <p className="text-xs font-semibold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent tracking-wide">
+                <h1 className="text-3xl font-bold tracking-tight text-gray-900 mb-2">
+                  ポ<span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">イ</span>速
+                </h1>
+                <div className="w-12 h-px bg-gradient-to-r from-blue-600 to-purple-600 mx-auto mb-2"></div>
+                <p className="text-xs font-medium text-gray-700 tracking-wide">
                   ポイントサイト案件検索エンジン
                 </p>
               </div>
