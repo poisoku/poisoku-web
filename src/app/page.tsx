@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import Header from '@/components/Header';
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');
@@ -56,30 +57,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
-      {/* ヘッダー */}
-      <header className="bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50">
-        <div className="container mx-auto max-w-6xl px-4 py-4">
-          <div className="flex items-center justify-between">
-            <div>
-              <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
-                ポイ速
-              </h1>
-              <p className="text-xs text-gray-600 mt-0.5">ポイントサイト案件検索エンジン</p>
-            </div>
-            <nav className="hidden md:flex items-center gap-6">
-              <a href="/guide" className="text-gray-600 hover:text-blue-600 transition-colors text-sm font-medium">
-                ポイ速の使い方
-              </a>
-              <a href="/settings" className="text-gray-600 hover:text-blue-600 transition-colors text-sm font-medium">
-                サイト選択/除外
-              </a>
-              <a href="/ranking" className="text-gray-600 hover:text-blue-600 transition-colors text-sm font-medium">
-                検索ランキング
-              </a>
-            </nav>
-          </div>
-        </div>
-      </header>
+      <Header />
 
       {/* ヒーローセクション */}
       <section className="relative overflow-hidden">
@@ -263,8 +241,38 @@ export default function Home() {
         </div>
       </main>
 
+      {/* モバイル用クイックリンク */}
+      <div className="md:hidden bg-white border-t mt-12">
+        <div className="container mx-auto max-w-6xl px-4 py-6">
+          <h3 className="text-sm font-semibold text-gray-700 mb-4">クイックリンク</h3>
+          <div className="grid grid-cols-3 gap-3">
+            <a 
+              href="/guide" 
+              className="flex flex-col items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition-colors"
+            >
+              <span className="text-2xl mb-1">📖</span>
+              <span className="text-xs text-center">使い方</span>
+            </a>
+            <a 
+              href="/settings" 
+              className="flex flex-col items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition-colors"
+            >
+              <span className="text-2xl mb-1">⚙️</span>
+              <span className="text-xs text-center">サイト設定</span>
+            </a>
+            <a 
+              href="/ranking" 
+              className="flex flex-col items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition-colors"
+            >
+              <span className="text-2xl mb-1">🔥</span>
+              <span className="text-xs text-center">ランキング</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
       {/* フッター */}
-      <footer className="bg-gray-50 mt-20">
+      <footer className="bg-gray-50 mt-20 md:mt-20">
         <div className="container mx-auto max-w-6xl px-4 py-12">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>

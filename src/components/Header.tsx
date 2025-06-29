@@ -30,12 +30,6 @@ export default function Header() {
             <Link href="/ranking" className="text-gray-600 hover:text-blue-600 transition-colors text-sm font-medium">
               検索ランキング
             </Link>
-            <Link href="/admin" className="text-gray-600 hover:text-blue-600 transition-colors text-sm font-medium">
-              管理画面
-            </Link>
-            <Link href="/admin/campaigns" className="text-gray-600 hover:text-blue-600 transition-colors text-sm font-medium">
-              案件管理
-            </Link>
           </nav>
 
           {/* モバイルメニューボタン */}
@@ -55,41 +49,30 @@ export default function Header() {
 
         {/* モバイルメニュー */}
         {isMenuOpen && (
-          <nav className="md:hidden mt-4 pb-4 border-t pt-4 animate-slide-in">
+          <nav className="md:hidden mt-4 pb-4 border-t pt-4 space-y-2">
             <Link
               href="/guide"
-              className="block py-2 text-gray-600 hover:text-blue-600 transition-colors"
+              className="flex items-center gap-3 py-3 px-4 rounded-lg text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors"
               onClick={() => setIsMenuOpen(false)}
             >
-              ポイ速の使い方
+              <span className="text-xl">📖</span>
+              <span>ポイ速の使い方</span>
             </Link>
             <Link
               href="/settings"
-              className="block py-2 text-gray-600 hover:text-blue-600 transition-colors"
+              className="flex items-center gap-3 py-3 px-4 rounded-lg text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors"
               onClick={() => setIsMenuOpen(false)}
             >
-              サイト選択/除外
+              <span className="text-xl">⚙️</span>
+              <span>サイト選択/除外</span>
             </Link>
             <Link
               href="/ranking"
-              className="block py-2 text-gray-600 hover:text-blue-600 transition-colors"
+              className="flex items-center gap-3 py-3 px-4 rounded-lg text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors"
               onClick={() => setIsMenuOpen(false)}
             >
-              検索ランキング
-            </Link>
-            <Link
-              href="/admin"
-              className="block py-2 text-gray-600 hover:text-blue-600 transition-colors"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              管理画面
-            </Link>
-            <Link
-              href="/admin/campaigns"
-              className="block py-2 text-gray-600 hover:text-blue-600 transition-colors"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              案件管理
+              <span className="text-xl">🔥</span>
+              <span>検索ランキング</span>
             </Link>
           </nav>
         )}
