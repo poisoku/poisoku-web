@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.poisoku.jp"
+        }
+      ],
+      "destination": "https://poisoku.jp/$1",
+      "permanent": true
+    }
+  ]
+}
