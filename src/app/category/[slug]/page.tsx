@@ -1,5 +1,3 @@
-import { useState, useEffect } from 'react';
-import { useParams } from 'next/navigation';
 import Link from 'next/link';
 
 type CategoryInfo = {
@@ -50,6 +48,15 @@ const categoryMap: Record<string, CategoryInfo> = {
   }
 };
 
+// モックデータ
+const mockCampaigns = [
+  { id: '1', name: 'Yahoo!ショッピング', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 150 },
+  { id: '2', name: '楽天市場', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 120 },
+  { id: '3', name: 'Amazon', cashback_rate: '0.5%', point_site: 'モッピー', campaign_url: '#', search_count: 95 },
+  { id: '4', name: 'じゃらん', cashback_rate: '2.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 80 },
+  { id: '5', name: 'ZOZOTOWN', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 70 },
+];
+
 export async function generateStaticParams() {
   return [
     { slug: 'shopping' },
@@ -61,41 +68,9 @@ export async function generateStaticParams() {
   ];
 }
 
-export default function CategoryRankingPage() {
-  const params = useParams();
-  const slug = params.slug as string;
+export default function CategoryRankingPage({ params }: { params: { slug: string } }) {
+  const slug = params.slug;
   const category = categoryMap[slug];
-  
-  const [activeTab, setActiveTab] = useState<'cashback' | 'popular'>('cashback');
-  const [cashbackRanking, setCashbackRanking] = useState<Campaign[]>([]);
-  const [popularRanking, setPopularRanking] = useState<Campaign[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    if (category) {
-      fetchRankings();
-    }
-  }, [slug]);
-
-  const fetchRankings = async () => {
-    setIsLoading(true);
-    try {
-      // モックデータを使用
-      const mockCampaigns = [
-        { id: '1', name: 'Yahoo!ショッピング', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 150 },
-        { id: '2', name: '楽天市場', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 120 },
-        { id: '3', name: 'Amazon', cashback_rate: '0.5%', point_site: 'モッピー', campaign_url: '#', search_count: 95 },
-        { id: '4', name: 'じゃらん', cashback_rate: '2.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 80 },
-        { id: '5', name: 'ZOZOTOWN', cashback_rate: '1.0%', point_site: 'ハピタス', campaign_url: '#', search_count: 70 },
-      ];
-      setCashbackRanking(mockCampaigns);
-      setPopularRanking(mockCampaigns);
-    } catch (error) {
-      console.error('ランキング取得エラー:', error);
-    } finally {
-      setIsLoading(false);
-    }
-  };
 
   if (!category) {
     return (
@@ -111,8 +86,6 @@ export default function CategoryRankingPage() {
       </div>
     );
   }
-
-  const displayRanking = activeTab === 'cashback' ? cashbackRanking : popularRanking;
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
@@ -154,44 +127,15 @@ export default function CategoryRankingPage() {
           </div>
         </div>
 
-        {/* タブ切り替え */}
+        {/* ランキング表示 */}
         <div className="bg-white rounded-2xl shadow-sm overflow-hidden">
-          <div className="flex border-b">
-            <button
-              onClick={() => setActiveTab('cashback')}
-              className={`flex-1 px-6 py-4 text-center font-medium transition-colors ${
-                activeTab === 'cashback'
-                  ? 'bg-blue-50 text-blue-600 border-b-2 border-blue-600'
-                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
-              }`}
-            >
-              💰 最高還元率ランキング
-            </button>
-            <button
-              onClick={() => setActiveTab('popular')}
-              className={`flex-1 px-6 py-4 text-center font-medium transition-colors ${
-                activeTab === 'popular'
-                  ? 'bg-blue-50 text-blue-600 border-b-2 border-blue-600'
-                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
-              }`}
-            >
-              🔥 人気案件ランキング
-            </button>
+          <div className="bg-blue-50 px-6 py-4 border-b">
+            <h2 className="text-xl font-semibold text-blue-600">💰 最高還元率ランキング</h2>
           </div>
-
-          {/* ランキング表示 */}
+          
           <div className="p-6">
-            {isLoading ? (
-              <div className="text-center py-12">
-                <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
-              </div>
-            ) : displayRanking.length === 0 ? (
-              <div className="text-center py-12 text-gray-500">
-                まだデータがありません
-              </div>
-            ) : (
-              <div className="space-y-4">
-                {displayRanking.map((campaign, index) => (
+            <div className="space-y-4">
+              {mockCampaigns.map((campaign, index) => (
                   <div
                     key={campaign.id}
                     className="flex items-center justify-between p-4 rounded-xl hover:bg-gray-50 transition-colors"
@@ -214,7 +158,7 @@ export default function CategoryRankingPage() {
                         </a>
                         <div className="text-sm text-gray-500 mt-1">
                           {campaign.point_site}
-                          {activeTab === 'popular' && campaign.search_count && (
+                          {campaign.search_count && (
                             <span className="ml-2">• {campaign.search_count}回検索</span>
                           )}
                         </div>
