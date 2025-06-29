@@ -6,7 +6,7 @@ export default function Header() {
 
   return (
     <header className="bg-white/95 backdrop-blur-md shadow-sm md:sticky md:top-0 z-50">
-      <div className="container mx-auto max-w-6xl px-4 py-4">
+      <div className="container mx-auto max-w-6xl px-4 py-4 md:py-4 pb-0">
         <div className="flex items-center justify-between md:justify-between justify-center">
           <Link href="/">
             <div className="cursor-pointer">
