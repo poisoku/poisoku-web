@@ -97,6 +97,19 @@ export default function Home() {
             </p>
           </form>
 
+          {/* モバイル用ナビリンク */}
+          <div className="md:hidden mt-6 flex justify-center gap-6">
+            <Link href="/guide" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
+              📖 ポイ速の使い方
+            </Link>
+            <Link href="/settings" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
+              ⚙️ サイト選択/除外
+            </Link>
+            <Link href="/ranking" className="text-xs text-gray-600 hover:text-blue-600 transition-colors">
+              🔥 検索ランキング
+            </Link>
+          </div>
+
           {/* カテゴリーカード */}
           <div className="mt-12 max-w-3xl mx-auto">
             <h3 className="text-xl font-semibold text-gray-700 text-center mb-2">カテゴリーで探す</h3>
@@ -240,36 +253,6 @@ export default function Home() {
           </div>
         </div>
       </main>
-
-      {/* モバイル用クイックリンク */}
-      <div className="md:hidden bg-white border-t mt-12">
-        <div className="container mx-auto max-w-6xl px-4 py-6">
-          <h3 className="text-sm font-semibold text-gray-700 mb-4">クイックリンク</h3>
-          <div className="grid grid-cols-3 gap-3">
-            <a 
-              href="/guide" 
-              className="flex flex-col items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition-colors"
-            >
-              <span className="text-2xl mb-1">📖</span>
-              <span className="text-xs text-center">使い方</span>
-            </a>
-            <a 
-              href="/settings" 
-              className="flex flex-col items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition-colors"
-            >
-              <span className="text-2xl mb-1">⚙️</span>
-              <span className="text-xs text-center">サイト設定</span>
-            </a>
-            <a 
-              href="/ranking" 
-              className="flex flex-col items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition-colors"
-            >
-              <span className="text-2xl mb-1">🔥</span>
-              <span className="text-xs text-center">ランキング</span>
-            </a>
-          </div>
-        </div>
-      </div>
 
       {/* フッター */}
       <footer className="bg-gray-50 mt-20 md:mt-20">
