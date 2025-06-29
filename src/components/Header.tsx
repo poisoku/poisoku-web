@@ -12,25 +12,30 @@ export default function Header() {
             <div className="cursor-pointer">
               {/* デスクトップ版 */}
               <div className="hidden md:block">
-                <div className="flex items-center gap-4">
-                  <h1 className="text-4xl font-bold tracking-tight">
-                    <span className="bg-gradient-to-r from-emerald-600 via-cyan-600 to-blue-700 bg-clip-text text-transparent">ポ</span>
-                    <span className="text-slate-800">イ</span>
-                    <span className="bg-gradient-to-r from-emerald-600 via-cyan-600 to-blue-700 bg-clip-text text-transparent">速</span>
-                  </h1>
-                  <p className="text-xs text-slate-600 font-medium tracking-wide">
-                    ポイントサイト案件検索エンジン
-                  </p>
+                <div className="flex items-center gap-6">
+                  <div className="relative">
+                    <h1 className="text-5xl font-black tracking-tight bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent drop-shadow-sm">
+                      ポイ速
+                    </h1>
+                    <div className="absolute -bottom-1 left-0 right-0 h-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-30"></div>
+                  </div>
+                  <div className="flex flex-col">
+                    <div className="w-12 h-px bg-gradient-to-r from-blue-600 to-purple-600 mb-2"></div>
+                    <p className="text-sm font-semibold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent tracking-wide">
+                      ポイントサイト案件検索エンジン
+                    </p>
+                  </div>
                 </div>
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
-                <h1 className="text-3xl font-bold tracking-tight mb-2">
-                  <span className="bg-gradient-to-r from-emerald-600 via-cyan-600 to-blue-700 bg-clip-text text-transparent">ポ</span>
-                  <span className="text-slate-800">イ</span>
-                  <span className="bg-gradient-to-r from-emerald-600 via-cyan-600 to-blue-700 bg-clip-text text-transparent">速</span>
-                </h1>
-                <p className="text-xs text-slate-600 font-medium tracking-wide">
+                <div className="relative mb-3">
+                  <h1 className="text-4xl font-black tracking-tight bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent drop-shadow-sm">
+                    ポイ速
+                  </h1>
+                  <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 w-16 h-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-30"></div>
+                </div>
+                <p className="text-xs font-semibold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent tracking-wide">
                   ポイントサイト案件検索エンジン
                 </p>
               </div>
