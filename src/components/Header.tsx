@@ -10,10 +10,20 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link href="/">
             <div className="cursor-pointer">
-              <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
-                ポイ速
-              </h1>
-              <p className="text-xs text-gray-600 mt-0.5">ポイントサイト案件検索エンジン</p>
+              {/* デスクトップ版 */}
+              <div className="hidden md:block">
+                <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
+                  ポイ速
+                </h1>
+                <p className="text-xs text-gray-600 mt-0.5">ポイントサイト案件検索エンジン</p>
+              </div>
+              {/* モバイル版 */}
+              <div className="md:hidden flex items-center gap-2">
+                <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
+                  ポイ速
+                </h1>
+                <p className="text-xs text-gray-600">ポイントサイト案件検索エンジン</p>
+              </div>
             </div>
           </Link>
           

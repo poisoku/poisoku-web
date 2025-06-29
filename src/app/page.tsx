@@ -188,13 +188,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* 更新情報 */}
-        <div className="mt-8 text-center">
-          <p className="text-sm text-gray-500">
-            検索ランキングは 0:01 / 6:01 / 12:01 / 18:01 に自動更新されます
-          </p>
-        </div>
-
         {/* ポイ速の特徴 */}
         <div className="mt-16 mb-16">
           <div className="relative overflow-hidden">
