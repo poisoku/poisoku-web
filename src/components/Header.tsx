@@ -43,7 +43,7 @@ export default function Header() {
         </div>
         
         {/* モバイル用ナビリンク */}
-        <div className="md:hidden mt-4 pb-3">
+        <div className="md:hidden mt-4">
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-transparent to-purple-50 opacity-60"></div>
             <div className="relative flex justify-center gap-6 py-3 px-4">
