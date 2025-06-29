@@ -12,17 +12,17 @@ export default function Header() {
             <div className="cursor-pointer">
               {/* デスクトップ版 */}
               <div className="hidden md:block">
-                <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
+                <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-blue-500 bg-clip-text text-transparent">
                   ポイ速
                 </h1>
-                <p className="text-xs text-gray-600 mt-0.5">ポイントサイト案件検索エンジン</p>
+                <p className="text-sm text-gray-600 mt-1 font-medium">ポイントサイト案件検索エンジン</p>
               </div>
               {/* モバイル版 */}
               <div className="md:hidden">
-                <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent text-center">
+                <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-blue-500 bg-clip-text text-transparent text-center">
                   ポイ速
                 </h1>
-                <p className="text-xs text-gray-500 text-center mt-1">ポイントサイト案件検索エンジン</p>
+                <p className="text-sm text-gray-600 text-center mt-1 font-medium">ポイントサイト案件検索エンジン</p>
               </div>
             </div>
           </Link>
