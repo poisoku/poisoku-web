@@ -64,12 +64,14 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-transparent to-purple-50 opacity-60"></div>
         <div className="container mx-auto max-w-6xl px-4 py-16 relative">
           <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900">
-              高還元のポイントサイトを
-              <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                一発検索
+            <h2 className="text-4xl md:text-6xl font-bold mb-4">
+              <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-blue-500 bg-clip-text text-transparent">
+                ポイ速
               </span>
             </h2>
+            <p className="text-lg md:text-xl text-gray-600 font-medium">
+              ポイントサイト案件検索エンジン
+            </p>
           </div>
 
           {/* 検索フォーム */}
