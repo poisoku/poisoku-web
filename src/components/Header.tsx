@@ -13,29 +13,39 @@ export default function Header() {
               {/* デスクトップ版 */}
               <div className="hidden md:block">
                 <div className="relative">
-                  <h1 className="text-4xl font-black tracking-tight">
-                    <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
-                      ポイ速
-                    </span>
-                  </h1>
-                  <div className="flex items-center gap-2 mt-2">
-                    <div className="w-6 h-0.5 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full"></div>
-                    <p className="text-sm text-gray-500 font-medium tracking-wide uppercase">Point Search Engine</p>
+                  <div className="flex items-center gap-3">
+                    <h1 className="text-4xl font-black tracking-tight">
+                      <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
+                        ポイ速
+                      </span>
+                    </h1>
+                    <div className="flex flex-col">
+                      <div className="w-12 h-px bg-gradient-to-r from-blue-400 to-purple-400"></div>
+                      <div className="w-8 h-px bg-gradient-to-r from-purple-400 to-indigo-400 mt-1"></div>
+                    </div>
                   </div>
+                  <p className="text-sm text-gray-600 font-medium mt-1 ml-1">ポイントサイト案件検索エンジン</p>
                 </div>
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
                 <div className="relative">
-                  <h1 className="text-3xl font-black tracking-tight">
-                    <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
-                      ポイ速
-                    </span>
-                  </h1>
-                  <div className="flex items-center justify-center gap-2 mt-2">
-                    <div className="w-4 h-0.5 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full"></div>
-                    <p className="text-xs text-gray-500 font-medium tracking-wide uppercase">Point Search</p>
+                  <div className="flex items-center justify-center gap-2">
+                    <div className="flex flex-col">
+                      <div className="w-6 h-px bg-gradient-to-r from-blue-400 to-purple-400"></div>
+                      <div className="w-4 h-px bg-gradient-to-r from-purple-400 to-indigo-400 mt-0.5"></div>
+                    </div>
+                    <h1 className="text-3xl font-black tracking-tight">
+                      <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
+                        ポイ速
+                      </span>
+                    </h1>
+                    <div className="flex flex-col">
+                      <div className="w-6 h-px bg-gradient-to-r from-blue-400 to-purple-400"></div>
+                      <div className="w-4 h-px bg-gradient-to-r from-purple-400 to-indigo-400 mt-0.5"></div>
+                    </div>
                   </div>
+                  <p className="text-xs text-gray-600 font-medium mt-2">ポイントサイト案件検索エンジン</p>
                 </div>
               </div>
             </div>
