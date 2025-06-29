@@ -30,7 +30,7 @@ export default function GuidePage() {
       {/* メインコンテンツ */}
       <main className="container mx-auto max-w-6xl px-4 py-8">
         <div className="mb-8">
-          <h2 className="text-3xl font-bold text-gray-900 mb-2">ポイ速の使い方</h2>
+          <h2 className="text-3xl font-bold text-gray-600 mb-2">ポイ速の使い方</h2>
           <p className="text-gray-600">
             ポイ速を効率的に使うための詳しい操作方法や機能について説明します。
           </p>
@@ -40,7 +40,7 @@ export default function GuidePage() {
         <div className="space-y-8">
           {/* ポイ速とは */}
           <section className="bg-white rounded-2xl shadow-sm p-6 border border-gray-100">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">ポイ速とは？</h3>
+            <h3 className="text-xl font-bold text-gray-600 mb-4">ポイ速とは？</h3>
             <p className="text-gray-700 leading-relaxed">
               ポイ速は、複数のポイントサイトから案件を検索し、還元率の高い順に表示する検索エンジンです。
               お買い物やサービス利用の前に検索することで、最もお得なポイントサイトを簡単に見つけることができます。
@@ -49,7 +49,7 @@ export default function GuidePage() {
 
           {/* 使い方 */}
           <section className="bg-white rounded-2xl shadow-sm p-6 border border-gray-100">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">使い方</h3>
+            <h3 className="text-xl font-bold text-gray-600 mb-4">使い方</h3>
             <ol className="space-y-3 list-decimal list-inside text-gray-700">
               <li>検索窓に利用したいサービス名や店舗名を入力します（例：Yahoo!ショッピング）</li>
               <li>検索ボタンをクリックすると、各ポイントサイトの還元率が高い順に表示されます</li>
@@ -61,7 +61,7 @@ export default function GuidePage() {
 
           {/* 検索のコツ */}
           <section className="bg-white rounded-2xl shadow-sm p-6 border border-gray-100">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">検索のコツ</h3>
+            <h3 className="text-xl font-bold text-gray-600 mb-4">検索のコツ</h3>
             <div className="space-y-3 text-gray-700">
               <div>
                 <h4 className="font-semibold mb-1">AND検索について</h4>
@@ -80,7 +80,7 @@ export default function GuidePage() {
 
           {/* デバイス種別 */}
           <section className="bg-white rounded-2xl shadow-sm p-6 border border-gray-100">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">デバイス種別について</h3>
+            <h3 className="text-xl font-bold text-gray-600 mb-4">デバイス種別について</h3>
             <p className="text-gray-700 mb-3">案件によって利用可能なデバイスが限定されている場合があります。</p>
             <ul className="space-y-2 text-gray-700">
               <li><span className="font-semibold">PC</span> = パソコンのみ対応</li>
@@ -93,7 +93,7 @@ export default function GuidePage() {
 
           {/* 独自機能 */}
           <section className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-2xl p-6 border border-blue-200">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">ポイ速の便利機能</h3>
+            <h3 className="text-xl font-bold text-gray-600 mb-4">ポイ速の便利機能</h3>
             <ul className="space-y-3 text-gray-700">
               <li className="flex items-start">
                 <span className="text-blue-600 mr-2">✨</span>
@@ -128,7 +128,7 @@ export default function GuidePage() {
 
           {/* 注意事項 */}
           <section className="bg-white rounded-2xl shadow-sm p-6 border border-gray-100">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">ご利用にあたって</h3>
+            <h3 className="text-xl font-bold text-gray-600 mb-4">ご利用にあたって</h3>
             <ul className="space-y-2 text-gray-700 text-sm">
               <li>• 還元率は各ポイントサイトの換金レート適用後の値です</li>
               <li>• 検索結果は定期的に更新されますが、最新情報は各ポイントサイトでご確認ください</li>

@@ -165,7 +165,7 @@ function SearchContent() {
         {query && (
           <div className="animate-slide-in">
             <div className="flex items-center gap-2 mb-6">
-              <h2 className="text-2xl font-bold text-gray-900">検索結果</h2>
+              <h2 className="text-2xl font-bold text-gray-600">検索結果</h2>
               <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium">
                 「{query}」
               </span>
@@ -212,10 +212,10 @@ function SearchContent() {
                     <table className="w-full">
                       <thead>
                         <tr className="bg-gradient-to-r from-blue-50 to-indigo-50 border-b border-gray-200">
-                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-900">ポイントサイト</th>
-                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-900">還元率</th>
-                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-900">案件名</th>
-                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-900">対応デバイス</th>
+                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-600">ポイントサイト</th>
+                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-600">還元率</th>
+                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-600">案件名</th>
+                          <th className="px-6 py-4 text-left text-sm font-semibold text-gray-600">対応デバイス</th>
                         </tr>
                       </thead>
                       <tbody className="divide-y divide-gray-100">
@@ -241,7 +241,7 @@ function SearchContent() {
                                   href={result.campaignUrl || result.url}
                                   target="_blank"
                                   rel="noopener noreferrer"
-                                  className="font-medium text-gray-900 hover:text-blue-600 hover:underline transition-colors leading-5"
+                                  className="font-medium text-gray-600 hover:text-blue-600 hover:underline transition-colors leading-5"
                                 >
                                   {result.description ? result.description.substring(0, 100) + (result.description.length > 100 ? '...' : '') : '案件詳細'}
                                 </a>
@@ -263,7 +263,7 @@ function SearchContent() {
             ) : (
               <div className="text-center py-16">
                 <div className="text-6xl mb-4">🔍</div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">検索結果が見つかりませんでした</h3>
+                <h3 className="text-xl font-semibold text-gray-600 mb-2">検索結果が見つかりませんでした</h3>
                 <p className="text-gray-600 mb-6">
                   別のキーワードで検索してみるか、<br />
                   設定ページで検索対象のポイントサイトを確認してください。

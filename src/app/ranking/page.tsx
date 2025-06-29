@@ -102,7 +102,7 @@ export default function RankingPage() {
         {/* ランキングコンテンツ */}
         <div className="bg-white rounded-2xl shadow-sm p-8">
           <div className="flex justify-between items-center mb-8">
-            <h2 className="text-3xl font-bold text-gray-900">🔥 検索ランキング TOP50</h2>
+            <h2 className="text-3xl font-bold text-gray-600">🔥 検索ランキング TOP50</h2>
             <div className="text-right">
               <p className="text-sm text-gray-600">最終更新: {lastUpdated}</p>
             </div>

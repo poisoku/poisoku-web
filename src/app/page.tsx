@@ -130,7 +130,7 @@ export default function Home() {
         {/* 検索ランキング */}
         <div className="bg-white rounded-2xl shadow-sm p-8">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-gray-900">検索ランキング TOP10</h2>
+            <h2 className="text-2xl font-bold text-gray-600">検索ランキング TOP10</h2>
             <a href="/ranking" className="text-blue-600 hover:text-blue-700 text-sm font-medium flex items-center gap-1">
               すべて見る
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -159,7 +159,7 @@ export default function Home() {
                   <div>
                     <a
                       href={`/search?q=${encodeURIComponent(item.keyword)}`}
-                      className="font-medium text-gray-900 hover:text-blue-600 transition-colors"
+                      className="font-medium text-gray-600 hover:text-blue-600 transition-colors"
                     >
                       {item.keyword}
                     </a>
@@ -197,7 +197,7 @@ export default function Home() {
                         <span className="text-2xl">🔍</span>
                       </div>
                       <div className="flex flex-col justify-center h-12">
-                        <h4 className="font-semibold text-gray-900 text-lg leading-tight">かんたん検索</h4>
+                        <h4 className="font-semibold text-gray-600 text-lg leading-tight">かんたん検索</h4>
                         <p className="text-sm text-gray-600 leading-tight">
                           案件名を入力するだけで一発検索
                         </p>
@@ -212,7 +212,7 @@ export default function Home() {
                         <span className="text-2xl">🔥</span>
                       </div>
                       <div className="flex flex-col justify-center h-12">
-                        <h4 className="font-semibold text-gray-900 text-lg leading-tight">人気案件を発見</h4>
+                        <h4 className="font-semibold text-gray-600 text-lg leading-tight">人気案件を発見</h4>
                         <p className="text-sm text-gray-600 leading-tight">
                           ランキングで話題の案件をチェック
                         </p>
@@ -227,7 +227,7 @@ export default function Home() {
                         <span className="text-2xl">📊</span>
                       </div>
                       <div className="flex flex-col justify-center h-12">
-                        <h4 className="font-semibold text-gray-900 text-lg leading-tight">1週間の最高額表示</h4>
+                        <h4 className="font-semibold text-gray-600 text-lg leading-tight">1週間の最高額表示</h4>
                         <p className="text-sm text-gray-600 leading-tight">
                           案件のお得度がすぐわかる
                         </p>
@@ -246,13 +246,13 @@ export default function Home() {
         <div className="container mx-auto max-w-6xl px-4 py-12">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="font-bold text-gray-900 mb-4">ポイ速</h3>
+              <h3 className="font-bold text-gray-600 mb-4">ポイ速</h3>
               <p className="text-sm text-gray-600">
                 ポイントサイト案件を効率的に検索して、最高の還元率を見つけましょう。
               </p>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-900 mb-3">メニュー</h4>
+              <h4 className="font-semibold text-gray-600 mb-3">メニュー</h4>
               <ul className="space-y-2 text-sm">
                 <li><a href="/guide" className="text-gray-600 hover:text-blue-600">ポイ速の使い方</a></li>
                 <li><a href="/settings" className="text-gray-600 hover:text-blue-600">サイト選択/除外</a></li>
@@ -260,7 +260,7 @@ export default function Home() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-900 mb-3">人気キーワード</h4>
+              <h4 className="font-semibold text-gray-600 mb-3">人気キーワード</h4>
               <ul className="space-y-2 text-sm">
                 <li><a href="/search?q=Yahoo!ショッピング" className="text-gray-600 hover:text-blue-600">Yahoo!ショッピング</a></li>
                 <li><a href="/search?q=楽天市場" className="text-gray-600 hover:text-blue-600">楽天市場</a></li>
@@ -268,7 +268,7 @@ export default function Home() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-900 mb-3">お問い合わせ</h4>
+              <h4 className="font-semibold text-gray-600 mb-3">お問い合わせ</h4>
               <p className="text-sm text-gray-600">
                 ご意見・ご要望がございましたら、お気軽にお問い合わせください。
               </p>

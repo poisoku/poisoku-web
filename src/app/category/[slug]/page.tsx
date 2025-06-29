@@ -77,7 +77,7 @@ export default function CategoryRankingPage({ params }: { params: { slug: string
       <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
         <div className="container mx-auto max-w-6xl px-4 py-16">
           <div className="text-center">
-            <h1 className="text-2xl font-bold text-gray-900 mb-4">カテゴリーが見つかりません</h1>
+            <h1 className="text-2xl font-bold text-gray-600 mb-4">カテゴリーが見つかりません</h1>
             <Link href="/" className="text-blue-600 hover:text-blue-700">
               トップページに戻る
             </Link>
@@ -121,7 +121,7 @@ export default function CategoryRankingPage({ params }: { params: { slug: string
               {category.icon}
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">{category.name}カテゴリー</h1>
+              <h1 className="text-3xl font-bold text-gray-600">{category.name}カテゴリー</h1>
               <p className="text-gray-600 mt-1">{category.description}</p>
             </div>
           </div>
@@ -152,7 +152,7 @@ export default function CategoryRankingPage({ params }: { params: { slug: string
                           href={campaign.campaign_url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="font-medium text-gray-900 hover:text-blue-600 transition-colors"
+                          className="font-medium text-gray-600 hover:text-blue-600 transition-colors"
                         >
                           {campaign.name}
                         </a>

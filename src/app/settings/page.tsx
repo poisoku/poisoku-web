@@ -98,7 +98,7 @@ export default function SettingsPage() {
       {/* メインコンテンツ */}
       <main className="container mx-auto max-w-6xl px-4 py-8">
         <div className="mb-8">
-          <h2 className="text-3xl font-bold text-gray-900 mb-2">検索対象ポイントサイト設定</h2>
+          <h2 className="text-3xl font-bold text-gray-600 mb-2">検索対象ポイントサイト設定</h2>
           <p className="text-gray-600">
             検索結果に表示するポイントサイトを選択してください。チェックを外したサイトは検索結果から除外されます。
           </p>
@@ -155,7 +155,7 @@ export default function SettingsPage() {
                   className="w-5 h-5 text-blue-600 rounded focus:ring-blue-500 mt-1"
                 />
                 <div className="flex-1">
-                  <span className="font-medium text-gray-900">{site.name}</span>
+                  <span className="font-medium text-gray-600">{site.name}</span>
                 </div>
               </label>
               ))}
