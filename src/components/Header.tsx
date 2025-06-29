@@ -12,52 +12,57 @@ export default function Header() {
             <div className="cursor-pointer">
               {/* デスクトップ版 */}
               <div className="hidden md:block">
-                <div className="flex items-center gap-8">
-                  <div className="relative group">
-                    <div className="absolute -inset-1 bg-gradient-to-r from-blue-100 via-indigo-50 to-purple-100 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div className="relative bg-white px-4 py-2 rounded-lg">
-                      <h1 className="text-4xl font-bold tracking-wide bg-gradient-to-br from-gray-800 via-blue-700 to-indigo-600 bg-clip-text text-transparent">
-                        ポイ速
-                      </h1>
-                      <div className="flex items-center justify-center mt-1 space-x-1">
-                        <div className="w-1 h-1 bg-blue-400 rounded-full"></div>
-                        <div className="w-2 h-1 bg-indigo-400 rounded-full"></div>
-                        <div className="w-1 h-1 bg-purple-400 rounded-full"></div>
-                      </div>
+                <div className="flex items-center gap-6">
+                  <div className="relative">
+                    <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 relative">
+                      ポイ速
+                      <div className="absolute -top-1 -right-2 w-2 h-2 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full opacity-80"></div>
+                    </h1>
+                    <div className="flex items-center mt-2 space-x-1">
+                      <div className="w-3 h-px bg-gradient-to-r from-blue-500 to-indigo-600"></div>
+                      <div className="w-1 h-1 bg-blue-500 rounded-full"></div>
+                      <div className="w-6 h-px bg-gradient-to-r from-indigo-500 to-purple-500"></div>
                     </div>
                   </div>
-                  <div className="border-l-2 border-gradient-to-b from-blue-200 to-indigo-300 pl-6">
-                    <div className="flex items-center space-x-2 mb-1">
-                      <div className="w-1.5 h-1.5 bg-blue-500 rounded-full"></div>
-                      <div className="w-1.5 h-1.5 bg-indigo-500 rounded-full"></div>
+                  <div className="flex flex-col justify-center">
+                    <div className="flex items-center mb-1">
+                      <div className="w-1 h-4 bg-gradient-to-b from-blue-500 to-indigo-600 rounded-full mr-3"></div>
+                      <p className="text-sm font-medium text-gray-700 tracking-wide">
+                        ポイントサイト案件検索エンジン
+                      </p>
                     </div>
-                    <p className="text-sm font-semibold text-gray-700 tracking-wide">
-                      ポイントサイト案件検索エンジン
-                    </p>
+                    <div className="flex items-center space-x-1 ml-4">
+                      <div className="w-2 h-px bg-blue-400"></div>
+                      <div className="w-0.5 h-0.5 bg-indigo-400 rounded-full"></div>
+                      <div className="w-3 h-px bg-indigo-400"></div>
+                    </div>
                   </div>
                 </div>
               </div>
               {/* モバイル版 */}
               <div className="md:hidden text-center">
-                <div className="relative inline-block mb-4">
-                  <div className="bg-white px-3 py-2 rounded-lg shadow-sm border border-gray-100">
-                    <h1 className="text-3xl font-bold tracking-wide bg-gradient-to-br from-gray-800 via-blue-700 to-indigo-600 bg-clip-text text-transparent">
-                      ポイ速
-                    </h1>
-                    <div className="flex items-center justify-center mt-1 space-x-1">
-                      <div className="w-1 h-1 bg-blue-400 rounded-full"></div>
-                      <div className="w-2 h-1 bg-indigo-400 rounded-full"></div>
-                      <div className="w-1 h-1 bg-purple-400 rounded-full"></div>
-                    </div>
+                <div className="relative inline-block mb-3">
+                  <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 relative">
+                    ポイ速
+                    <div className="absolute -top-1 -right-1 w-1.5 h-1.5 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full opacity-80"></div>
+                  </h1>
+                  <div className="flex items-center justify-center mt-2 space-x-1">
+                    <div className="w-2 h-px bg-gradient-to-r from-blue-500 to-indigo-600"></div>
+                    <div className="w-0.5 h-0.5 bg-blue-500 rounded-full"></div>
+                    <div className="w-4 h-px bg-gradient-to-r from-indigo-500 to-purple-500"></div>
                   </div>
                 </div>
-                <div className="flex items-center justify-center space-x-1 mb-2">
-                  <div className="w-1 h-1 bg-blue-500 rounded-full"></div>
-                  <div className="w-1 h-1 bg-indigo-500 rounded-full"></div>
+                <div className="flex items-center justify-center mb-2">
+                  <div className="w-0.5 h-3 bg-gradient-to-b from-blue-500 to-indigo-600 rounded-full mr-2"></div>
+                  <p className="text-xs font-medium text-gray-700 tracking-wide">
+                    ポイントサイト案件検索エンジン
+                  </p>
                 </div>
-                <p className="text-xs font-semibold text-gray-700 tracking-wide">
-                  ポイントサイト案件検索エンジン
-                </p>
+                <div className="flex items-center justify-center space-x-1">
+                  <div className="w-1.5 h-px bg-blue-400"></div>
+                  <div className="w-0.5 h-0.5 bg-indigo-400 rounded-full"></div>
+                  <div className="w-2 h-px bg-indigo-400"></div>
+                </div>
               </div>
             </div>
           </Link>
