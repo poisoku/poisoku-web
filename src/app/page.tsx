@@ -129,14 +129,8 @@ export default function Home() {
       <main className="container mx-auto max-w-6xl px-4 py-12">
         {/* 検索ランキング */}
         <div className="bg-white rounded-2xl shadow-sm p-8">
-          <div className="flex items-center justify-between mb-6">
+          <div className="text-center mb-6">
             <h2 className="text-2xl font-bold text-gray-600">検索ランキング TOP10</h2>
-            <a href="/ranking" className="text-blue-600 hover:text-blue-700 text-sm font-medium flex items-center gap-1">
-              すべて見る
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
           </div>
 
           <div className="space-y-3">
@@ -179,6 +173,15 @@ export default function Home() {
                 </div>
               </div>
             ))}
+          </div>
+
+          <div className="text-center mt-6">
+            <a href="/ranking" className="text-blue-600 hover:text-blue-700 text-sm font-medium flex items-center justify-center gap-1">
+              すべて見る
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
           </div>
         </div>
 
