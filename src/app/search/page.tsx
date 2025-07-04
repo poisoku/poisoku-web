@@ -19,8 +19,10 @@ interface SearchResult {
 function SearchContent() {
   const searchParams = useSearchParams();
   const query = searchParams.get('q') || '';
+  const osFilter = searchParams.get('os') || 'all';
   const [results, setResults] = useState<SearchResult[]>([]);
   const [loading, setLoading] = useState(false);
+  const [selectedOsFilter, setSelectedOsFilter] = useState(osFilter);
   const [maxCashback7Days, setMaxCashback7Days] = useState<{
     amount: string;
     site: string;
@@ -29,77 +31,57 @@ function SearchContent() {
 
   useEffect(() => {
     if (query) {
-      searchCampaigns(query);
+      searchCampaigns(query, selectedOsFilter);
     }
-  }, [query]);
+  }, [query, selectedOsFilter]);
 
-  const searchCampaigns = async (searchQuery: string) => {
+  const searchCampaigns = async (searchQuery: string, osFilter: string = 'all') => {
     setLoading(true);
     try {
-      // モックデータで検索をシミュレート
-      const mockCampaigns = [
-        {
-          id: '1',
-          name: 'Yahoo!ショッピング',
-          siteName: 'ハピタス',
-          cashback: '1.0%',
-          device: 'All' as const,
-          url: '#',
-          campaignUrl: '#',
-          pointSiteUrl: '#',
-        },
-        {
-          id: '2',
-          name: '楽天市場',
-          siteName: 'ハピタス',
-          cashback: '1.0%',
-          device: 'All' as const,
-          url: '#',
-          campaignUrl: '#',
-          pointSiteUrl: '#',
-        },
-        {
-          id: '3',
-          name: 'Amazon',
-          siteName: 'モッピー',
-          cashback: '0.5%',
-          device: 'All' as const,
-          url: '#',
-          campaignUrl: '#',
-          pointSiteUrl: '#',
-        },
-      ];
-
-      // 検索キーワードでフィルター
-      const filtered = mockCampaigns
-        .filter(campaign => 
-          campaign.name.toLowerCase().includes(searchQuery.toLowerCase())
-        )
-        .map(campaign => ({
-          id: campaign.id,
-          siteName: campaign.siteName,
-          cashback: campaign.cashback,
-          device: campaign.device,
-          url: campaign.url,
-          lastUpdated: new Date().toLocaleString('ja-JP'),
-          description: campaign.name,
-          campaignUrl: campaign.campaignUrl,
-          pointSiteUrl: campaign.pointSiteUrl,
-        }));
-
-      setResults(filtered);
-
-      // モックの最高額データ
-      if (filtered.length > 0) {
-        setMaxCashback7Days({
-          amount: '1.5%',
-          site: 'ハピタス',
-          date: new Date().toLocaleDateString('ja-JP'),
-        });
+      // 実際のAPIを呼び出し
+      const params = new URLSearchParams();
+      params.set('q', searchQuery);
+      if (osFilter !== 'all') {
+        params.set('os', osFilter);
       }
+      params.set('limit', '50');
+
+      const response = await fetch(`/api/search?${params.toString()}`);
+      const result = await response.json();
+
+      if (!response.ok || !result.success) {
+        throw new Error(result.error || '検索に失敗しました');
+      }
+
+      setResults(result.data.results);
+      setMaxCashback7Days(result.data.maxCashback7Days);
+
     } catch (error) {
       console.error('検索エラー:', error);
       setResults([]);
+      setMaxCashback7Days(null);
+      
+      // フォールバックとしてモックデータを使用
+      const mockResults = [
+        {
+          id: 'mock-1',
+          siteName: 'サンプルサイト',
+          cashback: '1.0%',
+          device: 'All' as const,
+          url: '#',
+          lastUpdated: new Date().toLocaleString('ja-JP'),
+          description: '検索結果の取得中にエラーが発生しました',
+          campaignUrl: '#',
+          pointSiteUrl: '#',
+        }
+      ];
+      
+      // OSフィルターが適用されている場合のみ表示
+      if (osFilter === 'all' || osFilter === 'pc') {
+        setResults(mockResults);
+      } else {
+        setResults([]);
+      }
     } finally {
       setLoading(false);
     }
@@ -127,7 +109,24 @@ function SearchContent() {
     const formData = new FormData(e.currentTarget);
     const newQuery = formData.get('q') as string;
     if (newQuery) {
-      window.location.href = `/search?q=${encodeURIComponent(newQuery)}`;
+      const params = new URLSearchParams();
+      params.set('q', newQuery);
+      if (selectedOsFilter !== 'all') {
+        params.set('os', selectedOsFilter);
+      }
+      window.location.href = `/search?${params.toString()}`;
+    }
+  };
+
+  const handleOsFilterChange = (newFilter: string) => {
+    setSelectedOsFilter(newFilter);
+    if (query) {
+      const params = new URLSearchParams();
+      params.set('q', query);
+      if (newFilter !== 'all') {
+        params.set('os', newFilter);
+      }
+      window.history.pushState({}, '', `/search?${params.toString()}`);
     }
   };
 
@@ -169,6 +168,36 @@ function SearchContent() {
               <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium">
                 「{query}」
               </span>
+            </div>
+
+            {/* OSフィルター */}
+            <div className="mb-6">
+              <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4">
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-sm font-medium text-gray-600">対応デバイスで絞り込み:</span>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {[
+                    { value: 'all', label: 'すべて', icon: '🌐' },
+                    { value: 'ios', label: 'iOS', icon: '📱' },
+                    { value: 'android', label: 'Android', icon: '🤖' },
+                    { value: 'pc', label: 'PC', icon: '💻' },
+                  ].map((option) => (
+                    <button
+                      key={option.value}
+                      onClick={() => handleOsFilterChange(option.value)}
+                      className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all ${
+                        selectedOsFilter === option.value
+                          ? 'bg-blue-600 text-white shadow-lg'
+                          : 'bg-gray-50 text-gray-600 hover:bg-gray-100'
+                      }`}
+                    >
+                      <span>{option.icon}</span>
+                      {option.label}
+                    </button>
+                  ))}
+                </div>
+              </div>
             </div>
 
             {/* 過去7日間の最高額 */}

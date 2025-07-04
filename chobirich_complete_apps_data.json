@@ -1,0 +1,5903 @@
+{
+  "scraped_at": "2025-07-04T00:43:21.586Z",
+  "total_campaigns": 290,
+  "campaigns": [
+    {
+      "id": "1794491",
+      "name": "WINTICKET",
+      "cashback": "2925pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1794491/",
+      "conditions": {
+        "method": "初回投票(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2925pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "2925pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "2925pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838101",
+      "name": "数学パズルゲーム ― ナンバーマッチ レベル200クリア（iOS）",
+      "cashback": "900pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838101/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル200クリアで成果",
+        "pending": "あり",
+        "creditDate": "ポイント獲得条件達成後、即時～30分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge",
+            "result": "900pt"
+          },
+          {
+            "method": "pt-element: AdDetails__ptWrap",
+            "result": "900pt"
+          },
+          {
+            "method": "pt-element: AdDetails__pt ItemPtLarge",
+            "result": "900pt"
+          },
+          {
+            "method": "text-node: AdDetails__pt ItemPtLarge",
+            "result": "900pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1835496",
+      "name": "ピコットタウン レベル32到達（iOS）",
+      "cashback": "1160pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835496/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル32到達で成果",
+        "pending": "あり",
+        "creditDate": "ポイント獲得条件達成後、即時～30分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge",
+            "result": "1160pt"
+          },
+          {
+            "method": "pt-element: AdDetails__ptWrap",
+            "result": "1160pt"
+          },
+          {
+            "method": "pt-element: AdDetails__pt ItemPtLarge",
+            "result": "1160pt"
+          },
+          {
+            "method": "text-node: AdDetails__pt ItemPtLarge",
+            "result": "1160pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1809384",
+      "name": "Toon Blast（トゥーンブラスト）（レベル1000達成）（iOS）",
+      "cashback": "3600pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1809384/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル1000クリア",
+        "pending": "あり",
+        "creditDate": "ポイント獲得条件達成後、即時～30分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge",
+            "result": "3600pt"
+          },
+          {
+            "method": "pt-element: AdDetails__ptWrap",
+            "result": "3600pt"
+          },
+          {
+            "method": "pt-element: AdDetails__pt ItemPtLarge",
+            "result": "3600pt"
+          },
+          {
+            "method": "text-node: AdDetails__pt ItemPtLarge",
+            "result": "3600pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829585",
+      "name": "ブロックパズル（クラシックモード1万点達成）（iOS）",
+      "cashback": "340pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829585/",
+      "conditions": {
+        "method": "新規アプリインストール後、クラシックモード1万点達成で成果",
+        "pending": "あり",
+        "creditDate": "ポイント獲得条件達成後、即時～30分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge",
+            "result": "340pt"
+          },
+          {
+            "method": "pt-element: AdDetails__ptWrap",
+            "result": "340pt"
+          },
+          {
+            "method": "pt-element: AdDetails__pt ItemPtLarge",
+            "result": "340pt"
+          },
+          {
+            "method": "text-node: AdDetails__pt ItemPtLarge",
+            "result": "340pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1804736",
+      "name": "ザ・グランドマフィア（アプリランド）",
+      "cashback": "199810pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1804736/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "199810pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "199810pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "199810pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1836757",
+      "name": "氷と炎：キング・オブ・アバロン（アプリランド）",
+      "cashback": "85930pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836757/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "85930pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "85930pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "85930pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1837931",
+      "name": "マフィア・シティ-極道風雲（アプリランド）",
+      "cashback": "80184pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837931/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "80184pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "80184pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "80184pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838584",
+      "name": "マフィア・シティ-極道風雲",
+      "cashback": "62327pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838584/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "62327pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "62327pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "62327pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829987",
+      "name": "ゾンビ・パニック",
+      "cashback": "57096pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829987/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "57096pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "57096pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "57096pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1833890",
+      "name": "商人放浪記（アプリランド）",
+      "cashback": "34760pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833890/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "34760pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "34760pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "34760pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1777438",
+      "name": "The Grand Mafia(ザ グランド マフィア)",
+      "cashback": "34452pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1777438/",
+      "conditions": {
+        "method": "新規インストール後起動→【14日以内にSグレード英雄を2名獲得】",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "34452pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "34452pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "34452pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838580",
+      "name": "パズル＆カオス",
+      "cashback": "30871pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838580/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "30871pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "30871pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "30871pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838089",
+      "name": "パズル＆コンクエスト（アプリランド）",
+      "cashback": "27450pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838089/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "27450pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "27450pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "27450pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829617",
+      "name": "出荷ぶた（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "25420pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829617/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "25420pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "25420pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "25420pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829667",
+      "name": "出荷ぶた -冬ver-（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "25420pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829667/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "25420pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "25420pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "25420pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838382",
+      "name": "パズル＆サバイバル（アプリランド）",
+      "cashback": "23998pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838382/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "23998pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "23998pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "23998pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1836778",
+      "name": "ドゥームズデイ：ラストサバイバー（アプリランド）",
+      "cashback": "23336pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836778/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "23336pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "23336pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "23336pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838581",
+      "name": "パズル&サバイバル",
+      "cashback": "23136pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838581/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "23136pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "23136pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "23136pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829950",
+      "name": "Decor Merge - Fashion Renovate",
+      "cashback": "22788pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829950/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "22788pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "22788pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "22788pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1837453",
+      "name": "Rock N' Cash Casino-Slots Game（アプリランド）",
+      "cashback": "22520pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837453/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "22520pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "22520pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "22520pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838519",
+      "name": "ザ・アンツ（アプリランド）",
+      "cashback": "21488pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838519/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "21488pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "21488pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "21488pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829627",
+      "name": "Puzzles & Chaos: Frozen Castle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "20200pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829627/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "20200pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "20200pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "20200pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1835900",
+      "name": "merge designer",
+      "cashback": "20165pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835900/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "20165pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "20165pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "20165pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829458",
+      "name": "ゾンビ・パニック（アプリランド）",
+      "cashback": "19556pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829458/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "19556pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "19556pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "19556pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1830024",
+      "name": "出荷ぶた",
+      "cashback": "19194pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830024/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "19194pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "19194pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "19194pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1836324",
+      "name": "Dice Dreams（アプリランド）",
+      "cashback": "18444pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836324/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "18444pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "18444pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "18444pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1836781",
+      "name": "Domino Dreams（アプリランド）",
+      "cashback": "18186pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836781/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "18186pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "18186pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "18186pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1762433",
+      "name": "喧嘩の花道（iOS用）",
+      "cashback": "17820pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1762433/",
+      "conditions": {
+        "method": "新規アプリインストール後、MISSION5クリア後、ミッション報酬受取",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "17820pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "17820pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "17820pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1835579",
+      "name": "Golden Tiger（アプリランド）",
+      "cashback": "17500pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835579/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "17500pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "17500pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "17500pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1824629",
+      "name": "マフィア・シティ-極道風雲（ギフトリンク/別荘Lv.25到達＆初回豪華特権を購入）（iOS）",
+      "cashback": "17280pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1824629/",
+      "conditions": {
+        "method": "新規インストール後、別荘Lv.25到達＆初回豪華特権を購入で成果（ミッション参加から30日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "17280pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "17280pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "17280pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1836897",
+      "name": "モーマンタイム（アプリランド）",
+      "cashback": "16572pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836897/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "16572pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "16572pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "16572pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1837830",
+      "name": "モーマンタイム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "15840pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837830/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "15840pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__ptWrap",
+            "result": "15840pt"
+          },
+          {
+            "method": "pt-element (ポイント): AdDetails__pt ItemPtLarge",
+            "result": "15840pt"
+          }
+        ],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1837920",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837920/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1836870",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836870/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1835417",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835417/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1835175",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835175/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1830026",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830026/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1833893",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833893/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838700",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838700/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829664",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829664/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838261",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838261/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1837933",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837933/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1832093",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1832093/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829621",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829621/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1803333",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803333/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1830046",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830046/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1833607",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833607/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838110",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838110/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829723",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829723/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1838985",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838985/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1829612",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829612/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1830049",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830049/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1830020",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830020/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1817134",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1817134/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1827575",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1827575/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1837923",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837923/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1803287",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803287/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1833895",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833895/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1836687",
+      "name": "403 Forbidden",
+      "cashback": "なし",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836687/",
+      "conditions": {},
+      "debug": {
+        "methods": [],
+        "originalTexts": []
+      }
+    },
+    {
+      "id": "1821081",
+      "name": "マージ デザイナー（Merge Designer）（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "8480pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1821081/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "8480pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1811080",
+      "name": "金とゴブリンの採掘ゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "8240pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1811080/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "8240pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1805301",
+      "name": "Love Water  Color Sort Puzzle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "7300pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1805301/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "7300pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833897",
+      "name": "Love Water（アプリランド）",
+      "cashback": "7262pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833897/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "7262pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838316",
+      "name": "Nonogram Puzzle - Elf Island",
+      "cashback": "7236pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838316/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "7236pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1774233",
+      "name": "三國志 真戦",
+      "cashback": "6912pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1774233/",
+      "conditions": {
+        "method": "「シーズン1」で勢力20000に到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6912pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829661",
+      "name": "Alice's Dream ：かわいいマージゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "6860pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829661/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6860pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838374",
+      "name": "キング・オブ・ビースト：新世界（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "6800pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838374/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6800pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1804764",
+      "name": "スマッシュパーティ（アプリランド）",
+      "cashback": "6780pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1804764/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6780pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829303",
+      "name": "リヴリーアイランド（アプリランド）",
+      "cashback": "6720pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829303/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6720pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833898",
+      "name": "ヒーローウォーズアライアンス ― 放置系ロールプレイング（アプリランド）",
+      "cashback": "6716pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833898/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6716pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835037",
+      "name": "Ball Sort - Color Tube Puzzle（アプリランド）",
+      "cashback": "6618pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835037/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6618pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837702",
+      "name": "やばい！少女に囲まれた！",
+      "cashback": "6011pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837702/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "6011pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838866",
+      "name": "Color Sort Water Purrfect Puzz（アプリランド）",
+      "cashback": "5862pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838866/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5862pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835208",
+      "name": "Empires&Puzzles",
+      "cashback": "5577pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835208/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5577pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837609",
+      "name": "メメントモリ（アプリランド）",
+      "cashback": "5562pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837609/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5562pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837559",
+      "name": "放置ゲームゾンビ鉱夫: タップゲーム(Idle Miner)（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "5480pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837559/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5480pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1795202",
+      "name": "実りの地（Harvest Land）（レベル45到達）（iOS）",
+      "cashback": "5440pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1795202/",
+      "conditions": {
+        "method": "新規インストール後、レベル45到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5440pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838900",
+      "name": "パズにゃん3D～大人気の癒し系猫パズルゲームの新作～（アプリランド）",
+      "cashback": "5418pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838900/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5418pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833899",
+      "name": "Block King Puzzle（アプリランド）",
+      "cashback": "5318pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833899/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5318pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838023",
+      "name": "Huuuge Casino 777 Slots Games",
+      "cashback": "5280pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838023/",
+      "conditions": {
+        "method": "新規アプリインストール後、\n・STEP1：1000レベルに到達",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5280pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1828287",
+      "name": "Merge Town（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "5240pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1828287/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5240pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837910",
+      "name": "レイドラッシュ：タワーディフェンス",
+      "cashback": "5195pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837910/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5195pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1824375",
+      "name": "ビンゴの旅 - 人気のカジノゲーム（アプリランド）",
+      "cashback": "5160pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1824375/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5160pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837275",
+      "name": "Mini Survival: Zombie Fight",
+      "cashback": "5134pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837275/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5134pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1828052",
+      "name": "Alice's Dream ：かわいいマージゲーム（レベル18到達）（iOS）",
+      "cashback": "5120pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1828052/",
+      "conditions": {
+        "method": "新規インストール後、レベル18到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "5120pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830022",
+      "name": "喧嘩の花道",
+      "cashback": "4802pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830022/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4802pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1807306",
+      "name": "放置少女～百花繚乱の萌姫たち～",
+      "cashback": "4752pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1807306/",
+      "conditions": {
+        "method": "新規インストール後起動→【35日以内にレベル120到達（転生Lv20）】",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4752pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1819443",
+      "name": "Decor Merge - マージ インテリア（レベル32到達）（iOS）",
+      "cashback": "4640pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1819443/",
+      "conditions": {
+        "method": "新規インストール後、レベル32到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4640pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838263",
+      "name": "ホワイトアウト・サバイバル（アプリランド）",
+      "cashback": "4574pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838263/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4574pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829977",
+      "name": "君の目的はボクを殺すこと3",
+      "cashback": "4502pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829977/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4502pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803290",
+      "name": "君の目的はボクを殺すこと3（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "4480pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803290/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4480pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837712",
+      "name": "Sweets Match",
+      "cashback": "4264pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837712/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4264pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830042",
+      "name": "Mini Survival: Zombie Fight",
+      "cashback": "4222pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830042/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4222pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1806806",
+      "name": "放置少女～百花繚乱の萌姫たち～",
+      "cashback": "4160pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1806806/",
+      "conditions": {
+        "method": "45日以内にプレイヤーレベル120到達（1転生Lv.20到達）(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4160pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803288",
+      "name": "プリケツにゃー（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "4050pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803288/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4050pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837325",
+      "name": "フード＆トラベル：合成ゲーム",
+      "cashback": "4050pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837325/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "4050pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838493",
+      "name": "放浪仙人～借金取りと妖怪退治の旅～（アプリランド）",
+      "cashback": "3960pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838493/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3960pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837255",
+      "name": "まものダンジョン＋ モンスター育成＆バトルやりこみ放置ゲーム（アプリランド）",
+      "cashback": "3876pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837255/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3876pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1831503",
+      "name": "STOCKPOINT for MUFG",
+      "cashback": "3840pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1831503/",
+      "conditions": {
+        "method": "アプリ内で新規口座開設後、ID連携完了(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3840pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1831866",
+      "name": "Puppy Match : Match 3 Game",
+      "cashback": "3743pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1831866/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3743pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1823756",
+      "name": "LUCK ROCK オンラインクレーンゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "3700pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1823756/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3700pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1823758",
+      "name": "クラウドキャッチャー（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "3660pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1823758/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3660pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1824648",
+      "name": "カプコンネットキャッチャー カプとれ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "3640pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1824648/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3640pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1825070",
+      "name": "オンラインクレーンゲーム(オンクレ) - アラクレ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "3640pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1825070/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3640pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835954",
+      "name": "モンスターバスケット（アプリランド）",
+      "cashback": "3600pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835954/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3600pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1804758",
+      "name": "LIFTる。（アプリランド）",
+      "cashback": "3600pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1804758/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3600pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1823611",
+      "name": "ハムデパート まじかるクラフト（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "3520pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1823611/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3520pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837121",
+      "name": "モーマンタイム（プレーヤーレベル135に到達）（iOS）",
+      "cashback": "3520pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837121/",
+      "conditions": {
+        "method": "新規インストール後、プレーヤーレベル135に到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3520pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834371",
+      "name": "ファミリーアイランド - ファーム冒険ゲーム",
+      "cashback": "3432pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834371/",
+      "conditions": {
+        "method": "35日以内にプレイヤーレベル30到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3432pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838597",
+      "name": "LINE おまかせレンジャー（アプリランド）",
+      "cashback": "3400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838597/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1832527",
+      "name": "StockPoint for CONNECT ポイント運用（開設した証券口座とアプリの連携完了）（iOS）",
+      "cashback": "3360pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1832527/",
+      "conditions": {
+        "method": "新規インストール後30日以内にアプリ内の「株式にする」をクリックし口座開設完了し、開設した証券口座とアプリの連携完了で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3360pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1782303",
+      "name": "モンスターコレクト",
+      "cashback": "3360pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1782303/",
+      "conditions": {
+        "method": "一般ギルドでギルドバトルに50回勝利(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3360pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833539",
+      "name": "喧嘩の花道",
+      "cashback": "3360pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833539/",
+      "conditions": {
+        "method": "ミッション4クリア（報酬受け取り）(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3360pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835325",
+      "name": "ファミリーファームの冒険",
+      "cashback": "3352pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835325/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3352pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1824165",
+      "name": "LUCK ROCK（アプリランド）",
+      "cashback": "3264pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1824165/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3264pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1820719",
+      "name": "カプとれ（アプリランド）",
+      "cashback": "3264pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1820719/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3264pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1817569",
+      "name": "クラウドキャッチャー（アプリランド）",
+      "cashback": "3264pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1817569/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3264pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1778603",
+      "name": "実りの地（レベル40到達）（iOS）",
+      "cashback": "3200pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1778603/",
+      "conditions": {
+        "method": "新規インストール後、レベル40到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3200pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834572",
+      "name": "魔王「世界の半分あげるって言っちゃった」",
+      "cashback": "3148pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834572/",
+      "conditions": {
+        "method": "新規アプリインストール後、初回起動し第13の城【近未来と標的の城】クリアの達成",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3148pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1820718",
+      "name": "アラクレ（アプリランド）",
+      "cashback": "3120pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1820718/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3120pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829984",
+      "name": "Alice's Mergeland",
+      "cashback": "3101pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829984/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3101pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803548",
+      "name": "金とゴブリンの採掘（鉱山40到達）（iOS）",
+      "cashback": "3040pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803548/",
+      "conditions": {
+        "method": "新規インストール後、鉱山40到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "3040pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838829",
+      "name": "三国志:戦乱（アプリランド）",
+      "cashback": "2858pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838829/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2858pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829964",
+      "name": "マジンマンション",
+      "cashback": "2808pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829964/",
+      "conditions": {
+        "method": "新規アプリインストール後、15部屋目クリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2808pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1820136",
+      "name": "Puzzles & Chaos: Frozen Castle（センターキャッスルレベル22到達）（iOS）",
+      "cashback": "2720pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1820136/",
+      "conditions": {
+        "method": "新規インストール後、センターキャッスルレベル22到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2720pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835041",
+      "name": "Sliding Match Puzzle Game（アプリランド）",
+      "cashback": "2716pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835041/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2716pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838703",
+      "name": "ふわっち（アプリランド）",
+      "cashback": "2640pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838703/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2640pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838395",
+      "name": "放浪仙人 ～借金取りと妖怪退治の旅～",
+      "cashback": "2620pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838395/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2620pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1832271",
+      "name": "【注意事項必読】TikTok Lite（アプリランド）",
+      "cashback": "2600pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1832271/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2600pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1825118",
+      "name": "ポイ活&懸賞バブルパズル 脳トレ 簡単な暇つぶしゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "2580pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1825118/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2580pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835622",
+      "name": "Nonogram Jigsaw- Logic Puzzle",
+      "cashback": "2529pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835622/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2529pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833869",
+      "name": "Zen Life: Tile Match Puzzles",
+      "cashback": "2516pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833869/",
+      "conditions": {
+        "method": "ブルースターを500個集めて報酬を手に入れよう！(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2516pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835093",
+      "name": "マージスウィーツ(Merge Sweets)（アプリランド）",
+      "cashback": "2508pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835093/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2508pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803330",
+      "name": "Ball Sort - Color Tube Puzzle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "2500pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803330/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2500pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1826066",
+      "name": "トゥーンブラスト",
+      "cashback": "2496pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1826066/",
+      "conditions": {
+        "method": "30日以内にレベル1000到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2496pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829948",
+      "name": "プリケツにゃー！放置系RPG＆猫（ねこ）キャラのバトルゲーム",
+      "cashback": "2428pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829948/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2428pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1820937",
+      "name": "金とゴブリンの採掘ゲーム（ギフトリンク/鉱山35に到達）",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1820937/",
+      "conditions": {
+        "method": "新規インストール後、鉱山35に到達で成果（ミッション参加から45日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829752",
+      "name": "プリケツにゃー（ギフトリンク/プリケツレベル400到達）",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829752/",
+      "conditions": {
+        "method": "新規インストール後、プリケツレベル400到達で成果（ミッション参加から60日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1811086",
+      "name": "ミクチャ",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1811086/",
+      "conditions": {
+        "method": "「コメントを1日15回」「連続視聴を1日30分」の2つを累計7日間実施(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1804803",
+      "name": "君の目的はボクを殺すこと３（アプリランド）",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1804803/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1799016",
+      "name": "ファミリーファームの冒険（レベル26到達）（iOS）",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1799016/",
+      "conditions": {
+        "method": "新規インストール後、レベル26到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1763779",
+      "name": "実りの地_レベル30到達成果",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1763779/",
+      "conditions": {
+        "method": "新規アプリイントール後のレベル30到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1769731",
+      "name": "駅メモ！- ステーションメモリーズ！",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1769731/",
+      "conditions": {
+        "method": "マスターランク40達成(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834173",
+      "name": "ミストバレー",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834173/",
+      "conditions": {
+        "method": "レベル13到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1824222",
+      "name": "パイレーツ・オブ・カリビアン 大海の覇者",
+      "cashback": "2400pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1824222/",
+      "conditions": {
+        "method": "30日以内に要塞(Castle)レベル23到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2400pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829969",
+      "name": "マジンマンション",
+      "cashback": "2371pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829969/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2371pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1826914",
+      "name": "ちょいと召喚！モンスターバスケット（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "2360pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1826914/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2360pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837000",
+      "name": "ときめきパティスリー・ゆるかわ系経営シミュレーション",
+      "cashback": "2334pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837000/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2334pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1809752",
+      "name": "Tile Dynasty(タイルダイナスティー)",
+      "cashback": "2316pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1809752/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル1000クリアで成果",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2316pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1831505",
+      "name": "モーリーオンライン（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "2300pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1831505/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2300pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834512",
+      "name": "Block Travel（アプリランド）",
+      "cashback": "2280pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834512/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2280pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836525",
+      "name": "Nonogram -ノノグラム・アートクロスワード",
+      "cashback": "2273pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836525/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2273pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837095",
+      "name": "Triple Tile(トリプルタイル)",
+      "cashback": "2257pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837095/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル1000クリアで成果",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2257pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1820432",
+      "name": "パズル＆サバイバル（ギフトリンク/コントロールセンターレベル15到達＆3つ星の建築マスターを購入）（iOS）",
+      "cashback": "2240pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1820432/",
+      "conditions": {
+        "method": "新規インストール後、コントロールセンターレベル15到達＆3つ星の建築マスターを購入で成果（ミッション参加から30日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2240pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1800313",
+      "name": "パズル＆サバイバル （コントロールセンターレベル17到達）（iOS）",
+      "cashback": "2240pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1800313/",
+      "conditions": {
+        "method": "新規インストール後、コントロールセンターレベル17到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2240pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1787632",
+      "name": "ホワイトアウト・サバイバル（レベル21到達）（iOS）",
+      "cashback": "2160pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1787632/",
+      "conditions": {
+        "method": "新規インストール後、大溶鉱炉レベル21到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2160pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838317",
+      "name": "Toon Blast",
+      "cashback": "2160pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838317/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル1000達成",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2160pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838496",
+      "name": "ファミリーファームの冒険（アプリランド）",
+      "cashback": "2142pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838496/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2142pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1820370",
+      "name": "POINTブラストパズル（アプリランド）",
+      "cashback": "2088pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1820370/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2088pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829663",
+      "name": "Alice's Dream ：かわいいマージゲーム（ギフトリンク/レベル16到達）",
+      "cashback": "2080pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829663/",
+      "conditions": {
+        "method": "新規インストール後、レベル16到達で成果（ミッション参加から30日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2080pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830319",
+      "name": "オタクレ（アプリランド）",
+      "cashback": "2040pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830319/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2040pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829633",
+      "name": "Puzzles & Chaos: Frozen Castle（ギフトリンク/センターキャッスルレベル21到達）",
+      "cashback": "2000pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829633/",
+      "conditions": {
+        "method": "新規インストール後、センターキャッスルレベル21到達で成果（ミッション参加から30日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "2000pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829979",
+      "name": "勇者ランキング",
+      "cashback": "1980pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829979/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1980pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836707",
+      "name": "ハムデパート まじかるクラフト",
+      "cashback": "1956pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836707/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1956pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837073",
+      "name": "Idle Food Bar: Olivia & Oliver",
+      "cashback": "1933pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837073/",
+      "conditions": {
+        "method": "新規アプリインストールから初回起動後7日以内に、\nシカゴをクリアする\nハワイをクリアする\nヴェネツィアをクリアする\nバンコクをクリアする\n広告削除パックを購入する\n各成果地点毎に報酬が発生します。",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1933pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1839008",
+      "name": "ColorSing",
+      "cashback": "1920pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1839008/",
+      "conditions": {
+        "method": "1人のライバーに対して1K推しポイント獲得(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1920pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1826525",
+      "name": "Pococha",
+      "cashback": "1920pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1826525/",
+      "conditions": {
+        "method": "初心者限定！チュートリアルミッション全クリア後にコインをすべて受け取る(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1920pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1810521",
+      "name": "商人サーガ 「魔王城でお店開けって言われた」（フロア550階クリア）（iOS）",
+      "cashback": "1920pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1810521/",
+      "conditions": {
+        "method": "新規インストール後、フロア550階クリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1920pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830032",
+      "name": "東京リベンジャーズ ぱずりべ！全国制覇への道",
+      "cashback": "1795pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830032/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1795pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835420",
+      "name": "アリス・イン・アンダーランド",
+      "cashback": "1795pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835420/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1795pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837236",
+      "name": "ハロータウン(Hello Town)：マージ＆ストーリー",
+      "cashback": "1783pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837236/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1783pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1764965",
+      "name": "実りの地(iOS用)",
+      "cashback": "1782pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1764965/",
+      "conditions": {
+        "method": "新規インストール後起動→レベル30到達成果",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1782pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837207",
+      "name": "Sea Block 1010（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1760pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837207/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1760pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835091",
+      "name": "Goods Master 3D: 収納ゲームマスター",
+      "cashback": "1735pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835091/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1735pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835458",
+      "name": "ハト郵便局",
+      "cashback": "1656pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835458/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1656pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835454",
+      "name": "派遣モンスター",
+      "cashback": "1656pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835454/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1656pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829942",
+      "name": "さる山温泉旅館",
+      "cashback": "1656pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829942/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1656pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835456",
+      "name": "捨て猫レスキュー",
+      "cashback": "1656pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835456/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1656pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835460",
+      "name": "引越しペンギン",
+      "cashback": "1656pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835460/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1656pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835452",
+      "name": "ハチミツコレクション",
+      "cashback": "1656pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835452/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1656pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834568",
+      "name": "商人サーガ 「魔王城でお店開けって言われた」",
+      "cashback": "1619pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834568/",
+      "conditions": {
+        "method": "新規アプリインストール後600Fクリア達成で成果となります",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1619pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829973",
+      "name": "マジンアイランド",
+      "cashback": "1619pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829973/",
+      "conditions": {
+        "method": "新規アプリインストール後、13つ目の島クリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1619pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1821228",
+      "name": "マージ デザイナー（Merge Designer）（ギフトリンク/Level25に到達）",
+      "cashback": "1600pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1821228/",
+      "conditions": {
+        "method": "新規インストール後、Level25に到達で成果（ミッション参加から30日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1600pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1827732",
+      "name": "Paris: City Adventure（レベル40）（iOS）",
+      "cashback": "1600pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1827732/",
+      "conditions": {
+        "method": "※成果到達目安：新規インストール後、35日程度",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1600pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835449",
+      "name": "パズル＆コンクエスト（城レベルLv.17到達）（iOS）",
+      "cashback": "1600pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835449/",
+      "conditions": {
+        "method": "新規インストール後、城レベルLv.17到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1600pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837320",
+      "name": "MONOPOLY GO!",
+      "cashback": "1560pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837320/",
+      "conditions": {
+        "method": "新規アプリインストール後、モントリオールのボードをクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1560pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1765520",
+      "name": "Ball Sort - Color Tube Puzzle（レベル700到達）（iOS）",
+      "cashback": "1488pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1765520/",
+      "conditions": {
+        "method": "新規インストール後、レベル700到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1488pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833847",
+      "name": "Merge Supermarket :Dream Merge",
+      "cashback": "1486pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833847/",
+      "conditions": {
+        "method": "レベル32クリア(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1486pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1827888",
+      "name": "ハムデパート まじかるクラフト",
+      "cashback": "1440pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1827888/",
+      "conditions": {
+        "method": "ミニカラオケを解放(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1440pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1820826",
+      "name": "MONOPOLY GO!",
+      "cashback": "1440pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1820826/",
+      "conditions": {
+        "method": "14日以内にボード26「モントリオール」をクリア(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1440pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836391",
+      "name": "ふわっち",
+      "cashback": "1440pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836391/",
+      "conditions": {
+        "method": "新規インストール後、\n・初回課金\n・ひよこ18個使用\n（説明：「「ひよこ」アイテムは、ビギナーカテゴリの配信者に対してのみ使用できる無料アイテムです。\n「ひよこ」アイテムは毎日6時、18時に3個ずつ配布され、配布されたひよこの有効期限は配布時間から12時間となります。」）\n・視聴者レベル20\n各成果地点毎に報酬が発生します。",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1440pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1831601",
+      "name": "Berry Factory Tycoon（「革新的な工場」到達）（iOS）",
+      "cashback": "1440pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1831601/",
+      "conditions": {
+        "method": "新規インストール後、「革新的な工場」到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1440pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1828860",
+      "name": "病み彼女これくしょん（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1420pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1828860/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1420pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838314",
+      "name": "Traffic Escape!",
+      "cashback": "1379pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838314/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル3000クリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1379pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837090",
+      "name": "Traffic Escape!",
+      "cashback": "1366pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837090/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル3000クリアで成果",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1366pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829975",
+      "name": "君の目的はボクを殺すこと3",
+      "cashback": "1348pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829975/",
+      "conditions": {
+        "method": "新規アプリインストール後、第3500の魔神クリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1348pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838906",
+      "name": "Crowd Express: Boarding Puzzle",
+      "cashback": "1342pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838906/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1342pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830082",
+      "name": "TikTok",
+      "cashback": "1320pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830082/",
+      "conditions": {
+        "method": "初回インストール起動後、10分間動画視聴完了\n※ポイント獲得時期：新規インストール後、10分程度\n※過去、アプリをインストールしたことがない人のみ成果対象となります。\n※広告クリックから2日以内での達成が条件となります。\n※同じ動画を10分見続けるのはカウントされません。\n※広告クリックから必ず1時間以内にアプリ初回起動をしてください。",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1320pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1823405",
+      "name": "ポイ活＆懸賞ブロックパズル - 脳トレ 人気 パズルゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1300pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1823405/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1300pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1819329",
+      "name": "ポイ活＆懸賞マッチ3パズルゲーム - 暇つぶしゲーム 脳トレ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1300pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1819329/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1300pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1819626",
+      "name": "ポイ活&懸賞クレーンゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1300pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1819626/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1300pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1802186",
+      "name": "Sea Block 1010（レベル15到達）（iOS）",
+      "cashback": "1280pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1802186/",
+      "conditions": {
+        "method": "新規インストール後、30日以内にレベル15到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1280pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1777477",
+      "name": "マジンアイランド（9つ目の島クリア）（iOS）",
+      "cashback": "1280pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1777477/",
+      "conditions": {
+        "method": "新規インストール後、9つ目の島（アラビアンキャッスル）でクリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1280pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837787",
+      "name": "放置ゲームゾンビ鉱夫: タップゲーム（ギフトリンク/鉱山28到達）",
+      "cashback": "1280pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837787/",
+      "conditions": {
+        "method": "新規インストール後、鉱山28到達で成果（ミッション参加から40日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1280pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1832607",
+      "name": "パズルスパイ : 脳トレ脱出ゲーム（アプリランド）",
+      "cashback": "1260pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1832607/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1260pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1814499",
+      "name": "パズルレスキュー：ピンを引く（アプリランド）",
+      "cashback": "1260pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1814499/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1260pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830143",
+      "name": "VoicePococha（アプリランド）",
+      "cashback": "1200pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830143/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1200pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1821804",
+      "name": "出荷ぶた冬ver",
+      "cashback": "1152pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1821804/",
+      "conditions": {
+        "method": "牧場レベル60(周回数60)到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1152pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837932",
+      "name": "モーマンタイム（ギフトリンク/プレーヤーレベル79に到達）",
+      "cashback": "1152pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837932/",
+      "conditions": {
+        "method": "新規インストール後、プレーヤーレベル79に到達で成果（ミッション参加から40日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1152pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1821802",
+      "name": "出荷ぶた",
+      "cashback": "1152pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1821802/",
+      "conditions": {
+        "method": "牧場レベル60(周回数60)到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1152pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1807740",
+      "name": "Love Water  Color Sort Puzzle（Event 15 : \"The Sphinx’s Riddle\"クリア）（iOS）",
+      "cashback": "1120pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1807740/",
+      "conditions": {
+        "method": "新規インストール後、Event 15 : \"The Sphinx’s Riddle\"クリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1120pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837025",
+      "name": "Ball Sort Puzzle：ボールソーティングパズル（プレイヤーレベル500到達）（iOS）",
+      "cashback": "1120pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837025/",
+      "conditions": {
+        "method": "新規インストール後、プレイヤーレベル500到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1120pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838591",
+      "name": "LINEシェフ",
+      "cashback": "1120pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838591/",
+      "conditions": {
+        "method": "15番目のレストラン『グリルJ』をオープン(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1120pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836468",
+      "name": "TikTok",
+      "cashback": "1081pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836468/",
+      "conditions": {
+        "method": "初回起動日に動画10分視聴(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1081pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829958",
+      "name": "マジンマンション",
+      "cashback": "1080pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829958/",
+      "conditions": {
+        "method": "新規アプリインストール後、11部屋目クリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1080pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836523",
+      "name": "バルーン パズル - 3Dマッチ パズルゲーム",
+      "cashback": "1077pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836523/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1077pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803718",
+      "name": "Woody Sort（シークレット（隠し）レベル 100クリア）（iOS）",
+      "cashback": "1056pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803718/",
+      "conditions": {
+        "method": "新規インストール後、シークレット（隠し）レベル100クリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1056pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1805754",
+      "name": "Match Factory!",
+      "cashback": "1056pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1805754/",
+      "conditions": {
+        "method": "30日以内にステージレベル600クリア(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1056pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1795507",
+      "name": "タイトーオンラインクレーン",
+      "cashback": "1056pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1795507/",
+      "conditions": {
+        "method": "初回課金(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1056pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830037",
+      "name": "Car Out - パーキングジャム 3D",
+      "cashback": "1048pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830037/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1048pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1799915",
+      "name": "サバイバルアイランド――放置型ストラテジーゲーム（凍てつく島の船LV.9到達）（iOS）",
+      "cashback": "1040pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1799915/",
+      "conditions": {
+        "method": "新規インストール後、凍てつく島の船LV.9到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1040pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830041",
+      "name": "マジンアイランド",
+      "cashback": "1038pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830041/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1038pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803324",
+      "name": "引っ越しペンギン（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1034pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803324/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1034pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803322",
+      "name": "捨て猫レスキュー（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1034pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803322/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1034pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1803323",
+      "name": "派遣モンスター（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "1034pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1803323/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1034pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1832256",
+      "name": "Goods Match 3D: 収納ゲームマスター",
+      "cashback": "1029pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1832256/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1029pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1805041",
+      "name": "BIGO LIVE（アプリランド）",
+      "cashback": "1020pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1805041/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1020pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837238",
+      "name": "ハロータウン(Hello Town)：マージ＆ストーリー",
+      "cashback": "1008pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837238/",
+      "conditions": {
+        "method": "新規アプリインストール後、起動⇒\nプレイヤーレベル55到達",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1008pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829653",
+      "name": "ポイ活＆懸賞マッチ3パズルゲーム（アプリランド）",
+      "cashback": "1008pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829653/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1008pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829646",
+      "name": "ポイ活&懸賞クレーンゲーム（アプリランド）",
+      "cashback": "1008pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829646/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1008pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1832230",
+      "name": "Tile Master 3D: マッチング パズルゲーム",
+      "cashback": "1003pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1832230/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "1003pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1829967",
+      "name": "勇者ランキング",
+      "cashback": "971pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1829967/",
+      "conditions": {
+        "method": "新規アプリインストール後、372番目のクエストクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "971pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836771",
+      "name": "Woody Block Color Blast（レベル13到達）（iOS）",
+      "cashback": "960pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836771/",
+      "conditions": {
+        "method": "新規インストール後、レベル13に到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "960pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1762024",
+      "name": "TikTok（10分間動画視聴完了）",
+      "cashback": "960pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1762024/",
+      "conditions": {
+        "method": "初回インストール起動後、10分間動画視聴完了で成果",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "960pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1823406",
+      "name": "Sliding Match Puzzle Game（チャレンジ20クリア）（iOS）",
+      "cashback": "960pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1823406/",
+      "conditions": {
+        "method": "新規インストール後、チャレンジ20クリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "960pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1775872",
+      "name": "カプコンネットキャッチャー カプとれ",
+      "cashback": "950pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1775872/",
+      "conditions": {
+        "method": "インストール後起動→初回課金(課金金額の指定なし)",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "950pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833858",
+      "name": "Falling Match -3D Tidy Master",
+      "cashback": "937pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833858/",
+      "conditions": {
+        "method": "プレイヤーレベル320到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "937pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836532",
+      "name": "サバイバルアイランド――放置型ストラテジーゲーム",
+      "cashback": "932pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836532/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "932pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838587",
+      "name": "ルナルナ　ファミリーコース",
+      "cashback": "916pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838587/",
+      "conditions": {
+        "method": "新規で、広告クリックから24時間以内に月額330円（税込）コースの有料課金登録を行うと成果となります。",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "916pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1793245",
+      "name": "ときめきパティスリー・ゆるかわ系経営シミュレーション（レベル25到達）（iOS）",
+      "cashback": "896pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1793245/",
+      "conditions": {
+        "method": "新規インストール後、レベル25到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "896pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1798992",
+      "name": "Number Match: Ten Crush Puzzl（レベル500クリア）（iOS）",
+      "cashback": "896pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1798992/",
+      "conditions": {
+        "method": "新規インストール後、レベル500クリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "896pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1770049",
+      "name": "カプコンネットキャッチャー カプとれ_iOS",
+      "cashback": "880pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1770049/",
+      "conditions": {
+        "method": "新規インストール後、チャージ完了で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "880pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830454",
+      "name": "テイペンウォーズ",
+      "cashback": "879pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830454/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "879pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838276",
+      "name": "Spoon(スプーン) : 音声コンテンツライブ配信アプリ（アプリランド）",
+      "cashback": "844pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838276/",
+      "conditions": {
+        "method": "遷移先の「アプリランド」ページをご確認ください",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "844pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834566",
+      "name": "商人サーガ 「魔王城でお店開けって言われた」",
+      "cashback": "842pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834566/",
+      "conditions": {
+        "method": "新規アプリインストール後\n・200Fクリア\n・400Fクリア\n・600Fクリア\n達成で成果となります",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "842pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837078",
+      "name": "Merge Sweets(マージスウィーツ)",
+      "cashback": "831pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837078/",
+      "conditions": {
+        "method": "新規アプリインストール後、プレイヤーレベル50達成で成果",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "831pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838324",
+      "name": "Merge Inn",
+      "cashback": "831pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838324/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル16クリアで成果",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "831pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835335",
+      "name": "8 Ball Pool",
+      "cashback": "816pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835335/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル22到達",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "816pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1821018",
+      "name": "Mirrativ",
+      "cashback": "816pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1821018/",
+      "conditions": {
+        "method": "7日以内にチュートリアルをすべて完了(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "816pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1838079",
+      "name": "メカアサルト",
+      "cashback": "816pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1838079/",
+      "conditions": {
+        "method": "13日以内にメインステージ10-5クリア(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "816pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833420",
+      "name": "draw flights - puzzle game",
+      "cashback": "807pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833420/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "807pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1832268",
+      "name": "ブロックマスター",
+      "cashback": "807pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1832268/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "807pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837093",
+      "name": "8 Ball Pool",
+      "cashback": "806pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837093/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル22到達で成果",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "806pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1783317",
+      "name": "LUCK ROCK オンラインクレーンゲーム（ラックロック）（初回課金）（iOS）",
+      "cashback": "800pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1783317/",
+      "conditions": {
+        "method": "新規インストール後、初回課金（LRC購入）で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "800pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1791661",
+      "name": "実りの地（レベル25到達）（iOS）",
+      "cashback": "800pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1791661/",
+      "conditions": {
+        "method": "新規インストール後、レベル25到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "800pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1765854",
+      "name": "出荷ぶた -冬ver-（牧場レベル60）",
+      "cashback": "800pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1765854/",
+      "conditions": {
+        "method": "新規インストール後、牧場レベル60(周回数60)到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "800pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1765861",
+      "name": "出荷ぶた（牧場レベル60）",
+      "cashback": "800pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1765861/",
+      "conditions": {
+        "method": "新規インストール後、牧場レベル60(周回数60)到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "800pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1770047",
+      "name": "クラウドキャッチャー（初回課金）（iOS）",
+      "cashback": "800pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1770047/",
+      "conditions": {
+        "method": "新規インストール後、初回課金で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "800pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1819787",
+      "name": "Woody Sort（シークレット（隠し）レベル 100クリア）（iOS）",
+      "cashback": "783pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1819787/",
+      "conditions": {
+        "method": "シークレット（隠し）レベル 100クリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "783pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1819927",
+      "name": "モーリーオンライン（初回課金（MPチャージ））（iOS）",
+      "cashback": "768pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1819927/",
+      "conditions": {
+        "method": "新規インストール後、初回課金（MPチャージ）で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "768pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1766785",
+      "name": "オンラインクレーンゲーム「アラクレ」（iOS）",
+      "cashback": "768pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1766785/",
+      "conditions": {
+        "method": "新規インストール後、初回課金完了で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "768pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1805110",
+      "name": "サメサメ進化論（LV.43マッコウクジラをアンロック）（iOS）",
+      "cashback": "768pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1805110/",
+      "conditions": {
+        "method": "新規インストール後、LV.43マッコウクジラをアンロックで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "768pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836698",
+      "name": "Take Off Bolts: Screw Puzzle",
+      "cashback": "761pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836698/",
+      "conditions": {
+        "method": "レベル800クリア(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "761pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1835586",
+      "name": "Ten Crush",
+      "cashback": "761pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1835586/",
+      "conditions": {
+        "method": "ステージ5到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "761pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834175",
+      "name": "Triple Match 3D - Tidy Puzzle",
+      "cashback": "761pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834175/",
+      "conditions": {
+        "method": "プレイヤーレベル400到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "761pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1819909",
+      "name": "モーリーオンライン",
+      "cashback": "759pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1819909/",
+      "conditions": {
+        "method": "新規インストール後起動→初回課金",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "759pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1795423",
+      "name": "ナムコオンラインクレーン",
+      "cashback": "759pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1795423/",
+      "conditions": {
+        "method": "新規インストール後起動→30日以内の初回課金・課金金額の指定なし",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "759pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1837328",
+      "name": "ピコットタウン",
+      "cashback": "755pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1837328/",
+      "conditions": {
+        "method": "新規アプリインストール後、レベル32到達",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "755pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1834573",
+      "name": "もふもふ！お弁当パズル",
+      "cashback": "720pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1834573/",
+      "conditions": {
+        "method": "新規アプリインストール後、おかずのプロフィールNo1～81まで獲得",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "720pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1770025",
+      "name": "勇者「入部させてください…」",
+      "cashback": "720pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1770025/",
+      "conditions": {
+        "method": "新規インストール後、ステージ10クリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "720pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1793833",
+      "name": "Kyash（キャッシュ）-チャージ式Visaカード（初回決済）（iOS）",
+      "cashback": "720pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1793833/",
+      "conditions": {
+        "method": "新規インストール後、アプリでの初回決済で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "720pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1792248",
+      "name": "Save the Pets（深さ(DEPTH)2000メートル到達）（iOS）",
+      "cashback": "720pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1792248/",
+      "conditions": {
+        "method": "新規インストール後、深さ(DEPTH)2000メートル到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "720pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1795205",
+      "name": "Berry Factory Tycoon（jelly concern (ゼリー工場複合施設)に到達）（iOS）",
+      "cashback": "720pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1795205/",
+      "conditions": {
+        "method": "新規インストール後、jelly concern (ゼリー工場複合施設)に到達で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "720pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830464",
+      "name": "Water Sort Puzzle - ソートパズルゲーム",
+      "cashback": "712pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830464/",
+      "conditions": {
+        "method": "Level300達成",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "712pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1784130",
+      "name": "暇つぶしゲーム Merge Cars",
+      "cashback": "712pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1784130/",
+      "conditions": {
+        "method": "新規インストール後起動→レベル50到達で成果（到達目安10日）",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "712pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1795436",
+      "name": "ナムコオンラインクレーン（初回課金（NPチャージ））（iOS）",
+      "cashback": "704pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1795436/",
+      "conditions": {
+        "method": "新規インストール後、初回課金（NPチャージ）で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "704pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1824985",
+      "name": "ポイ活稼ぐPayクレーンメダルゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "692pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1824985/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "692pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1814156",
+      "name": "TikTok Lite（ギフトリンク/2日間連続チェックイン）（iOS）",
+      "cashback": "680pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1814156/",
+      "conditions": {
+        "method": "新規インストール後、新規アカウント作成し、2日間連続チェックイン完了で成果（ミッション参加から10日以内）",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "680pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1794601",
+      "name": "Kyash",
+      "cashback": "672pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1794601/",
+      "conditions": {
+        "method": "初回決済完了(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "672pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830065",
+      "name": "Kyash（キャッシュ）-チャージ式Visaカード（初回決済）",
+      "cashback": "672pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830065/",
+      "conditions": {
+        "method": "新規アプリインストール後、初回決済",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "672pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1823751",
+      "name": "ポイ活&懸賞ナンプレ - 暇つぶしゲーム 人気 脳トレ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "660pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1823751/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "660pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1823607",
+      "name": "ポイ活&懸賞ソリティア - 暇つぶしゲーム 脳トレ 人気（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "660pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1823607/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "660pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1831434",
+      "name": "Backpack Rush: Bag Merge（チャプター25をクリア）（iOS）",
+      "cashback": "640pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1831434/",
+      "conditions": {
+        "method": "新規インストール後、チャプター25をクリアで成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "640pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1766551",
+      "name": "捨て猫レスキュー（空き地のリセット31回）（iOS）",
+      "cashback": "640pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1766551/",
+      "conditions": {
+        "method": "新規インストール後、空き地のリセット31回完了(周回数31)で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "640pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1791971",
+      "name": "ロードママ 夢の屋台：韓国料理タイクーン（口コミ300達成）（iOS）",
+      "cashback": "640pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1791971/",
+      "conditions": {
+        "method": "新規インストール後、口コミ300達成で成果",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "640pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833863",
+      "name": "Goods Triple 3D-Sorting Puzzle",
+      "cashback": "628pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833863/",
+      "conditions": {
+        "method": "プレーヤーレベル400クリア(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "628pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1833878",
+      "name": "Ball Sort Puzzle：ボールソーティングパズル",
+      "cashback": "628pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1833878/",
+      "conditions": {
+        "method": "プレイヤーレベル500到達(インストール後、条件達成)",
+        "pending": "15分程度",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "628pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1836909",
+      "name": "ジム タイクーン",
+      "cashback": "621pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1836909/",
+      "conditions": {
+        "method": "新規アプリインストール後、各ステップクリア",
+        "pending": "なし",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "621pt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1830076",
+      "name": "えみぅ　歩いて育ててポイ活アプリ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "cashback": "620pt",
+      "category": "アプリ",
+      "url": "https://www.chobirich.com/ad_details/1830076/",
+      "conditions": {
+        "method": "遷移先の「アプリdeちょ～リッチ」ページをご確認ください",
+        "pending": "無し",
+        "creditDate": "条件達成後、15分程度"
+      },
+      "debug": {
+        "methods": [
+          {
+            "method": "AdDetails__pt ItemPtLarge (ポイント)",
+            "result": "620pt"
+          }
+        ]
+      }
+    }
+  ]
+}
