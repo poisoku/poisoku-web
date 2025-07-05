@@ -2,6 +2,7 @@ interface SearchResult {
   id: string;
   siteName: string;
   cashback: string;
+  cashbackYen?: string;
   device: 'PC' | 'iOS' | 'Android' | 'All' | 'iOS/Android';
   url: string;
   lastUpdated: string;

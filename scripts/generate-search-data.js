@@ -7,6 +7,26 @@ const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS
 class SearchDataGenerator {
   constructor() {
     this.supabase = createClient(supabaseUrl, supabaseKey);
+    
+    // ポイントサイトごとの円換算レート
+    this.conversionRates = {
+      'ちょびリッチ': 0.5,      // 2ポイント = 1円
+      'ハピタス': 1,            // 1ポイント = 1円
+      'モッピー': 1,            // 1ポイント = 1円
+      'ポイントインカム': 0.1,  // 10ポイント = 1円
+      'ポイントタウン': 0.05,   // 20ポイント = 1円
+      'ECナビ': 0.1,            // 10ポイント = 1円
+      'げん玉': 0.1,            // 10ポイント = 1円
+      'ポイぷる': 0.1,          // 10ポイント = 1円
+      'アメフリ': 0.1,          // 10ポイント = 1円
+      'ワラウ': 0.1,            // 10ポイント = 1円
+      'ニフティポイントクラブ': 1, // 1ポイント = 1円
+      'すぐたま': 0.5,          // 2ポイント = 1円
+      'GetMoney!': 0.1,         // 10ポイント = 1円
+      'Gポイント': 1,           // 1ポイント = 1円
+      'colleee': 0.1,           // 10ポイント = 1円
+      'Unknown': 1              // デフォルト: 1ポイント = 1円
+    };
   }
 
   async generateSearchData() {
@@ -73,6 +93,7 @@ class SearchDataGenerator {
         id: campaign.id,
         siteName: campaign.point_sites?.name || 'Unknown',
         cashback: campaign.cashback_rate,
+        cashbackYen: this.convertToYen(campaign.cashback_rate, campaign.point_sites?.name || 'Unknown'),
         device: campaign.device,
         url: campaign.campaign_url || campaign.point_sites?.url || '#',
         lastUpdated: new Date(campaign.updated_at).toLocaleString('ja-JP'),
@@ -174,6 +195,53 @@ class SearchDataGenerator {
     }
     
     return weight;
+  }
+
+  // ポイントを円に換算する関数
+  convertToYen(cashback, siteName) {
+    // 入力値のクリーニング
+    const cleanedCashback = cashback.trim();
+    
+    // %表記の場合はそのまま返す
+    if (cleanedCashback.includes('%') || cleanedCashback.includes('％')) {
+      return cleanedCashback;
+    }
+    
+    // 「円」が既に含まれている場合はそのまま返す
+    if (cleanedCashback.includes('円')) {
+      return cleanedCashback;
+    }
+    
+    // 「要確認」などの特殊な値の場合はそのまま返す
+    if (cleanedCashback === '要確認' || cleanedCashback === '-' || cleanedCashback === '') {
+      return cleanedCashback;
+    }
+    
+    // 数値とポイント/ptを抽出
+    const pointMatch = cleanedCashback.match(/^(\d+(?:,\d{3})*(?:\.\d+)?)\s*(?:ポイント|point|pt|p)?$/i);
+    
+    if (!pointMatch) {
+      // 数値が抽出できない場合はそのまま返す
+      return cleanedCashback;
+    }
+    
+    // カンマを除去して数値に変換
+    const pointValue = parseFloat(pointMatch[1].replace(/,/g, ''));
+    
+    if (isNaN(pointValue)) {
+      return cleanedCashback;
+    }
+    
+    // サイト名から換算レートを取得
+    const conversionRate = this.conversionRates[siteName] || this.conversionRates['Unknown'];
+    
+    // 円に換算
+    const yenValue = Math.floor(pointValue * conversionRate);
+    
+    // 3桁区切りでフォーマット
+    const formattedYen = yenValue.toLocaleString('ja-JP');
+    
+    return `${formattedYen}円`;
   }
 
   // カテゴリ別統計を生成

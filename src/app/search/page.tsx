@@ -263,7 +263,7 @@ function SearchContent() {
                                 </a>
                               </td>
                               <td className="px-6 py-4">
-                                <span className="text-2xl font-bold text-green-600">{result.cashback}</span>
+                                <span className="text-2xl font-bold text-green-600">{result.cashbackYen || result.cashback}</span>
                               </td>
                               <td className="px-6 py-4">
                                 <a
