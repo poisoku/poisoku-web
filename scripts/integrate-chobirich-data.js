@@ -114,7 +114,7 @@ class ChobirichDataIntegrator {
           name: this.createUniqueName(campaign.name, campaign.id, file.source),
           point_site_id: this.chobirichSiteId,
           cashback_rate: this.formatCashbackRate(campaign),
-          device: this.mapDevice(campaign.os || file.type),
+          device: this.mapDevice(campaign.os || file.type, campaign),
           campaign_url: campaign.url,
           description: this.formatDescription(campaign),
           is_active: true,
@@ -168,19 +168,53 @@ class ChobirichDataIntegrator {
     return '要確認';
   }
 
-  // デバイス情報をマッピング
-  mapDevice(os) {
-    if (!os) return 'All';
-    
-    switch (os) {
-      case 'iOS': return 'iOS';
-      case 'ios': return 'iOS';
-      case 'Android': return 'Android';
-      case 'android': return 'Android';
-      case '全デバイス': return 'All';
-      case 'unknown': return 'All';
-      default: return 'All';
+  // デバイス情報をマッピング（案件名からも判定）
+  mapDevice(os, campaign) {
+    // まず元のOS情報をチェック
+    if (os) {
+      switch (os) {
+        case 'iOS': return 'iOS';
+        case 'ios': return 'iOS';
+        case 'Android': return 'Android';
+        case 'android': return 'Android';
+        case '全デバイス': return 'All';
+      }
     }
+    
+    // 案件名からデバイス情報を推測
+    if (campaign && campaign.name) {
+      const name = campaign.name.toLowerCase();
+      
+      // Android判定パターン
+      if (name.includes('（android）') || 
+          name.includes('(android)') || 
+          name.includes('android用') ||
+          name.includes('android版') ||
+          name.includes('android限定')) {
+        return 'Android';
+      }
+      
+      // iOS判定パターン  
+      if (name.includes('（ios）') || 
+          name.includes('(ios)') || 
+          name.includes('ios用') ||
+          name.includes('ios版') ||
+          name.includes('ios限定') ||
+          name.includes('iphone') ||
+          name.includes('ipad')) {
+        return 'iOS';
+      }
+      
+      // スマホ全般を示すパターン
+      if (name.includes('スマホ') || 
+          name.includes('スマートフォン') ||
+          name.includes('携帯')) {
+        return 'iOS/Android';
+      }
+    }
+    
+    // 判定できない場合はAll
+    return 'All';
   }
 
   // カテゴリをマッピング（既存の制約に合わせる）
