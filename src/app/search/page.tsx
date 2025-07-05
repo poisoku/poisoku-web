@@ -38,19 +38,19 @@ function SearchContent() {
   const searchCampaigns = async (searchQuery: string, osFilter: string = 'all') => {
     setLoading(true);
     try {
-      // 実際のAPIを呼び出し
-      const params = new URLSearchParams();
-      params.set('q', searchQuery);
-      if (osFilter !== 'all') {
-        params.set('os', osFilter);
-      }
-      params.set('limit', '50');
+      // 静的検索を使用
+      const { searchCampaigns: staticSearch } = await import('@/lib/staticSearch');
+      
+      const result = await staticSearch({
+        keyword: searchQuery,
+        osFilter: osFilter as any,
+        limit: 50,
+        offset: 0,
+        sortBy: 'relevance'
+      });
 
-      const response = await fetch(`/api/search?${params.toString()}`);
-      const result = await response.json();
-
-      if (!response.ok || !result.success) {
-        throw new Error(result.error || '検索に失敗しました');
+      if (!result.success) {
+        throw new Error('検索に失敗しました');
       }
 
       setResults(result.data.results);
