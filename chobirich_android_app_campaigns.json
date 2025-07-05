@@ -1,14 +1,14 @@
 {
-  "scrape_date": "2025-07-05T03:55:53.422Z",
+  "scrape_date": "2025-07-05T22:23:03.515Z",
   "strategy": "android_app_scraper_final",
   "summary": {
-    "total_processed": 534,
-    "app_campaigns_found": 534,
+    "total_processed": 537,
+    "app_campaigns_found": 537,
     "errors": 2,
     "os_breakdown": {
       "ios": 62,
       "android": 1,
-      "both": 471,
+      "both": 474,
       "unknown": 0
     }
   },
@@ -4817,6 +4817,33 @@
       "os": "ios",
       "method": "7日間体験セット",
       "timestamp": "2025-07-05T03:55:53.397Z"
+    },
+    {
+      "id": "1828630",
+      "name": "マンガワン",
+      "url": "https://www.chobirich.com/ad_details/1828630",
+      "cashback": "144ポイント",
+      "os": "both",
+      "method": "7日間無料体験登録(インストール後、条件達成)",
+      "timestamp": "2025-07-05T22:22:55.670Z"
+    },
+    {
+      "id": "1824214",
+      "name": "GLIT",
+      "url": "https://www.chobirich.com/ad_details/1824214",
+      "cashback": "99ポイント",
+      "os": "both",
+      "method": "レベル500クリア(インストール後、条件達成)",
+      "timestamp": "2025-07-05T22:22:59.562Z"
+    },
+    {
+      "id": "1832098",
+      "name": "タウンWiFi",
+      "url": "https://www.chobirich.com/ad_details/1832098",
+      "cashback": "93ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後、レベル32到達",
+      "timestamp": "2025-07-05T22:23:03.488Z"
     }
   ]
 }
