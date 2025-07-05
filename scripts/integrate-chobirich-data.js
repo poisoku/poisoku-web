@@ -104,8 +104,12 @@ class ChobirichDataIntegrator {
         
         console.log(`📄 ${file.path}: ${campaigns.length}件の案件を読み込み`);
         
+        // 不要案件をフィルタリングしてから変換
+        const validCampaigns = campaigns.filter(campaign => this.isValidCampaign(campaign));
+        console.log(`🔍 フィルタリング: ${campaigns.length}件 → ${validCampaigns.length}件 (${campaigns.length - validCampaigns.length}件除外)`);
+        
         // 統合用フォーマットに変換
-        const transformedCampaigns = campaigns.map((campaign, index) => ({
+        const transformedCampaigns = validCampaigns.map((campaign, index) => ({
           // 既存のcampaignsテーブル構造に合わせる
           name: this.createUniqueName(campaign.name, campaign.id, file.source),
           point_site_id: this.chobirichSiteId,
@@ -299,6 +303,74 @@ class ChobirichDataIntegrator {
     } catch (error) {
       console.error('💥 統合エラー:', error);
     }
+  }
+
+  // 案件の有効性を判定（不要案件を除外）
+  isValidCampaign(campaign) {
+    if (!campaign || !campaign.name) {
+      return false;
+    }
+
+    const name = campaign.name.toLowerCase();
+    
+    // 除外パターン（案件ではない特別企画やバナー等）
+    const excludePatterns = [
+      // 特別企画・キャンペーン
+      /大還元際/,
+      /キャンペーン/,
+      /特集/,
+      /イベント/,
+      /まとめ/,
+      /ランキング/,
+      /新着/,
+      /おすすめ/,
+      /人気/,
+      /注目/,
+      
+      // 不完全なデータ
+      /^名前不明/,
+      /^案件名不明/,
+      /^undefined/,
+      /^null/,
+      /^\s*$/,
+      
+      // 一般的でない文字列
+      /^test/i,
+      /^sample/i,
+      /^demo/i,
+      
+      // 非常に短すぎる名前（2文字以下）
+      /^.{0,2}$/,
+    ];
+
+    // 除外パターンに一致するかチェック
+    for (const pattern of excludePatterns) {
+      if (pattern.test(name)) {
+        console.log(`🚫 除外: ${campaign.name} (理由: ${pattern})`);
+        return false;
+      }
+    }
+
+    // URLパターンのチェック（有効な案件URLの形式）
+    if (campaign.url) {
+      const url = campaign.url;
+      // ちょびリッチの案件URLは通常 /ad_details/数字/ の形式
+      if (url.includes('chobirich.com') && !url.includes('/ad_details/')) {
+        console.log(`🚫 除外: ${campaign.name} (理由: 無効なURL形式)`);
+        return false;
+      }
+    }
+
+    // 還元率が明らかに無効な場合
+    if (campaign.cashback) {
+      const cashback = campaign.cashback.toLowerCase();
+      if (cashback.includes('error') || cashback.includes('null') || cashback.includes('undefined')) {
+        console.log(`🚫 除外: ${campaign.name} (理由: 無効な還元率)`);
+        return false;
+      }
+    }
+
+    return true;
   }
 }
 
