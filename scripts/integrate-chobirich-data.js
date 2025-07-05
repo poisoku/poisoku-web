@@ -115,7 +115,7 @@ class ChobirichDataIntegrator {
           point_site_id: this.chobirichSiteId,
           cashback_rate: this.formatCashbackRate(campaign),
           device: this.mapDevice(file.type || campaign.os),
-          campaign_url: campaign.url,
+          campaign_url: campaign.url ? campaign.url.replace(/\/$/, '') : campaign.url,
           description: this.formatDescription(campaign),
           is_active: true,
           category: this.mapCategory(campaign.category, file.source)
@@ -362,12 +362,17 @@ class ChobirichDataIntegrator {
         console.log(`🚫 除外: ${campaign.name} (理由: 無効なURL形式)`);
         return false;
       }
+      // メインサイトのURL（案件詳細ではない）を除外
+      if (url === 'https://chobirich.com' || url === 'https://www.chobirich.com') {
+        console.log(`🚫 除外: ${campaign.name} (理由: メインサイトURL)`);
+        return false;
+      }
     }
 
     // 還元率が明らかに無効な場合
     if (campaign.cashback) {
       const cashback = campaign.cashback.toLowerCase();
-      if (cashback.includes('error') || cashback.includes('null') || cashback.includes('undefined')) {
+      if (cashback.includes('error') || cashback.includes('null') || cashback.includes('undefined') || cashback === 'なし') {
         console.log(`🚫 除外: ${campaign.name} (理由: 無効な還元率)`);
         return false;
       }
