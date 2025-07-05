@@ -60,15 +60,15 @@ class ChobirichDataIntegrator {
     
     // アプリ案件ファイルも存在するかチェック
     try {
-      await fs.access('chobirich-ios-app-campaigns.json');
-      files.push({ path: 'chobirich-ios-app-campaigns.json', source: 'app' });
+      await fs.access('chobirich_android_ios_apps_data.json');
+      files.push({ path: 'chobirich_android_ios_apps_data.json', source: 'app', type: 'ios' });
     } catch (e) {
       console.log('iOS アプリ案件ファイルが見つかりません');
     }
     
     try {
-      await fs.access('chobirich-android-app-campaigns.json');
-      files.push({ path: 'chobirich-android-app-campaigns.json', source: 'app' });
+      await fs.access('chobirich_android_app_campaigns.json');
+      files.push({ path: 'chobirich_android_app_campaigns.json', source: 'app', type: 'android' });
     } catch (e) {
       console.log('Android アプリ案件ファイルが見つかりません');
     }
@@ -84,6 +84,15 @@ class ChobirichDataIntegrator {
           // サービス案件の場合、JSONの構造を確認
           const jsonData = JSON.parse(data);
           campaigns = jsonData.campaigns || jsonData; // campaignsプロパティがある場合とない場合に対応
+        } else if (file.path.includes('android_app_campaigns')) {
+          // Android アプリ案件の場合
+          const jsonData = JSON.parse(data);
+          campaigns = jsonData.app_campaigns || [];
+          console.log(`📱 Android app campaigns sample:`, campaigns[0]);
+        } else if (file.path.includes('android_ios_apps_data')) {
+          // iOS アプリ案件の場合
+          const jsonData = JSON.parse(data);
+          campaigns = jsonData.apps || jsonData.campaigns || jsonData;
         } else {
           campaigns = JSON.parse(data);
         }
@@ -101,7 +110,7 @@ class ChobirichDataIntegrator {
           name: this.createUniqueName(campaign.name, campaign.id, file.source),
           point_site_id: this.chobirichSiteId,
           cashback_rate: this.formatCashbackRate(campaign),
-          device: this.mapDevice(campaign.os),
+          device: this.mapDevice(campaign.os || file.type),
           campaign_url: campaign.url,
           description: this.formatDescription(campaign),
           is_active: true,
@@ -129,7 +138,8 @@ class ChobirichDataIntegrator {
     }[source] || '[その他]';
     
     // 案件名が重複を避けるため、ID付きにする
-    return `${sourcePrefix}${cleanName}`.substring(0, 240) + `_${id.slice(-8)}`;
+    const idSuffix = id ? `_${String(id).slice(-8)}` : `_${Date.now()}`;
+    return `${sourcePrefix}${cleanName}`.substring(0, 240) + idSuffix;
   }
 
   // 案件名をクリーンアップ
@@ -160,8 +170,11 @@ class ChobirichDataIntegrator {
     
     switch (os) {
       case 'iOS': return 'iOS';
+      case 'ios': return 'iOS';
       case 'Android': return 'Android';
+      case 'android': return 'Android';
       case '全デバイス': return 'All';
+      case 'unknown': return 'All';
       default: return 'All';
     }
   }
