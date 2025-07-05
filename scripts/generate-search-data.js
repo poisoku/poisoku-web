@@ -98,6 +98,7 @@ class SearchDataGenerator {
         url: campaign.campaign_url || campaign.point_sites?.url || '#',
         lastUpdated: new Date(campaign.updated_at).toLocaleString('ja-JP'),
         description: campaign.name,
+        displayName: this.createDisplayName(campaign.name),
         campaignUrl: campaign.campaign_url,
         pointSiteUrl: campaign.point_sites?.url,
         category: campaign.category,
@@ -242,6 +243,27 @@ class SearchDataGenerator {
     const formattedYen = yenValue.toLocaleString('ja-JP');
     
     return `${formattedYen}円`;
+  }
+
+  // 表示用の案件名を作成（IDサフィックスを除去）
+  createDisplayName(fullName) {
+    if (!fullName) return '案件名不明';
+    
+    // IDサフィックス（_1234567 形式）を除去
+    let displayName = fullName.replace(/_\d+$/, '');
+    
+    // プレフィックス（[ショップ]、[サービス]、[アプリ]）を除去
+    displayName = displayName.replace(/^\[(?:ショップ|サービス|アプリ|その他)\]/, '');
+    
+    // 余分な空白を除去
+    displayName = displayName.trim();
+    
+    // 空になった場合はフォールバック
+    if (!displayName || displayName === '') {
+      return '案件名不明';
+    }
+    
+    return displayName;
   }
 
   // カテゴリ別統計を生成

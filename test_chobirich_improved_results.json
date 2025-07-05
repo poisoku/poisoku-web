@@ -1,0 +1,64 @@
+{
+  "test_date": "2025-07-04T22:21:40.755Z",
+  "total_tests": 5,
+  "successful_tests": 5,
+  "ios_success": 3,
+  "android_success": 2,
+  "results": [
+    {
+      "id": "1794491",
+      "name": "WINTICKET",
+      "url": "https://www.chobirich.com/ad_details/1794491/",
+      "cashback": "925ポイント",
+      "os": "unknown",
+      "testedOs": "ios",
+      "method": "?",
+      "success": true,
+      "timestamp": "2025-07-04T22:20:28.964Z"
+    },
+    {
+      "id": "1794491",
+      "name": "エラー",
+      "url": "https://www.chobirich.com/ad_details/1794491/",
+      "cashback": "不明",
+      "os": "unknown",
+      "testedOs": "android",
+      "method": "不明",
+      "success": true,
+      "timestamp": "2025-07-04T22:20:40.241Z"
+    },
+    {
+      "id": "1804736",
+      "name": "ザ・グランドマフィア（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1804736/",
+      "cashback": "810ポイント",
+      "os": "unknown",
+      "testedOs": "ios",
+      "method": "?",
+      "success": true,
+      "timestamp": "2025-07-04T22:20:56.918Z"
+    },
+    {
+      "id": "1837931",
+      "name": "マフィア・シティ-極道風雲（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837931/",
+      "cashback": "184ポイント",
+      "os": "unknown",
+      "testedOs": "ios",
+      "method": "?",
+      "success": true,
+      "timestamp": "2025-07-04T22:21:19.396Z"
+    },
+    {
+      "id": "1837931",
+      "name": "エラー",
+      "url": "https://www.chobirich.com/ad_details/1837931/",
+      "cashback": "不明",
+      "os": "unknown",
+      "testedOs": "android",
+      "method": "不明",
+      "success": true,
+      "timestamp": "2025-07-04T22:21:30.619Z"
+    }
+  ]
+}

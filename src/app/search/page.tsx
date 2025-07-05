@@ -272,7 +272,7 @@ function SearchContent() {
                                   rel="noopener noreferrer"
                                   className="font-medium text-gray-600 hover:text-blue-600 hover:underline transition-colors leading-5"
                                 >
-                                  {result.description ? result.description.substring(0, 100) + (result.description.length > 100 ? '...' : '') : '案件詳細'}
+                                  {result.displayName ? result.displayName.substring(0, 100) + (result.displayName.length > 100 ? '...' : '') : (result.description ? result.description.substring(0, 100) + (result.description.length > 100 ? '...' : '') : '案件詳細')}
                                 </a>
                               </td>
                               <td className="px-6 py-4">

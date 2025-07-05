@@ -1,0 +1,75 @@
+{
+  "test_date": "2025-07-04T22:26:15.430Z",
+  "summary": {
+    "ios_total": 5,
+    "android_total": 2,
+    "total": 7
+  },
+  "ios_campaigns": [
+    {
+      "id": "1794491",
+      "name": "WINTICKET",
+      "url": "https://www.chobirich.com/ad_details/1794491/",
+      "cashback": "292",
+      "os": "ios",
+      "method": "インストール後、条件達成)",
+      "timestamp": "2025-07-04T22:25:07.925Z"
+    },
+    {
+      "id": "1804736",
+      "name": "ザ・グランドマフィア（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1804736/",
+      "cashback": "199",
+      "os": "ios",
+      "method": "インストール日・時刻）/広告主発行の申込完了メール/アプリの場合はプレイヤー情報画面キャプチャなどが必要です。ま",
+      "timestamp": "2025-07-04T22:25:18.714Z"
+    },
+    {
+      "id": "1837931",
+      "name": "マフィア・シティ-極道風雲（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837931/",
+      "cashback": "801",
+      "os": "ios",
+      "method": "インストール日・時刻）/広告主発行の申込完了メール/アプリの場合はプレイヤー情報画面キャプチャなどが必要です。ま",
+      "timestamp": "2025-07-04T22:25:29.379Z"
+    },
+    {
+      "id": "1842976",
+      "name": "エラー",
+      "url": "https://www.chobirich.com/ad_details/1842976/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "初回利用でボーナスポイント",
+      "timestamp": "2025-07-04T22:25:39.541Z"
+    },
+    {
+      "id": "1850436",
+      "name": "エラー",
+      "url": "https://www.chobirich.com/ad_details/1850436/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "初回利用でボーナスポイント",
+      "timestamp": "2025-07-04T22:25:49.655Z"
+    }
+  ],
+  "android_campaigns": [
+    {
+      "id": "1794491",
+      "name": "エラー",
+      "url": "https://www.chobirich.com/ad_details/1794491/",
+      "cashback": "不明",
+      "os": "android",
+      "method": "初回利用でボーナスポイント",
+      "timestamp": "2025-07-04T22:25:59.949Z"
+    },
+    {
+      "id": "1804736",
+      "name": "エラー",
+      "url": "https://www.chobirich.com/ad_details/1804736/",
+      "cashback": "不明",
+      "os": "android",
+      "method": "初回利用でボーナスポイント",
+      "timestamp": "2025-07-04T22:26:10.304Z"
+    }
+  ]
+}

@@ -7,6 +7,7 @@ interface SearchResult {
   url: string;
   lastUpdated: string;
   description?: string;
+  displayName?: string;
   campaignUrl?: string;
   pointSiteUrl?: string;
   category: string;
