@@ -186,10 +186,27 @@ export async function searchCampaigns(options: SearchOptions = {}) {
         bValue = (b as any).relevanceScore || b.searchWeight;
         break;
       case 'cashback':
-        // 円換算値を優先して数値抽出してソート
-        aValue = extractNumericValue(a.cashbackYen || a.cashback);
-        bValue = extractNumericValue(b.cashbackYen || b.cashback);
-        break;
+        // パーセント案件を優先し、その後数値でソート
+        const aIsPercent = (a.cashback || '').includes('%');
+        const bIsPercent = (b.cashback || '').includes('%');
+        
+        if (aIsPercent && !bIsPercent) {
+          // aが%、bが円の場合、aを優先
+          return sortOrder === 'desc' ? -1 : 1;
+        } else if (!aIsPercent && bIsPercent) {
+          // aが円、bが%の場合、bを優先
+          return sortOrder === 'desc' ? 1 : -1;
+        } else {
+          // 両方が同じタイプの場合は数値比較
+          aValue = extractNumericValue(a.cashbackYen || a.cashback);
+          bValue = extractNumericValue(b.cashbackYen || b.cashback);
+          
+          if (sortOrder === 'asc') {
+            return aValue > bValue ? 1 : -1;
+          } else {
+            return aValue < bValue ? 1 : -1;
+          }
+        }
       case 'updated':
         aValue = new Date(a.lastUpdated).getTime();
         bValue = new Date(b.lastUpdated).getTime();
@@ -203,10 +220,13 @@ export async function searchCampaigns(options: SearchOptions = {}) {
         bValue = b.searchWeight;
     }
     
-    if (sortOrder === 'asc') {
-      return aValue > bValue ? 1 : -1;
-    } else {
-      return aValue < bValue ? 1 : -1;
+    // cashback以外の場合の標準ソート
+    if (sortBy !== 'cashback') {
+      if (sortOrder === 'asc') {
+        return aValue > bValue ? 1 : -1;
+      } else {
+        return aValue < bValue ? 1 : -1;
+      }
     }
   });
 
