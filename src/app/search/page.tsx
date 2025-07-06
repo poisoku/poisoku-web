@@ -243,10 +243,10 @@ function SearchContent() {
                     <table className="w-full">
                       <thead>
                         <tr className="bg-gradient-to-r from-blue-50 to-indigo-50 border-b border-gray-200">
-                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600">サイト</th>
-                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600">還元率</th>
+                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-20 min-w-20">ポイントサイト</th>
+                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-16">還元率</th>
                           <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600">案件名</th>
-                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600">デバイス</th>
+                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-12">デバイス</th>
                         </tr>
                       </thead>
                       <tbody className="divide-y divide-gray-100">
@@ -254,18 +254,18 @@ function SearchContent() {
                           const deviceInfo = getDeviceIcon(result.device);
                           return (
                             <tr key={result.id} className="hover:bg-blue-50/50 transition-colors">
-                              <td className="px-2 sm:px-4 py-1 sm:py-2">
+                              <td className="px-2 sm:px-4 py-1 sm:py-2 w-20 min-w-20">
                                 <a
                                   href={result.pointSiteUrl || result.url}
                                   target="_blank"
                                   rel="noopener noreferrer"
-                                  className="text-xs sm:text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline transition-colors"
+                                  className="text-xs sm:text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline transition-colors whitespace-nowrap overflow-hidden text-ellipsis block"
                                 >
-                                  {result.siteName === 'ちょびリッチ' ? 'ちょび' : result.siteName}
+                                  {result.siteName}
                                 </a>
                               </td>
-                              <td className="px-2 sm:px-4 py-1 sm:py-2">
-                                <span className="text-sm sm:text-lg font-bold text-green-600">{result.cashbackYen || result.cashback}</span>
+                              <td className="px-2 sm:px-4 py-1 sm:py-2 w-16">
+                                <span className="text-sm sm:text-lg font-bold text-green-600 whitespace-nowrap">{result.cashbackYen || result.cashback}</span>
                               </td>
                               <td className="px-2 sm:px-4 py-1 sm:py-2">
                                 <a
@@ -274,10 +274,10 @@ function SearchContent() {
                                   rel="noopener noreferrer"
                                   className="text-xs sm:text-sm text-gray-600 hover:text-blue-600 hover:underline transition-colors leading-tight"
                                 >
-                                  {result.displayName ? result.displayName.substring(0, 80) + (result.displayName.length > 80 ? '...' : '') : (result.description ? result.description.substring(0, 80) + (result.description.length > 80 ? '...' : '') : '案件詳細')}
+                                  {result.displayName ? result.displayName.substring(0, 60) + (result.displayName.length > 60 ? '...' : '') : (result.description ? result.description.substring(0, 60) + (result.description.length > 60 ? '...' : '') : '案件詳細')}
                                 </a>
                               </td>
-                              <td className="px-2 sm:px-4 py-1 sm:py-2">
+                              <td className="px-2 sm:px-4 py-1 sm:py-2 w-12">
                                 <div className="flex items-center gap-0.5 sm:gap-1">
                                   <span className="text-sm sm:text-base">{deviceInfo.icon}</span>
                                   <span className="text-xs sm:text-xs font-medium text-gray-700 hidden sm:inline">{deviceInfo.label}</span>
