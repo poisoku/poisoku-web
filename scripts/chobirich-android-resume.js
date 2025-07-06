@@ -349,9 +349,9 @@ class ChobirichAndroidResume {
           const pointElement = document.querySelector('.AdDetails__pt.ItemPtLarge');
           if (pointElement) {
             const text = pointElement.textContent.trim();
-            const match = text.match(/(?:最大)?([\d,]+)(?:ちょび)?(?:ポイント|pt)/);
+            const match = text.match(/((?:\d{1,3}(?:,\d{3})*|\d+)(?:ちょび)?(?:ポイント|pt))/);
             if (match) {
-              cashback = match[1] + 'ポイント';
+              cashback = match[0];
             }
           }
 
