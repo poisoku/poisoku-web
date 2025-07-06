@@ -246,7 +246,7 @@ function SearchContent() {
                           <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-20 min-w-20">サイト</th>
                           <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-16">還元</th>
                           <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600">案件名</th>
-                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-12">デバイス</th>
+                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-16 sm:w-20">デバイス</th>
                         </tr>
                       </thead>
                       <tbody className="divide-y divide-gray-100">
@@ -277,10 +277,10 @@ function SearchContent() {
                                   {result.displayName ? result.displayName.substring(0, 60) + (result.displayName.length > 60 ? '...' : '') : (result.description ? result.description.substring(0, 60) + (result.description.length > 60 ? '...' : '') : '案件詳細')}
                                 </a>
                               </td>
-                              <td className="px-2 sm:px-4 py-1 sm:py-2 w-12">
+                              <td className="px-2 sm:px-4 py-1 sm:py-2 w-16 sm:w-20">
                                 <div className="flex items-center gap-0.5 sm:gap-1">
                                   <span className="text-sm sm:text-base">{deviceInfo.icon}</span>
-                                  <span className="text-xs sm:text-xs font-medium text-gray-700 hidden sm:inline">{deviceInfo.label}</span>
+                                  <span className="text-xs sm:text-xs font-medium text-gray-700 hidden sm:inline whitespace-nowrap">{deviceInfo.label}</span>
                                 </div>
                               </td>
                             </tr>
