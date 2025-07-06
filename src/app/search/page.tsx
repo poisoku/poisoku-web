@@ -8,10 +8,12 @@ interface SearchResult {
   id: string;
   siteName: string;
   cashback: string;
+  cashbackYen?: string;
   device: 'PC' | 'iOS' | 'Android' | 'All' | 'iOS/Android';
   url: string;
   lastUpdated: string;
   description?: string;
+  displayName?: string;
   campaignUrl?: string;
   pointSiteUrl?: string;
 }
@@ -46,7 +48,7 @@ function SearchContent() {
         osFilter: osFilter as any,
         limit: 50,
         offset: 0,
-        sortBy: 'relevance'
+        sortBy: 'cashback'
       });
 
       if (!result.success) {

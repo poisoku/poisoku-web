@@ -166,9 +166,9 @@ export async function searchCampaigns(options: SearchOptions = {}) {
         bValue = (b as any).relevanceScore || b.searchWeight;
         break;
       case 'cashback':
-        // 還元率の数値を抽出してソート
-        aValue = extractNumericValue(a.cashback);
-        bValue = extractNumericValue(b.cashback);
+        // 円換算値を優先して数値抽出してソート
+        aValue = extractNumericValue(a.cashbackYen || a.cashback);
+        bValue = extractNumericValue(b.cashbackYen || b.cashback);
         break;
       case 'updated':
         aValue = new Date(a.lastUpdated).getTime();
@@ -215,10 +215,15 @@ export async function searchCampaigns(options: SearchOptions = {}) {
   };
 }
 
-// 還元率から数値を抽出
+// 還元率から数値を抽出（円換算値とポイント値の両方に対応）
 function extractNumericValue(cashback: string): number {
-  const match = cashback.match(/(\d+(?:\.\d+)?)/);
-  return match ? parseFloat(match[1]) : 0;
+  // カンマ区切りの数値にも対応（例：99,905円）
+  const match = cashback.match(/(\d{1,3}(?:,\d{3})*(?:\.\d+)?)/);
+  if (match) {
+    // カンマを除去して数値に変換
+    return parseFloat(match[1].replace(/,/g, ''));
+  }
+  return 0;
 }
 
 export async function getPopularKeywords(): Promise<Array<{keyword: string; count: number}>> {
