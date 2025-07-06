@@ -44031,106 +44031,23 @@
       "category": "shopping",
       "searchKeywords": "[ショップ]ジャルパック 海外ツアー 0.5→1.5％ 旅行完了_57752",
       "searchWeight": 1.8
-    },
-    {
-      "id": "c13ac652-cc47-40f8-aba8-74ba2ca45bad",
-      "siteName": "ポイントインカム",
-      "cashback": "0.8%",
-      "cashbackYen": "0.8%",
-      "device": "All",
-      "url": "https://shopping.yahoo.co.jp",
-      "lastUpdated": "2025/6/27 12:04:52",
-      "description": "Yahoo!ショッピング",
-      "displayName": "Yahoo!ショッピング",
-      "campaignUrl": "https://shopping.yahoo.co.jp",
-      "pointSiteUrl": "https://pointi.jp",
-      "category": "shopping",
-      "searchKeywords": "yahoo!ショッピング",
-      "searchWeight": 1
-    },
-    {
-      "id": "c324053f-0242-4b0c-81b2-d560c09824a7",
-      "siteName": "ポイントタウン",
-      "cashback": "0.6%",
-      "cashbackYen": "0.6%",
-      "device": "All",
-      "url": "https://shopping.yahoo.co.jp",
-      "lastUpdated": "2025/6/27 12:04:52",
-      "description": "Yahoo!ショッピング",
-      "displayName": "Yahoo!ショッピング",
-      "campaignUrl": "https://shopping.yahoo.co.jp",
-      "pointSiteUrl": "https://pointtown.com",
-      "category": "shopping",
-      "searchKeywords": "yahoo!ショッピング",
-      "searchWeight": 1
-    },
-    {
-      "id": "aa6ea39b-e3e5-4aa9-8b15-8f60be0c949e",
-      "siteName": "ポイントインカム",
-      "cashback": "1.0%",
-      "cashbackYen": "1.0%",
-      "device": "All",
-      "url": "https://www.rakuten.co.jp",
-      "lastUpdated": "2025/6/27 12:04:52",
-      "description": "楽天市場",
-      "displayName": "楽天市場",
-      "campaignUrl": "https://www.rakuten.co.jp",
-      "pointSiteUrl": "https://pointi.jp",
-      "category": "shopping",
-      "searchKeywords": "楽天市場",
-      "searchWeight": 1
-    },
-    {
-      "id": "6703d959-341e-4839-8022-3bdce410a6f1",
-      "siteName": "ポイントタウン",
-      "cashback": "1.0%",
-      "cashbackYen": "1.0%",
-      "device": "All",
-      "url": "https://www.rakuten.co.jp",
-      "lastUpdated": "2025/6/27 12:04:52",
-      "description": "楽天市場",
-      "displayName": "楽天市場",
-      "campaignUrl": "https://www.rakuten.co.jp",
-      "pointSiteUrl": "https://pointtown.com",
-      "category": "shopping",
-      "searchKeywords": "楽天市場",
-      "searchWeight": 1
-    },
-    {
-      "id": "2d992e7e-d27f-41b0-89a2-4bb9a1194d31",
-      "siteName": "ポイントインカム",
-      "cashback": "0.5%",
-      "cashbackYen": "0.5%",
-      "device": "PC",
-      "url": "https://www.amazon.co.jp",
-      "lastUpdated": "2025/6/27 12:04:52",
-      "description": "Amazon",
-      "displayName": "Amazon",
-      "campaignUrl": "https://www.amazon.co.jp",
-      "pointSiteUrl": "https://pointi.jp",
-      "category": "shopping",
-      "searchKeywords": "amazon",
-      "searchWeight": 1
     }
   ],
   "metadata": {
-    "totalCampaigns": 2757,
-    "lastUpdated": "2025-07-06T01:38:57.223Z",
+    "totalCampaigns": 2752,
+    "lastUpdated": "2025-07-06T01:51:16.579Z",
     "categories": {
       "entertainment": 614,
       "finance": 1215,
-      "shopping": 928
+      "shopping": 923
     },
     "devices": {
       "Android": 519,
       "iOS": 95,
-      "All": 2142,
-      "PC": 1
+      "All": 2138
     },
     "sites": {
-      "ちょびリッチ": 2752,
-      "ポイントインカム": 3,
-      "ポイントタウン": 2
+      "ちょびリッチ": 2752
     },
     "maxCashbackData": {
       "amount": "199810ポイント",
