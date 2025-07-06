@@ -93,6 +93,26 @@ export async function searchCampaigns(options: SearchOptions = {}) {
   const searchData = await loadSearchData();
   let results = [...searchData.campaigns];
 
+  // 無効な還元率の案件を除外
+  results = results.filter(campaign => {
+    const cashback = campaign.cashback || '';
+    const cashbackYen = campaign.cashbackYen || '';
+    
+    // 除外パターン
+    const invalidPatterns = [
+      '要確認',
+      '不明',
+      'なし',
+      '未定',
+      'TBD',
+      '確認中'
+    ];
+    
+    return !invalidPatterns.some(pattern => 
+      cashback.includes(pattern) || cashbackYen.includes(pattern)
+    );
+  });
+
   // キーワード検索
   if (keyword && keyword.trim().length > 0) {
     const searchTerms = keyword.toLowerCase().split(/\s+/).filter(term => term.length > 0);

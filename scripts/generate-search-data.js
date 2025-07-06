@@ -88,8 +88,27 @@ class SearchDataGenerator {
 
       console.log(`✅ ${campaigns.length}件のキャンペーンを取得`);
 
+      // 無効な還元率の案件を除外
+      const validCampaigns = campaigns.filter(campaign => {
+        const cashback = campaign.cashback_rate || '';
+        
+        // 除外パターン
+        const invalidPatterns = [
+          '要確認',
+          '不明',
+          'なし',
+          '未定',
+          'TBD',
+          '確認中'
+        ];
+        
+        return !invalidPatterns.some(pattern => cashback.includes(pattern));
+      });
+
+      console.log(`🔍 有効な還元率の案件: ${validCampaigns.length}件 (${campaigns.length - validCampaigns.length}件を除外)`);
+
       // 検索用データフォーマットに変換
-      const searchData = campaigns.map(campaign => ({
+      const searchData = validCampaigns.map(campaign => ({
         id: campaign.id,
         siteName: campaign.point_sites?.name || 'Unknown',
         cashback: campaign.cashback_rate,
@@ -109,13 +128,13 @@ class SearchDataGenerator {
       }));
 
       // カテゴリ別統計を生成
-      const categoryStats = this.generateCategoryStats(campaigns);
+      const categoryStats = this.generateCategoryStats(validCampaigns);
       
       // デバイス別統計を生成
-      const deviceStats = this.generateDeviceStats(campaigns);
+      const deviceStats = this.generateDeviceStats(validCampaigns);
       
       // サイト別統計を生成
-      const siteStats = this.generateSiteStats(campaigns);
+      const siteStats = this.generateSiteStats(validCampaigns);
 
       // 最高還元率データを生成（過去7日間）
       const maxCashbackData = await this.generateMaxCashbackData();
