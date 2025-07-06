@@ -246,7 +246,7 @@ function SearchContent() {
                           <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-20 min-w-20">サイト</th>
                           <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-16">還元</th>
                           <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600">案件名</th>
-                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-16 sm:w-20">デバイス</th>
+                          <th className="px-2 sm:px-4 py-1 sm:py-2 text-left text-xs sm:text-xs font-semibold text-gray-600 w-16 sm:w-20">端末</th>
                         </tr>
                       </thead>
                       <tbody className="divide-y divide-gray-100">
