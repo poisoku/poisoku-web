@@ -1,0 +1,65 @@
+{
+  "siteName": "ポイントインカム",
+  "testRun": true,
+  "scrapedAt": "2025-07-06T09:07:02.062Z",
+  "summary": {
+    "total_campaigns": 5
+  },
+  "campaigns": [
+    {
+      "id": "pi_151817",
+      "title": "【即pt】注文住宅に関するアンケート",
+      "url": "https://pointi.jp/ad/151817/",
+      "cashback": null,
+      "cashbackYen": "50円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "即追加",
+      "lastUpdated": "2025/7/6 18:06:33"
+    },
+    {
+      "id": "pi_151638",
+      "title": "週刊文春電子版（初月300円/2カ月目以降2200円コース)",
+      "url": "https://pointi.jp/ad/151638/",
+      "cashback": null,
+      "cashbackYen": "300円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "即追加",
+      "lastUpdated": "2025/7/6 18:06:40"
+    },
+    {
+      "id": "pi_125555",
+      "title": "【即pt】Oh!Ya(オーヤ)無料アンケートキャンペーン",
+      "url": "https://pointi.jp/ad/125555/",
+      "cashback": null,
+      "cashbackYen": "250円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "即追加",
+      "lastUpdated": "2025/7/6 18:06:46"
+    },
+    {
+      "id": "pi_153325",
+      "title": "ビンテージ風のオイルランプ【アウトドアクイズ】",
+      "url": "https://pointi.jp/ad/153325/",
+      "cashback": null,
+      "cashbackYen": "1円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "即追加",
+      "lastUpdated": "2025/7/6 18:06:53"
+    },
+    {
+      "id": "pi_138255",
+      "title": "暑中見舞い・残暑見舞いテンプレートBANK 無料会員登録",
+      "url": "https://pointi.jp/ad/138255/",
+      "cashback": null,
+      "cashbackYen": "30円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "即追加",
+      "lastUpdated": "2025/7/6 18:07:00"
+    }
+  ]
+}

@@ -1,6 +1,96 @@
 {
   "campaigns": [
     {
+      "id": "4e113b80-40c4-4b52-a686-42dbd7d18551",
+      "siteName": "ポイントインカム",
+      "cashback": "1100円",
+      "device": "PC",
+      "description": "【7/20で終了】 もち麦満腹バースターターセット",
+      "searchKeywords": "【7/20で終了】 もち麦満腹バースターターセット",
+      "category": "shopping"
+    },
+    {
+      "id": "58f6d9d6-b822-4e5a-9c41-975e57367b53",
+      "siteName": "ポイントインカム",
+      "cashback": "5%",
+      "device": "PC",
+      "description": "シャープ公式通販サイト　cocorostore（ココロストア）",
+      "searchKeywords": "シャープ公式通販サイト　cocorostore（ココロストア）",
+      "category": "shopping"
+    },
+    {
+      "id": "0fa1a96e-5980-4ded-a52c-e6c2b4d349b0",
+      "siteName": "ポイントインカム",
+      "cashback": "5%",
+      "device": "PC",
+      "description": "Swarovski(スワロフスキー)",
+      "searchKeywords": "swarovski(スワロフスキー)",
+      "category": "shopping"
+    },
+    {
+      "id": "9c35afe8-b1ff-4b2b-83e1-06eb040b3342",
+      "siteName": "ポイントインカム",
+      "cashback": "4%",
+      "device": "PC",
+      "description": "ダイソーネットストア　DAISO",
+      "searchKeywords": "ダイソーネットストア　daiso",
+      "category": "shopping"
+    },
+    {
+      "id": "4dd9a36c-d85b-4a68-a2a3-249e756e5d75",
+      "siteName": "ポイントインカム",
+      "cashback": "10%",
+      "device": "PC",
+      "description": "【初回購入限定】Green Beans（グリーンビーンズ）",
+      "searchKeywords": "【初回購入限定】green beans（グリーンビーンズ）",
+      "category": "shopping"
+    },
+    {
+      "id": "17063ddb-9778-46ae-b1e2-5391369dfa81",
+      "siteName": "ポイントインカム",
+      "cashback": "7%",
+      "device": "PC",
+      "description": "BROOKS（ブルックス）",
+      "searchKeywords": "brooks（ブルックス）",
+      "category": "shopping"
+    },
+    {
+      "id": "01b936ee-2929-43b0-8134-8b0dd176b80f",
+      "siteName": "ポイントインカム",
+      "cashback": "6%",
+      "device": "PC",
+      "description": "FISS（フィス）",
+      "searchKeywords": "fiss（フィス）",
+      "category": "shopping"
+    },
+    {
+      "id": "1585ff63-773c-4c08-963c-f082e7ff2d8e",
+      "siteName": "ポイントインカム",
+      "cashback": "4%",
+      "device": "PC",
+      "description": "PETIT BATEAU（プチバトーオンラインブティック）",
+      "searchKeywords": "petit bateau（プチバトーオンラインブティック）",
+      "category": "shopping"
+    },
+    {
+      "id": "d63be144-86e4-4481-9ada-1939f67c859f",
+      "siteName": "ポイントインカム",
+      "cashback": "8%",
+      "device": "PC",
+      "description": "DHOLIC（ディーホリック）",
+      "searchKeywords": "dholic（ディーホリック）",
+      "category": "shopping"
+    },
+    {
+      "id": "c6754a9e-b833-4ec5-8dc0-35a98097f0fc",
+      "siteName": "ポイントインカム",
+      "cashback": "2%",
+      "device": "PC",
+      "description": "SHEIN（シーイン）　リピート用",
+      "searchKeywords": "shein（シーイン）　リピート用",
+      "category": "shopping"
+    },
+    {
       "id": "9b0889fe-c487-4f27-a55b-13f729e6d15e",
       "siteName": "ちょびリッチ",
       "cashback": "93ポイント",
@@ -24185,7 +24275,7 @@
     }
   ],
   "metadata": {
-    "totalCampaigns": 2752,
-    "lastUpdated": "2025-07-06T02:00:53.120Z"
+    "totalCampaigns": 2762,
+    "lastUpdated": "2025-07-08T02:46:54.554Z"
   }
 }
