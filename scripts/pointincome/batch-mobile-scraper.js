@@ -278,23 +278,27 @@ class PointIncomeBatchMobileScraper {
           data.title = titleEl.textContent.trim();
         }
         
-        // ポイント数取得（モバイル版）
-        const pointEl = document.querySelector('.point');
-        if (pointEl) {
-          const pointText = pointEl.textContent.trim();
-          // "750pt" のような形式から数値を抽出
+        // ポイント数取得（モバイル版） - 正しいセレクターを優先的に使用
+        const mainPtEl = document.querySelector('.detail_calcu_pt.red.bold');
+        if (mainPtEl) {
+          const pointText = mainPtEl.textContent.trim();
+          // "55,000pt" のような形式から数値を抽出
           const pointMatch = pointText.match(/(\d{1,3}(?:,\d{3})*(?:\.\d+)?)pt/i);
           if (pointMatch) {
             const ptValue = parseFloat(pointMatch[1].replace(/,/g, ''));
             const yenValue = Math.floor(ptValue / 10); // 10pt = 1円で換算
-            data.yenText = `(${yenValue}円分)`;
+            data.yenText = `${yenValue}円`;
           }
         }
         
-        // 還元率取得（モバイル版）
+        // パーセント還元取得（モバイル版） - プロモーション表記は除外
         const percentEl = document.querySelector('.point-triangle');
         if (percentEl) {
-          data.percentText = percentEl.textContent.trim();
+          const percentText = percentEl.textContent.trim();
+          // "138%還元"のような表記は除外
+          if (!percentText.includes('還元')) {
+            data.percentText = percentText;
+          }
         }
         
         // 条件取得（モバイル版では異なる場所）
@@ -317,10 +321,8 @@ class PointIncomeBatchMobileScraper {
       }
       
       if (detailData.yenText) {
-        const match = detailData.yenText.match(/[（(](\d{1,3}(?:,\d{3})*(?:\.\d+)?)円分[）)]/);
-        if (match) {
-          cashbackYen = match[1].replace(/,/g, '') + '円';
-        }
+        // すでに円換算済みの値を使用
+        cashbackYen = detailData.yenText;
       }
       
       if (!detailData.title || (!cashback && !cashbackYen)) {

@@ -1,9 +1,9 @@
 {
-  "integratedAt": "2025-07-11T21:57:01.354Z",
+  "integratedAt": "2025-07-13T06:10:45.037Z",
   "summary": {
-    "total_campaigns": 1177,
+    "total_campaigns": 1143,
     "main_categories": 1043,
-    "mobile_apps": 134,
+    "mobile_apps": 100,
     "integration_status": "success"
   },
   "details": {
@@ -17,10 +17,10 @@
       "batch_size": 12
     },
     "mobile_scraping": {
-      "total_campaigns": 134,
+      "total_campaigns": 100,
       "device_breakdown": {
-        "iOS": 63,
-        "Android": 61,
+        "iOS": 48,
+        "Android": 42,
         "PC": 0,
         "すべて": 10
       },
