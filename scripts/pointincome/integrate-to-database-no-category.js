@@ -37,7 +37,7 @@ const supabase = createClient(supabaseUrl, supabaseServiceKey, {
 });
 
 async function integrateData() {
-  console.log('🔄 ポイントインカムデータのデータベース統合開始');
+  console.log('🔄 ポイントインカムデータのデータベース統合開始（categoryカラムなしバージョン）');
   
   try {
     // データファイル読み込み
@@ -84,8 +84,32 @@ async function integrateData() {
     const pointSiteId = pointSite.id;
     console.log(`✅ ポイントサイトID: ${pointSiteId}`);
 
-    // データ変換（データベース形式に合わせる）
+    // データ変換（データベース形式に合わせる）- categoryなし
     console.log('\n🔧 データ変換中...');
+    
+    // カテゴリ別統計を収集（表示用）
+    const categoryStats = {};
+    allCampaigns.forEach(campaign => {
+      let category = 'other';
+      if (campaign.category) {
+        if (campaign.category === 'モバイルアプリ' || campaign.categoryType === 'app') {
+          category = 'app';
+        } else if (campaign.category.includes('ショッピング') || campaign.category.includes('EC')) {
+          category = 'shopping';
+        } else if (campaign.category.includes('金融') || campaign.category.includes('クレジット')) {
+          category = 'finance';
+        } else if (campaign.category.includes('サービス')) {
+          category = 'service';
+        }
+      }
+      categoryStats[category] = (categoryStats[category] || 0) + 1;
+    });
+    
+    console.log('\n📊 カテゴリ別内訳（メタデータのみ）:');
+    Object.entries(categoryStats).forEach(([category, count]) => {
+      console.log(`  ${category}: ${count}件`);
+    });
+    
     const transformedCampaigns = allCampaigns.map(campaign => {
       // デバイス名の変換
       let device = campaign.device || 'All';
@@ -99,22 +123,7 @@ async function integrateData() {
       const cashbackRate = (campaign.cashback || campaign.cashbackYen || '不明').substring(0, 50);
       const description = (campaign.description || campaign.title || '').substring(0, 500);
       
-      // カテゴリマッピング
-      let category = 'other';
-      if (campaign.category) {
-        if (campaign.category === 'モバイルアプリ' || campaign.categoryType === 'app') {
-          category = 'app';
-        } else if (campaign.category.includes('ショッピング') || campaign.category.includes('EC')) {
-          category = 'shopping';
-        } else if (campaign.category.includes('金融') || campaign.category.includes('クレジット')) {
-          category = 'finance';
-        } else if (campaign.category.includes('サービス')) {
-          category = 'service';
-        } else {
-          category = 'other';
-        }
-      }
-      
+      // categoryカラムを除外したオブジェクトを返す
       return {
         name: name,
         point_site_id: pointSiteId,
@@ -122,7 +131,6 @@ async function integrateData() {
         device: device,
         campaign_url: campaign.campaignUrl,
         description: description,
-        category: category,
         is_active: true
       };
     });
@@ -141,16 +149,6 @@ async function integrateData() {
     }
     
     console.log(`📊 重複除去: ${transformedCampaigns.length}件 → ${uniqueCampaigns.length}件`);
-    
-    // カテゴリ別統計を表示
-    const categoryStats = {};
-    uniqueCampaigns.forEach(campaign => {
-      categoryStats[campaign.category] = (categoryStats[campaign.category] || 0) + 1;
-    });
-    console.log('📊 カテゴリ別内訳:');
-    Object.entries(categoryStats).forEach(([category, count]) => {
-      console.log(`  ${category}: ${count}件`);
-    });
     
     // 既存データ削除
     console.log('\n🗑️ 既存のポイントインカムデータを削除中...');
@@ -189,7 +187,7 @@ async function integrateData() {
     console.log('\n📊 統合結果を確認中...');
     const { data: stats, error: statsError } = await supabase
       .from('campaigns')
-      .select('device, category, cashback_rate')
+      .select('device, cashback_rate')
       .eq('point_site_id', pointSiteId);
     
     if (statsError) {
@@ -197,12 +195,10 @@ async function integrateData() {
     } else {
       // デバイス別集計
       const deviceStats = {};
-      const categoryStatsDB = {};
       const cashbackStats = {};
       
       stats.forEach(row => {
         deviceStats[row.device] = (deviceStats[row.device] || 0) + 1;
-        categoryStatsDB[row.category || 'unknown'] = (categoryStatsDB[row.category || 'unknown'] || 0) + 1;
         if (row.cashback_rate) {
           cashbackStats[row.cashback_rate] = (cashbackStats[row.cashback_rate] || 0) + 1;
         }
@@ -211,11 +207,6 @@ async function integrateData() {
       console.log('\n📱 デバイス別内訳:');
       Object.entries(deviceStats).forEach(([device, count]) => {
         console.log(`  ${device}: ${count}件`);
-      });
-      
-      console.log('\n📁 カテゴリ別内訳:');
-      Object.entries(categoryStatsDB).forEach(([category, count]) => {
-        console.log(`  ${category}: ${count}件`);
       });
       
       console.log('\n💰 還元率別内訳（上位10）:');
@@ -234,8 +225,10 @@ async function integrateData() {
         total_campaigns: allCampaigns.length,
         main_categories: mainData.campaigns.length,
         mobile_apps: mobileData.campaigns.length,
-        integration_status: 'success'
+        integration_status: 'success',
+        category_column: 'not_included'
       },
+      category_breakdown: categoryStats,
       details: {
         main_scraping: mainData.summary,
         mobile_scraping: mobileData.summary
@@ -243,14 +236,15 @@ async function integrateData() {
     };
     
     await fs.writeFile(
-      'integration_report.json',
+      'integration_report_no_category.json',
       JSON.stringify(report, null, 2),
       'utf8'
     );
     
     console.log('\n🎉 データベース統合完了！');
     console.log(`📊 合計 ${allCampaigns.length}件の案件を統合しました`);
-    console.log('💾 統合レポート: integration_report.json');
+    console.log('⚠️ 注意: categoryカラムは含まれていません');
+    console.log('💾 統合レポート: integration_report_no_category.json');
     
   } catch (error) {
     console.error('❌ 統合エラー:', error);
