@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "totalCampaigns": 3,
+    "lastUpdated": "2025-07-16T00:49:04.033Z",
+    "sites": [
+      "ポイントインカム"
+    ],
+    "version": "1.0.0"
+  },
+  "categories": [
+    "EC・ネットショッピング",
+    "ファッション"
+  ],
+  "devices": [
+    "すべて"
+  ],
+  "sites": [
+    "ポイントインカム"
+  ],
+  "campaigns": [
+    {
+      "id": "pi_49384",
+      "name": "ビックカメラ.com",
+      "nameNormalized": "ビックカメラ.com",
+      "site": "ポイントインカム",
+      "cashback": "0.1%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_153049",
+      "name": "【7/20で終了】 もち麦満腹バースターターセット",
+      "nameNormalized": "7/20で終了 もち麦満腹バースターターセット",
+      "site": "ポイントインカム",
+      "cashback": "11,500pt",
+      "cashbackYen": 1150,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_146956",
+      "name": "AliExpress（アリエクスプレス）衣類・雑貨専用",
+      "nameNormalized": "aliexpressアリエクスプレス衣類・雑貨専用",
+      "site": "ポイントインカム",
+      "cashback": "10%",
+      "cashbackYen": 0,
+      "category": "ファッション",
+      "device": "すべて"
+    }
+  ]
+}

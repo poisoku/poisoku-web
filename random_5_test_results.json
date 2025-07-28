@@ -1,0 +1,200 @@
+{
+  "testType": "random_5_campaign_test",
+  "testDate": "2025-07-16T00:20:18.020Z",
+  "summary": {
+    "total_tested": 5,
+    "success_rate": "5/5"
+  },
+  "results": [
+    {
+      "id": "pi_153049",
+      "url": "https://pointi.jp/ad/153049/",
+      "campaignUrl": "https://pointi.jp/ad/153049/",
+      "displayName": "【7/20で終了】 もち麦満腹バースターターセット",
+      "title": "【7/20で終了】 もち麦満腹バースターターセット",
+      "cashback": "11,500pt",
+      "cashbackYen": "1150円",
+      "device": "すべて",
+      "scrapedAt": "2025-07-16T00:19:55.244Z",
+      "debugInfo": {
+        "foundPercentages": [
+          "100%",
+          "80%",
+          "50%",
+          "10%",
+          "3%",
+          "64%",
+          "1%",
+          "2%",
+          "1.9%",
+          "1%"
+        ],
+        "foundPoints": [
+          "1,150pt",
+          "345pt",
+          "11,500pt",
+          "11,500pt",
+          "21,000pt",
+          "77,000pt",
+          "10pt",
+          "10pt",
+          "10pt",
+          "5,000pt"
+        ],
+        "foundYen": [
+          "1,725円",
+          "1,800円",
+          "1,150円"
+        ],
+        "strategy": "fixed_points_large",
+        "extractionMethod": "contextual"
+      }
+    },
+    {
+      "id": "pi_146956",
+      "url": "https://pointi.jp/ad/146956/",
+      "campaignUrl": "https://pointi.jp/ad/146956/",
+      "displayName": "AliExpress（アリエクスプレス）衣類・雑貨専用",
+      "title": "AliExpress（アリエクスプレス）衣類・雑貨専用",
+      "cashback": "10%",
+      "cashbackYen": "",
+      "device": "すべて",
+      "scrapedAt": "2025-07-16T00:20:00.084Z",
+      "debugInfo": {
+        "foundPercentages": [
+          "100%",
+          "80%",
+          "50%",
+          "10%",
+          "10%",
+          "2%",
+          "1.5%",
+          "1%",
+          "7%",
+          "5%"
+        ],
+        "foundPoints": [
+          "0pt"
+        ],
+        "foundYen": [],
+        "strategy": "purchase_percentage"
+      }
+    },
+    {
+      "id": "pi_6475",
+      "url": "https://pointi.jp/ad/6475/",
+      "campaignUrl": "https://pointi.jp/ad/6475/",
+      "displayName": "マクロミル",
+      "title": "マクロミル",
+      "cashback": "2,000pt",
+      "cashbackYen": "200円",
+      "device": "すべて",
+      "scrapedAt": "2025-07-16T00:20:05.043Z",
+      "debugInfo": {
+        "foundPercentages": [
+          "100%",
+          "80%",
+          "50%",
+          "10%",
+          "3%",
+          "4.1%",
+          "4.1%"
+        ],
+        "foundPoints": [
+          "200pt",
+          "60pt",
+          "2,000pt",
+          "1,500pt",
+          "2,000pt",
+          "300pt",
+          "80pt",
+          "3,100pt",
+          "8,000pt",
+          "10pt"
+        ],
+        "foundYen": [
+          "300円",
+          "200円",
+          "1円"
+        ],
+        "strategy": "fixed_points_large",
+        "extractionMethod": "contextual"
+      }
+    },
+    {
+      "id": "pi_151070",
+      "url": "https://pointi.jp/ad/151070/",
+      "campaignUrl": "https://pointi.jp/ad/151070/",
+      "displayName": "FISS（フィス）",
+      "title": "FISS（フィス）",
+      "cashback": "100%",
+      "cashbackYen": "",
+      "device": "すべて",
+      "scrapedAt": "2025-07-16T00:20:10.537Z",
+      "debugInfo": {
+        "foundPercentages": [
+          "100%",
+          "80%",
+          "50%",
+          "10%",
+          "3%",
+          "6%",
+          "4%",
+          "6%",
+          "6%",
+          "4.5%"
+        ],
+        "foundPoints": [
+          "0pt"
+        ],
+        "foundYen": [],
+        "strategy": "general_percentage"
+      }
+    },
+    {
+      "id": "pi_149139",
+      "url": "https://pointi.jp/ad/149139/",
+      "campaignUrl": "https://pointi.jp/ad/149139/",
+      "displayName": "SHEIN（シーイン）　 新規購入用",
+      "title": "SHEIN（シーイン）　 新規購入用",
+      "cashback": "5,000pt",
+      "cashbackYen": "500円",
+      "device": "すべて",
+      "scrapedAt": "2025-07-16T00:20:15.986Z",
+      "debugInfo": {
+        "foundPercentages": [
+          "100%",
+          "80%",
+          "50%",
+          "10%",
+          "3%",
+          "22%",
+          "12%",
+          "22%",
+          "1%",
+          "8.5%"
+        ],
+        "foundPoints": [
+          "0pt",
+          "10pt",
+          "5,000pt",
+          "80pt",
+          "850pt",
+          "2,000pt",
+          "10pt",
+          "5,000pt",
+          "80pt",
+          "850pt"
+        ],
+        "foundYen": [
+          "2,000円",
+          "5,000円",
+          "2,000円",
+          "300円"
+        ],
+        "strategy": "fixed_points_large",
+        "extractionMethod": "frequency"
+      }
+    }
+  ]
+}

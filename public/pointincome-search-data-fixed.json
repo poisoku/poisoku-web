@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "totalCampaigns": 3,
+    "lastUpdated": "2025-07-16T00:49:04.033Z",
+    "sites": [
+      "ポイントインカム"
+    ],
+    "version": "1.0.0"
+  },
+  "campaigns": [
+    {
+      "id": "pi_49384",
+      "name": "ビックカメラ.com",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/49384/",
+      "description": "ビックカメラ.com",
+      "cashback": "0.1%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:40:00.000Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_153049",
+      "name": "【7/20で終了】 もち麦満腹バースターターセット",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/153049/",
+      "description": "【7/20で終了】 もち麦満腹バースターターセット",
+      "cashback": "11,500pt",
+      "cashbackYen": 1150,
+      "cashbackType": "points",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:40:00.000Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_146956",
+      "name": "AliExpress（アリエクスプレス）衣類・雑貨専用",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/146956/",
+      "description": "AliExpress（アリエクスプレス）衣類・雑貨専用",
+      "cashback": "10%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "ファッション",
+      "lastUpdated": "2025-07-16T00:40:00.000Z",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,2023 @@
+{
+  "siteName": "ポイントインカム",
+  "scrapingType": "dual-platform-app-campaigns",
+  "scrapedAt": "2025-07-17T12:39:46.477Z",
+  "sourceUrl": "https://sp.pointi.jp/list.php?cat_no=68",
+  "scrapingStrategy": {
+    "method": "separate_ios_android_environments",
+    "classification": "platform_based_automatic"
+  },
+  "summary": {
+    "totalCampaigns": 200,
+    "deviceBreakdown": {
+      "iOS": 100,
+      "Android": 100
+    },
+    "platformSpecificCounts": {
+      "iosEnvironmentFound": 100,
+      "androidEnvironmentFound": 100
+    }
+  },
+  "campaigns": [
+    {
+      "id": "pi_app_153565_ios",
+      "title": "Bubble Pop Shooter（Android用）",
+      "url": "https://sp.pointi.jp/ad/153565/",
+      "cashback": "1,500pt",
+      "device": "iOS",
+      "originalTitle": "Bubble Pop Shooter（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153565_android",
+      "title": "Bubble Pop Shooter（Android用）",
+      "url": "https://sp.pointi.jp/ad/153565/",
+      "cashback": "1,500pt",
+      "device": "Android",
+      "originalTitle": "Bubble Pop Shooter（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153564_ios",
+      "title": "Bubble Pop Shooter（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153564/",
+      "cashback": "1,500pt",
+      "device": "iOS",
+      "originalTitle": "Bubble Pop Shooter（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153564_android",
+      "title": "Bubble Pop Shooter（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153564/",
+      "cashback": "1,500pt",
+      "device": "Android",
+      "originalTitle": "Bubble Pop Shooter（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153429_ios",
+      "title": "TRUSTDOCK(トラストドック)",
+      "url": "https://sp.pointi.jp/ad/153429/",
+      "cashback": "1,500pt",
+      "device": "iOS",
+      "originalTitle": "TRUSTDOCK(トラストドック)",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153429_android",
+      "title": "TRUSTDOCK(トラストドック)",
+      "url": "https://sp.pointi.jp/ad/153429/",
+      "cashback": "1,500pt",
+      "device": "Android",
+      "originalTitle": "TRUSTDOCK(トラストドック)",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153353_ios",
+      "title": "三国志:戦乱【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153353/",
+      "cashback": "16,362pt",
+      "device": "iOS",
+      "originalTitle": "三国志:戦乱【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153353_android",
+      "title": "三国志:戦乱【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153353/",
+      "cashback": "16,362pt",
+      "device": "Android",
+      "originalTitle": "三国志:戦乱【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153352_ios",
+      "title": "三国志:戦乱【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/153352/",
+      "cashback": "16,362pt",
+      "device": "iOS",
+      "originalTitle": "三国志:戦乱【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153352_android",
+      "title": "三国志:戦乱【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/153352/",
+      "cashback": "16,362pt",
+      "device": "Android",
+      "originalTitle": "三国志:戦乱【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153295_ios",
+      "title": "エンパイア＆パズルズ -Empires & Puzzles（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153295/",
+      "cashback": "15,000pt",
+      "device": "iOS",
+      "originalTitle": "エンパイア＆パズルズ -Empires & Puzzles（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153295_android",
+      "title": "エンパイア＆パズルズ -Empires & Puzzles（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153295/",
+      "cashback": "15,000pt",
+      "device": "Android",
+      "originalTitle": "エンパイア＆パズルズ -Empires & Puzzles（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_150618_ios",
+      "title": "サメサメ進化論（Android用）",
+      "url": "https://sp.pointi.jp/ad/150618/",
+      "cashback": "4,000pt",
+      "device": "iOS",
+      "originalTitle": "サメサメ進化論（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_150618_android",
+      "title": "サメサメ進化論（Android用）",
+      "url": "https://sp.pointi.jp/ad/150618/",
+      "cashback": "4,000pt",
+      "device": "Android",
+      "originalTitle": "サメサメ進化論（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_150617_ios",
+      "title": "サメサメ進化論（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150617/",
+      "cashback": "4,000pt",
+      "device": "iOS",
+      "originalTitle": "サメサメ進化論（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_150617_android",
+      "title": "サメサメ進化論（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150617/",
+      "cashback": "4,000pt",
+      "device": "Android",
+      "originalTitle": "サメサメ進化論（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153285_ios",
+      "title": "NEOBANK 住信SBIネット銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/153285/",
+      "cashback": "15,000pt",
+      "device": "iOS",
+      "originalTitle": "NEOBANK 住信SBIネット銀行（口座開設）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153285_android",
+      "title": "NEOBANK 住信SBIネット銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/153285/",
+      "cashback": "15,000pt",
+      "device": "Android",
+      "originalTitle": "NEOBANK 住信SBIネット銀行（口座開設）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153544_ios",
+      "title": "ヨヤクスリ 無料会員登録",
+      "url": "https://sp.pointi.jp/ad/153544/",
+      "cashback": "1,000pt",
+      "device": "iOS",
+      "originalTitle": "ヨヤクスリ 無料会員登録",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153544_android",
+      "title": "ヨヤクスリ 無料会員登録",
+      "url": "https://sp.pointi.jp/ad/153544/",
+      "cashback": "1,000pt",
+      "device": "Android",
+      "originalTitle": "ヨヤクスリ 無料会員登録",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151576_ios",
+      "title": "バンドルカード（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151576/",
+      "cashback": "6,000pt",
+      "device": "iOS",
+      "originalTitle": "バンドルカード（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151576_android",
+      "title": "バンドルカード（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151576/",
+      "cashback": "6,000pt",
+      "device": "Android",
+      "originalTitle": "バンドルカード（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151575_ios",
+      "title": "バンドルカード（Android用）",
+      "url": "https://sp.pointi.jp/ad/151575/",
+      "cashback": "6,000pt",
+      "device": "iOS",
+      "originalTitle": "バンドルカード（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151575_android",
+      "title": "バンドルカード（Android用）",
+      "url": "https://sp.pointi.jp/ad/151575/",
+      "cashback": "6,000pt",
+      "device": "Android",
+      "originalTitle": "バンドルカード（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145190_ios",
+      "title": "Dance Of Jewels（Android用）",
+      "url": "https://sp.pointi.jp/ad/145190/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "Dance Of Jewels（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145190_android",
+      "title": "Dance Of Jewels（Android用）",
+      "url": "https://sp.pointi.jp/ad/145190/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "Dance Of Jewels（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153492_ios",
+      "title": "フルーツバブルポップ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153492/",
+      "cashback": "600pt",
+      "device": "iOS",
+      "originalTitle": "フルーツバブルポップ（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153492_android",
+      "title": "フルーツバブルポップ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153492/",
+      "cashback": "600pt",
+      "device": "Android",
+      "originalTitle": "フルーツバブルポップ（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153335_ios",
+      "title": "Merge Inn - マージイン（Android用）",
+      "url": "https://sp.pointi.jp/ad/153335/",
+      "cashback": "5,000pt",
+      "device": "iOS",
+      "originalTitle": "Merge Inn - マージイン（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153335_android",
+      "title": "Merge Inn - マージイン（Android用）",
+      "url": "https://sp.pointi.jp/ad/153335/",
+      "cashback": "5,000pt",
+      "device": "Android",
+      "originalTitle": "Merge Inn - マージイン（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153334_ios",
+      "title": "Merge Inn - マージイン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153334/",
+      "cashback": "5,000pt",
+      "device": "iOS",
+      "originalTitle": "Merge Inn - マージイン（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153334_android",
+      "title": "Merge Inn - マージイン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153334/",
+      "cashback": "5,000pt",
+      "device": "Android",
+      "originalTitle": "Merge Inn - マージイン（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153300_ios",
+      "title": "マスクハガシタインジャー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153300/",
+      "cashback": "1,000pt",
+      "device": "iOS",
+      "originalTitle": "マスクハガシタインジャー（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153300_android",
+      "title": "マスクハガシタインジャー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153300/",
+      "cashback": "1,000pt",
+      "device": "Android",
+      "originalTitle": "マスクハガシタインジャー（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153162_ios",
+      "title": "RAID（レイド）: Shadow Legends（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153162/",
+      "cashback": "10,000pt",
+      "device": "iOS",
+      "originalTitle": "RAID（レイド）: Shadow Legends（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153162_android",
+      "title": "RAID（レイド）: Shadow Legends（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153162/",
+      "cashback": "10,000pt",
+      "device": "Android",
+      "originalTitle": "RAID（レイド）: Shadow Legends（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153178_ios",
+      "title": "ねこのカフェ: てんさいねこシェフ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153178/",
+      "cashback": "1,800pt",
+      "device": "iOS",
+      "originalTitle": "ねこのカフェ: てんさいねこシェフ（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153178_android",
+      "title": "ねこのカフェ: てんさいねこシェフ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153178/",
+      "cashback": "1,800pt",
+      "device": "Android",
+      "originalTitle": "ねこのカフェ: てんさいねこシェフ（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153558_ios",
+      "title": "Dance Of Jewels（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153558/",
+      "cashback": "3,800pt",
+      "device": "iOS",
+      "originalTitle": "Dance Of Jewels（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153558_android",
+      "title": "Dance Of Jewels（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153558/",
+      "cashback": "3,800pt",
+      "device": "Android",
+      "originalTitle": "Dance Of Jewels（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153557_ios",
+      "title": "ワンバンク(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153557/",
+      "cashback": "6,500pt",
+      "device": "iOS",
+      "originalTitle": "ワンバンク(iOS用)",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153557_android",
+      "title": "ワンバンク(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153557/",
+      "cashback": "6,500pt",
+      "device": "Android",
+      "originalTitle": "ワンバンク(iOS用)",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153179_ios",
+      "title": "ねこのカフェ: てんさいねこシェフ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153179/",
+      "cashback": "1,800pt",
+      "device": "iOS",
+      "originalTitle": "ねこのカフェ: てんさいねこシェフ（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153179_android",
+      "title": "ねこのカフェ: てんさいねこシェフ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153179/",
+      "cashback": "1,800pt",
+      "device": "Android",
+      "originalTitle": "ねこのカフェ: てんさいねこシェフ（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153555_ios",
+      "title": "マリッシュ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153555/",
+      "cashback": "1,200pt",
+      "device": "iOS",
+      "originalTitle": "マリッシュ（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153555_android",
+      "title": "マリッシュ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153555/",
+      "cashback": "1,200pt",
+      "device": "Android",
+      "originalTitle": "マリッシュ（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153554_ios",
+      "title": "マリッシュ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153554/",
+      "cashback": "1,200pt",
+      "device": "iOS",
+      "originalTitle": "マリッシュ（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153554_android",
+      "title": "マリッシュ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153554/",
+      "cashback": "1,200pt",
+      "device": "Android",
+      "originalTitle": "マリッシュ（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153451_ios",
+      "title": "家族アルバム みてね（Android用）",
+      "url": "https://sp.pointi.jp/ad/153451/",
+      "cashback": "450pt",
+      "device": "iOS",
+      "originalTitle": "家族アルバム みてね（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153451_android",
+      "title": "家族アルバム みてね（Android用）",
+      "url": "https://sp.pointi.jp/ad/153451/",
+      "cashback": "450pt",
+      "device": "Android",
+      "originalTitle": "家族アルバム みてね（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153449_ios",
+      "title": "家族アルバム みてね（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153449/",
+      "cashback": "450pt",
+      "device": "iOS",
+      "originalTitle": "家族アルバム みてね（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153449_android",
+      "title": "家族アルバム みてね（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153449/",
+      "cashback": "450pt",
+      "device": "Android",
+      "originalTitle": "家族アルバム みてね（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153550_ios",
+      "title": "Colorwood Sort パズルゲーム（Android用）",
+      "url": "https://sp.pointi.jp/ad/153550/",
+      "cashback": "5,000pt",
+      "device": "iOS",
+      "originalTitle": "Colorwood Sort パズルゲーム（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153550_android",
+      "title": "Colorwood Sort パズルゲーム（Android用）",
+      "url": "https://sp.pointi.jp/ad/153550/",
+      "cashback": "5,000pt",
+      "device": "Android",
+      "originalTitle": "Colorwood Sort パズルゲーム（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152468_ios",
+      "title": "出荷ぶた【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152468/",
+      "cashback": "123,034pt",
+      "device": "iOS",
+      "originalTitle": "出荷ぶた【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152468_android",
+      "title": "出荷ぶた【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152468/",
+      "cashback": "123,034pt",
+      "device": "Android",
+      "originalTitle": "出荷ぶた【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152467_ios",
+      "title": "出荷ぶた【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/152467/",
+      "cashback": "123,034pt",
+      "device": "iOS",
+      "originalTitle": "出荷ぶた【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152467_android",
+      "title": "出荷ぶた【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/152467/",
+      "cashback": "123,034pt",
+      "device": "Android",
+      "originalTitle": "出荷ぶた【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_149741_ios",
+      "title": "プリケツにゃー【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/149741/",
+      "cashback": "19,359pt",
+      "device": "iOS",
+      "originalTitle": "プリケツにゃー【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_149741_android",
+      "title": "プリケツにゃー【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/149741/",
+      "cashback": "19,359pt",
+      "device": "Android",
+      "originalTitle": "プリケツにゃー【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_149740_ios",
+      "title": "プリケツにゃー【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/149740/",
+      "cashback": "19,359pt",
+      "device": "iOS",
+      "originalTitle": "プリケツにゃー【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_149740_android",
+      "title": "プリケツにゃー【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/149740/",
+      "cashback": "19,359pt",
+      "device": "Android",
+      "originalTitle": "プリケツにゃー【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153085_ios",
+      "title": "Solitaire Deluxe® 2（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153085/",
+      "cashback": "6,500pt",
+      "device": "iOS",
+      "originalTitle": "Solitaire Deluxe® 2（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153085_android",
+      "title": "Solitaire Deluxe® 2（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153085/",
+      "cashback": "6,500pt",
+      "device": "Android",
+      "originalTitle": "Solitaire Deluxe® 2（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_147619_ios",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/147619/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "LUCK ROCK - ラックロック オンラインクレーン（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_147619_android",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/147619/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "LUCK ROCK - ラックロック オンラインクレーン（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_147583_ios",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/147583/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "LUCK ROCK - ラックロック オンラインクレーン（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_147583_android",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/147583/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "LUCK ROCK - ラックロック オンラインクレーン（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_146816_ios",
+      "title": "カプとれ（Android用）",
+      "url": "https://sp.pointi.jp/ad/146816/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "カプとれ（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_146816_android",
+      "title": "カプとれ（Android用）",
+      "url": "https://sp.pointi.jp/ad/146816/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "カプとれ（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_146815_ios",
+      "title": "カプとれ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146815/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "カプとれ（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_146815_android",
+      "title": "カプとれ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146815/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "カプとれ（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153084_ios",
+      "title": "Solitaire Deluxe® 2（Android用）",
+      "url": "https://sp.pointi.jp/ad/153084/",
+      "cashback": "3,800pt",
+      "device": "iOS",
+      "originalTitle": "Solitaire Deluxe® 2（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153084_android",
+      "title": "Solitaire Deluxe® 2（Android用）",
+      "url": "https://sp.pointi.jp/ad/153084/",
+      "cashback": "3,800pt",
+      "device": "Android",
+      "originalTitle": "Solitaire Deluxe® 2（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151741_ios",
+      "title": "みんなの銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/151741/",
+      "cashback": "15,000pt",
+      "device": "iOS",
+      "originalTitle": "みんなの銀行（口座開設）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151741_android",
+      "title": "みんなの銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/151741/",
+      "cashback": "15,000pt",
+      "device": "Android",
+      "originalTitle": "みんなの銀行（口座開設）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153507_ios",
+      "title": "Baseball Clash（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153507/",
+      "cashback": "4,000pt",
+      "device": "iOS",
+      "originalTitle": "Baseball Clash（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153507_android",
+      "title": "Baseball Clash（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153507/",
+      "cashback": "4,000pt",
+      "device": "Android",
+      "originalTitle": "Baseball Clash（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153303_ios",
+      "title": "達人の間合い（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153303/",
+      "cashback": "1,000pt",
+      "device": "iOS",
+      "originalTitle": "達人の間合い（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153303_android",
+      "title": "達人の間合い（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153303/",
+      "cashback": "1,000pt",
+      "device": "Android",
+      "originalTitle": "達人の間合い（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145720_ios",
+      "title": "アラクレ - オンラインクレーンゲーム（Android用）",
+      "url": "https://sp.pointi.jp/ad/145720/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "アラクレ - オンラインクレーンゲーム（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145720_android",
+      "title": "アラクレ - オンラインクレーンゲーム（Android用）",
+      "url": "https://sp.pointi.jp/ad/145720/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "アラクレ - オンラインクレーンゲーム（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145496_ios",
+      "title": "アラクレ - オンラインクレーンゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145496/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "アラクレ - オンラインクレーンゲーム（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145496_android",
+      "title": "アラクレ - オンラインクレーンゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145496/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "アラクレ - オンラインクレーンゲーム（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151457_ios",
+      "title": "モーリーオンライン（Android用）",
+      "url": "https://sp.pointi.jp/ad/151457/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "モーリーオンライン（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151457_android",
+      "title": "モーリーオンライン（Android用）",
+      "url": "https://sp.pointi.jp/ad/151457/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "モーリーオンライン（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151456_ios",
+      "title": "モーリーオンライン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151456/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "モーリーオンライン（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151456_android",
+      "title": "モーリーオンライン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151456/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "モーリーオンライン（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153537_ios",
+      "title": "Waffle Puffle（Android用）",
+      "url": "https://sp.pointi.jp/ad/153537/",
+      "cashback": "1,000pt",
+      "device": "iOS",
+      "originalTitle": "Waffle Puffle（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153537_android",
+      "title": "Waffle Puffle（Android用）",
+      "url": "https://sp.pointi.jp/ad/153537/",
+      "cashback": "1,000pt",
+      "device": "Android",
+      "originalTitle": "Waffle Puffle（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153536_ios",
+      "title": "Color Water Sort - Puzzle（Android用）",
+      "url": "https://sp.pointi.jp/ad/153536/",
+      "cashback": "500pt",
+      "device": "iOS",
+      "originalTitle": "Color Water Sort - Puzzle（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153536_android",
+      "title": "Color Water Sort - Puzzle（Android用）",
+      "url": "https://sp.pointi.jp/ad/153536/",
+      "cashback": "500pt",
+      "device": "Android",
+      "originalTitle": "Color Water Sort - Puzzle（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_148794_ios",
+      "title": "ナムコオンラインクレーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/148794/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "ナムコオンラインクレーン（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_148794_android",
+      "title": "ナムコオンラインクレーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/148794/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "ナムコオンラインクレーン（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_148793_ios",
+      "title": "ナムコオンラインクレーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148793/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "ナムコオンラインクレーン（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_148793_android",
+      "title": "ナムコオンラインクレーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148793/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "ナムコオンラインクレーン（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_149502_ios",
+      "title": "スーパースライム：イートホール（Android用）",
+      "url": "https://sp.pointi.jp/ad/149502/",
+      "cashback": "800pt",
+      "device": "iOS",
+      "originalTitle": "スーパースライム：イートホール（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_149502_android",
+      "title": "スーパースライム：イートホール（Android用）",
+      "url": "https://sp.pointi.jp/ad/149502/",
+      "cashback": "800pt",
+      "device": "Android",
+      "originalTitle": "スーパースライム：イートホール（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_150166_ios",
+      "title": "スーパースライム：イートホール（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150166/",
+      "cashback": "800pt",
+      "device": "iOS",
+      "originalTitle": "スーパースライム：イートホール（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_150166_android",
+      "title": "スーパースライム：イートホール（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150166/",
+      "cashback": "800pt",
+      "device": "Android",
+      "originalTitle": "スーパースライム：イートホール（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145906_ios",
+      "title": "クラウドキャッチャー（初回課金/iOS用）",
+      "url": "https://sp.pointi.jp/ad/145906/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "クラウドキャッチャー（初回課金/iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145906_android",
+      "title": "クラウドキャッチャー（初回課金/iOS用）",
+      "url": "https://sp.pointi.jp/ad/145906/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "クラウドキャッチャー（初回課金/iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145907_ios",
+      "title": "クラウドキャッチャー（初回課金/Android用）",
+      "url": "https://sp.pointi.jp/ad/145907/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "クラウドキャッチャー（初回課金/Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145907_android",
+      "title": "クラウドキャッチャー（初回課金/Android用）",
+      "url": "https://sp.pointi.jp/ad/145907/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "クラウドキャッチャー（初回課金/Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_132777_ios",
+      "title": "Pontaアプリ（Android用）",
+      "url": "https://sp.pointi.jp/ad/132777/",
+      "cashback": "500pt",
+      "device": "iOS",
+      "originalTitle": "Pontaアプリ（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_132777_android",
+      "title": "Pontaアプリ（Android用）",
+      "url": "https://sp.pointi.jp/ad/132777/",
+      "cashback": "500pt",
+      "device": "Android",
+      "originalTitle": "Pontaアプリ（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_132776_ios",
+      "title": "Pontaアプリ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/132776/",
+      "cashback": "500pt",
+      "device": "iOS",
+      "originalTitle": "Pontaアプリ（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_132776_android",
+      "title": "Pontaアプリ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/132776/",
+      "cashback": "500pt",
+      "device": "Android",
+      "originalTitle": "Pontaアプリ（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153301_ios",
+      "title": "ドンピシャスイング（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153301/",
+      "cashback": "1,000pt",
+      "device": "iOS",
+      "originalTitle": "ドンピシャスイング（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153301_android",
+      "title": "ドンピシャスイング（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153301/",
+      "cashback": "1,000pt",
+      "device": "Android",
+      "originalTitle": "ドンピシャスイング（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153529_ios",
+      "title": "デイリー麻雀マッチ【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153529/",
+      "cashback": "6,399pt",
+      "device": "iOS",
+      "originalTitle": "デイリー麻雀マッチ【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153529_android",
+      "title": "デイリー麻雀マッチ【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153529/",
+      "cashback": "6,399pt",
+      "device": "Android",
+      "originalTitle": "デイリー麻雀マッチ【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153141_ios",
+      "title": "バス クレイズ 渋滞パズル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153141/",
+      "cashback": "3,500pt",
+      "device": "iOS",
+      "originalTitle": "バス クレイズ 渋滞パズル（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153141_android",
+      "title": "バス クレイズ 渋滞パズル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153141/",
+      "cashback": "3,500pt",
+      "device": "Android",
+      "originalTitle": "バス クレイズ 渋滞パズル（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153526_ios",
+      "title": "Alice's Mergeland【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153526/",
+      "cashback": "24,300pt",
+      "device": "iOS",
+      "originalTitle": "Alice's Mergeland【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153526_android",
+      "title": "Alice's Mergeland【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153526/",
+      "cashback": "24,300pt",
+      "device": "Android",
+      "originalTitle": "Alice's Mergeland【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153525_ios",
+      "title": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153525/",
+      "cashback": "1,000pt",
+      "device": "iOS",
+      "originalTitle": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153525_android",
+      "title": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153525/",
+      "cashback": "1,000pt",
+      "device": "Android",
+      "originalTitle": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152504_ios",
+      "title": "無料でショッピング！黒字還元！TAO - タオ",
+      "url": "https://sp.pointi.jp/ad/152504/",
+      "cashback": "55,000pt",
+      "device": "iOS",
+      "originalTitle": "無料でショッピング！黒字還元！TAO - タオ",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152504_android",
+      "title": "無料でショッピング！黒字還元！TAO - タオ",
+      "url": "https://sp.pointi.jp/ad/152504/",
+      "cashback": "55,000pt",
+      "device": "Android",
+      "originalTitle": "無料でショッピング！黒字還元！TAO - タオ",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153290_ios",
+      "title": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153290/",
+      "cashback": "22,194pt",
+      "device": "iOS",
+      "originalTitle": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153290_android",
+      "title": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153290/",
+      "cashback": "22,194pt",
+      "device": "Android",
+      "originalTitle": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153289_ios",
+      "title": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/153289/",
+      "cashback": "22,194pt",
+      "device": "iOS",
+      "originalTitle": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153289_android",
+      "title": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/153289/",
+      "cashback": "22,194pt",
+      "device": "Android",
+      "originalTitle": "放置ゲームゾンビ鉱夫: タップゲーム - Idle Miner【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151050_ios",
+      "title": "金とゴブリンの採掘ゲーム【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/151050/",
+      "cashback": "36,855pt",
+      "device": "iOS",
+      "originalTitle": "金とゴブリンの採掘ゲーム【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151050_android",
+      "title": "金とゴブリンの採掘ゲーム【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/151050/",
+      "cashback": "36,855pt",
+      "device": "Android",
+      "originalTitle": "金とゴブリンの採掘ゲーム【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151049_ios",
+      "title": "金とゴブリンの採掘ゲーム【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/151049/",
+      "cashback": "36,855pt",
+      "device": "iOS",
+      "originalTitle": "金とゴブリンの採掘ゲーム【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151049_android",
+      "title": "金とゴブリンの採掘ゲーム【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/151049/",
+      "cashback": "36,855pt",
+      "device": "Android",
+      "originalTitle": "金とゴブリンの採掘ゲーム【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152658_ios",
+      "title": "Alice's Dream ：かわいいマージゲーム【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152658/",
+      "cashback": "29,403pt",
+      "device": "iOS",
+      "originalTitle": "Alice's Dream ：かわいいマージゲーム【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152658_android",
+      "title": "Alice's Dream ：かわいいマージゲーム【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152658/",
+      "cashback": "29,403pt",
+      "device": "Android",
+      "originalTitle": "Alice's Dream ：かわいいマージゲーム【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152401_ios",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152401/",
+      "cashback": "81,810pt",
+      "device": "iOS",
+      "originalTitle": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152401_android",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152401/",
+      "cashback": "81,810pt",
+      "device": "Android",
+      "originalTitle": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152400_ios",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/152400/",
+      "cashback": "81,810pt",
+      "device": "iOS",
+      "originalTitle": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152400_android",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/152400/",
+      "cashback": "81,810pt",
+      "device": "Android",
+      "originalTitle": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_148890_ios",
+      "title": "Lemon8【マルチステージアプリ/女性限定/iOS用】",
+      "url": "https://sp.pointi.jp/ad/148890/",
+      "cashback": "6,000pt",
+      "device": "iOS",
+      "originalTitle": "Lemon8【マルチステージアプリ/女性限定/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_148890_android",
+      "title": "Lemon8【マルチステージアプリ/女性限定/iOS用】",
+      "url": "https://sp.pointi.jp/ad/148890/",
+      "cashback": "6,000pt",
+      "device": "Android",
+      "originalTitle": "Lemon8【マルチステージアプリ/女性限定/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_151565_ios",
+      "title": "ホワイトアウト・サバイバル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151565/",
+      "cashback": "11,000pt",
+      "device": "iOS",
+      "originalTitle": "ホワイトアウト・サバイバル（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_151565_android",
+      "title": "ホワイトアウト・サバイバル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151565/",
+      "cashback": "11,000pt",
+      "device": "Android",
+      "originalTitle": "ホワイトアウト・サバイバル（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_150693_ios",
+      "title": "ホワイトアウト・サバイバル（Android用）",
+      "url": "https://sp.pointi.jp/ad/150693/",
+      "cashback": "11,000pt",
+      "device": "iOS",
+      "originalTitle": "ホワイトアウト・サバイバル（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_150693_android",
+      "title": "ホワイトアウト・サバイバル（Android用）",
+      "url": "https://sp.pointi.jp/ad/150693/",
+      "cashback": "11,000pt",
+      "device": "Android",
+      "originalTitle": "ホワイトアウト・サバイバル（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_150220_ios",
+      "title": "ゾンビ・パニック【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/150220/",
+      "cashback": "35,033pt",
+      "device": "iOS",
+      "originalTitle": "ゾンビ・パニック【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_150220_android",
+      "title": "ゾンビ・パニック【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/150220/",
+      "cashback": "35,033pt",
+      "device": "Android",
+      "originalTitle": "ゾンビ・パニック【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_149650_ios",
+      "title": "ゾンビ・パニック【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/149650/",
+      "cashback": "35,033pt",
+      "device": "iOS",
+      "originalTitle": "ゾンビ・パニック【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_149650_android",
+      "title": "ゾンビ・パニック【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/149650/",
+      "cashback": "35,033pt",
+      "device": "Android",
+      "originalTitle": "ゾンビ・パニック【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153364_ios",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153364/",
+      "cashback": "54,270pt",
+      "device": "iOS",
+      "originalTitle": "パズル＆コンクエスト【マルチステージアプリ/Android用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153364_android",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153364/",
+      "cashback": "54,270pt",
+      "device": "Android",
+      "originalTitle": "パズル＆コンクエスト【マルチステージアプリ/Android用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153363_ios",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/153363/",
+      "cashback": "54,270pt",
+      "device": "iOS",
+      "originalTitle": "パズル＆コンクエスト【マルチステージアプリ/iOS用】",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153363_android",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/153363/",
+      "cashback": "54,270pt",
+      "device": "Android",
+      "originalTitle": "パズル＆コンクエスト【マルチステージアプリ/iOS用】",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_146163_ios",
+      "title": "派遣モンスター（Android用）",
+      "url": "https://sp.pointi.jp/ad/146163/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "派遣モンスター（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_146163_android",
+      "title": "派遣モンスター（Android用）",
+      "url": "https://sp.pointi.jp/ad/146163/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "派遣モンスター（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145528_ios",
+      "title": "派遣モンスター（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145528/",
+      "cashback": "3,000pt",
+      "device": "iOS",
+      "originalTitle": "派遣モンスター（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145528_android",
+      "title": "派遣モンスター（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145528/",
+      "cashback": "3,000pt",
+      "device": "Android",
+      "originalTitle": "派遣モンスター（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153356_ios",
+      "title": "Idle Outpost: 経営シミュレーション（Android用）",
+      "url": "https://sp.pointi.jp/ad/153356/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "Idle Outpost: 経営シミュレーション（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153356_android",
+      "title": "Idle Outpost: 経営シミュレーション（Android用）",
+      "url": "https://sp.pointi.jp/ad/153356/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "Idle Outpost: 経営シミュレーション（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153355_ios",
+      "title": "Idle Outpost: 経営シミュレーション（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153355/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "Idle Outpost: 経営シミュレーション（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153355_android",
+      "title": "Idle Outpost: 経営シミュレーション（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153355/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "Idle Outpost: 経営シミュレーション（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153294_ios",
+      "title": "Ball Sort Puzzle：ボールソーティングパズル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153294/",
+      "cashback": "5,000pt",
+      "device": "iOS",
+      "originalTitle": "Ball Sort Puzzle：ボールソーティングパズル（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153294_android",
+      "title": "Ball Sort Puzzle：ボールソーティングパズル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153294/",
+      "cashback": "5,000pt",
+      "device": "Android",
+      "originalTitle": "Ball Sort Puzzle：ボールソーティングパズル（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153523_ios",
+      "title": "War Thunder Mobile - ウォーサンダーモバイル（Android用）",
+      "url": "https://sp.pointi.jp/ad/153523/",
+      "cashback": "6,000pt",
+      "device": "iOS",
+      "originalTitle": "War Thunder Mobile - ウォーサンダーモバイル（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153523_android",
+      "title": "War Thunder Mobile - ウォーサンダーモバイル（Android用）",
+      "url": "https://sp.pointi.jp/ad/153523/",
+      "cashback": "6,000pt",
+      "device": "Android",
+      "originalTitle": "War Thunder Mobile - ウォーサンダーモバイル（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153522_ios",
+      "title": "War Thunder Mobile -  ウォーサンダーモバイル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153522/",
+      "cashback": "6,000pt",
+      "device": "iOS",
+      "originalTitle": "War Thunder Mobile -  ウォーサンダーモバイル（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153522_android",
+      "title": "War Thunder Mobile -  ウォーサンダーモバイル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153522/",
+      "cashback": "6,000pt",
+      "device": "Android",
+      "originalTitle": "War Thunder Mobile -  ウォーサンダーモバイル（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152106_ios",
+      "title": "Habitto（ハビット）",
+      "url": "https://sp.pointi.jp/ad/152106/",
+      "cashback": "15,000pt",
+      "device": "iOS",
+      "originalTitle": "Habitto（ハビット）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152106_android",
+      "title": "Habitto（ハビット）",
+      "url": "https://sp.pointi.jp/ad/152106/",
+      "cashback": "15,000pt",
+      "device": "Android",
+      "originalTitle": "Habitto（ハビット）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153490_ios",
+      "title": "クレイジースクリューズ: ウッドボルト＆ナット（iOS）",
+      "url": "https://sp.pointi.jp/ad/153490/",
+      "cashback": "2,100pt",
+      "device": "iOS",
+      "originalTitle": "クレイジースクリューズ: ウッドボルト＆ナット（iOS）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153490_android",
+      "title": "クレイジースクリューズ: ウッドボルト＆ナット（iOS）",
+      "url": "https://sp.pointi.jp/ad/153490/",
+      "cashback": "2,100pt",
+      "device": "Android",
+      "originalTitle": "クレイジースクリューズ: ウッドボルト＆ナット（iOS）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153279_ios",
+      "title": "スマッシュパーティ (Android用）",
+      "url": "https://sp.pointi.jp/ad/153279/",
+      "cashback": "7,000pt",
+      "device": "iOS",
+      "originalTitle": "スマッシュパーティ (Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153279_android",
+      "title": "スマッシュパーティ (Android用）",
+      "url": "https://sp.pointi.jp/ad/153279/",
+      "cashback": "7,000pt",
+      "device": "Android",
+      "originalTitle": "スマッシュパーティ (Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_136906_ios",
+      "title": "ガンガンONLINE（iOS用）",
+      "url": "https://sp.pointi.jp/ad/136906/",
+      "cashback": "450pt",
+      "device": "iOS",
+      "originalTitle": "ガンガンONLINE（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_136906_android",
+      "title": "ガンガンONLINE（iOS用）",
+      "url": "https://sp.pointi.jp/ad/136906/",
+      "cashback": "450pt",
+      "device": "Android",
+      "originalTitle": "ガンガンONLINE（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153513_ios",
+      "title": "2248: Number Puzzle(数字パズル2048)(Android)",
+      "url": "https://sp.pointi.jp/ad/153513/",
+      "cashback": "4,500pt",
+      "device": "iOS",
+      "originalTitle": "2248: Number Puzzle(数字パズル2048)(Android)",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153513_android",
+      "title": "2248: Number Puzzle(数字パズル2048)(Android)",
+      "url": "https://sp.pointi.jp/ad/153513/",
+      "cashback": "4,500pt",
+      "device": "Android",
+      "originalTitle": "2248: Number Puzzle(数字パズル2048)(Android)",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153512_ios",
+      "title": "2248: Number Puzzle(数字パズル2048)(iOS)",
+      "url": "https://sp.pointi.jp/ad/153512/",
+      "cashback": "4,500pt",
+      "device": "iOS",
+      "originalTitle": "2248: Number Puzzle(数字パズル2048)(iOS)",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153512_android",
+      "title": "2248: Number Puzzle(数字パズル2048)(iOS)",
+      "url": "https://sp.pointi.jp/ad/153512/",
+      "cashback": "4,500pt",
+      "device": "Android",
+      "originalTitle": "2248: Number Puzzle(数字パズル2048)(iOS)",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_150284_ios",
+      "title": "ひまつぶしげーむ - Laser Beam 3D（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150284/",
+      "cashback": "750pt",
+      "device": "iOS",
+      "originalTitle": "ひまつぶしげーむ - Laser Beam 3D（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_150284_android",
+      "title": "ひまつぶしげーむ - Laser Beam 3D（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150284/",
+      "cashback": "750pt",
+      "device": "Android",
+      "originalTitle": "ひまつぶしげーむ - Laser Beam 3D（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_150291_ios",
+      "title": "ひまつぶしげーむ - Laser Beam 3D（Android用）",
+      "url": "https://sp.pointi.jp/ad/150291/",
+      "cashback": "750pt",
+      "device": "iOS",
+      "originalTitle": "ひまつぶしげーむ - Laser Beam 3D（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_150291_android",
+      "title": "ひまつぶしげーむ - Laser Beam 3D（Android用）",
+      "url": "https://sp.pointi.jp/ad/150291/",
+      "cashback": "750pt",
+      "device": "Android",
+      "originalTitle": "ひまつぶしげーむ - Laser Beam 3D（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153511_ios",
+      "title": "スライディングヒーロー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153511/",
+      "cashback": "1,000pt",
+      "device": "iOS",
+      "originalTitle": "スライディングヒーロー（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153511_android",
+      "title": "スライディングヒーロー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153511/",
+      "cashback": "1,000pt",
+      "device": "Android",
+      "originalTitle": "スライディングヒーロー（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153506_ios",
+      "title": "2048 Blast: Merge Numbers(ボール：数字パズル) 2248(Android)",
+      "url": "https://sp.pointi.jp/ad/153506/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "2048 Blast: Merge Numbers(ボール：数字パズル) 2248(Android)",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153506_android",
+      "title": "2048 Blast: Merge Numbers(ボール：数字パズル) 2248(Android)",
+      "url": "https://sp.pointi.jp/ad/153506/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "2048 Blast: Merge Numbers(ボール：数字パズル) 2248(Android)",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145499_ios",
+      "title": "捨て猫レスキュー（Android用）",
+      "url": "https://sp.pointi.jp/ad/145499/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "捨て猫レスキュー（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145499_android",
+      "title": "捨て猫レスキュー（Android用）",
+      "url": "https://sp.pointi.jp/ad/145499/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "捨て猫レスキュー（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_145498_ios",
+      "title": "捨て猫レスキュー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145498/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "捨て猫レスキュー（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_145498_android",
+      "title": "捨て猫レスキュー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145498/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "捨て猫レスキュー（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152933_ios",
+      "title": "Backpack Rush: Bag Merge（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152933/",
+      "cashback": "3,500pt",
+      "device": "iOS",
+      "originalTitle": "Backpack Rush: Bag Merge（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152933_android",
+      "title": "Backpack Rush: Bag Merge（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152933/",
+      "cashback": "3,500pt",
+      "device": "Android",
+      "originalTitle": "Backpack Rush: Bag Merge（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_152463_ios",
+      "title": "ウォーターカラーソート - Water Color Sorting（Android用）",
+      "url": "https://sp.pointi.jp/ad/152463/",
+      "cashback": "2,500pt",
+      "device": "iOS",
+      "originalTitle": "ウォーターカラーソート - Water Color Sorting（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_152463_android",
+      "title": "ウォーターカラーソート - Water Color Sorting（Android用）",
+      "url": "https://sp.pointi.jp/ad/152463/",
+      "cashback": "2,500pt",
+      "device": "Android",
+      "originalTitle": "ウォーターカラーソート - Water Color Sorting（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153505_ios",
+      "title": "Triple Tile - トリプルタイル(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153505/",
+      "cashback": "10,000pt",
+      "device": "iOS",
+      "originalTitle": "Triple Tile - トリプルタイル(iOS用)",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153505_android",
+      "title": "Triple Tile - トリプルタイル(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153505/",
+      "cashback": "10,000pt",
+      "device": "Android",
+      "originalTitle": "Triple Tile - トリプルタイル(iOS用)",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153237_ios",
+      "title": "Roamless_sim起動",
+      "url": "https://sp.pointi.jp/ad/153237/",
+      "cashback": "1,750pt",
+      "device": "iOS",
+      "originalTitle": "Roamless_sim起動",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153237_android",
+      "title": "Roamless_sim起動",
+      "url": "https://sp.pointi.jp/ad/153237/",
+      "cashback": "1,750pt",
+      "device": "Android",
+      "originalTitle": "Roamless_sim起動",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153377_ios",
+      "title": "猫猫カフェ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153377/",
+      "cashback": "1,200pt",
+      "device": "iOS",
+      "originalTitle": "猫猫カフェ（Android用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153377_android",
+      "title": "猫猫カフェ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153377/",
+      "cashback": "1,200pt",
+      "device": "Android",
+      "originalTitle": "猫猫カフェ（Android用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153491_ios",
+      "title": "Goods Match 3D：Triple master（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153491/",
+      "cashback": "1,800pt",
+      "device": "iOS",
+      "originalTitle": "Goods Match 3D：Triple master（iOS用）",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153491_android",
+      "title": "Goods Match 3D：Triple master（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153491/",
+      "cashback": "1,800pt",
+      "device": "Android",
+      "originalTitle": "Goods Match 3D：Triple master（iOS用）",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    },
+    {
+      "id": "pi_app_153074_ios",
+      "title": "カルテコ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153074/",
+      "cashback": "1,500pt",
+      "device": "iOS",
+      "originalTitle": "カルテコ(iOS用)",
+      "platform": "ios",
+      "scrapedAt": "2025-07-17T12:38:52.287Z"
+    },
+    {
+      "id": "pi_app_153074_android",
+      "title": "カルテコ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153074/",
+      "cashback": "1,500pt",
+      "device": "Android",
+      "originalTitle": "カルテコ(iOS用)",
+      "platform": "android",
+      "scrapedAt": "2025-07-17T12:39:46.439Z"
+    }
+  ]
+}

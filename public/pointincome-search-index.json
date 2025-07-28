@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "totalCampaigns": 10,
+    "lastUpdated": "2025-07-16T00:34:44.967Z",
+    "sites": [
+      "ポイントインカム"
+    ],
+    "version": "1.0.0"
+  },
+  "categories": [
+    "EC・ネットショッピング"
+  ],
+  "devices": [
+    "すべて"
+  ],
+  "sites": [
+    "ポイントインカム"
+  ],
+  "campaigns": [
+    {
+      "id": "pi_148872",
+      "name": "神戸レタス（Koube　Lettuce）　新規購入",
+      "nameNormalized": "神戸レタスkoube lettuce 新規購入",
+      "site": "ポイントインカム",
+      "cashback": "23%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_146955",
+      "name": "AliExpress（アリエクスプレス）家電・PC専用",
+      "nameNormalized": "aliexpressアリエクスプレス家電・pc専用",
+      "site": "ポイントインカム",
+      "cashback": "5%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_18378",
+      "name": "神戸レタス（Koube　Lettuce）",
+      "nameNormalized": "神戸レタスkoube lettuce",
+      "site": "ポイントインカム",
+      "cashback": "6%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_74630",
+      "name": "PizzaHut（ピザハットオンライン）",
+      "nameNormalized": "pizzahutピザハットオンライン",
+      "site": "ポイントインカム",
+      "cashback": "1%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_11144",
+      "name": "Yahoo!ショッピング（ヤフーショッピング）",
+      "nameNormalized": "yahoo!ショッピングヤフーショッピング",
+      "site": "ポイントインカム",
+      "cashback": "1%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_153234",
+      "name": "Wish(ウィッシュ)",
+      "nameNormalized": "wishウィッシュ",
+      "site": "ポイントインカム",
+      "cashback": "3.5%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_152776",
+      "name": "京王百貨店ネットショップ",
+      "nameNormalized": "京王百貨店ネットショップ",
+      "site": "ポイントインカム",
+      "cashback": "1%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_153166",
+      "name": "デジタルギフト「してね」 JTBグループ",
+      "nameNormalized": "デジタルギフト「してね」 jtbグループ",
+      "site": "ポイントインカム",
+      "cashback": "3.5%",
+      "cashbackYen": 0,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_150889",
+      "name": "楽天全国スーパー",
+      "nameNormalized": "楽天全国スーパー",
+      "site": "ポイントインカム",
+      "cashback": "5,000pt",
+      "cashbackYen": 500,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    },
+    {
+      "id": "pi_49384",
+      "name": "ビックカメラ.com",
+      "nameNormalized": "ビックカメラ.com",
+      "site": "ポイントインカム",
+      "cashback": "850pt",
+      "cashbackYen": 85,
+      "category": "EC・ネットショッピング",
+      "device": "すべて"
+    }
+  ]
+}

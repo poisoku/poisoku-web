@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "totalCampaigns": 10,
+    "lastUpdated": "2025-07-16T00:34:44.967Z",
+    "sites": [
+      "ポイントインカム"
+    ],
+    "version": "1.0.0"
+  },
+  "campaigns": [
+    {
+      "id": "pi_148872",
+      "name": "神戸レタス（Koube　Lettuce）　新規購入",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/148872/",
+      "description": "神戸レタス（Koube　Lettuce）　新規購入",
+      "cashback": "23%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:31:34.277Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_146955",
+      "name": "AliExpress（アリエクスプレス）家電・PC専用",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/146955/",
+      "description": "AliExpress（アリエクスプレス）家電・PC専用",
+      "cashback": "5%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:31:38.373Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_18378",
+      "name": "神戸レタス（Koube　Lettuce）",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/18378/",
+      "description": "神戸レタス（Koube　Lettuce）",
+      "cashback": "6%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:31:42.357Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_74630",
+      "name": "PizzaHut（ピザハットオンライン）",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/74630/",
+      "description": "PizzaHut（ピザハットオンライン）",
+      "cashback": "1%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:31:46.166Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_11144",
+      "name": "Yahoo!ショッピング（ヤフーショッピング）",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/11144/",
+      "description": "Yahoo!ショッピング（ヤフーショッピング）",
+      "cashback": "1%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:31:50.365Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_153234",
+      "name": "Wish(ウィッシュ)",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/153234/",
+      "description": "Wish(ウィッシュ)",
+      "cashback": "3.5%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:31:54.228Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_152776",
+      "name": "京王百貨店ネットショップ",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/152776/",
+      "description": "京王百貨店ネットショップ",
+      "cashback": "1%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:31:58.040Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_153166",
+      "name": "デジタルギフト「してね」 JTBグループ",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/153166/",
+      "description": "デジタルギフト「してね」 JTBグループ",
+      "cashback": "3.5%",
+      "cashbackYen": 0,
+      "cashbackType": "percentage",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:32:02.221Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_150889",
+      "name": "楽天全国スーパー",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/150889/",
+      "description": "楽天全国スーパー",
+      "cashback": "5,000pt",
+      "cashbackYen": 500,
+      "cashbackType": "points",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:32:05.667Z",
+      "isActive": true
+    },
+    {
+      "id": "pi_49384",
+      "name": "ビックカメラ.com",
+      "site": "ポイントインカム",
+      "siteUrl": "https://pointi.jp/ad/49384/",
+      "description": "ビックカメラ.com",
+      "cashback": "850pt",
+      "cashbackYen": 85,
+      "cashbackType": "points",
+      "device": "すべて",
+      "category": "EC・ネットショッピング",
+      "lastUpdated": "2025-07-16T00:32:09.883Z",
+      "isActive": true
+    }
+  ]
+}
