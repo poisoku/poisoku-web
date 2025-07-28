@@ -9,6 +9,19 @@ export default function CacheManager() {
   const clearSearchCache = async () => {
     setIsClearing(true);
     try {
+      // 検索データキャッシュをクリア
+      if (typeof window !== 'undefined') {
+        // 検索データを強制再読み込み
+        await fetch('/search-data.json?' + Date.now(), { 
+          cache: 'no-store',
+          headers: {
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache',
+            'Expires': '0'
+          }
+        });
+      }
+      
       // Service Worker キャッシュをクリア
       if ('serviceWorker' in navigator) {
         const registrations = await navigator.serviceWorker.getRegistrations();
@@ -21,6 +34,11 @@ export default function CacheManager() {
       if (typeof Storage !== 'undefined') {
         localStorage.clear();
         sessionStorage.clear();
+      }
+      
+      // 検索結果キャッシュもリセット
+      if (typeof window !== 'undefined' && (window as any).searchDataCache) {
+        (window as any).searchDataCache = null;
       }
       
       alert('キャッシュをクリアしました。ページを再読み込みします。');

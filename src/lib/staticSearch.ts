@@ -38,13 +38,23 @@ interface SearchData {
 
 let searchDataCache: SearchData | null = null;
 
-export async function loadSearchData(): Promise<SearchData> {
-  if (searchDataCache) {
+export async function loadSearchData(bustCache: boolean = false): Promise<SearchData> {
+  if (searchDataCache && !bustCache) {
     return searchDataCache;
   }
 
   try {
-    const response = await fetch('/search-data.json');
+    // キャッシュバスターを追加してブラウザキャッシュを回避
+    const cacheBuster = bustCache ? `?_cb=${Date.now()}` : '';
+    const response = await fetch(`/search-data.json${cacheBuster}`, {
+      cache: bustCache ? 'no-store' : 'default',
+      headers: bustCache ? {
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        'Expires': '0'
+      } : {}
+    });
+    
     if (!response.ok) {
       throw new Error('検索データの読み込みに失敗しました');
     }
@@ -79,7 +89,7 @@ export interface SearchOptions {
   sortOrder?: 'asc' | 'desc';
 }
 
-export async function searchCampaigns(options: SearchOptions = {}) {
+export async function searchCampaigns(options: SearchOptions & { bustCache?: boolean } = {}) {
   const {
     keyword = '',
     osFilter = 'all',
@@ -87,10 +97,11 @@ export async function searchCampaigns(options: SearchOptions = {}) {
     limit = 50,
     offset = 0,
     sortBy = 'relevance',
-    sortOrder = 'desc'
+    sortOrder = 'desc',
+    bustCache = false
   } = options;
 
-  const searchData = await loadSearchData();
+  const searchData = await loadSearchData(bustCache);
   let results = [...searchData.campaigns];
 
   // 無効な還元率の案件を除外

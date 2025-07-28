@@ -62178,8 +62178,8 @@
     }
   ],
   "metadata": {
-    "totalCampaigns": 3951,
-    "lastUpdated": "2025-07-28T01:47:17.405Z",
+    "totalCampaigns": 3886,
+    "lastUpdated": "2025-07-28T04:25:23.688Z",
     "categories": {
       "entertainment": 590,
       "finance": 1187,
@@ -62283,6 +62283,9 @@
         "keyword": "1.5%",
         "count": 38
       }
-    ]
+    ],
+    "cacheBuster": 1753676723688,
+    "version": "2.0",
+    "deployTimestamp": "2025-07-28T04:25:23.688Z"
   }
 }
