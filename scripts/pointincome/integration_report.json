@@ -1,0 +1,31 @@
+{
+  "integratedAt": "2025-07-13T06:10:45.037Z",
+  "summary": {
+    "total_campaigns": 1143,
+    "main_categories": 1043,
+    "mobile_apps": 100,
+    "integration_status": "success"
+  },
+  "details": {
+    "main_scraping": {
+      "total_campaigns": 1043,
+      "total_processed": 1043,
+      "errors": 138,
+      "completed_categories": 17,
+      "total_categories": 39,
+      "rate_limit_ms": 2500,
+      "batch_size": 12
+    },
+    "mobile_scraping": {
+      "total_campaigns": 100,
+      "device_breakdown": {
+        "iOS": 48,
+        "Android": 42,
+        "PC": 0,
+        "すべて": 10
+      },
+      "batch_size": 20,
+      "timeout_ms": 120000
+    }
+  }
+}

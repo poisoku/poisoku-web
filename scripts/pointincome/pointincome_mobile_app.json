@@ -1,0 +1,15 @@
+{
+  "siteName": "ポイントインカム",
+  "scrapingType": "mobile-app",
+  "scrapedAt": "2025-07-08T13:38:13.847Z",
+  "summary": {
+    "total_campaigns": 0,
+    "device_breakdown": {
+      "iOS": 0,
+      "Android": 0,
+      "PC": 0,
+      "すべて": 0
+    }
+  },
+  "campaigns": []
+}

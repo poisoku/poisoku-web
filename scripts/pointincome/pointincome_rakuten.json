@@ -1,0 +1,36 @@
+{
+  "siteName": "ポイントインカム",
+  "scrapedAt": "2025-07-08T05:13:10.224Z",
+  "campaigns": [
+    {
+      "id": "pi_150889",
+      "title": "楽天全国スーパー",
+      "url": "https://pointi.jp/ad/150889/",
+      "cashback": "5,000pt",
+      "cashbackYen": "500円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "EC・ネットショッピング"
+    },
+    {
+      "id": "pi_150889",
+      "title": "楽天全国スーパー",
+      "url": "https://pointi.jp/ad/150889/",
+      "cashback": "5,000pt",
+      "cashbackYen": "500円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "EC・ネットショッピング"
+    },
+    {
+      "id": "pi_150889",
+      "title": "楽天全国スーパー",
+      "url": "https://pointi.jp/ad/150889/",
+      "cashback": "5,000pt",
+      "cashbackYen": "500円",
+      "siteName": "ポイントインカム",
+      "device": "PC",
+      "category": "EC・ネットショッピング"
+    }
+  ]
+}
