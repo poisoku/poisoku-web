@@ -1,6 +1,996 @@
 {
   "campaigns": [
     {
+      "id": "e252af98-ed52-4ae1-85db-dff7b4aa61a5",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "Android",
+      "description": "案件ID: 1792251",
+      "searchKeywords": "案件id: 1792251",
+      "category": "shopping"
+    },
+    {
+      "id": "8939cafe-430a-4674-addc-c0a661ba78ee",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "Android",
+      "description": "案件ID: 1837822",
+      "searchKeywords": "案件id: 1837822",
+      "category": "shopping"
+    },
+    {
+      "id": "6f895b8f-97ab-495f-8b33-a849bd2de307",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "Android",
+      "description": "案件ID: 1768130",
+      "searchKeywords": "案件id: 1768130",
+      "category": "shopping"
+    },
+    {
+      "id": "eb9d1661-9791-4cc1-acbb-198d8790bf0c",
+      "siteName": "ちょびリッチ",
+      "cashback": "712pt",
+      "device": "Android",
+      "description": "案件ID: 1787144",
+      "searchKeywords": "案件id: 1787144",
+      "category": "shopping"
+    },
+    {
+      "id": "6f117eff-11d4-4baa-8520-9871cc4af047",
+      "siteName": "ちょびリッチ",
+      "cashback": "704pt",
+      "device": "Android",
+      "description": "案件ID: 1795437",
+      "searchKeywords": "案件id: 1795437",
+      "category": "shopping"
+    },
+    {
+      "id": "70fb2a1d-f6e0-4d91-aa5c-949c952eed18",
+      "siteName": "ちょびリッチ",
+      "cashback": "692pt",
+      "device": "Android",
+      "description": "案件ID: 1824986",
+      "searchKeywords": "案件id: 1824986",
+      "category": "shopping"
+    },
+    {
+      "id": "d56f3ee1-db2c-4a01-8ac2-53cb982c26fc",
+      "siteName": "ちょびリッチ",
+      "cashback": "660pt",
+      "device": "Android",
+      "description": "案件ID: 1823608",
+      "searchKeywords": "案件id: 1823608",
+      "category": "shopping"
+    },
+    {
+      "id": "6a49eded-e2b7-4588-9ed4-c7fa845fc757",
+      "siteName": "ちょびリッチ",
+      "cashback": "660pt",
+      "device": "Android",
+      "description": "案件ID: 1823752",
+      "searchKeywords": "案件id: 1823752",
+      "category": "shopping"
+    },
+    {
+      "id": "e0acb823-052e-450a-9c2a-44b487ec55e3",
+      "siteName": "ちょびリッチ",
+      "cashback": "640pt",
+      "device": "Android",
+      "description": "案件ID: 1829081",
+      "searchKeywords": "案件id: 1829081",
+      "category": "shopping"
+    },
+    {
+      "id": "49917df5-a132-44af-86ab-3a7b02b200c0",
+      "siteName": "ちょびリッチ",
+      "cashback": "640pt",
+      "device": "Android",
+      "description": "案件ID: 1791650",
+      "searchKeywords": "案件id: 1791650",
+      "category": "shopping"
+    },
+    {
+      "id": "917d1291-61b7-4a2a-a941-b24dbfc7c0ec",
+      "siteName": "ちょびリッチ",
+      "cashback": "640pt",
+      "device": "Android",
+      "description": "案件ID: 1837438",
+      "searchKeywords": "案件id: 1837438",
+      "category": "shopping"
+    },
+    {
+      "id": "f9d97663-1efd-4cf8-953d-242e7b62edc2",
+      "siteName": "ちょびリッチ",
+      "cashback": "640pt",
+      "device": "Android",
+      "description": "案件ID: 1766550",
+      "searchKeywords": "案件id: 1766550",
+      "category": "shopping"
+    },
+    {
+      "id": "14531b42-cf2e-46a6-9367-bba9b0161963",
+      "siteName": "ちょびリッチ",
+      "cashback": "620pt",
+      "device": "Android",
+      "description": "案件ID: 1823605",
+      "searchKeywords": "案件id: 1823605",
+      "category": "shopping"
+    },
+    {
+      "id": "d2e8e0e6-2f5f-48d9-95f5-38ea64e70236",
+      "siteName": "ちょびリッチ",
+      "cashback": "620pt",
+      "device": "Android",
+      "description": "案件ID: 1830077",
+      "searchKeywords": "案件id: 1830077",
+      "category": "shopping"
+    },
+    {
+      "id": "9e9e6c56-2efc-4e7e-99f0-13cf44e418e2",
+      "siteName": "ちょびリッチ",
+      "cashback": "960pt",
+      "device": "Android",
+      "description": "案件ID: 1820313",
+      "searchKeywords": "案件id: 1820313",
+      "category": "shopping"
+    },
+    {
+      "id": "d8b70839-da10-496c-b448-6a228239be07",
+      "siteName": "ちょびリッチ",
+      "cashback": "960pt",
+      "device": "Android",
+      "description": "案件ID: 1819976",
+      "searchKeywords": "案件id: 1819976",
+      "category": "shopping"
+    },
+    {
+      "id": "ee9ff1f6-9603-428b-bb7e-f5e571edff56",
+      "siteName": "ちょびリッチ",
+      "cashback": "960pt",
+      "device": "Android",
+      "description": "案件ID: 1786624",
+      "searchKeywords": "案件id: 1786624",
+      "category": "shopping"
+    },
+    {
+      "id": "bd6e32d7-111f-49a7-acd5-830f690f4b61",
+      "siteName": "ちょびリッチ",
+      "cashback": "880pt",
+      "device": "Android",
+      "description": "案件ID: 1770048",
+      "searchKeywords": "案件id: 1770048",
+      "category": "shopping"
+    },
+    {
+      "id": "45703a76-fe8b-4b4a-b87d-03b88be21a00",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "Android",
+      "description": "案件ID: 1791660",
+      "searchKeywords": "案件id: 1791660",
+      "category": "shopping"
+    },
+    {
+      "id": "2d50596f-374f-4a46-89f5-e87fc916962c",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "Android",
+      "description": "案件ID: 1770050",
+      "searchKeywords": "案件id: 1770050",
+      "category": "shopping"
+    },
+    {
+      "id": "4f3506e6-3c7e-4f1a-bb02-fa616a768511",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "Android",
+      "description": "案件ID: 1825743",
+      "searchKeywords": "案件id: 1825743",
+      "category": "shopping"
+    },
+    {
+      "id": "6bc0989e-e36a-4d66-9c21-f65079aab368",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "Android",
+      "description": "案件ID: 1783742",
+      "searchKeywords": "案件id: 1783742",
+      "category": "shopping"
+    },
+    {
+      "id": "47e5c54b-5651-44a5-b2d2-922534cdc150",
+      "siteName": "ちょびリッチ",
+      "cashback": "768pt",
+      "device": "Android",
+      "description": "案件ID: 1819926",
+      "searchKeywords": "案件id: 1819926",
+      "category": "shopping"
+    },
+    {
+      "id": "2018c3be-f072-4a95-9d96-bebbc73be7dd",
+      "siteName": "ちょびリッチ",
+      "cashback": "768pt",
+      "device": "Android",
+      "description": "案件ID: 1812762",
+      "searchKeywords": "案件id: 1812762",
+      "category": "shopping"
+    },
+    {
+      "id": "14d471a4-c233-4404-866b-4c18945bdf5a",
+      "siteName": "ちょびリッチ",
+      "cashback": "1600pt",
+      "device": "Android",
+      "description": "案件ID: 1833179",
+      "searchKeywords": "案件id: 1833179",
+      "category": "shopping"
+    },
+    {
+      "id": "5af2f780-86e7-47fc-ab5c-764388f7d547",
+      "siteName": "ちょびリッチ",
+      "cashback": "1600pt",
+      "device": "Android",
+      "description": "案件ID: 1793965",
+      "searchKeywords": "案件id: 1793965",
+      "category": "shopping"
+    },
+    {
+      "id": "a1a6a351-6c52-44f1-a91b-ee8e9f0994af",
+      "siteName": "ちょびリッチ",
+      "cashback": "1568pt",
+      "device": "Android",
+      "description": "案件ID: 1831602",
+      "searchKeywords": "案件id: 1831602",
+      "category": "shopping"
+    },
+    {
+      "id": "f127c2eb-10f5-4618-a890-61f4f70aee1b",
+      "siteName": "ちょびリッチ",
+      "cashback": "1488pt",
+      "device": "Android",
+      "description": "案件ID: 1765521",
+      "searchKeywords": "案件id: 1765521",
+      "category": "shopping"
+    },
+    {
+      "id": "f534f040-d301-4df9-8b4d-758bb9ff5638",
+      "siteName": "ちょびリッチ",
+      "cashback": "1420pt",
+      "device": "Android",
+      "description": "案件ID: 1828861",
+      "searchKeywords": "案件id: 1828861",
+      "category": "shopping"
+    },
+    {
+      "id": "d17f750a-3013-43aa-ba37-f28a52225ec1",
+      "siteName": "ちょびリッチ",
+      "cashback": "1300pt",
+      "device": "Android",
+      "description": "案件ID: 1819627",
+      "searchKeywords": "案件id: 1819627",
+      "category": "shopping"
+    },
+    {
+      "id": "3e6ed511-73e5-4339-8788-85d831ed16d7",
+      "siteName": "ちょびリッチ",
+      "cashback": "1300pt",
+      "device": "Android",
+      "description": "案件ID: 1823404",
+      "searchKeywords": "案件id: 1823404",
+      "category": "shopping"
+    },
+    {
+      "id": "46a1f472-6b54-4cce-a88f-0627d0c565da",
+      "siteName": "ちょびリッチ",
+      "cashback": "1300pt",
+      "device": "Android",
+      "description": "案件ID: 1819328",
+      "searchKeywords": "案件id: 1819328",
+      "category": "shopping"
+    },
+    {
+      "id": "6d57c017-ef48-4826-8cc2-36ca783970f4",
+      "siteName": "ちょびリッチ",
+      "cashback": "1280pt",
+      "device": "Android",
+      "description": "案件ID: 1777478",
+      "searchKeywords": "案件id: 1777478",
+      "category": "shopping"
+    },
+    {
+      "id": "2d03205c-9fbc-4e7b-8415-a58d25e223e5",
+      "siteName": "ちょびリッチ",
+      "cashback": "1120pt",
+      "device": "Android",
+      "description": "案件ID: 1807741",
+      "searchKeywords": "案件id: 1807741",
+      "category": "shopping"
+    },
+    {
+      "id": "67b3a267-cb2d-47e7-9442-bffd81835334",
+      "siteName": "ちょびリッチ",
+      "cashback": "1040pt",
+      "device": "Android",
+      "description": "案件ID: 1799914",
+      "searchKeywords": "案件id: 1799914",
+      "category": "shopping"
+    },
+    {
+      "id": "0e21dfb0-c0c8-45b6-8dd1-86d4eaddb245",
+      "siteName": "ちょびリッチ",
+      "cashback": "1008pt",
+      "device": "Android",
+      "description": "案件ID: 1821851",
+      "searchKeywords": "案件id: 1821851",
+      "category": "shopping"
+    },
+    {
+      "id": "0325345c-4dcd-4d81-ac17-f8bf273128b7",
+      "siteName": "ちょびリッチ",
+      "cashback": "2720pt",
+      "device": "Android",
+      "description": "案件ID: 1836769",
+      "searchKeywords": "案件id: 1836769",
+      "category": "shopping"
+    },
+    {
+      "id": "489d2287-4f97-441a-8fb1-29e49d5603a0",
+      "siteName": "ちょびリッチ",
+      "cashback": "2720pt",
+      "device": "Android",
+      "description": "案件ID: 1827734",
+      "searchKeywords": "案件id: 1827734",
+      "category": "shopping"
+    },
+    {
+      "id": "eeb139b9-253c-478c-bfb0-3df6de2f1283",
+      "siteName": "ちょびリッチ",
+      "cashback": "2580pt",
+      "device": "Android",
+      "description": "案件ID: 1825117",
+      "searchKeywords": "案件id: 1825117",
+      "category": "shopping"
+    },
+    {
+      "id": "1b634152-fc23-4e27-ac9f-06bc0b0fef3d",
+      "siteName": "ちょびリッチ",
+      "cashback": "2500pt",
+      "device": "Android",
+      "description": "案件ID: 1803331",
+      "searchKeywords": "案件id: 1803331",
+      "category": "shopping"
+    },
+    {
+      "id": "04e6bbe1-ee16-4bc7-8ea6-a3eaf3d581ab",
+      "siteName": "ちょびリッチ",
+      "cashback": "2400pt",
+      "device": "Android",
+      "description": "案件ID: 1838522",
+      "searchKeywords": "案件id: 1838522",
+      "category": "shopping"
+    },
+    {
+      "id": "88e05282-f6e5-46cd-b65c-f7c6180524a5",
+      "siteName": "ちょびリッチ",
+      "cashback": "2360pt",
+      "device": "Android",
+      "description": "案件ID: 1820323",
+      "searchKeywords": "案件id: 1820323",
+      "category": "shopping"
+    },
+    {
+      "id": "36f44f02-3279-46ba-a2db-659e2dfe6a69",
+      "siteName": "ちょびリッチ",
+      "cashback": "2360pt",
+      "device": "Android",
+      "description": "案件ID: 1826913",
+      "searchKeywords": "案件id: 1826913",
+      "category": "shopping"
+    },
+    {
+      "id": "2662cfb4-d500-4a7f-8f4c-6910509bfcfc",
+      "siteName": "ちょびリッチ",
+      "cashback": "2300pt",
+      "device": "Android",
+      "description": "案件ID: 1831506",
+      "searchKeywords": "案件id: 1831506",
+      "category": "shopping"
+    },
+    {
+      "id": "7c35896c-df3f-4c57-9ad6-02b0f8eda863",
+      "siteName": "ちょびリッチ",
+      "cashback": "2240pt",
+      "device": "Android",
+      "description": "案件ID: 1820431",
+      "searchKeywords": "案件id: 1820431",
+      "category": "shopping"
+    },
+    {
+      "id": "dd45a1b8-9efc-4b9c-96b7-bb3ff97e308b",
+      "siteName": "ちょびリッチ",
+      "cashback": "2080pt",
+      "device": "Android",
+      "description": "案件ID: 1837821",
+      "searchKeywords": "案件id: 1837821",
+      "category": "shopping"
+    },
+    {
+      "id": "5775c921-6243-403c-8e49-19796bfa6b88",
+      "siteName": "ちょびリッチ",
+      "cashback": "6800pt",
+      "device": "Android",
+      "description": "案件ID: 1838375",
+      "searchKeywords": "案件id: 1838375",
+      "category": "shopping"
+    },
+    {
+      "id": "80596a69-82ba-45fb-9a77-ca6621ee4c13",
+      "siteName": "ちょびリッチ",
+      "cashback": "5840pt",
+      "device": "Android",
+      "description": "案件ID: 1828479",
+      "searchKeywords": "案件id: 1828479",
+      "category": "shopping"
+    },
+    {
+      "id": "6334b87c-230b-428e-8d23-f0c872c0c949",
+      "siteName": "ちょびリッチ",
+      "cashback": "5600pt",
+      "device": "Android",
+      "description": "案件ID: 1827799",
+      "searchKeywords": "案件id: 1827799",
+      "category": "shopping"
+    },
+    {
+      "id": "96225c55-9b74-42a4-8168-e83b169cb1cb",
+      "siteName": "ちょびリッチ",
+      "cashback": "5480pt",
+      "device": "Android",
+      "description": "案件ID: 1837562",
+      "searchKeywords": "案件id: 1837562",
+      "category": "shopping"
+    },
+    {
+      "id": "4015e99c-1b92-456f-9ef7-e4aae21ce7ee",
+      "siteName": "ちょびリッチ",
+      "cashback": "5440pt",
+      "device": "Android",
+      "description": "案件ID: 1795203",
+      "searchKeywords": "案件id: 1795203",
+      "category": "shopping"
+    },
+    {
+      "id": "535111d1-5dcc-4e7a-9886-cbac5d9bf03e",
+      "siteName": "ちょびリッチ",
+      "cashback": "4480pt",
+      "device": "Android",
+      "description": "案件ID: 1828053",
+      "searchKeywords": "案件id: 1828053",
+      "category": "shopping"
+    },
+    {
+      "id": "36f2b22b-2a13-4907-8d55-84cb36cffe9b",
+      "siteName": "ちょびリッチ",
+      "cashback": "4480pt",
+      "device": "Android",
+      "description": "案件ID: 1803291",
+      "searchKeywords": "案件id: 1803291",
+      "category": "shopping"
+    },
+    {
+      "id": "6f73703c-4b4d-4a46-9b1a-ab63a9e43d25",
+      "siteName": "ちょびリッチ",
+      "cashback": "4050pt",
+      "device": "Android",
+      "description": "案件ID: 1803289",
+      "searchKeywords": "案件id: 1803289",
+      "category": "shopping"
+    },
+    {
+      "id": "78ad1400-9537-448d-a370-310ed03a7453",
+      "siteName": "ちょびリッチ",
+      "cashback": "3700pt",
+      "device": "Android",
+      "description": "案件ID: 1823757",
+      "searchKeywords": "案件id: 1823757",
+      "category": "shopping"
+    },
+    {
+      "id": "7e76d2a0-9d75-4c87-8e59-4a1a262c1e22",
+      "siteName": "ちょびリッチ",
+      "cashback": "3660pt",
+      "device": "Android",
+      "description": "案件ID: 1823759",
+      "searchKeywords": "案件id: 1823759",
+      "category": "shopping"
+    },
+    {
+      "id": "aab4596f-1c7e-4a11-b09a-74faf03aee80",
+      "siteName": "ちょびリッチ",
+      "cashback": "3640pt",
+      "device": "Android",
+      "description": "案件ID: 1825069",
+      "searchKeywords": "案件id: 1825069",
+      "category": "shopping"
+    },
+    {
+      "id": "3d3ab8f4-fa14-4237-bade-fe609077ad54",
+      "siteName": "ちょびリッチ",
+      "cashback": "3640pt",
+      "device": "Android",
+      "description": "案件ID: 1824647",
+      "searchKeywords": "案件id: 1824647",
+      "category": "shopping"
+    },
+    {
+      "id": "ca483cc9-0e67-4a15-92bb-db5f45d8888b",
+      "siteName": "ちょびリッチ",
+      "cashback": "3520pt",
+      "device": "Android",
+      "description": "案件ID: 1837120",
+      "searchKeywords": "案件id: 1837120",
+      "category": "shopping"
+    },
+    {
+      "id": "1c45e83f-65a4-4ed9-a9b4-7bc9ac6d8363",
+      "siteName": "ちょびリッチ",
+      "cashback": "3520pt",
+      "device": "Android",
+      "description": "案件ID: 1823612",
+      "searchKeywords": "案件id: 1823612",
+      "category": "shopping"
+    },
+    {
+      "id": "a2a93cf7-0d2b-481a-84e2-26f854217422",
+      "siteName": "ちょびリッチ",
+      "cashback": "3360pt",
+      "device": "Android",
+      "description": "案件ID: 1832528",
+      "searchKeywords": "案件id: 1832528",
+      "category": "shopping"
+    },
+    {
+      "id": "a0be664f-69d9-4d02-80f4-dea5af0e09e7",
+      "siteName": "ちょびリッチ",
+      "cashback": "3200pt",
+      "device": "Android",
+      "description": "案件ID: 1778602",
+      "searchKeywords": "案件id: 1778602",
+      "category": "shopping"
+    },
+    {
+      "id": "62f76de8-6544-4d67-89d9-0b1468803660",
+      "siteName": "ちょびリッチ",
+      "cashback": "20200pt",
+      "device": "Android",
+      "description": "案件ID: 1829082",
+      "searchKeywords": "案件id: 1829082",
+      "category": "shopping"
+    },
+    {
+      "id": "bdcdc41b-db2b-4934-9bf4-59ca4d0e5722",
+      "siteName": "ちょびリッチ",
+      "cashback": "17820pt",
+      "device": "Android",
+      "description": "案件ID: 1762434",
+      "searchKeywords": "案件id: 1762434",
+      "category": "shopping"
+    },
+    {
+      "id": "e85d86e6-194b-4938-a0d1-b7d91723f3e0",
+      "siteName": "ちょびリッチ",
+      "cashback": "17280pt",
+      "device": "Android",
+      "description": "案件ID: 1824628",
+      "searchKeywords": "案件id: 1824628",
+      "category": "shopping"
+    },
+    {
+      "id": "e7baa66c-5891-4550-9dd8-4e1c81a0cb7e",
+      "siteName": "ちょびリッチ",
+      "cashback": "15840pt",
+      "device": "Android",
+      "description": "案件ID: 1837831",
+      "searchKeywords": "案件id: 1837831",
+      "category": "shopping"
+    },
+    {
+      "id": "49df477b-9301-4a0b-9302-6577adc69916",
+      "siteName": "ちょびリッチ",
+      "cashback": "14000pt",
+      "device": "Android",
+      "description": "案件ID: 1838701",
+      "searchKeywords": "案件id: 1838701",
+      "category": "shopping"
+    },
+    {
+      "id": "0f6d963c-2529-45a8-8241-12bab7eed43a",
+      "siteName": "ちょびリッチ",
+      "cashback": "13400pt",
+      "device": "Android",
+      "description": "案件ID: 1838260",
+      "searchKeywords": "案件id: 1838260",
+      "category": "shopping"
+    },
+    {
+      "id": "779f5a54-6ba5-4921-94be-4bb4df060d75",
+      "siteName": "ちょびリッチ",
+      "cashback": "12800pt",
+      "device": "Android",
+      "description": "案件ID: 1832094",
+      "searchKeywords": "案件id: 1832094",
+      "category": "shopping"
+    },
+    {
+      "id": "402e5882-906e-49a6-a846-c1b994a592aa",
+      "siteName": "ちょびリッチ",
+      "cashback": "11840pt",
+      "device": "Android",
+      "description": "案件ID: 1829724",
+      "searchKeywords": "案件id: 1829724",
+      "category": "shopping"
+    },
+    {
+      "id": "a39b7d7b-84d1-4120-9d34-4c0a0ee1ea07",
+      "siteName": "ちょびリッチ",
+      "cashback": "8990pt",
+      "device": "Android",
+      "description": "案件ID: 1803775",
+      "searchKeywords": "案件id: 1803775",
+      "category": "shopping"
+    },
+    {
+      "id": "cdb8477d-1ba9-44b9-9d1e-03216e69b927",
+      "siteName": "ちょびリッチ",
+      "cashback": "8480pt",
+      "device": "Android",
+      "description": "案件ID: 1821082",
+      "searchKeywords": "案件id: 1821082",
+      "category": "shopping"
+    },
+    {
+      "id": "4f99de0b-7580-45f7-8ed8-7dba745fc94c",
+      "siteName": "ちょびリッチ",
+      "cashback": "8240pt",
+      "device": "Android",
+      "description": "案件ID: 1811081",
+      "searchKeywords": "案件id: 1811081",
+      "category": "shopping"
+    },
+    {
+      "id": "1b4d3937-e2e1-4182-96f2-7373f541e277",
+      "siteName": "ちょびリッチ",
+      "cashback": "7300pt",
+      "device": "Android",
+      "description": "案件ID: 1805300",
+      "searchKeywords": "案件id: 1805300",
+      "category": "shopping"
+    },
+    {
+      "id": "d7e5f171-66a0-419c-ba18-f040d596b6f9",
+      "siteName": "ちょびリッチ",
+      "cashback": "6860pt",
+      "device": "Android",
+      "description": "案件ID: 1829662",
+      "searchKeywords": "案件id: 1829662",
+      "category": "shopping"
+    },
+    {
+      "id": "ebfc02cc-a736-4281-a618-b6c096dcb39c",
+      "siteName": "ちょびリッチ",
+      "cashback": "807pt",
+      "device": "All",
+      "description": "案件ID: 1832268",
+      "searchKeywords": "案件id: 1832268",
+      "category": "shopping"
+    },
+    {
+      "id": "4e489d79-2100-44f7-85b4-1032a5cc1c32",
+      "siteName": "ちょびリッチ",
+      "cashback": "806pt",
+      "device": "All",
+      "description": "案件ID: 1837093",
+      "searchKeywords": "案件id: 1837093",
+      "category": "shopping"
+    },
+    {
+      "id": "5a30d5dd-1481-4d0d-a4f8-e0ca16c4c7e1",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "All",
+      "description": "案件ID: 1783317",
+      "searchKeywords": "案件id: 1783317",
+      "category": "shopping"
+    },
+    {
+      "id": "1bdbfa87-70ab-4204-9bfe-d8096cc4dbbe",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "All",
+      "description": "案件ID: 1765861",
+      "searchKeywords": "案件id: 1765861",
+      "category": "shopping"
+    },
+    {
+      "id": "28aeff76-29b6-4c38-a24f-bcb15b967ebc",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "iOS",
+      "description": "案件ID: 1791661",
+      "searchKeywords": "案件id: 1791661",
+      "category": "shopping"
+    },
+    {
+      "id": "c4494c3c-b142-40f4-a069-d8251e107233",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "iOS",
+      "description": "案件ID: 1770047",
+      "searchKeywords": "案件id: 1770047",
+      "category": "shopping"
+    },
+    {
+      "id": "5e439118-ebea-4eaa-94e6-f6b0eeb3880b",
+      "siteName": "ちょびリッチ",
+      "cashback": "800pt",
+      "device": "All",
+      "description": "案件ID: 1765854",
+      "searchKeywords": "案件id: 1765854",
+      "category": "shopping"
+    },
+    {
+      "id": "15ee9707-dcbc-456b-b8ce-5a08211c3bb9",
+      "siteName": "ちょびリッチ",
+      "cashback": "783pt",
+      "device": "iOS",
+      "description": "案件ID: 1819787",
+      "searchKeywords": "案件id: 1819787",
+      "category": "shopping"
+    },
+    {
+      "id": "4b18876f-6bd9-4f4b-bd9b-a90394f50246",
+      "siteName": "ちょびリッチ",
+      "cashback": "768pt",
+      "device": "iOS",
+      "description": "案件ID: 1819927",
+      "searchKeywords": "案件id: 1819927",
+      "category": "shopping"
+    },
+    {
+      "id": "7f0c0367-efa4-4d09-9db1-08351198ead5",
+      "siteName": "ちょびリッチ",
+      "cashback": "768pt",
+      "device": "All",
+      "description": "案件ID: 1766785",
+      "searchKeywords": "案件id: 1766785",
+      "category": "shopping"
+    },
+    {
+      "id": "146f2492-00b7-492e-accb-cd9cf1d3d7e7",
+      "siteName": "ちょびリッチ",
+      "cashback": "768pt",
+      "device": "All",
+      "description": "案件ID: 1805110",
+      "searchKeywords": "案件id: 1805110",
+      "category": "shopping"
+    },
+    {
+      "id": "3c455d95-80c5-4723-bac6-7e82040bd85b",
+      "siteName": "ちょびリッチ",
+      "cashback": "761pt",
+      "device": "All",
+      "description": "案件ID: 1836698",
+      "searchKeywords": "案件id: 1836698",
+      "category": "shopping"
+    },
+    {
+      "id": "59301afa-e512-43aa-a54a-83aa3431529b",
+      "siteName": "ちょびリッチ",
+      "cashback": "761pt",
+      "device": "All",
+      "description": "案件ID: 1835586",
+      "searchKeywords": "案件id: 1835586",
+      "category": "shopping"
+    },
+    {
+      "id": "60c45d40-b456-4544-84d9-7a4b4e47c0dc",
+      "siteName": "ちょびリッチ",
+      "cashback": "761pt",
+      "device": "All",
+      "description": "案件ID: 1834175",
+      "searchKeywords": "案件id: 1834175",
+      "category": "shopping"
+    },
+    {
+      "id": "f1547991-f015-4075-893d-487985c05ae7",
+      "siteName": "ちょびリッチ",
+      "cashback": "759pt",
+      "device": "All",
+      "description": "案件ID: 1819909",
+      "searchKeywords": "案件id: 1819909",
+      "category": "shopping"
+    },
+    {
+      "id": "f7e7facf-0aac-4e51-bbdc-7456f00836c3",
+      "siteName": "ちょびリッチ",
+      "cashback": "759pt",
+      "device": "All",
+      "description": "案件ID: 1795423",
+      "searchKeywords": "案件id: 1795423",
+      "category": "shopping"
+    },
+    {
+      "id": "424f10ae-8b97-4147-abde-1cddd961c454",
+      "siteName": "ちょびリッチ",
+      "cashback": "755pt",
+      "device": "All",
+      "description": "案件ID: 1837328",
+      "searchKeywords": "案件id: 1837328",
+      "category": "shopping"
+    },
+    {
+      "id": "cae3d767-0cf0-4a00-b333-61307082af80",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "All",
+      "description": "案件ID: 1834573",
+      "searchKeywords": "案件id: 1834573",
+      "category": "shopping"
+    },
+    {
+      "id": "a35394e7-63e6-4971-9e4d-3f9c556787d3",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "iOS",
+      "description": "案件ID: 1793833",
+      "searchKeywords": "案件id: 1793833",
+      "category": "shopping"
+    },
+    {
+      "id": "7783bc21-b391-4e75-a48b-2eb804e91900",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "iOS",
+      "description": "案件ID: 1792248",
+      "searchKeywords": "案件id: 1792248",
+      "category": "shopping"
+    },
+    {
+      "id": "0f901a35-820c-41b8-ae36-81a9b8025575",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "iOS",
+      "description": "案件ID: 1795205",
+      "searchKeywords": "案件id: 1795205",
+      "category": "shopping"
+    },
+    {
+      "id": "41dde5a5-6859-4c70-9c0e-646c5776e9ad",
+      "siteName": "ちょびリッチ",
+      "cashback": "720pt",
+      "device": "All",
+      "description": "案件ID: 1770025",
+      "searchKeywords": "案件id: 1770025",
+      "category": "shopping"
+    },
+    {
+      "id": "924c34df-8180-4117-8326-99e58ecd0f91",
+      "siteName": "ちょびリッチ",
+      "cashback": "712pt",
+      "device": "All",
+      "description": "案件ID: 1830464",
+      "searchKeywords": "案件id: 1830464",
+      "category": "shopping"
+    },
+    {
+      "id": "d8dc5fa6-a6d9-4d31-b7e2-7768b420751e",
+      "siteName": "ちょびリッチ",
+      "cashback": "712pt",
+      "device": "All",
+      "description": "案件ID: 1784130",
+      "searchKeywords": "案件id: 1784130",
+      "category": "shopping"
+    },
+    {
+      "id": "0d54ac06-6fd6-45c0-86e0-83842904079e",
+      "siteName": "ちょびリッチ",
+      "cashback": "704pt",
+      "device": "All",
+      "description": "案件ID: 1795436",
+      "searchKeywords": "案件id: 1795436",
+      "category": "shopping"
+    },
+    {
+      "id": "18d05f76-b254-4614-aec1-81c45f8b31b8",
+      "siteName": "ちょびリッチ",
+      "cashback": "692pt",
+      "device": "iOS",
+      "description": "案件ID: 1824985",
+      "searchKeywords": "案件id: 1824985",
+      "category": "shopping"
+    },
+    {
+      "id": "20d02f45-6d1a-461a-9ceb-2f8265ad8f93",
+      "siteName": "ちょびリッチ",
+      "cashback": "680pt",
+      "device": "iOS",
+      "description": "案件ID: 1814156",
+      "searchKeywords": "案件id: 1814156",
+      "category": "shopping"
+    },
+    {
+      "id": "8e22e305-8d95-4f64-ada1-eeb01eac11ed",
+      "siteName": "ちょびリッチ",
+      "cashback": "672pt",
+      "device": "All",
+      "description": "案件ID: 1794601",
+      "searchKeywords": "案件id: 1794601",
+      "category": "shopping"
+    },
+    {
+      "id": "75c1832f-ed61-4219-965e-a9ae8032620a",
+      "siteName": "ちょびリッチ",
+      "cashback": "672pt",
+      "device": "All",
+      "description": "案件ID: 1830065",
+      "searchKeywords": "案件id: 1830065",
+      "category": "shopping"
+    },
+    {
+      "id": "20ec66e6-01d8-49a8-8fb2-b176545d8db5",
+      "siteName": "ちょびリッチ",
+      "cashback": "660pt",
+      "device": "iOS",
+      "description": "案件ID: 1823607",
+      "searchKeywords": "案件id: 1823607",
+      "category": "shopping"
+    },
+    {
+      "id": "026acf16-fe8e-4ac6-8180-caef6ac16743",
+      "siteName": "ちょびリッチ",
+      "cashback": "660pt",
+      "device": "iOS",
+      "description": "案件ID: 1823751",
+      "searchKeywords": "案件id: 1823751",
+      "category": "shopping"
+    },
+    {
+      "id": "e32928e2-80ef-46ee-867f-c27f7e3c496c",
+      "siteName": "ちょびリッチ",
+      "cashback": "640pt",
+      "device": "iOS",
+      "description": "案件ID: 1831434",
+      "searchKeywords": "案件id: 1831434",
+      "category": "shopping"
+    },
+    {
+      "id": "b65e3fff-ae23-45b2-a5af-7ab5e0d2aec0",
+      "siteName": "ちょびリッチ",
+      "cashback": "640pt",
+      "device": "iOS",
+      "description": "案件ID: 1766551",
+      "searchKeywords": "案件id: 1766551",
+      "category": "shopping"
+    },
+    {
+      "id": "ac399f74-549a-43c0-93ac-7101b77bddd7",
+      "siteName": "ちょびリッチ",
+      "cashback": "640pt",
+      "device": "iOS",
+      "description": "案件ID: 1791971",
+      "searchKeywords": "案件id: 1791971",
+      "category": "shopping"
+    },
+    {
+      "id": "dfe2f9da-d799-4ca7-ae8d-0e83de2b6914",
+      "siteName": "ちょびリッチ",
+      "cashback": "25420pt",
+      "device": "Android",
+      "description": "案件ID: 1829616",
+      "searchKeywords": "案件id: 1829616",
+      "category": "shopping"
+    },
+    {
       "id": "ff837ab6-ba6d-42b8-bbcc-f32ed0e539e3",
       "siteName": "ちょびリッチ",
       "cashback": "179ポイント",
@@ -34976,7 +35966,7 @@
     }
   ],
   "metadata": {
-    "totalCampaigns": 3951,
-    "lastUpdated": "2025-07-28T04:23:53.348Z"
+    "totalCampaigns": 4273,
+    "lastUpdated": "2025-07-28T06:15:03.929Z"
   }
 }
