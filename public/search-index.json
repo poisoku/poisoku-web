@@ -1,6 +1,348 @@
 {
   "campaigns": [
     {
+      "id": "893e436c-e53c-4b62-890b-72723e44b90e",
+      "siteName": "ちょびリッチ",
+      "cashback": "2720pt",
+      "device": "Android",
+      "description": "[アプリ]Puzzles & Chaos: Frozen Castle（センターキャッスルレベル22到達）（Android）_1820135",
+      "searchKeywords": "[アプリ]puzzles & chaos: frozen castle（センターキャッスルレベル22到達）（android）_1820135",
+      "category": "entertainment"
+    },
+    {
+      "id": "d87f5149-2a80-462e-8a72-b09a740b1b97",
+      "siteName": "ちょびリッチ",
+      "cashback": "2720pt",
+      "device": "Android",
+      "description": "[アプリ]Paris: City Adventure（レベル40）（Android）_1827734",
+      "searchKeywords": "[アプリ]paris: city adventure（レベル40）（android）_1827734",
+      "category": "entertainment"
+    },
+    {
+      "id": "0837f6c2-0d85-4138-a078-ee98ebeec5d8",
+      "siteName": "ちょびリッチ",
+      "cashback": "3040pt",
+      "device": "Android",
+      "description": "[アプリ]金とゴブリンの採掘（鉱山40到達）（Android）_1803546",
+      "searchKeywords": "[アプリ]金とゴブリンの採掘（鉱山40到達）（android）_1803546",
+      "category": "entertainment"
+    },
+    {
+      "id": "dc46c5c9-f988-42a8-8e6e-ef6acf409a72",
+      "siteName": "ちょびリッチ",
+      "cashback": "3200pt",
+      "device": "Android",
+      "description": "[アプリ]実りの地（レベル40到達）（Android）_1778602",
+      "searchKeywords": "[アプリ]実りの地（レベル40到達）（android）_1778602",
+      "category": "entertainment"
+    },
+    {
+      "id": "7147c87c-4ca4-46f1-9e01-7f4140c76241",
+      "siteName": "ちょびリッチ",
+      "cashback": "3520pt",
+      "device": "Android",
+      "description": "[アプリ]ハムデパート まじかるクラフト（多段階）（Android）_1823612",
+      "searchKeywords": "[アプリ]ハムデパート まじかるクラフト（多段階）（android）_1823612",
+      "category": "entertainment"
+    },
+    {
+      "id": "01c45064-25d6-4790-bd1b-5c19d89217b7",
+      "siteName": "ちょびリッチ",
+      "cashback": "3520pt",
+      "device": "Android",
+      "description": "[アプリ]モーマンタイム（プレーヤーレベル94に到達）（Android）_1839453",
+      "searchKeywords": "[アプリ]モーマンタイム（プレーヤーレベル94に到達）（android）_1839453",
+      "category": "entertainment"
+    },
+    {
+      "id": "bf4b1499-ed75-4bcf-97b8-fdb8a14f64b1",
+      "siteName": "ちょびリッチ",
+      "cashback": "3640pt",
+      "device": "Android",
+      "description": "[アプリ]オンラインクレーンゲーム(オンクレ) - アラクレ（多段階）（Android）_1825069",
+      "searchKeywords": "[アプリ]オンラインクレーンゲーム(オンクレ) - アラクレ（多段階）（android）_1825069",
+      "category": "entertainment"
+    },
+    {
+      "id": "23db841d-60cb-48c2-b814-587138c86aa1",
+      "siteName": "ちょびリッチ",
+      "cashback": "3640pt",
+      "device": "Android",
+      "description": "[アプリ]カプコンネットキャッチャー カプとれ（多段階）（Android）_1824647",
+      "searchKeywords": "[アプリ]カプコンネットキャッチャー カプとれ（多段階）（android）_1824647",
+      "category": "entertainment"
+    },
+    {
+      "id": "6ea6c3ce-2b3b-4086-89db-4d6398bf6349",
+      "siteName": "ちょびリッチ",
+      "cashback": "3660pt",
+      "device": "Android",
+      "description": "[アプリ]クラウドキャッチャー（多段階）（Android）_1823759",
+      "searchKeywords": "[アプリ]クラウドキャッチャー（多段階）（android）_1823759",
+      "category": "entertainment"
+    },
+    {
+      "id": "73475ec4-a28a-4ac1-9558-58093567ab9b",
+      "siteName": "ちょびリッチ",
+      "cashback": "3700pt",
+      "device": "Android",
+      "description": "[アプリ]LUCK ROCK オンラインクレーンゲーム（多段階）（Android）_1823757",
+      "searchKeywords": "[アプリ]luck rock オンラインクレーンゲーム（多段階）（android）_1823757",
+      "category": "entertainment"
+    },
+    {
+      "id": "afdd3897-3a9b-41c1-8e82-7983e2626a64",
+      "siteName": "ちょびリッチ",
+      "cashback": "4050pt",
+      "device": "Android",
+      "description": "[アプリ]プリケツにゃー（多段階）（Android）_1803289",
+      "searchKeywords": "[アプリ]プリケツにゃー（多段階）（android）_1803289",
+      "category": "entertainment"
+    },
+    {
+      "id": "c861ca7c-7407-457e-b719-0cbc23de34ce",
+      "siteName": "ちょびリッチ",
+      "cashback": "4480pt",
+      "device": "Android",
+      "description": "[アプリ]君の目的はボクを殺すこと3（多段階）（Android）_1803291",
+      "searchKeywords": "[アプリ]君の目的はボクを殺すこと3（多段階）（android）_1803291",
+      "category": "entertainment"
+    },
+    {
+      "id": "4f6b0b90-ef16-492f-bcc2-89f7ed088f4c",
+      "siteName": "ちょびリッチ",
+      "cashback": "4480pt",
+      "device": "Android",
+      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム（レベル18到達）（Android）_1828053",
+      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム（レベル18到達）（android）_1828053",
+      "category": "entertainment"
+    },
+    {
+      "id": "ea9934bf-c2f1-4043-9fa8-6a893a7e30d8",
+      "siteName": "ちょびリッチ",
+      "cashback": "4640pt",
+      "device": "Android",
+      "description": "[アプリ]Decor Merge - マージ インテリア（レベル32到達）（Android）_1819444",
+      "searchKeywords": "[アプリ]decor merge - マージ インテリア（レベル32到達）（android）_1819444",
+      "category": "entertainment"
+    },
+    {
+      "id": "f3fce528-ef88-436a-9854-88b6170d55af",
+      "siteName": "ちょびリッチ",
+      "cashback": "4920pt",
+      "device": "Android",
+      "description": "[アプリ]三国志:戦乱（多段階）（Android）_1840283",
+      "searchKeywords": "[アプリ]三国志:戦乱（多段階）（android）_1840283",
+      "category": "entertainment"
+    },
+    {
+      "id": "ab0517b1-d83f-4b62-844e-35727a6cc044",
+      "siteName": "ちょびリッチ",
+      "cashback": "5440pt",
+      "device": "Android",
+      "description": "[アプリ]実りの地（Harvest Land）（レベル45到達）（Android）_1795203",
+      "searchKeywords": "[アプリ]実りの地（harvest land）（レベル45到達）（android）_1795203",
+      "category": "entertainment"
+    },
+    {
+      "id": "791c472b-681e-4634-b1e9-900cbf12a72a",
+      "siteName": "ちょびリッチ",
+      "cashback": "5600pt",
+      "device": "Android",
+      "description": "[アプリ]Alice's Mergeland（ギフトリンク/レベル21到達＆1025ダイアモンド（ルビーの袋）購入）（Android）_1827799",
+      "searchKeywords": "[アプリ]alice's mergeland（ギフトリンク/レベル21到達＆1025ダイアモンド（ルビーの袋）購入）（android）_1827799",
+      "category": "entertainment"
+    },
+    {
+      "id": "fe6dfcbb-12c5-432d-b4a5-d5de4ff6e7ac",
+      "siteName": "ちょびリッチ",
+      "cashback": "5840pt",
+      "device": "Android",
+      "description": "[アプリ]Merge Town（多段階）（Android）_1828479",
+      "searchKeywords": "[アプリ]merge town（多段階）（android）_1828479",
+      "category": "entertainment"
+    },
+    {
+      "id": "f541c228-738a-4c26-93a9-c151f0f4e174",
+      "siteName": "ちょびリッチ",
+      "cashback": "6000pt",
+      "device": "Android",
+      "description": "[アプリ]Alice's Mergeland（多段階）（Android）_1839487",
+      "searchKeywords": "[アプリ]alice's mergeland（多段階）（android）_1839487",
+      "category": "entertainment"
+    },
+    {
+      "id": "494ea718-f112-4a78-8fbf-45c359935cd9",
+      "siteName": "ちょびリッチ",
+      "cashback": "6860pt",
+      "device": "Android",
+      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム（多段階）（Android）_1829662",
+      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム（多段階）（android）_1829662",
+      "category": "entertainment"
+    },
+    {
+      "id": "fbb8606a-017e-4a9d-a177-7a7ce5f3265c",
+      "siteName": "ちょびリッチ",
+      "cashback": "7300pt",
+      "device": "Android",
+      "description": "[アプリ]Love Water – Color Sort Puzzle（多段階）（Android）_1805300",
+      "searchKeywords": "[アプリ]love water – color sort puzzle（多段階）（android）_1805300",
+      "category": "entertainment"
+    },
+    {
+      "id": "dbda7eed-c3d0-4e06-ac6f-fde8dac326ea",
+      "siteName": "ちょびリッチ",
+      "cashback": "8240pt",
+      "device": "Android",
+      "description": "[アプリ]金とゴブリンの採掘ゲーム（多段階）（Android）_1811081",
+      "searchKeywords": "[アプリ]金とゴブリンの採掘ゲーム（多段階）（android）_1811081",
+      "category": "entertainment"
+    },
+    {
+      "id": "39c97589-3843-4a8a-9d7d-f528a7425332",
+      "siteName": "ちょびリッチ",
+      "cashback": "8480pt",
+      "device": "Android",
+      "description": "[アプリ]マージ デザイナー（Merge Designer）（多段階）（Android）_1821082",
+      "searchKeywords": "[アプリ]マージ デザイナー（merge designer）（多段階）（android）_1821082",
+      "category": "entertainment"
+    },
+    {
+      "id": "7d13a824-a1a2-431b-bebb-05845d0a8a62",
+      "siteName": "ちょびリッチ",
+      "cashback": "8650pt",
+      "device": "Android",
+      "description": "[アプリ]ゾンビ・パニック（多段階）（Android）_1803775",
+      "searchKeywords": "[アプリ]ゾンビ・パニック（多段階）（android）_1803775",
+      "category": "entertainment"
+    },
+    {
+      "id": "eb19c9fa-1f8c-4bf9-9604-5cc26479cd5b",
+      "siteName": "ちょびリッチ",
+      "cashback": "11840pt",
+      "device": "Android",
+      "description": "[アプリ]喧嘩の花道（多段階）（Android）_1829724",
+      "searchKeywords": "[アプリ]喧嘩の花道（多段階）（android）_1829724",
+      "category": "entertainment"
+    },
+    {
+      "id": "56299cbe-1a3c-4c29-9648-0ac1ddb99658",
+      "siteName": "ちょびリッチ",
+      "cashback": "12800pt",
+      "device": "Android",
+      "description": "[アプリ]マフィア・シティ-極道風雲（別荘Lv.25到達＆豪華特権購入）（Android）_1832094",
+      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲（別荘lv.25到達＆豪華特権購入）（android）_1832094",
+      "category": "entertainment"
+    },
+    {
+      "id": "f741c251-ee01-40b8-bf51-16adaaa0b674",
+      "siteName": "ちょびリッチ",
+      "cashback": "13040pt",
+      "device": "Android",
+      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム（多段階）（Android）_1839633",
+      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム（多段階）（android）_1839633",
+      "category": "entertainment"
+    },
+    {
+      "id": "db8a8828-2baa-4a6a-80c5-2cbc9d2238f0",
+      "siteName": "ちょびリッチ",
+      "cashback": "13400pt",
+      "device": "Android",
+      "description": "[アプリ]パズル＆コンクエスト（多段階）（Android）_1838260",
+      "searchKeywords": "[アプリ]パズル＆コンクエスト（多段階）（android）_1838260",
+      "category": "entertainment"
+    },
+    {
+      "id": "e751f9f0-ffe9-471f-b4c1-590d792164ca",
+      "siteName": "ちょびリッチ",
+      "cashback": "14000pt",
+      "device": "Android",
+      "description": "[アプリ]恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（Android）_1838701",
+      "searchKeywords": "[アプリ]恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（android）_1838701",
+      "category": "entertainment"
+    },
+    {
+      "id": "e6cbec0c-8666-45eb-a4b0-bcb9593fe299",
+      "siteName": "ちょびリッチ",
+      "cashback": "16120pt",
+      "device": "Android",
+      "description": "[アプリ]モーマンタイム（多段階）（Android）_1839458",
+      "searchKeywords": "[アプリ]モーマンタイム（多段階）（android）_1839458",
+      "category": "entertainment"
+    },
+    {
+      "id": "be7410fe-f233-41f4-b4a8-1da0cf1abf9d",
+      "siteName": "ちょびリッチ",
+      "cashback": "17280pt",
+      "device": "Android",
+      "description": "[アプリ]マフィア・シティ-極道風雲（ギフトリンク/別荘Lv.25到達＆初回豪華特権を購入）（Android）_1824628",
+      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲（ギフトリンク/別荘lv.25到達＆初回豪華特権を購入）（android）_1824628",
+      "category": "entertainment"
+    },
+    {
+      "id": "f6528cec-fb74-4b34-9bfb-9ee72515bb55",
+      "siteName": "ちょびリッチ",
+      "cashback": "17820pt",
+      "device": "Android",
+      "description": "[アプリ]喧嘩の花道（Android用）_1762434",
+      "searchKeywords": "[アプリ]喧嘩の花道（android用）_1762434",
+      "category": "entertainment"
+    },
+    {
+      "id": "1887445f-bd73-4e4b-90e7-75704b2e58e4",
+      "siteName": "ちょびリッチ",
+      "cashback": "20200pt",
+      "device": "Android",
+      "description": "[アプリ]Puzzles & Chaos: Frozen Castle（多段階）（Android）_1829625",
+      "searchKeywords": "[アプリ]puzzles & chaos: frozen castle（多段階）（android）_1829625",
+      "category": "entertainment"
+    },
+    {
+      "id": "04055cca-3e23-4e0c-9466-2707b515dcd5",
+      "siteName": "ちょびリッチ",
+      "cashback": "25420pt",
+      "device": "Android",
+      "description": "[アプリ]出荷ぶた -冬ver-（多段階）（Android）_1829666",
+      "searchKeywords": "[アプリ]出荷ぶた -冬ver-（多段階）（android）_1829666",
+      "category": "entertainment"
+    },
+    {
+      "id": "6feab3ec-02c6-47d1-939a-7c47439de23a",
+      "siteName": "ちょびリッチ",
+      "cashback": "25420pt",
+      "device": "Android",
+      "description": "[アプリ]出荷ぶた（多段階）（Android）_1829616",
+      "searchKeywords": "[アプリ]出荷ぶた（多段階）（android）_1829616",
+      "category": "entertainment"
+    },
+    {
+      "id": "49904938-f906-4559-8642-8e9bd1db975a",
+      "siteName": "ちょびリッチ",
+      "cashback": "450pt",
+      "device": "Android",
+      "description": "[アプリ]ブロックパズル（クラシックモード1万点達成）（Android）_1829590",
+      "searchKeywords": "[アプリ]ブロックパズル（クラシックモード1万点達成）（android）_1829590",
+      "category": "entertainment"
+    },
+    {
+      "id": "d0faaa2c-fccd-4f7d-995b-47065ec4378b",
+      "siteName": "ちょびリッチ",
+      "cashback": "1160pt",
+      "device": "Android",
+      "description": "[アプリ]ピコットタウン レベル32到達（Android）_1835497",
+      "searchKeywords": "[アプリ]ピコットタウン レベル32到達（android）_1835497",
+      "category": "entertainment"
+    },
+    {
+      "id": "58339e39-ef61-4d67-995f-508ec206bada",
+      "siteName": "ちょびリッチ",
+      "cashback": "2200pt",
+      "device": "Android",
+      "description": "[アプリ]Match Play 3D メガオファーを30回コンプリート（Android）_1839083",
+      "searchKeywords": "[アプリ]match play 3d メガオファーを30回コンプリート（android）_1839083",
+      "category": "entertainment"
+    },
+    {
       "id": "f3c2c3aa-d7c5-4950-8567-e754e2c28d4d",
       "siteName": "ちょびリッチ",
       "cashback": "最大1590ポイント",
@@ -53,258 +395,6 @@
       "description": "マフィア・シティ-極道風雲（アプリランド）",
       "searchKeywords": "マフィア・シティ-極道風雲（アプリランド）",
       "category": "other"
-    },
-    {
-      "id": "db8a8828-2baa-4a6a-80c5-2cbc9d2238f0",
-      "siteName": "ちょびリッチ",
-      "cashback": "13400ptポイント",
-      "device": "Android",
-      "description": "[アプリ]パズル＆コンクエスト（多段階）（Android）_1838260",
-      "searchKeywords": "[アプリ]パズル＆コンクエスト（多段階）（android）_1838260",
-      "category": "entertainment"
-    },
-    {
-      "id": "f741c251-ee01-40b8-bf51-16adaaa0b674",
-      "siteName": "ちょびリッチ",
-      "cashback": "13040ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム（多段階）（Android）_1839633",
-      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム（多段階）（android）_1839633",
-      "category": "entertainment"
-    },
-    {
-      "id": "56299cbe-1a3c-4c29-9648-0ac1ddb99658",
-      "siteName": "ちょびリッチ",
-      "cashback": "12800ptポイント",
-      "device": "Android",
-      "description": "[アプリ]マフィア・シティ-極道風雲（別荘Lv.25到達＆豪華特権購入）（Android）_1832094",
-      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲（別荘lv.25到達＆豪華特権購入）（android）_1832094",
-      "category": "entertainment"
-    },
-    {
-      "id": "eb19c9fa-1f8c-4bf9-9604-5cc26479cd5b",
-      "siteName": "ちょびリッチ",
-      "cashback": "11840ptポイント",
-      "device": "Android",
-      "description": "[アプリ]喧嘩の花道（多段階）（Android）_1829724",
-      "searchKeywords": "[アプリ]喧嘩の花道（多段階）（android）_1829724",
-      "category": "entertainment"
-    },
-    {
-      "id": "7d13a824-a1a2-431b-bebb-05845d0a8a62",
-      "siteName": "ちょびリッチ",
-      "cashback": "8650ptポイント",
-      "device": "Android",
-      "description": "[アプリ]ゾンビ・パニック（多段階）（Android）_1803775",
-      "searchKeywords": "[アプリ]ゾンビ・パニック（多段階）（android）_1803775",
-      "category": "entertainment"
-    },
-    {
-      "id": "39c97589-3843-4a8a-9d7d-f528a7425332",
-      "siteName": "ちょびリッチ",
-      "cashback": "8480ptポイント",
-      "device": "Android",
-      "description": "[アプリ]マージ デザイナー（Merge Designer）（多段階）（Android）_1821082",
-      "searchKeywords": "[アプリ]マージ デザイナー（merge designer）（多段階）（android）_1821082",
-      "category": "entertainment"
-    },
-    {
-      "id": "dbda7eed-c3d0-4e06-ac6f-fde8dac326ea",
-      "siteName": "ちょびリッチ",
-      "cashback": "8240ptポイント",
-      "device": "Android",
-      "description": "[アプリ]金とゴブリンの採掘ゲーム（多段階）（Android）_1811081",
-      "searchKeywords": "[アプリ]金とゴブリンの採掘ゲーム（多段階）（android）_1811081",
-      "category": "entertainment"
-    },
-    {
-      "id": "fbb8606a-017e-4a9d-a177-7a7ce5f3265c",
-      "siteName": "ちょびリッチ",
-      "cashback": "7300ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Love Water – Color Sort Puzzle（多段階）（Android）_1805300",
-      "searchKeywords": "[アプリ]love water – color sort puzzle（多段階）（android）_1805300",
-      "category": "entertainment"
-    },
-    {
-      "id": "494ea718-f112-4a78-8fbf-45c359935cd9",
-      "siteName": "ちょびリッチ",
-      "cashback": "6860ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム（多段階）（Android）_1829662",
-      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム（多段階）（android）_1829662",
-      "category": "entertainment"
-    },
-    {
-      "id": "f541c228-738a-4c26-93a9-c151f0f4e174",
-      "siteName": "ちょびリッチ",
-      "cashback": "6000ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Alice's Mergeland（多段階）（Android）_1839487",
-      "searchKeywords": "[アプリ]alice's mergeland（多段階）（android）_1839487",
-      "category": "entertainment"
-    },
-    {
-      "id": "fe6dfcbb-12c5-432d-b4a5-d5de4ff6e7ac",
-      "siteName": "ちょびリッチ",
-      "cashback": "5840ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Merge Town（多段階）（Android）_1828479",
-      "searchKeywords": "[アプリ]merge town（多段階）（android）_1828479",
-      "category": "entertainment"
-    },
-    {
-      "id": "791c472b-681e-4634-b1e9-900cbf12a72a",
-      "siteName": "ちょびリッチ",
-      "cashback": "5600ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Alice's Mergeland（ギフトリンク/レベル21到達＆1025ダイアモンド（ルビーの袋）購入）（Android）_1827799",
-      "searchKeywords": "[アプリ]alice's mergeland（ギフトリンク/レベル21到達＆1025ダイアモンド（ルビーの袋）購入）（android）_1827799",
-      "category": "entertainment"
-    },
-    {
-      "id": "ab0517b1-d83f-4b62-844e-35727a6cc044",
-      "siteName": "ちょびリッチ",
-      "cashback": "5440ptポイント",
-      "device": "Android",
-      "description": "[アプリ]実りの地（Harvest Land）（レベル45到達）（Android）_1795203",
-      "searchKeywords": "[アプリ]実りの地（harvest land）（レベル45到達）（android）_1795203",
-      "category": "entertainment"
-    },
-    {
-      "id": "f3fce528-ef88-436a-9854-88b6170d55af",
-      "siteName": "ちょびリッチ",
-      "cashback": "4920ptポイント",
-      "device": "Android",
-      "description": "[アプリ]三国志:戦乱（多段階）（Android）_1840283",
-      "searchKeywords": "[アプリ]三国志:戦乱（多段階）（android）_1840283",
-      "category": "entertainment"
-    },
-    {
-      "id": "ea9934bf-c2f1-4043-9fa8-6a893a7e30d8",
-      "siteName": "ちょびリッチ",
-      "cashback": "4640ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Decor Merge - マージ インテリア（レベル32到達）（Android）_1819444",
-      "searchKeywords": "[アプリ]decor merge - マージ インテリア（レベル32到達）（android）_1819444",
-      "category": "entertainment"
-    },
-    {
-      "id": "4f6b0b90-ef16-492f-bcc2-89f7ed088f4c",
-      "siteName": "ちょびリッチ",
-      "cashback": "4480ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム（レベル18到達）（Android）_1828053",
-      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム（レベル18到達）（android）_1828053",
-      "category": "entertainment"
-    },
-    {
-      "id": "c861ca7c-7407-457e-b719-0cbc23de34ce",
-      "siteName": "ちょびリッチ",
-      "cashback": "4480ptポイント",
-      "device": "Android",
-      "description": "[アプリ]君の目的はボクを殺すこと3（多段階）（Android）_1803291",
-      "searchKeywords": "[アプリ]君の目的はボクを殺すこと3（多段階）（android）_1803291",
-      "category": "entertainment"
-    },
-    {
-      "id": "afdd3897-3a9b-41c1-8e82-7983e2626a64",
-      "siteName": "ちょびリッチ",
-      "cashback": "4050ptポイント",
-      "device": "Android",
-      "description": "[アプリ]プリケツにゃー（多段階）（Android）_1803289",
-      "searchKeywords": "[アプリ]プリケツにゃー（多段階）（android）_1803289",
-      "category": "entertainment"
-    },
-    {
-      "id": "73475ec4-a28a-4ac1-9558-58093567ab9b",
-      "siteName": "ちょびリッチ",
-      "cashback": "3700ptポイント",
-      "device": "Android",
-      "description": "[アプリ]LUCK ROCK オンラインクレーンゲーム（多段階）（Android）_1823757",
-      "searchKeywords": "[アプリ]luck rock オンラインクレーンゲーム（多段階）（android）_1823757",
-      "category": "entertainment"
-    },
-    {
-      "id": "6ea6c3ce-2b3b-4086-89db-4d6398bf6349",
-      "siteName": "ちょびリッチ",
-      "cashback": "3660ptポイント",
-      "device": "Android",
-      "description": "[アプリ]クラウドキャッチャー（多段階）（Android）_1823759",
-      "searchKeywords": "[アプリ]クラウドキャッチャー（多段階）（android）_1823759",
-      "category": "entertainment"
-    },
-    {
-      "id": "23db841d-60cb-48c2-b814-587138c86aa1",
-      "siteName": "ちょびリッチ",
-      "cashback": "3640ptポイント",
-      "device": "Android",
-      "description": "[アプリ]カプコンネットキャッチャー カプとれ（多段階）（Android）_1824647",
-      "searchKeywords": "[アプリ]カプコンネットキャッチャー カプとれ（多段階）（android）_1824647",
-      "category": "entertainment"
-    },
-    {
-      "id": "bf4b1499-ed75-4bcf-97b8-fdb8a14f64b1",
-      "siteName": "ちょびリッチ",
-      "cashback": "3640ptポイント",
-      "device": "Android",
-      "description": "[アプリ]オンラインクレーンゲーム(オンクレ) - アラクレ（多段階）（Android）_1825069",
-      "searchKeywords": "[アプリ]オンラインクレーンゲーム(オンクレ) - アラクレ（多段階）（android）_1825069",
-      "category": "entertainment"
-    },
-    {
-      "id": "01c45064-25d6-4790-bd1b-5c19d89217b7",
-      "siteName": "ちょびリッチ",
-      "cashback": "3520ptポイント",
-      "device": "Android",
-      "description": "[アプリ]モーマンタイム（プレーヤーレベル94に到達）（Android）_1839453",
-      "searchKeywords": "[アプリ]モーマンタイム（プレーヤーレベル94に到達）（android）_1839453",
-      "category": "entertainment"
-    },
-    {
-      "id": "7147c87c-4ca4-46f1-9e01-7f4140c76241",
-      "siteName": "ちょびリッチ",
-      "cashback": "3520ptポイント",
-      "device": "Android",
-      "description": "[アプリ]ハムデパート まじかるクラフト（多段階）（Android）_1823612",
-      "searchKeywords": "[アプリ]ハムデパート まじかるクラフト（多段階）（android）_1823612",
-      "category": "entertainment"
-    },
-    {
-      "id": "dc46c5c9-f988-42a8-8e6e-ef6acf409a72",
-      "siteName": "ちょびリッチ",
-      "cashback": "3200ptポイント",
-      "device": "Android",
-      "description": "[アプリ]実りの地（レベル40到達）（Android）_1778602",
-      "searchKeywords": "[アプリ]実りの地（レベル40到達）（android）_1778602",
-      "category": "entertainment"
-    },
-    {
-      "id": "0837f6c2-0d85-4138-a078-ee98ebeec5d8",
-      "siteName": "ちょびリッチ",
-      "cashback": "3040ptポイント",
-      "device": "Android",
-      "description": "[アプリ]金とゴブリンの採掘（鉱山40到達）（Android）_1803546",
-      "searchKeywords": "[アプリ]金とゴブリンの採掘（鉱山40到達）（android）_1803546",
-      "category": "entertainment"
-    },
-    {
-      "id": "d87f5149-2a80-462e-8a72-b09a740b1b97",
-      "siteName": "ちょびリッチ",
-      "cashback": "2720ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Paris: City Adventure（レベル40）（Android）_1827734",
-      "searchKeywords": "[アプリ]paris: city adventure（レベル40）（android）_1827734",
-      "category": "entertainment"
-    },
-    {
-      "id": "893e436c-e53c-4b62-890b-72723e44b90e",
-      "siteName": "ちょびリッチ",
-      "cashback": "2720ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Puzzles & Chaos: Frozen Castle（センターキャッスルレベル22到達）（Android）_1820135",
-      "searchKeywords": "[アプリ]puzzles & chaos: frozen castle（センターキャッスルレベル22到達）（android）_1820135",
-      "category": "entertainment"
     },
     {
       "id": "ba5ad94e-2e66-4202-adf1-260d2e54240a",
@@ -1114,96 +1204,6 @@
       "device": "All",
       "description": "[アプリ]ちょびリッチ公式Xフォロー 10pt ちょびリッチ公式X（旧Twitter）をフォローする_1826570",
       "searchKeywords": "[アプリ]ちょびリッチ公式xフォロー 10pt ちょびリッチ公式x（旧twitter）をフォローする_1826570",
-      "category": "entertainment"
-    },
-    {
-      "id": "58339e39-ef61-4d67-995f-508ec206bada",
-      "siteName": "ちょびリッチ",
-      "cashback": "2200ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Match Play 3D メガオファーを30回コンプリート（Android）_1839083",
-      "searchKeywords": "[アプリ]match play 3d メガオファーを30回コンプリート（android）_1839083",
-      "category": "entertainment"
-    },
-    {
-      "id": "d0faaa2c-fccd-4f7d-995b-47065ec4378b",
-      "siteName": "ちょびリッチ",
-      "cashback": "1160ptポイント",
-      "device": "Android",
-      "description": "[アプリ]ピコットタウン レベル32到達（Android）_1835497",
-      "searchKeywords": "[アプリ]ピコットタウン レベル32到達（android）_1835497",
-      "category": "entertainment"
-    },
-    {
-      "id": "49904938-f906-4559-8642-8e9bd1db975a",
-      "siteName": "ちょびリッチ",
-      "cashback": "450ptポイント",
-      "device": "Android",
-      "description": "[アプリ]ブロックパズル（クラシックモード1万点達成）（Android）_1829590",
-      "searchKeywords": "[アプリ]ブロックパズル（クラシックモード1万点達成）（android）_1829590",
-      "category": "entertainment"
-    },
-    {
-      "id": "6feab3ec-02c6-47d1-939a-7c47439de23a",
-      "siteName": "ちょびリッチ",
-      "cashback": "25420ptポイント",
-      "device": "Android",
-      "description": "[アプリ]出荷ぶた（多段階）（Android）_1829616",
-      "searchKeywords": "[アプリ]出荷ぶた（多段階）（android）_1829616",
-      "category": "entertainment"
-    },
-    {
-      "id": "04055cca-3e23-4e0c-9466-2707b515dcd5",
-      "siteName": "ちょびリッチ",
-      "cashback": "25420ptポイント",
-      "device": "Android",
-      "description": "[アプリ]出荷ぶた -冬ver-（多段階）（Android）_1829666",
-      "searchKeywords": "[アプリ]出荷ぶた -冬ver-（多段階）（android）_1829666",
-      "category": "entertainment"
-    },
-    {
-      "id": "1887445f-bd73-4e4b-90e7-75704b2e58e4",
-      "siteName": "ちょびリッチ",
-      "cashback": "20200ptポイント",
-      "device": "Android",
-      "description": "[アプリ]Puzzles & Chaos: Frozen Castle（多段階）（Android）_1829625",
-      "searchKeywords": "[アプリ]puzzles & chaos: frozen castle（多段階）（android）_1829625",
-      "category": "entertainment"
-    },
-    {
-      "id": "f6528cec-fb74-4b34-9bfb-9ee72515bb55",
-      "siteName": "ちょびリッチ",
-      "cashback": "17820ptポイント",
-      "device": "Android",
-      "description": "[アプリ]喧嘩の花道（Android用）_1762434",
-      "searchKeywords": "[アプリ]喧嘩の花道（android用）_1762434",
-      "category": "entertainment"
-    },
-    {
-      "id": "be7410fe-f233-41f4-b4a8-1da0cf1abf9d",
-      "siteName": "ちょびリッチ",
-      "cashback": "17280ptポイント",
-      "device": "Android",
-      "description": "[アプリ]マフィア・シティ-極道風雲（ギフトリンク/別荘Lv.25到達＆初回豪華特権を購入）（Android）_1824628",
-      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲（ギフトリンク/別荘lv.25到達＆初回豪華特権を購入）（android）_1824628",
-      "category": "entertainment"
-    },
-    {
-      "id": "e6cbec0c-8666-45eb-a4b0-bcb9593fe299",
-      "siteName": "ちょびリッチ",
-      "cashback": "16120ptポイント",
-      "device": "Android",
-      "description": "[アプリ]モーマンタイム（多段階）（Android）_1839458",
-      "searchKeywords": "[アプリ]モーマンタイム（多段階）（android）_1839458",
-      "category": "entertainment"
-    },
-    {
-      "id": "e751f9f0-ffe9-471f-b4c1-590d792164ca",
-      "siteName": "ちょびリッチ",
-      "cashback": "14000ptポイント",
-      "device": "Android",
-      "description": "[アプリ]恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（Android）_1838701",
-      "searchKeywords": "[アプリ]恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（android）_1838701",
       "category": "entertainment"
     },
     {
@@ -27174,6 +27174,6 @@
   ],
   "metadata": {
     "totalCampaigns": 3033,
-    "lastUpdated": "2025-07-30T10:00:33.427Z"
+    "lastUpdated": "2025-07-30T11:38:35.041Z"
   }
 }
