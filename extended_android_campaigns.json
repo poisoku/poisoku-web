@@ -1,0 +1,17 @@
+{
+  "scrape_date": "2025-07-30T05:25:29.762Z",
+  "scraper_type": "extended_android",
+  "target_id": "1840652",
+  "target_found": false,
+  "total_campaigns": 0,
+  "android_campaigns": 0,
+  "all_device_campaigns": 0,
+  "target_campaigns": [],
+  "device_breakdown": {
+    "android": 0,
+    "ios": 0,
+    "all": 0
+  },
+  "errors": [],
+  "campaigns": []
+}

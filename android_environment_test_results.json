@@ -1,0 +1,94 @@
+{
+  "test_date": "2025-07-30T05:43:07.075Z",
+  "results": {
+    "android": {
+      "Android-1": {
+        "userAgent": "Android-1",
+        "success": 3,
+        "failed": 3,
+        "campaigns": [],
+        "errors": [
+          "/smartphone?sort=point: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=2: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=3: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32"
+        ],
+        "accessStatus": {
+          "/smartphone?sort=point": "ERROR",
+          "/smartphone?sort=point&page=2": "ERROR",
+          "/smartphone?sort=point&page=3": "ERROR"
+        }
+      },
+      "Android-2": {
+        "userAgent": "Android-2",
+        "success": 3,
+        "failed": 3,
+        "campaigns": [],
+        "errors": [
+          "/smartphone?sort=point: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=2: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=3: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32"
+        ],
+        "accessStatus": {
+          "/smartphone?sort=point": "ERROR",
+          "/smartphone?sort=point&page=2": "ERROR",
+          "/smartphone?sort=point&page=3": "ERROR"
+        }
+      },
+      "Android-3": {
+        "userAgent": "Android-3",
+        "success": 3,
+        "failed": 3,
+        "campaigns": [],
+        "errors": [
+          "/smartphone?sort=point: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=2: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=3: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32"
+        ],
+        "accessStatus": {
+          "/smartphone?sort=point": "ERROR",
+          "/smartphone?sort=point&page=2": "ERROR",
+          "/smartphone?sort=point&page=3": "ERROR"
+        }
+      },
+      "Android-4": {
+        "userAgent": "Android-4",
+        "success": 3,
+        "failed": 3,
+        "campaigns": [],
+        "errors": [
+          "/smartphone?sort=point: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=2: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+          "/smartphone?sort=point&page=3: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32"
+        ],
+        "accessStatus": {
+          "/smartphone?sort=point": "ERROR",
+          "/smartphone?sort=point&page=2": "ERROR",
+          "/smartphone?sort=point&page=3": "ERROR"
+        }
+      }
+    },
+    "ios": {
+      "userAgent": "iOS Safari",
+      "success": 3,
+      "failed": 3,
+      "campaigns": [],
+      "errors": [
+        "/smartphone?sort=point: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+        "/smartphone?sort=point&page=2: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32",
+        "/smartphone?sort=point&page=3: testUrl is not defined\npptr:evaluate;AndroidEnvironmentTester.testUserAgent%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscripts%2Fandroid-environment-test.js%3A113%3A41):61:32"
+      ],
+      "accessStatus": {
+        "/smartphone?sort=point": "ERROR",
+        "/smartphone?sort=point&page=2": "ERROR",
+        "/smartphone?sort=point&page=3": "ERROR"
+      }
+    },
+    "comparison": {}
+  },
+  "summary": {
+    "ios_success": true,
+    "android_success": false,
+    "best_android_ua": null,
+    "dual_environment_feasible": false
+  }
+}
