@@ -53,32 +53,38 @@ class ChobirichDataIntegrator {
   async loadAndTransformData() {
     console.log('📂 ちょびリッチデータファイルを読み込み中...');
     
-    const files = [
-      { path: 'chobirich-shopping-campaigns.json', source: 'shopping' },
-      { path: 'chobirich-service-campaigns.json', source: 'service' }
-    ];
+    const files = [];
     
-    // アプリ案件ファイルも存在するかチェック
+    // 中規模版統一スクレイパーの結果ファイルを優先
     try {
-      await fs.access('chobirich_all_app_campaigns.json');
-      files.push({ path: 'chobirich_all_app_campaigns.json', source: 'app', type: 'iOS' });
+      await fs.access('chobirich_unified_medium_results.json');
+      files.push({ path: 'chobirich_unified_medium_results.json', source: 'unified_medium' });
+      console.log('✅ 中規模版統一スクレイピング結果を発見');
     } catch (e) {
-      console.log('iOS アプリ案件ファイルが見つかりません');
-    }
-    
-    // 完全スクレイピングデータは無効なため除外
-    // try {
-    //   await fs.access('chobirich_complete_app_campaigns.json');
-    //   files.push({ path: 'chobirich_complete_app_campaigns.json', source: 'app', type: 'Both' });
-    // } catch (e) {
-    //   console.log('完全スクレイピングファイルが見つかりません');
-    // }
-    
-    try {
-      await fs.access('chobirich_android_app_campaigns.json');
-      files.push({ path: 'chobirich_android_app_campaigns.json', source: 'app', type: 'Android' });
-    } catch (e) {
-      console.log('Android アプリ案件ファイルが見つかりません');
+      console.log('中規模版統一スクレイピング結果が見つかりません - 個別ファイルを確認します');
+      
+      // フォールバック: 個別ファイル
+      const individualFiles = [
+        { path: 'chobirich-shopping-campaigns.json', source: 'shopping' },
+        { path: 'chobirich-service-campaigns.json', source: 'service' }
+      ];
+      
+      // アプリ案件ファイルも存在するかチェック
+      try {
+        await fs.access('chobirich_all_app_campaigns.json');
+        individualFiles.push({ path: 'chobirich_all_app_campaigns.json', source: 'app', type: 'iOS' });
+      } catch (e) {
+        console.log('iOS アプリ案件ファイルが見つかりません');
+      }
+      
+      try {
+        await fs.access('chobirich_android_app_campaigns.json');
+        individualFiles.push({ path: 'chobirich_android_app_campaigns.json', source: 'app', type: 'Android' });
+      } catch (e) {
+        console.log('Android アプリ案件ファイルが見つかりません');
+      }
+      
+      files.push(...individualFiles);
     }
     
     const allCampaigns = [];
@@ -88,7 +94,12 @@ class ChobirichDataIntegrator {
         const data = await fs.readFile(file.path, 'utf8');
         let campaigns;
         
-        if (file.path.includes('service')) {
+        if (file.source === 'unified_medium') {
+          // 中規模版統一スクレイピング結果の場合
+          const jsonData = JSON.parse(data);
+          campaigns = jsonData.campaigns || [];
+          console.log(`🔧 統一スクレイピング結果: ${campaigns.length}件`);
+        } else if (file.path.includes('service')) {
           // サービス案件の場合、JSONの構造を確認
           const jsonData = JSON.parse(data);
           campaigns = jsonData.campaigns || jsonData; // campaignsプロパティがある場合とない場合に対応
@@ -123,14 +134,14 @@ class ChobirichDataIntegrator {
         // 統合用フォーマットに変換
         const transformedCampaigns = validCampaigns.map((campaign, index) => ({
           // 既存のcampaignsテーブル構造に合わせる
-          name: this.createUniqueName(campaign.name, campaign.id, file.source),
+          name: this.createUniqueName(campaign.name, campaign.id, file.source === 'unified_medium' ? this.getSourceFromCampaign(campaign) : file.source),
           point_site_id: this.chobirichSiteId,
           cashback_rate: this.formatCashbackRate(campaign),
-          device: this.mapDevice(file.type || campaign.os),
+          device: this.mapDevice(file.type || campaign.os || campaign.device),
           campaign_url: campaign.url ? campaign.url.replace(/\/$/, '') : campaign.url,
           description: this.formatDescription(campaign),
           is_active: true,
-          category: this.mapCategory(campaign.category, file.source)
+          category: this.mapCategory(campaign.category, file.source === 'unified_medium' ? this.getSourceFromCampaign(campaign) : file.source)
         }));
         
         allCampaigns.push(...transformedCampaigns);
@@ -144,13 +155,22 @@ class ChobirichDataIntegrator {
     return allCampaigns;
   }
 
+  // 統一スクレイピング結果からソースを判定
+  getSourceFromCampaign(campaign) {
+    if (campaign.category === 'ショッピング') return 'shopping';
+    if (campaign.category === 'アプリ') return 'app';
+    if (campaign.category === 'サービス') return 'service';
+    return 'other';
+  }
+
   // ユニークな案件名を作成
   createUniqueName(name, id, source) {
     const cleanName = this.cleanCampaignName(name);
     const sourcePrefix = {
       'shopping': '[ショップ]',
       'service': '[サービス]',
-      'app': '[アプリ]'
+      'app': '[アプリ]',
+      'unified_medium': '[統一]'
     }[source] || '[その他]';
     
     // 案件名が重複を避けるため、ID付きにする
@@ -192,6 +212,7 @@ class ChobirichDataIntegrator {
       case 'ios': return 'iOS';
       case 'Android': return 'Android';
       case 'android': return 'Android';
+      case 'all': return 'All';
       case '全デバイス': return 'All';
       case 'unknown': return 'All';
       default: return 'All';
