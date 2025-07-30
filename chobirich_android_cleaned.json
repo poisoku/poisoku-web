@@ -1,0 +1,101 @@
+{
+  "scrape_date": "2025-07-30T07:30:00.000Z",
+  "strategy": "android_cleaned",
+  "total_campaigns": 638,
+  "unique_campaigns": 638,
+  "duplicates_removed": 0,
+  "category_breakdown": {
+    "アプリ": 638
+  },
+  "errors": [],
+  "campaigns": [
+    {
+      "id": "1839083",
+      "name": "Match Play 3D メガオファーを30回コンプリート（Android）",
+      "url": "https://www.chobirich.com/ad_details/1839083/",
+      "cashbackRate": "",
+      "cashbackAmount": "2200pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    },
+    {
+      "id": "1835497",
+      "name": "ピコットタウン レベル32到達（Android）",
+      "url": "https://www.chobirich.com/ad_details/1835497/",
+      "cashbackRate": "",
+      "cashbackAmount": "1160pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    },
+    {
+      "id": "1829590",
+      "name": "ブロックパズル（クラシックモード1万点達成）（Android）",
+      "url": "https://www.chobirich.com/ad_details/1829590/",
+      "cashbackRate": "",
+      "cashbackAmount": "450pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    },
+    {
+      "id": "1840652",
+      "name": "メロンのマージパズル（Android）",
+      "url": "https://www.chobirich.com/ad_details/1840652/",
+      "cashbackRate": "",
+      "cashbackAmount": "320pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    },
+    {
+      "id": "1829616",
+      "name": "出荷ぶた（多段階）（Android）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829616/",
+      "cashbackRate": "",
+      "cashbackAmount": "最大25420pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    },
+    {
+      "id": "1829666",
+      "name": "出荷ぶた -冬ver-（多段階）（Android）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829666/",
+      "cashbackRate": "",
+      "cashbackAmount": "最大25420pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    },
+    {
+      "id": "1829625",
+      "name": "Puzzles & Chaos: Frozen Castle（多段階）（Android）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829625/",
+      "cashbackRate": "",
+      "cashbackAmount": "最大20200pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    },
+    {
+      "id": "1762434",
+      "name": "喧嘩の花道（Android用）",
+      "url": "https://www.chobirich.com/ad_details/1762434/",
+      "cashbackRate": "",
+      "cashbackAmount": "17820pt",
+      "category": "アプリ",
+      "subCategory": "アプリ",
+      "device": "android",
+      "timestamp": "2025-07-30T07:30:00.000Z"
+    }
+  ]
+}
