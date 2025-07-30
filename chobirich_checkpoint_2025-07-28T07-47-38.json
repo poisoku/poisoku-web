@@ -1,0 +1,3744 @@
+{
+  "timestamp": "2025-07-28T08:16:16.513Z",
+  "processedCount": 250,
+  "targetCount": 663,
+  "processedCampaigns": [],
+  "errorLog": [
+    {
+      "timestamp": "2025-07-28T07:50:09.882Z",
+      "message": "❌ [1837310] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:12.844Z",
+      "message": "❌ [1837310] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:15.759Z",
+      "message": "❌ [1837310] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:18.218Z",
+      "message": "❌ [1826358] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:21.186Z",
+      "message": "❌ [1826358] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:24.154Z",
+      "message": "❌ [1826358] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:26.641Z",
+      "message": "❌ [1743997] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:29.590Z",
+      "message": "❌ [1743997] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:32.562Z",
+      "message": "❌ [1743997] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:35.054Z",
+      "message": "❌ [1743998] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:37.932Z",
+      "message": "❌ [1743998] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:40.858Z",
+      "message": "❌ [1743998] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:43.338Z",
+      "message": "❌ [1743999] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:46.299Z",
+      "message": "❌ [1743999] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:49.227Z",
+      "message": "❌ [1743999] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:51.622Z",
+      "message": "❌ [1744000] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:54.561Z",
+      "message": "❌ [1744000] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:57.448Z",
+      "message": "❌ [1744000] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:50:59.861Z",
+      "message": "❌ [1744001] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:02.810Z",
+      "message": "❌ [1744001] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:05.813Z",
+      "message": "❌ [1744001] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:08.637Z",
+      "message": "❌ [1744004] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:11.615Z",
+      "message": "❌ [1744004] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:14.637Z",
+      "message": "❌ [1744004] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:17.313Z",
+      "message": "❌ [1840348] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:20.253Z",
+      "message": "❌ [1840348] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:23.141Z",
+      "message": "❌ [1840348] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:25.588Z",
+      "message": "❌ [1744005] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:28.585Z",
+      "message": "❌ [1744005] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:31.526Z",
+      "message": "❌ [1744005] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:33.890Z",
+      "message": "❌ [1822541] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:36.893Z",
+      "message": "❌ [1822541] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:39.856Z",
+      "message": "❌ [1822541] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:42.274Z",
+      "message": "❌ [1836590] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:45.296Z",
+      "message": "❌ [1836590] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:48.382Z",
+      "message": "❌ [1836590] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:50.854Z",
+      "message": "❌ [1838201] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:53.754Z",
+      "message": "❌ [1838201] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:56.739Z",
+      "message": "❌ [1838201] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:51:59.137Z",
+      "message": "❌ [1837764] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:02.387Z",
+      "message": "❌ [1837764] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:05.554Z",
+      "message": "❌ [1837764] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:07.971Z",
+      "message": "❌ [1838641] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:10.861Z",
+      "message": "❌ [1838641] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:13.824Z",
+      "message": "❌ [1838641] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:16.208Z",
+      "message": "❌ [1836851] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:19.179Z",
+      "message": "❌ [1836851] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:22.194Z",
+      "message": "❌ [1836851] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:24.601Z",
+      "message": "❌ [1836864] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:27.713Z",
+      "message": "❌ [1836864] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:30.606Z",
+      "message": "❌ [1836864] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:32.973Z",
+      "message": "❌ [1824284] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:35.882Z",
+      "message": "❌ [1824284] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:38.871Z",
+      "message": "❌ [1824284] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:41.260Z",
+      "message": "❌ [1807170] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:44.142Z",
+      "message": "❌ [1807170] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:47.126Z",
+      "message": "❌ [1807170] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:49.580Z",
+      "message": "❌ [1791701] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:52.793Z",
+      "message": "❌ [1791701] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:55.738Z",
+      "message": "❌ [1791701] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:52:58.218Z",
+      "message": "❌ [1830664] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:00.421Z",
+      "message": "❌ [1830664] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:02.626Z",
+      "message": "❌ [1830664] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:04.321Z",
+      "message": "❌ [1784717] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:06.529Z",
+      "message": "❌ [1784717] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:08.744Z",
+      "message": "❌ [1784717] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:10.449Z",
+      "message": "❌ [1829485] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:12.652Z",
+      "message": "❌ [1829485] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:14.850Z",
+      "message": "❌ [1829485] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:16.546Z",
+      "message": "❌ [1830549] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:18.748Z",
+      "message": "❌ [1830549] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:20.961Z",
+      "message": "❌ [1830549] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:22.664Z",
+      "message": "❌ [1754204] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:24.860Z",
+      "message": "❌ [1754204] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:27.070Z",
+      "message": "❌ [1754204] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:28.777Z",
+      "message": "❌ [1819899] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:30.979Z",
+      "message": "❌ [1819899] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:33.191Z",
+      "message": "❌ [1819899] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:34.896Z",
+      "message": "❌ [1819901] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:37.095Z",
+      "message": "❌ [1819901] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:39.298Z",
+      "message": "❌ [1819901] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:40.996Z",
+      "message": "❌ [1828890] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:43.212Z",
+      "message": "❌ [1828890] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:45.444Z",
+      "message": "❌ [1828890] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:47.170Z",
+      "message": "❌ [1835479] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:49.367Z",
+      "message": "❌ [1835479] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:51.574Z",
+      "message": "❌ [1835479] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:53.279Z",
+      "message": "❌ [1819897] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:55.480Z",
+      "message": "❌ [1819897] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:57.682Z",
+      "message": "❌ [1819897] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:53:59.390Z",
+      "message": "❌ [1832260] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:01.616Z",
+      "message": "❌ [1832260] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:03.814Z",
+      "message": "❌ [1832260] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:05.509Z",
+      "message": "❌ [1839643] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:07.699Z",
+      "message": "❌ [1839643] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:09.902Z",
+      "message": "❌ [1839643] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:11.608Z",
+      "message": "❌ [1794491] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:13.824Z",
+      "message": "❌ [1794491] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:16.033Z",
+      "message": "❌ [1794491] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:17.737Z",
+      "message": "❌ [1840460] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:19.954Z",
+      "message": "❌ [1840460] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:22.153Z",
+      "message": "❌ [1840460] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:23.859Z",
+      "message": "❌ [1839368] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:26.037Z",
+      "message": "❌ [1839368] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:28.240Z",
+      "message": "❌ [1839368] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:29.922Z",
+      "message": "❌ [1809384] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:32.125Z",
+      "message": "❌ [1809384] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:34.327Z",
+      "message": "❌ [1809384] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:36.030Z",
+      "message": "❌ [1829585] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:38.230Z",
+      "message": "❌ [1829585] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:40.443Z",
+      "message": "❌ [1829585] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:42.140Z",
+      "message": "❌ [1835496] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:44.339Z",
+      "message": "❌ [1835496] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:46.540Z",
+      "message": "❌ [1835496] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:48.246Z",
+      "message": "❌ [1804736] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:50.437Z",
+      "message": "❌ [1804736] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:52.640Z",
+      "message": "❌ [1804736] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:54.345Z",
+      "message": "❌ [1836757] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:56.534Z",
+      "message": "❌ [1836757] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:54:58.730Z",
+      "message": "❌ [1836757] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:00.443Z",
+      "message": "❌ [1837931] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:02.661Z",
+      "message": "❌ [1837931] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:04.870Z",
+      "message": "❌ [1837931] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:06.584Z",
+      "message": "❌ [1838584] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:08.808Z",
+      "message": "❌ [1838584] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:11.029Z",
+      "message": "❌ [1838584] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:12.746Z",
+      "message": "❌ [1829987] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:14.939Z",
+      "message": "❌ [1829987] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:17.133Z",
+      "message": "❌ [1829987] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:18.824Z",
+      "message": "❌ [1833890] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:21.044Z",
+      "message": "❌ [1833890] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:23.251Z",
+      "message": "❌ [1833890] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:24.959Z",
+      "message": "❌ [1777438] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:27.163Z",
+      "message": "❌ [1777438] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:29.372Z",
+      "message": "❌ [1777438] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:31.066Z",
+      "message": "❌ [1839989] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:33.257Z",
+      "message": "❌ [1839989] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:35.471Z",
+      "message": "❌ [1839989] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:37.160Z",
+      "message": "❌ [1838580] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:39.366Z",
+      "message": "❌ [1838580] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:41.557Z",
+      "message": "❌ [1838580] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:43.262Z",
+      "message": "❌ [1838089] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:45.456Z",
+      "message": "❌ [1838089] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:47.665Z",
+      "message": "❌ [1838089] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:49.361Z",
+      "message": "❌ [1829667] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:51.577Z",
+      "message": "❌ [1829667] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:53.784Z",
+      "message": "❌ [1829667] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:55.473Z",
+      "message": "❌ [1829617] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:57.664Z",
+      "message": "❌ [1829617] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:55:59.869Z",
+      "message": "❌ [1829617] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:01.595Z",
+      "message": "❌ [1840184] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:03.789Z",
+      "message": "❌ [1840184] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:06.004Z",
+      "message": "❌ [1840184] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:07.710Z",
+      "message": "❌ [1838382] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:09.912Z",
+      "message": "❌ [1838382] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:12.117Z",
+      "message": "❌ [1838382] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:13.819Z",
+      "message": "❌ [1836778] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:16.034Z",
+      "message": "❌ [1836778] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:18.249Z",
+      "message": "❌ [1836778] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:19.951Z",
+      "message": "❌ [1838581] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:22.163Z",
+      "message": "❌ [1838581] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:24.375Z",
+      "message": "❌ [1838581] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:26.082Z",
+      "message": "❌ [1839267] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:28.298Z",
+      "message": "❌ [1839267] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:30.511Z",
+      "message": "❌ [1839267] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:32.229Z",
+      "message": "❌ [1837453] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:34.415Z",
+      "message": "❌ [1837453] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:36.618Z",
+      "message": "❌ [1837453] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:38.325Z",
+      "message": "❌ [1838519] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:40.524Z",
+      "message": "❌ [1838519] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:42.702Z",
+      "message": "❌ [1838519] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:44.397Z",
+      "message": "❌ [1829627] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:46.597Z",
+      "message": "❌ [1829627] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:48.799Z",
+      "message": "❌ [1829627] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:50.511Z",
+      "message": "❌ [1839549] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:52.706Z",
+      "message": "❌ [1839549] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:54.908Z",
+      "message": "❌ [1839549] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:56.615Z",
+      "message": "❌ [1829458] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:56:58.815Z",
+      "message": "❌ [1829458] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:00.994Z",
+      "message": "❌ [1829458] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:02.701Z",
+      "message": "❌ [1830024] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:04.892Z",
+      "message": "❌ [1830024] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:07.089Z",
+      "message": "❌ [1830024] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:08.801Z",
+      "message": "❌ [1839240] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:11.011Z",
+      "message": "❌ [1839240] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:13.213Z",
+      "message": "❌ [1839240] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:14.916Z",
+      "message": "❌ [1836324] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:17.131Z",
+      "message": "❌ [1836324] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:19.331Z",
+      "message": "❌ [1836324] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:21.077Z",
+      "message": "❌ [1666103] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:23.256Z",
+      "message": "❌ [1666103] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:25.464Z",
+      "message": "❌ [1666103] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:27.161Z",
+      "message": "❌ [1666104] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:29.372Z",
+      "message": "❌ [1666104] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:31.575Z",
+      "message": "❌ [1666104] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:33.282Z",
+      "message": "❌ [1666103] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:35.520Z",
+      "message": "❌ [1666103] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:37.729Z",
+      "message": "❌ [1666103] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:39.436Z",
+      "message": "❌ [1666104] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:41.636Z",
+      "message": "❌ [1666104] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:43.891Z",
+      "message": "❌ [1666104] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:47.115Z",
+      "message": "❌ [1665694] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:49.361Z",
+      "message": "❌ [1665694] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:51.702Z",
+      "message": "❌ [1665694] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:53.455Z",
+      "message": "❌ [1762433] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:55.644Z",
+      "message": "❌ [1762433] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:57.867Z",
+      "message": "❌ [1762433] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:57:59.566Z",
+      "message": "❌ [1835579] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:01.746Z",
+      "message": "❌ [1835579] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:04.013Z",
+      "message": "❌ [1835579] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:05.707Z",
+      "message": "❌ [1824629] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:07.921Z",
+      "message": "❌ [1824629] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:10.133Z",
+      "message": "❌ [1824629] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:11.839Z",
+      "message": "❌ [1836897] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:14.079Z",
+      "message": "❌ [1836897] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:16.266Z",
+      "message": "❌ [1836897] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:17.999Z",
+      "message": "❌ [1838985] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:20.177Z",
+      "message": "❌ [1838985] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:22.362Z",
+      "message": "❌ [1838985] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:24.059Z",
+      "message": "❌ [1837920] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:26.247Z",
+      "message": "❌ [1837920] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:28.473Z",
+      "message": "❌ [1837920] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:30.181Z",
+      "message": "❌ [1836870] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:32.379Z",
+      "message": "❌ [1836870] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:34.581Z",
+      "message": "❌ [1836870] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:36.275Z",
+      "message": "❌ [1839448] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:38.511Z",
+      "message": "❌ [1839448] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:40.718Z",
+      "message": "❌ [1839448] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:42.419Z",
+      "message": "❌ [1835175] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:44.612Z",
+      "message": "❌ [1835175] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:46.796Z",
+      "message": "❌ [1835175] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:48.551Z",
+      "message": "❌ [1830026] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:50.745Z",
+      "message": "❌ [1830026] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:52.994Z",
+      "message": "❌ [1830026] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:54.686Z",
+      "message": "❌ [1833893] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:56.887Z",
+      "message": "❌ [1833893] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:58:59.109Z",
+      "message": "❌ [1833893] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:00.833Z",
+      "message": "❌ [1839508] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:03.077Z",
+      "message": "❌ [1839508] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:05.277Z",
+      "message": "❌ [1839508] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:06.978Z",
+      "message": "❌ [1838700] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:09.207Z",
+      "message": "❌ [1838700] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:11.389Z",
+      "message": "❌ [1838700] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:13.127Z",
+      "message": "❌ [1838261] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:15.309Z",
+      "message": "❌ [1838261] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:17.543Z",
+      "message": "❌ [1838261] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:19.247Z",
+      "message": "❌ [1837933] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:21.450Z",
+      "message": "❌ [1837933] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:23.698Z",
+      "message": "❌ [1837933] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:25.404Z",
+      "message": "❌ [1839632] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:27.606Z",
+      "message": "❌ [1839632] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:29.809Z",
+      "message": "❌ [1839632] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:31.514Z",
+      "message": "❌ [1832093] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:33.724Z",
+      "message": "❌ [1832093] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:35.915Z",
+      "message": "❌ [1832093] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:37.645Z",
+      "message": "❌ [1829621] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:39.845Z",
+      "message": "❌ [1829621] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:42.037Z",
+      "message": "❌ [1829621] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:43.772Z",
+      "message": "❌ [1830046] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:45.965Z",
+      "message": "❌ [1830046] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:48.194Z",
+      "message": "❌ [1830046] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:49.886Z",
+      "message": "❌ [1833607] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:52.101Z",
+      "message": "❌ [1833607] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:54.346Z",
+      "message": "❌ [1833607] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:56.046Z",
+      "message": "❌ [1838110] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T07:59:58.290Z",
+      "message": "❌ [1838110] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:00.529Z",
+      "message": "❌ [1838110] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:02.246Z",
+      "message": "❌ [1829723] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:04.492Z",
+      "message": "❌ [1829723] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:06.795Z",
+      "message": "❌ [1829723] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:08.544Z",
+      "message": "❌ [1829612] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:10.752Z",
+      "message": "❌ [1829612] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:13.003Z",
+      "message": "❌ [1829612] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:14.673Z",
+      "message": "❌ [1839738] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:16.869Z",
+      "message": "❌ [1839738] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:19.112Z",
+      "message": "❌ [1839738] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:20.856Z",
+      "message": "❌ [1830049] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:23.086Z",
+      "message": "❌ [1830049] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:25.304Z",
+      "message": "❌ [1830049] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:26.993Z",
+      "message": "❌ [1830020] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:29.225Z",
+      "message": "❌ [1830020] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:31.415Z",
+      "message": "❌ [1830020] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:33.156Z",
+      "message": "❌ [1817134] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:35.345Z",
+      "message": "❌ [1817134] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:37.548Z",
+      "message": "❌ [1817134] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:39.250Z",
+      "message": "❌ [1840012] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:41.438Z",
+      "message": "❌ [1840012] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:43.665Z",
+      "message": "❌ [1840012] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:45.372Z",
+      "message": "❌ [1837923] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:47.534Z",
+      "message": "❌ [1837923] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:49.732Z",
+      "message": "❌ [1837923] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:51.415Z",
+      "message": "❌ [1833895] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:53.673Z",
+      "message": "❌ [1833895] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:55.869Z",
+      "message": "❌ [1833895] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:57.564Z",
+      "message": "❌ [1803287] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:00:59.793Z",
+      "message": "❌ [1803287] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:01.993Z",
+      "message": "❌ [1803287] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:03.730Z",
+      "message": "❌ [1833898] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:05.899Z",
+      "message": "❌ [1833898] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:08.139Z",
+      "message": "❌ [1833898] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:09.841Z",
+      "message": "❌ [1821081] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:12.044Z",
+      "message": "❌ [1821081] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:14.276Z",
+      "message": "❌ [1821081] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:15.975Z",
+      "message": "❌ [1839630] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:18.199Z",
+      "message": "❌ [1839630] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:20.426Z",
+      "message": "❌ [1839630] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:22.130Z",
+      "message": "❌ [1811080] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:24.488Z",
+      "message": "❌ [1811080] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:26.698Z",
+      "message": "❌ [1811080] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:28.439Z",
+      "message": "❌ [1805301] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:30.644Z",
+      "message": "❌ [1805301] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:32.892Z",
+      "message": "❌ [1805301] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:34.578Z",
+      "message": "❌ [1833897] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:36.774Z",
+      "message": "❌ [1833897] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:39.022Z",
+      "message": "❌ [1833897] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:40.715Z",
+      "message": "❌ [1837609] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:42.942Z",
+      "message": "❌ [1837609] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:45.130Z",
+      "message": "❌ [1837609] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:46.837Z",
+      "message": "❌ [1774233] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:49.050Z",
+      "message": "❌ [1774233] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:51.240Z",
+      "message": "❌ [1774233] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:52.984Z",
+      "message": "❌ [1829661] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:55.156Z",
+      "message": "❌ [1829661] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:57.353Z",
+      "message": "❌ [1829661] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:01:59.091Z",
+      "message": "❌ [1804764] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:01.280Z",
+      "message": "❌ [1804764] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:03.532Z",
+      "message": "❌ [1804764] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:05.232Z",
+      "message": "❌ [1829303] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:07.399Z",
+      "message": "❌ [1829303] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:09.627Z",
+      "message": "❌ [1829303] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:11.319Z",
+      "message": "❌ [1840284] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:13.543Z",
+      "message": "❌ [1840284] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:15.747Z",
+      "message": "❌ [1840284] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:17.452Z",
+      "message": "❌ [1840339] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:19.664Z",
+      "message": "❌ [1840339] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:21.867Z",
+      "message": "❌ [1840339] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:23.608Z",
+      "message": "❌ [1837702] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:25.795Z",
+      "message": "❌ [1837702] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:28.032Z",
+      "message": "❌ [1837702] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:29.741Z",
+      "message": "❌ [1838866] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:31.906Z",
+      "message": "❌ [1838866] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:34.124Z",
+      "message": "❌ [1838866] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:35.863Z",
+      "message": "❌ [1835208] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:38.091Z",
+      "message": "❌ [1835208] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:40.285Z",
+      "message": "❌ [1835208] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:41.994Z",
+      "message": "❌ [1839547] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:44.235Z",
+      "message": "❌ [1839547] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:46.432Z",
+      "message": "❌ [1839547] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:48.166Z",
+      "message": "❌ [1837559] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:50.339Z",
+      "message": "❌ [1837559] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:52.542Z",
+      "message": "❌ [1837559] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:54.239Z",
+      "message": "❌ [1795202] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:56.438Z",
+      "message": "❌ [1795202] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:02:58.661Z",
+      "message": "❌ [1795202] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:00.358Z",
+      "message": "❌ [1833899] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:03.212Z",
+      "message": "❌ [1833899] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:05.483Z",
+      "message": "❌ [1833899] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:07.214Z",
+      "message": "❌ [1838023] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:09.633Z",
+      "message": "❌ [1838023] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:11.871Z",
+      "message": "❌ [1838023] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:13.598Z",
+      "message": "❌ [1828287] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:15.771Z",
+      "message": "❌ [1828287] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:17.989Z",
+      "message": "❌ [1828287] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:19.662Z",
+      "message": "❌ [1837910] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:21.838Z",
+      "message": "❌ [1837910] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:24.057Z",
+      "message": "❌ [1837910] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:25.726Z",
+      "message": "❌ [1824375] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:27.954Z",
+      "message": "❌ [1824375] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:30.131Z",
+      "message": "❌ [1824375] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:31.814Z",
+      "message": "❌ [1828052] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:34.006Z",
+      "message": "❌ [1828052] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:36.208Z",
+      "message": "❌ [1828052] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:37.923Z",
+      "message": "❌ [1839933] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:40.107Z",
+      "message": "❌ [1839933] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:42.284Z",
+      "message": "❌ [1839933] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:44.008Z",
+      "message": "❌ [1830022] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:46.193Z",
+      "message": "❌ [1830022] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:48.409Z",
+      "message": "❌ [1830022] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:50.125Z",
+      "message": "❌ [1807306] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:52.306Z",
+      "message": "❌ [1807306] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:54.518Z",
+      "message": "❌ [1807306] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:56.233Z",
+      "message": "❌ [1840446] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:03:58.470Z",
+      "message": "❌ [1840446] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:00.657Z",
+      "message": "❌ [1840446] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:02.355Z",
+      "message": "❌ [1840494] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:04.577Z",
+      "message": "❌ [1840494] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:06.766Z",
+      "message": "❌ [1840494] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:08.491Z",
+      "message": "❌ [1819443] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:10.678Z",
+      "message": "❌ [1819443] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:12.885Z",
+      "message": "❌ [1819443] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:14.552Z",
+      "message": "❌ [1838263] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:16.720Z",
+      "message": "❌ [1838263] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:18.921Z",
+      "message": "❌ [1838263] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:20.579Z",
+      "message": "❌ [1838316] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:22.778Z",
+      "message": "❌ [1838316] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:24.958Z",
+      "message": "❌ [1838316] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:26.624Z",
+      "message": "❌ [1829977] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:28.859Z",
+      "message": "❌ [1829977] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:31.042Z",
+      "message": "❌ [1829977] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:32.757Z",
+      "message": "❌ [1803290] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:34.922Z",
+      "message": "❌ [1803290] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:37.100Z",
+      "message": "❌ [1803290] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:38.818Z",
+      "message": "❌ [1830042] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:40.973Z",
+      "message": "❌ [1830042] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:43.179Z",
+      "message": "❌ [1830042] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:44.865Z",
+      "message": "❌ [1840029] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:47.105Z",
+      "message": "❌ [1840029] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:49.313Z",
+      "message": "❌ [1840029] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:50.989Z",
+      "message": "❌ [1806806] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:53.214Z",
+      "message": "❌ [1806806] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:55.382Z",
+      "message": "❌ [1806806] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:57.069Z",
+      "message": "❌ [1837325] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:04:59.297Z",
+      "message": "❌ [1837325] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:01.466Z",
+      "message": "❌ [1837325] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:03.180Z",
+      "message": "❌ [1803288] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:05.352Z",
+      "message": "❌ [1803288] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:07.516Z",
+      "message": "❌ [1803288] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:09.240Z",
+      "message": "❌ [1838493] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:11.421Z",
+      "message": "❌ [1838493] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:13.629Z",
+      "message": "❌ [1838493] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:15.311Z",
+      "message": "❌ [1840396] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:17.490Z",
+      "message": "❌ [1840396] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:19.713Z",
+      "message": "❌ [1840396] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:21.386Z",
+      "message": "❌ [1823756] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:23.654Z",
+      "message": "❌ [1823756] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:25.845Z",
+      "message": "❌ [1823756] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:27.523Z",
+      "message": "❌ [1823758] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:29.744Z",
+      "message": "❌ [1823758] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:31.937Z",
+      "message": "❌ [1823758] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:33.681Z",
+      "message": "❌ [1825070] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:35.859Z",
+      "message": "❌ [1825070] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:38.080Z",
+      "message": "❌ [1825070] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:39.769Z",
+      "message": "❌ [1824648] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:41.954Z",
+      "message": "❌ [1824648] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:44.188Z",
+      "message": "❌ [1824648] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:45.861Z",
+      "message": "❌ [1804758] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:48.080Z",
+      "message": "❌ [1804758] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:50.298Z",
+      "message": "❌ [1804758] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:51.978Z",
+      "message": "❌ [1839715] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:54.222Z",
+      "message": "❌ [1839715] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:56.421Z",
+      "message": "❌ [1839715] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:05:58.132Z",
+      "message": "❌ [1839454] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:00.416Z",
+      "message": "❌ [1839454] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:02.585Z",
+      "message": "❌ [1839454] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:04.332Z",
+      "message": "❌ [1823611] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:06.514Z",
+      "message": "❌ [1823611] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:08.726Z",
+      "message": "❌ [1823611] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:10.408Z",
+      "message": "❌ [1834371] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:12.592Z",
+      "message": "❌ [1834371] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:14.868Z",
+      "message": "❌ [1834371] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:16.540Z",
+      "message": "❌ [1782303] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:18.802Z",
+      "message": "❌ [1782303] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:20.993Z",
+      "message": "❌ [1782303] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:22.674Z",
+      "message": "❌ [1835325] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:24.860Z",
+      "message": "❌ [1835325] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:27.041Z",
+      "message": "❌ [1835325] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:28.758Z",
+      "message": "❌ [1817569] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:30.963Z",
+      "message": "❌ [1817569] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:33.190Z",
+      "message": "❌ [1817569] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:34.869Z",
+      "message": "❌ [1824165] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:37.042Z",
+      "message": "❌ [1824165] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:39.253Z",
+      "message": "❌ [1824165] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:40.930Z",
+      "message": "❌ [1820719] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:43.143Z",
+      "message": "❌ [1820719] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:45.329Z",
+      "message": "❌ [1820719] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:47.002Z",
+      "message": "❌ [1839325] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:49.222Z",
+      "message": "❌ [1839325] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:51.402Z",
+      "message": "❌ [1839325] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:53.113Z",
+      "message": "❌ [1778603] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:55.306Z",
+      "message": "❌ [1778603] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:57.483Z",
+      "message": "❌ [1778603] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:06:59.227Z",
+      "message": "❌ [1834572] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:01.398Z",
+      "message": "❌ [1834572] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:03.598Z",
+      "message": "❌ [1834572] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:05.266Z",
+      "message": "❌ [1820718] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:07.449Z",
+      "message": "❌ [1820718] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:09.679Z",
+      "message": "❌ [1820718] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:11.352Z",
+      "message": "❌ [1829984] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:13.618Z",
+      "message": "❌ [1829984] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:15.790Z",
+      "message": "❌ [1829984] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:17.462Z",
+      "message": "❌ [1803548] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:19.688Z",
+      "message": "❌ [1803548] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:21.864Z",
+      "message": "❌ [1803548] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:23.574Z",
+      "message": "❌ [1839786] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:25.747Z",
+      "message": "❌ [1839786] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:27.964Z",
+      "message": "❌ [1839786] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:29.642Z",
+      "message": "❌ [1839100] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:31.821Z",
+      "message": "❌ [1839100] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:34.020Z",
+      "message": "❌ [1839100] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:35.689Z",
+      "message": "❌ [1840354] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:37.905Z",
+      "message": "❌ [1840354] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:40.070Z",
+      "message": "❌ [1840354] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:41.735Z",
+      "message": "❌ [1838829] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:43.952Z",
+      "message": "❌ [1838829] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:46.115Z",
+      "message": "❌ [1838829] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:47.818Z",
+      "message": "❌ [1829964] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:49.976Z",
+      "message": "❌ [1829964] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:52.135Z",
+      "message": "❌ [1829964] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:53.849Z",
+      "message": "❌ [1839522] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:56.026Z",
+      "message": "❌ [1839522] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:07:58.223Z",
+      "message": "❌ [1839522] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:00.007Z",
+      "message": "❌ [1820136] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:02.189Z",
+      "message": "❌ [1820136] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:04.404Z",
+      "message": "❌ [1820136] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:06.073Z",
+      "message": "❌ [1835041] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:08.351Z",
+      "message": "❌ [1835041] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:10.531Z",
+      "message": "❌ [1835041] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:12.201Z",
+      "message": "❌ [1838703] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:14.438Z",
+      "message": "❌ [1838703] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:16.599Z",
+      "message": "❌ [1838703] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:18.311Z",
+      "message": "❌ [1838395] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:20.500Z",
+      "message": "❌ [1838395] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:22.659Z",
+      "message": "❌ [1838395] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:24.367Z",
+      "message": "❌ [1832271] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:26.543Z",
+      "message": "❌ [1832271] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:28.744Z",
+      "message": "❌ [1832271] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:30.407Z",
+      "message": "❌ [1839525] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:32.574Z",
+      "message": "❌ [1839525] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:34.794Z",
+      "message": "❌ [1839525] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:36.475Z",
+      "message": "❌ [1825118] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:38.683Z",
+      "message": "❌ [1825118] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:40.851Z",
+      "message": "❌ [1825118] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:42.527Z",
+      "message": "❌ [1840055] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:44.726Z",
+      "message": "❌ [1840055] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:46.892Z",
+      "message": "❌ [1840055] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:48.595Z",
+      "message": "❌ [1840211] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:50.760Z",
+      "message": "❌ [1840211] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:52.973Z",
+      "message": "❌ [1840211] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:54.619Z",
+      "message": "❌ [1833869] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:56.780Z",
+      "message": "❌ [1833869] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:08:59.000Z",
+      "message": "❌ [1833869] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:00.656Z",
+      "message": "❌ [1835093] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:02.853Z",
+      "message": "❌ [1835093] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:05.003Z",
+      "message": "❌ [1835093] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:06.672Z",
+      "message": "❌ [1803330] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:08.873Z",
+      "message": "❌ [1803330] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:11.033Z",
+      "message": "❌ [1803330] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:12.709Z",
+      "message": "❌ [1826066] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:14.882Z",
+      "message": "❌ [1826066] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:17.082Z",
+      "message": "❌ [1826066] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:18.793Z",
+      "message": "❌ [1840471] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:20.956Z",
+      "message": "❌ [1840471] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:23.170Z",
+      "message": "❌ [1840471] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:24.854Z",
+      "message": "❌ [1829948] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:27.047Z",
+      "message": "❌ [1829948] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:29.264Z",
+      "message": "❌ [1829948] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:30.938Z",
+      "message": "❌ [1839366] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:33.135Z",
+      "message": "❌ [1839366] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:35.306Z",
+      "message": "❌ [1839366] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:36.972Z",
+      "message": "❌ [1799016] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:39.195Z",
+      "message": "❌ [1799016] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:41.366Z",
+      "message": "❌ [1799016] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:43.080Z",
+      "message": "❌ [1820937] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:45.257Z",
+      "message": "❌ [1820937] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:47.455Z",
+      "message": "❌ [1820937] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:49.185Z",
+      "message": "❌ [1829752] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:51.364Z",
+      "message": "❌ [1829752] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:53.561Z",
+      "message": "❌ [1829752] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:55.209Z",
+      "message": "❌ [1763779] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:57.382Z",
+      "message": "❌ [1763779] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:09:59.579Z",
+      "message": "❌ [1763779] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:01.277Z",
+      "message": "❌ [1833539] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:03.500Z",
+      "message": "❌ [1833539] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:05.656Z",
+      "message": "❌ [1833539] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:07.320Z",
+      "message": "❌ [1804803] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:09.533Z",
+      "message": "❌ [1804803] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:11.694Z",
+      "message": "❌ [1804803] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:13.404Z",
+      "message": "❌ [1769731] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:15.572Z",
+      "message": "❌ [1769731] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:17.802Z",
+      "message": "❌ [1769731] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:19.470Z",
+      "message": "❌ [1811086] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:21.637Z",
+      "message": "❌ [1811086] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:23.848Z",
+      "message": "❌ [1811086] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:25.516Z",
+      "message": "❌ [1829979] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:27.687Z",
+      "message": "❌ [1829979] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:29.899Z",
+      "message": "❌ [1829979] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:31.571Z",
+      "message": "❌ [1829969] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:33.781Z",
+      "message": "❌ [1829969] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:35.953Z",
+      "message": "❌ [1829969] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:37.618Z",
+      "message": "❌ [1820324] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:39.837Z",
+      "message": "❌ [1820324] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:42.002Z",
+      "message": "❌ [1820324] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:43.719Z",
+      "message": "❌ [1826914] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:45.891Z",
+      "message": "❌ [1826914] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:48.156Z",
+      "message": "❌ [1826914] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:49.818Z",
+      "message": "❌ [1837000] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:51.994Z",
+      "message": "❌ [1837000] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:54.197Z",
+      "message": "❌ [1837000] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:55.873Z",
+      "message": "❌ [1809752] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:10:58.080Z",
+      "message": "❌ [1809752] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:00.277Z",
+      "message": "❌ [1809752] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:01.959Z",
+      "message": "❌ [1831505] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:04.163Z",
+      "message": "❌ [1831505] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:06.334Z",
+      "message": "❌ [1831505] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:08.049Z",
+      "message": "❌ [1840067] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:10.218Z",
+      "message": "❌ [1840067] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:12.376Z",
+      "message": "❌ [1840067] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:14.078Z",
+      "message": "❌ [1836525] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:16.250Z",
+      "message": "❌ [1836525] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:18.475Z",
+      "message": "❌ [1836525] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:20.152Z",
+      "message": "❌ [1839535] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:22.321Z",
+      "message": "❌ [1839535] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:24.526Z",
+      "message": "❌ [1839535] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:26.192Z",
+      "message": "❌ [1837095] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:28.406Z",
+      "message": "❌ [1837095] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:30.568Z",
+      "message": "❌ [1837095] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:32.213Z",
+      "message": "❌ [1820432] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:34.386Z",
+      "message": "❌ [1820432] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:36.562Z",
+      "message": "❌ [1820432] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:38.271Z",
+      "message": "❌ [1800313] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:40.426Z",
+      "message": "❌ [1800313] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:42.588Z",
+      "message": "❌ [1800313] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:44.305Z",
+      "message": "❌ [1838598] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:46.487Z",
+      "message": "❌ [1838598] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:48.683Z",
+      "message": "❌ [1838598] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:50.342Z",
+      "message": "❌ [1838317] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:52.522Z",
+      "message": "❌ [1838317] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:54.715Z",
+      "message": "❌ [1838317] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:56.386Z",
+      "message": "❌ [1840161] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:11:58.591Z",
+      "message": "❌ [1840161] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:00.774Z",
+      "message": "❌ [1840161] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:02.470Z",
+      "message": "❌ [1838496] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:04.675Z",
+      "message": "❌ [1838496] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:06.819Z",
+      "message": "❌ [1838496] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:08.543Z",
+      "message": "❌ [1839952] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:10.712Z",
+      "message": "❌ [1839952] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:12.928Z",
+      "message": "❌ [1839952] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:14.600Z",
+      "message": "❌ [1820370] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:16.777Z",
+      "message": "❌ [1820370] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:19.004Z",
+      "message": "❌ [1820370] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:20.680Z",
+      "message": "❌ [1829663] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:22.854Z",
+      "message": "❌ [1829663] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:25.013Z",
+      "message": "❌ [1829663] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:26.687Z",
+      "message": "❌ [1830319] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:28.885Z",
+      "message": "❌ [1830319] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:31.051Z",
+      "message": "❌ [1830319] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:32.720Z",
+      "message": "❌ [1839537] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:34.944Z",
+      "message": "❌ [1839537] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:37.120Z",
+      "message": "❌ [1839537] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:38.810Z",
+      "message": "❌ [1840044] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:40.976Z",
+      "message": "❌ [1840044] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:43.189Z",
+      "message": "❌ [1840044] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:44.860Z",
+      "message": "❌ [1829260] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:47.022Z",
+      "message": "❌ [1829260] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:49.225Z",
+      "message": "❌ [1829260] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:50.895Z",
+      "message": "❌ [1836707] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:53.111Z",
+      "message": "❌ [1836707] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:55.283Z",
+      "message": "❌ [1836707] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:56.941Z",
+      "message": "❌ [1839851] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:12:59.151Z",
+      "message": "❌ [1839851] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:01.370Z",
+      "message": "❌ [1839851] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:03.099Z",
+      "message": "❌ [1837073] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:05.275Z",
+      "message": "❌ [1837073] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:07.450Z",
+      "message": "❌ [1837073] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:09.165Z",
+      "message": "❌ [1826525] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:11.344Z",
+      "message": "❌ [1826525] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:13.555Z",
+      "message": "❌ [1826525] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:15.233Z",
+      "message": "❌ [1810521] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:17.385Z",
+      "message": "❌ [1810521] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:19.600Z",
+      "message": "❌ [1810521] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:21.281Z",
+      "message": "❌ [1831601] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:23.492Z",
+      "message": "❌ [1831601] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:25.663Z",
+      "message": "❌ [1831601] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:27.326Z",
+      "message": "❌ [1830032] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:29.547Z",
+      "message": "❌ [1830032] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:31.722Z",
+      "message": "❌ [1830032] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:33.443Z",
+      "message": "❌ [1837236] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:35.619Z",
+      "message": "❌ [1837236] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:37.775Z",
+      "message": "❌ [1837236] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:39.483Z",
+      "message": "❌ [1764965] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:41.657Z",
+      "message": "❌ [1764965] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:43.873Z",
+      "message": "❌ [1764965] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:45.544Z",
+      "message": "❌ [1837207] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:47.699Z",
+      "message": "❌ [1837207] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:49.904Z",
+      "message": "❌ [1837207] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:51.550Z",
+      "message": "❌ [1839344] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:53.744Z",
+      "message": "❌ [1839344] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:55.923Z",
+      "message": "❌ [1839344] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:57.596Z",
+      "message": "❌ [1839954] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:13:59.774Z",
+      "message": "❌ [1839954] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:01.945Z",
+      "message": "❌ [1839954] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:03.648Z",
+      "message": "❌ [1839244] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:05.807Z",
+      "message": "❌ [1839244] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:07.992Z",
+      "message": "❌ [1839244] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:09.664Z",
+      "message": "❌ [1840299] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:11.849Z",
+      "message": "❌ [1840299] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:14.134Z",
+      "message": "❌ [1840299] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:15.843Z",
+      "message": "❌ [1835452] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:18.132Z",
+      "message": "❌ [1835452] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:20.347Z",
+      "message": "❌ [1835452] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:22.023Z",
+      "message": "❌ [1835456] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:24.250Z",
+      "message": "❌ [1835456] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:26.433Z",
+      "message": "❌ [1835456] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:28.154Z",
+      "message": "❌ [1835460] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:30.336Z",
+      "message": "❌ [1835460] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:32.521Z",
+      "message": "❌ [1835460] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:34.250Z",
+      "message": "❌ [1829942] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:36.452Z",
+      "message": "❌ [1829942] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:38.678Z",
+      "message": "❌ [1829942] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:40.371Z",
+      "message": "❌ [1835454] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:42.592Z",
+      "message": "❌ [1835454] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:44.866Z",
+      "message": "❌ [1835454] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:46.545Z",
+      "message": "❌ [1835458] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:48.753Z",
+      "message": "❌ [1835458] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:50.918Z",
+      "message": "❌ [1835458] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:52.584Z",
+      "message": "❌ [1834568] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:54.792Z",
+      "message": "❌ [1834568] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:56.948Z",
+      "message": "❌ [1834568] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:14:58.690Z",
+      "message": "❌ [1829973] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:00.882Z",
+      "message": "❌ [1829973] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:03.098Z",
+      "message": "❌ [1829973] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:04.854Z",
+      "message": "❌ [1827732] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:07.056Z",
+      "message": "❌ [1827732] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:09.262Z",
+      "message": "❌ [1827732] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:10.947Z",
+      "message": "❌ [1837320] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:13.165Z",
+      "message": "❌ [1837320] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:15.359Z",
+      "message": "❌ [1837320] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:17.087Z",
+      "message": "❌ [1765520] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:19.340Z",
+      "message": "❌ [1765520] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:21.497Z",
+      "message": "❌ [1765520] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:23.206Z",
+      "message": "❌ [1833847] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:25.381Z",
+      "message": "❌ [1833847] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:27.694Z",
+      "message": "❌ [1833847] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:29.510Z",
+      "message": "❌ [1836391] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:31.672Z",
+      "message": "❌ [1836391] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:33.890Z",
+      "message": "❌ [1836391] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:35.581Z",
+      "message": "❌ [1839820] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:37.766Z",
+      "message": "❌ [1839820] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:39.969Z",
+      "message": "❌ [1839820] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:41.652Z",
+      "message": "❌ [1827888] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:43.841Z",
+      "message": "❌ [1827888] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:46.005Z",
+      "message": "❌ [1827888] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:47.672Z",
+      "message": "❌ [1820826] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:49.911Z",
+      "message": "❌ [1820826] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:52.128Z",
+      "message": "❌ [1820826] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:53.853Z",
+      "message": "❌ [1828860] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:56.028Z",
+      "message": "❌ [1828860] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:58.260Z",
+      "message": "❌ [1828860] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:15:59.967Z",
+      "message": "❌ [1838314] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:02.150Z",
+      "message": "❌ [1838314] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:04.390Z",
+      "message": "❌ [1838314] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:06.059Z",
+      "message": "❌ [1837090] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:08.266Z",
+      "message": "❌ [1837090] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:10.453Z",
+      "message": "❌ [1837090] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:12.125Z",
+      "message": "❌ [1829975] 取得エラー (1/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:14.339Z",
+      "message": "❌ [1829975] 取得エラー (2/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    },
+    {
+      "timestamp": "2025-07-28T08:16:16.513Z",
+      "message": "❌ [1829975] 取得エラー (3/3): SyntaxError: Failed to execute 'querySelector' on 'Document': 'td:contains(\"獲得予定ポイント\") + td' is not a valid selector.",
+      "level": "error"
+    }
+  ],
+  "progress": "37.7"
+}

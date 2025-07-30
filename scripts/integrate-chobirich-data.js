@@ -54,17 +54,25 @@ class ChobirichDataIntegrator {
     console.log('📂 ちょびリッチデータファイルを読み込み中...');
     
     const files = [
-      { path: 'chobirich-shopping-campaigns-complete.json', source: 'shopping' },
+      { path: 'chobirich-shopping-campaigns.json', source: 'shopping' },
       { path: 'chobirich-service-campaigns.json', source: 'service' }
     ];
     
     // アプリ案件ファイルも存在するかチェック
     try {
-      await fs.access('chobirich_android_ios_apps_data.json');
-      files.push({ path: 'chobirich_android_ios_apps_data.json', source: 'app', type: 'iOS' });
+      await fs.access('chobirich_all_app_campaigns.json');
+      files.push({ path: 'chobirich_all_app_campaigns.json', source: 'app', type: 'iOS' });
     } catch (e) {
       console.log('iOS アプリ案件ファイルが見つかりません');
     }
+    
+    // 完全スクレイピングデータは無効なため除外
+    // try {
+    //   await fs.access('chobirich_complete_app_campaigns.json');
+    //   files.push({ path: 'chobirich_complete_app_campaigns.json', source: 'app', type: 'Both' });
+    // } catch (e) {
+    //   console.log('完全スクレイピングファイルが見つかりません');
+    // }
     
     try {
       await fs.access('chobirich_android_app_campaigns.json');
@@ -89,10 +97,14 @@ class ChobirichDataIntegrator {
           const jsonData = JSON.parse(data);
           campaigns = jsonData.app_campaigns || [];
           console.log(`📱 Android app campaigns sample:`, campaigns[0]);
-        } else if (file.path.includes('android_ios_apps_data')) {
+        } else if (file.path.includes('all_app_campaigns')) {
           // iOS アプリ案件の場合
           const jsonData = JSON.parse(data);
-          campaigns = jsonData.apps || jsonData.campaigns || jsonData;
+          campaigns = jsonData.app_campaigns || jsonData.campaigns || jsonData;
+        } else if (file.path.includes('complete_app_campaigns')) {
+          // 完全スクレイピング案件の場合
+          const jsonData = JSON.parse(data);
+          campaigns = jsonData.app_campaigns || jsonData.campaigns || jsonData;
         } else {
           campaigns = JSON.parse(data);
         }

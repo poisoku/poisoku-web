@@ -1,0 +1,916 @@
+{
+  "scrape_date": "2025-07-29T07:01:54.531Z",
+  "strategy": "full_ios_app_scraper",
+  "summary": {
+    "total_processed": 100,
+    "app_campaigns_found": 100,
+    "errors": 0,
+    "os_breakdown": {
+      "ios": 81,
+      "android": 0,
+      "both": 18,
+      "unknown": 1
+    }
+  },
+  "app_campaigns": [
+    {
+      "id": "1837310",
+      "name": "アプリ大還元際",
+      "url": "https://www.chobirich.com/ad_details/1837310/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:54:53.976Z"
+    },
+    {
+      "id": "1826358",
+      "name": "楽天",
+      "url": "https://www.chobirich.com/ad_details/1826358/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:54:57.931Z"
+    },
+    {
+      "id": "1743997",
+      "name": "Yahoo!",
+      "url": "https://www.chobirich.com/ad_details/1743997/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:02.510Z"
+    },
+    {
+      "id": "1743998",
+      "name": "楽天トラベル",
+      "url": "https://www.chobirich.com/ad_details/1743998/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:06.598Z"
+    },
+    {
+      "id": "1743999",
+      "name": "じゃらん",
+      "url": "https://www.chobirich.com/ad_details/1743999/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:10.528Z"
+    },
+    {
+      "id": "1744000",
+      "name": "au PAY",
+      "url": "https://www.chobirich.com/ad_details/1744000/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:14.501Z"
+    },
+    {
+      "id": "1744001",
+      "name": "ホットペッパー",
+      "url": "https://www.chobirich.com/ad_details/1744001/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:18.368Z"
+    },
+    {
+      "id": "1744004",
+      "name": "クレジットカード",
+      "url": "https://www.chobirich.com/ad_details/1744004/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:22.432Z"
+    },
+    {
+      "id": "1840348",
+      "name": "JCB Biz ONE（一般）",
+      "url": "https://www.chobirich.com/ad_details/1840348/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:26.296Z"
+    },
+    {
+      "id": "1744005",
+      "name": "Amazon",
+      "url": "https://www.chobirich.com/ad_details/1744005/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:30.244Z"
+    },
+    {
+      "id": "1822541",
+      "name": "初回利用でボーナスポイント",
+      "url": "https://www.chobirich.com/ad_details/1822541/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:34.175Z"
+    },
+    {
+      "id": "1836590",
+      "name": "ちょびリッチの日",
+      "url": "https://www.chobirich.com/ad_details/1836590/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:38.031Z"
+    },
+    {
+      "id": "1838201",
+      "name": "みんなで肝試し",
+      "url": "https://www.chobirich.com/ad_details/1838201/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:42.315Z"
+    },
+    {
+      "id": "1837764",
+      "name": "今月の注目広告〈7月編〉",
+      "url": "https://www.chobirich.com/ad_details/1837764/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:46.312Z"
+    },
+    {
+      "id": "1838641",
+      "name": "7月度お友達紹介ポイント争奪戦",
+      "url": "https://www.chobirich.com/ad_details/1838641/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:50.310Z"
+    },
+    {
+      "id": "1836851",
+      "name": "お中元特集2025",
+      "url": "https://www.chobirich.com/ad_details/1836851/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:54.215Z"
+    },
+    {
+      "id": "1836864",
+      "name": "アプリ大還元祭",
+      "url": "https://www.chobirich.com/ad_details/1836864/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:55:58.052Z"
+    },
+    {
+      "id": "1824284",
+      "name": "イオンカード特集",
+      "url": "https://www.chobirich.com/ad_details/1824284/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:02.074Z"
+    },
+    {
+      "id": "1807170",
+      "name": "クレジットカード積立投資",
+      "url": "https://www.chobirich.com/ad_details/1807170/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:05.965Z"
+    },
+    {
+      "id": "1791701",
+      "name": "お買い物保証",
+      "url": "https://www.chobirich.com/ad_details/1791701/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:09.978Z"
+    },
+    {
+      "id": "1830664",
+      "name": "動画配信サービス特集",
+      "url": "https://www.chobirich.com/ad_details/1830664/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:13.904Z"
+    },
+    {
+      "id": "1784717",
+      "name": "旅行特集",
+      "url": "https://www.chobirich.com/ad_details/1784717/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:17.790Z"
+    },
+    {
+      "id": "1829485",
+      "name": "簡単・無料広告特集",
+      "url": "https://www.chobirich.com/ad_details/1829485/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:21.729Z"
+    },
+    {
+      "id": "1830549",
+      "name": "電子書籍特集",
+      "url": "https://www.chobirich.com/ad_details/1830549/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:25.722Z"
+    },
+    {
+      "id": "1754204",
+      "name": "ヘルプセンター誘導_FAQ_【Apple(iOS / Mac)】「ITP」機能解除",
+      "url": "https://www.chobirich.com/ad_details/1754204/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:29.625Z"
+    },
+    {
+      "id": "1819899",
+      "name": "skyfall_オファーウォール_誘導枠",
+      "url": "https://www.chobirich.com/ad_details/1819899/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:34.008Z"
+    },
+    {
+      "id": "1819901",
+      "name": "appdriver_オファーウォール_誘導枠",
+      "url": "https://www.chobirich.com/ad_details/1819901/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:37.954Z"
+    },
+    {
+      "id": "1828890",
+      "name": "Smaad_OW（オファーウォール）誘導枠",
+      "url": "https://www.chobirich.com/ad_details/1828890/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:41.953Z"
+    },
+    {
+      "id": "1835479",
+      "name": "ポイ得BOX（GFリワード オファーウォール）誘導枠",
+      "url": "https://www.chobirich.com/ad_details/1835479/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:45.850Z"
+    },
+    {
+      "id": "1819897",
+      "name": "Mychips_OW（オファーウォール）誘導枠",
+      "url": "https://www.chobirich.com/ad_details/1819897/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:53.781Z"
+    },
+    {
+      "id": "1832260",
+      "name": "adjoe_OW（オファーウォール）誘導枠",
+      "url": "https://www.chobirich.com/ad_details/1832260/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:56:58.062Z"
+    },
+    {
+      "id": "1839643",
+      "name": "アプリパーク（Zucks オファーウォール）誘導枠",
+      "url": "https://www.chobirich.com/ad_details/1839643/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:57:02.310Z"
+    },
+    {
+      "id": "1794491",
+      "name": "WINTICKET",
+      "url": "https://www.chobirich.com/ad_details/1794491",
+      "cashback": "680ポイント",
+      "os": "ios",
+      "method": "アプリ初回起動をしてください※",
+      "timestamp": "2025-07-29T06:57:06.352Z"
+    },
+    {
+      "id": "1839368",
+      "name": "【独占配信】amood(アムード) - 海外配送も条件なしで送料無料",
+      "url": "https://www.chobirich.com/ad_details/1839368",
+      "cashback": "49ポイント",
+      "os": "ios",
+      "method": "新規インストール後、初回起動で成果",
+      "timestamp": "2025-07-29T06:57:10.629Z"
+    },
+    {
+      "id": "1835496",
+      "name": "ピコットタウン レベル32到達（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1835496",
+      "cashback": "160pt",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル32到達で成果",
+      "timestamp": "2025-07-29T06:57:14.898Z"
+    },
+    {
+      "id": "1809384",
+      "name": "Toon Blast（トゥーンブラスト）（レベル1000達成）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1809384",
+      "cashback": "600pt",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル1000クリア",
+      "timestamp": "2025-07-29T06:57:19.111Z"
+    },
+    {
+      "id": "1829585",
+      "name": "ブロックパズル（クラシックモード1万点達成）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1829585",
+      "cashback": "340pt",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル32到達",
+      "timestamp": "2025-07-29T06:57:23.267Z"
+    },
+    {
+      "id": "1804736",
+      "name": "ザ・グランドマフィア（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1804736",
+      "cashback": "810ポイント",
+      "os": "both",
+      "method": "アプリ初回起動をしてください※",
+      "timestamp": "2025-07-29T06:57:27.241Z"
+    },
+    {
+      "id": "1836757",
+      "name": "氷と炎：キング・オブ・アバロン（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836757",
+      "cashback": "930ポイント",
+      "os": "both",
+      "method": "レベル6到達",
+      "timestamp": "2025-07-29T06:57:31.602Z"
+    },
+    {
+      "id": "1837931",
+      "name": "マフィア・シティ-極道風雲（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837931",
+      "cashback": "184ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後、レベル1000クリア",
+      "timestamp": "2025-07-29T06:57:35.765Z"
+    },
+    {
+      "id": "1838584",
+      "name": "マフィア・シティ-極道風雲",
+      "url": "https://www.chobirich.com/ad_details/1838584",
+      "cashback": "523ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル1000クリア",
+      "timestamp": "2025-07-29T06:57:39.834Z"
+    },
+    {
+      "id": "1829987",
+      "name": "ゾンビ・パニック",
+      "url": "https://www.chobirich.com/ad_details/1829987",
+      "cashback": "096ポイント",
+      "os": "ios",
+      "method": "レベル10",
+      "timestamp": "2025-07-29T06:57:43.963Z"
+    },
+    {
+      "id": "1840667",
+      "name": "Rock N' Cash Casino-Slots Game（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840667",
+      "cashback": "108ポイント",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:57:48.051Z"
+    },
+    {
+      "id": "1833890",
+      "name": "商人放浪記（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833890",
+      "cashback": "760ポイント",
+      "os": "both",
+      "method": "レベル13到達",
+      "timestamp": "2025-07-29T06:57:52.199Z"
+    },
+    {
+      "id": "1777438",
+      "name": "The Grand Mafia(ザ グランド マフィア)",
+      "url": "https://www.chobirich.com/ad_details/1777438",
+      "cashback": "452ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル1000クリア",
+      "timestamp": "2025-07-29T06:57:56.227Z"
+    },
+    {
+      "id": "1839989",
+      "name": "High Roller Vegas（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1839989",
+      "cashback": "988ポイント",
+      "os": "both",
+      "method": "レベル15クリア",
+      "timestamp": "2025-07-29T06:58:00.348Z"
+    },
+    {
+      "id": "1838580",
+      "name": "パズル＆カオス",
+      "url": "https://www.chobirich.com/ad_details/1838580",
+      "cashback": "871ポイント",
+      "os": "ios",
+      "method": "レベル7到達で243pt",
+      "timestamp": "2025-07-29T06:58:04.657Z"
+    },
+    {
+      "id": "1838089",
+      "name": "パズル＆コンクエスト（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838089",
+      "cashback": "450ポイント",
+      "os": "both",
+      "method": "レベル5到達",
+      "timestamp": "2025-07-29T06:58:08.719Z"
+    },
+    {
+      "id": "1829667",
+      "name": "出荷ぶた -冬ver-（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829667",
+      "cashback": "420ポイント",
+      "os": "ios",
+      "method": "レベル60到達（到達目安5日）",
+      "timestamp": "2025-07-29T06:58:13.069Z"
+    },
+    {
+      "id": "1829617",
+      "name": "出荷ぶた（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829617",
+      "cashback": "420ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル1000クリア",
+      "timestamp": "2025-07-29T06:58:17.297Z"
+    },
+    {
+      "id": "1840184",
+      "name": "パズル＆カオス（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840184",
+      "cashback": "222ポイント",
+      "os": "both",
+      "method": "レベル5到達",
+      "timestamp": "2025-07-29T06:58:21.608Z"
+    },
+    {
+      "id": "1838382",
+      "name": "パズル＆サバイバル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838382",
+      "cashback": "998ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル1000クリア",
+      "timestamp": "2025-07-29T06:58:25.640Z"
+    },
+    {
+      "id": "1836778",
+      "name": "ドゥームズデイ：ラストサバイバー（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836778",
+      "cashback": "336ポイント",
+      "os": "ios",
+      "method": "アプリ初回起動をしてください※",
+      "timestamp": "2025-07-29T06:58:29.976Z"
+    },
+    {
+      "id": "1838581",
+      "name": "パズル&サバイバル",
+      "url": "https://www.chobirich.com/ad_details/1838581",
+      "cashback": "136ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、 ・STEP1：レベル16クリア",
+      "timestamp": "2025-07-29T06:58:34.127Z"
+    },
+    {
+      "id": "1839267",
+      "name": "Decor Merge - Fashion Renovate",
+      "url": "https://www.chobirich.com/ad_details/1839267",
+      "cashback": "632ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、起動 ⇒レベル8に到達で24pt",
+      "timestamp": "2025-07-29T06:58:38.249Z"
+    },
+    {
+      "id": "1838519",
+      "name": "ザ・アンツ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838519",
+      "cashback": "488ポイント",
+      "os": "ios",
+      "method": "アプリ初回起動をしてください※",
+      "timestamp": "2025-07-29T06:58:42.589Z"
+    },
+    {
+      "id": "1829627",
+      "name": "Puzzles & Chaos: Frozen Castle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829627",
+      "cashback": "200ポイント",
+      "os": "ios",
+      "method": "レベル5到達で成果",
+      "timestamp": "2025-07-29T06:58:46.888Z"
+    },
+    {
+      "id": "1839549",
+      "name": "merge designer",
+      "url": "https://www.chobirich.com/ad_details/1839549",
+      "cashback": "165ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後⇒広告クリックから30日以内に ・初回起動 ・レベル7に到達 ・レベル15に到達 ・レベル20に到達 ・レベル25に到達 ・レベル32に到達 ・レベル40に到達 各成果地点毎",
+      "timestamp": "2025-07-29T06:58:51.060Z"
+    },
+    {
+      "id": "1829458",
+      "name": "ゾンビ・パニック（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1829458",
+      "cashback": "556ポイント",
+      "os": "both",
+      "method": "アプリ初回起動をしてください※",
+      "timestamp": "2025-07-29T06:58:55.191Z"
+    },
+    {
+      "id": "1830024",
+      "name": "出荷ぶた",
+      "url": "https://www.chobirich.com/ad_details/1830024",
+      "cashback": "194ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、牧場レベル1到達（1周）で120pt",
+      "timestamp": "2025-07-29T06:59:03.225Z"
+    },
+    {
+      "id": "1840650",
+      "name": "Domino Dreams（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840650",
+      "cashback": "190ポイント",
+      "os": "both",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:59:07.646Z"
+    },
+    {
+      "id": "1666103",
+      "name": "【ちょびリッチ】ヘルプセンター誘導_スマホ_よくある質問",
+      "url": "https://www.chobirich.com/ad_details/1666103/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:59:11.596Z"
+    },
+    {
+      "id": "1666104",
+      "name": "【ちょびリッチ】ヘルプセンター誘導_スマホ_お問い合わせ",
+      "url": "https://www.chobirich.com/ad_details/1666104/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:59:15.864Z"
+    },
+    {
+      "name": "ログイン",
+      "url": "https://www.chobirich.com/ad_details/member_only/1790456/",
+      "cashback": "不明",
+      "os": "unknown",
+      "method": "不明",
+      "timestamp": "2025-07-29T06:59:19.712Z"
+    },
+    {
+      "id": "1665694",
+      "name": "ご意見ボックス",
+      "url": "https://www.chobirich.com/ad_details/1665694/",
+      "cashback": "不明",
+      "os": "ios",
+      "method": "7日間体験セット",
+      "timestamp": "2025-07-29T06:59:23.713Z"
+    },
+    {
+      "id": "1836324",
+      "name": "Dice Dreams（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836324",
+      "cashback": "444ポイント",
+      "os": "ios",
+      "method": "7日間分のログインボーナスが確認できる画面でございます",
+      "timestamp": "2025-07-29T06:59:28.075Z"
+    },
+    {
+      "id": "1762433",
+      "name": "喧嘩の花道（iOS用）",
+      "url": "https://www.chobirich.com/ad_details/1762433",
+      "cashback": "820ポイント",
+      "os": "ios",
+      "method": "レベル60到達（到達目安5日）",
+      "timestamp": "2025-07-29T06:59:32.127Z"
+    },
+    {
+      "id": "1835579",
+      "name": "Golden Tiger（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1835579",
+      "cashback": "500ポイント",
+      "os": "ios",
+      "method": "レベル200到達",
+      "timestamp": "2025-07-29T06:59:36.082Z"
+    },
+    {
+      "id": "1824629",
+      "name": "マフィア・シティ-極道風雲（ギフトリンク/別荘Lv.25到達＆初回豪華特権を購入）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1824629",
+      "cashback": "280ポイント",
+      "os": "ios",
+      "method": "30日間",
+      "timestamp": "2025-07-29T06:59:40.275Z"
+    },
+    {
+      "id": "1836897",
+      "name": "モーマンタイム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836897",
+      "cashback": "572ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、 ・STEP1：レベル45をクリア",
+      "timestamp": "2025-07-29T06:59:44.548Z"
+    },
+    {
+      "id": "1837920",
+      "name": "我が天下（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837920",
+      "cashback": "284ポイント",
+      "os": "both",
+      "method": "チュートリアル完了後、”新たな旅へ”をクリックする",
+      "timestamp": "2025-07-29T06:59:48.826Z"
+    },
+    {
+      "id": "1836870",
+      "name": "Taylor's Secret: マージゲーム",
+      "url": "https://www.chobirich.com/ad_details/1836870",
+      "cashback": "258ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後⇒広告クリックから30日以内に ・初回起動 ・レベル7に到達 ・レベル15に到達 ・レベル20に到達 ・レベル25に到達 ・レベル32に到達 ・レベル40に到達 各成果地点毎",
+      "timestamp": "2025-07-29T06:59:53.137Z"
+    },
+    {
+      "id": "1839448",
+      "name": "Travel Stories: Merge Journey",
+      "url": "https://www.chobirich.com/ad_details/1839448",
+      "cashback": "825ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後、広告クリックから30日以内にレベル7に到達で22pt",
+      "timestamp": "2025-07-29T06:59:57.250Z"
+    },
+    {
+      "id": "1835175",
+      "name": "スーパーラッキーカジノ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1835175",
+      "cashback": "550ポイント",
+      "os": "ios",
+      "method": "レベル130到達",
+      "timestamp": "2025-07-29T07:00:01.589Z"
+    },
+    {
+      "id": "1830026",
+      "name": "出荷ぶた - 冬ver",
+      "url": "https://www.chobirich.com/ad_details/1830026",
+      "cashback": "384ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、牧場レベル1到達（1周）で89pt",
+      "timestamp": "2025-07-29T07:00:05.784Z"
+    },
+    {
+      "id": "1833893",
+      "name": "旦那様の一発逆転人生（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833893",
+      "cashback": "108ポイント",
+      "os": "ios",
+      "method": "レベル60到達（到達目安5日）",
+      "timestamp": "2025-07-29T07:00:09.856Z"
+    },
+    {
+      "id": "1839508",
+      "name": "Alice's Dream：Merge Island（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1839508",
+      "cashback": "096ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後、 ・STEP1：レベル45をクリア",
+      "timestamp": "2025-07-29T07:00:14.057Z"
+    },
+    {
+      "id": "1838700",
+      "name": "恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1838700",
+      "cashback": "000ポイント",
+      "os": "ios",
+      "method": "レベル20到達後、クエスト画面から報酬受取完了",
+      "timestamp": "2025-07-29T07:00:18.396Z"
+    },
+    {
+      "id": "1838261",
+      "name": "パズル＆コンクエスト（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1838261",
+      "cashback": "400ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、 ・STEP1：レベル16クリア",
+      "timestamp": "2025-07-29T07:00:22.427Z"
+    },
+    {
+      "id": "1837933",
+      "name": "戦国布武：我が天下戦国編（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837933",
+      "cashback": "294ポイント",
+      "os": "both",
+      "method": "レベル60到達（到達目安5日）",
+      "timestamp": "2025-07-29T07:00:26.497Z"
+    },
+    {
+      "id": "1839632",
+      "name": "Alice's Dream ：かわいいマージゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1839632",
+      "cashback": "040ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、広告クリックから30日以内にレベル30に到達",
+      "timestamp": "2025-07-29T07:00:30.830Z"
+    },
+    {
+      "id": "1832093",
+      "name": "マフィア・シティ-極道風雲（別荘Lv.25到達＆豪華特権購入）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1832093",
+      "cashback": "800ポイント",
+      "os": "ios",
+      "method": "60日間",
+      "timestamp": "2025-07-29T07:00:35.107Z"
+    },
+    {
+      "id": "1829621",
+      "name": "パズル＆サバイバル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1829621",
+      "cashback": "509ポイント",
+      "os": "ios",
+      "method": "レベル8到達",
+      "timestamp": "2025-07-29T07:00:39.256Z"
+    },
+    {
+      "id": "1830046",
+      "name": "スーパーラッキーカジノ",
+      "url": "https://www.chobirich.com/ad_details/1830046",
+      "cashback": "094ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、起動 ⇒広告クリックから30日以内にレベル200達成で報酬が発生します",
+      "timestamp": "2025-07-29T07:00:43.379Z"
+    },
+    {
+      "id": "1833607",
+      "name": "Alice's Dream ：かわいいマージゲーム",
+      "url": "https://www.chobirich.com/ad_details/1833607",
+      "cashback": "086ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、起動 ⇒レベル8を達成で67pt",
+      "timestamp": "2025-07-29T07:00:47.566Z"
+    },
+    {
+      "id": "1838110",
+      "name": "恋するコーデ ペアリウム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838110",
+      "cashback": "000ポイント",
+      "os": "both",
+      "method": "レベル20到達",
+      "timestamp": "2025-07-29T07:00:51.858Z"
+    },
+    {
+      "id": "1829723",
+      "name": "喧嘩の花道（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829723",
+      "cashback": "840ポイント",
+      "os": "ios",
+      "method": "45日間",
+      "timestamp": "2025-07-29T07:00:56.008Z"
+    },
+    {
+      "id": "1829612",
+      "name": "Cosewa（コセワ）",
+      "url": "https://www.chobirich.com/ad_details/1829612",
+      "cashback": "200ポイント",
+      "os": "ios",
+      "method": "レベル20 各成果地点毎に報酬が発生します",
+      "timestamp": "2025-07-29T07:01:00.489Z"
+    },
+    {
+      "id": "1839738",
+      "name": "Wild Survival",
+      "url": "https://www.chobirich.com/ad_details/1839738",
+      "cashback": "696ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後、起動 ⇒広告クリックから30日以内に難易度レベル 1 最高ラウンド300 に到達で176pt",
+      "timestamp": "2025-07-29T07:01:04.680Z"
+    },
+    {
+      "id": "1830049",
+      "name": "Alice's Dream ：かわいいマージゲーム",
+      "url": "https://www.chobirich.com/ad_details/1830049",
+      "cashback": "287ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、起動 ⇒レベル7に到達で68pt",
+      "timestamp": "2025-07-29T07:01:12.792Z"
+    },
+    {
+      "id": "1830020",
+      "name": "モンスターバスケット",
+      "url": "https://www.chobirich.com/ad_details/1830020",
+      "cashback": "921ポイント",
+      "os": "ios",
+      "method": "レベル10",
+      "timestamp": "2025-07-29T07:01:17.165Z"
+    },
+    {
+      "id": "1817134",
+      "name": "ちょいと召喚☆モンスターバスケット！",
+      "url": "https://www.chobirich.com/ad_details/1817134",
+      "cashback": "504ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、レベル16クリアで成果",
+      "timestamp": "2025-07-29T07:01:21.276Z"
+    },
+    {
+      "id": "1840012",
+      "name": "Merge Town : Design Farm",
+      "url": "https://www.chobirich.com/ad_details/1840012",
+      "cashback": "429ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、起動 ⇒レベル7 を達成することで成果が発生します",
+      "timestamp": "2025-07-29T07:01:25.363Z"
+    },
+    {
+      "id": "1837923",
+      "name": "恋するコーデ「ペアリウム」",
+      "url": "https://www.chobirich.com/ad_details/1837923",
+      "cashback": "996ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、起動 ⇒【クエスト】ユーザーレベル20達成!で179pt",
+      "timestamp": "2025-07-29T07:01:29.394Z"
+    },
+    {
+      "id": "1833895",
+      "name": "ロードモバイル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833895",
+      "cashback": "792ポイント",
+      "os": "ios",
+      "method": "7日間実施(インストール後、条件達成)",
+      "timestamp": "2025-07-29T07:01:33.745Z"
+    },
+    {
+      "id": "1803287",
+      "name": "ゾンビ・パニック（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803287",
+      "cashback": "650ポイント",
+      "os": "ios",
+      "method": "レベル32到達）（iOS）",
+      "timestamp": "2025-07-29T07:01:38.033Z"
+    },
+    {
+      "id": "1833898",
+      "name": "ヒーローウォーズアライアンス ― 放置系ロールプレイング（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833898",
+      "cashback": "602ポイント",
+      "os": "ios",
+      "method": "レベル20到達",
+      "timestamp": "2025-07-29T07:01:42.137Z"
+    },
+    {
+      "id": "1821081",
+      "name": "マージ デザイナー（Merge Designer）（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1821081",
+      "cashback": "480ポイント",
+      "os": "ios",
+      "method": "新規アプリインストール後、プレイヤーレベル50達成",
+      "timestamp": "2025-07-29T07:01:46.290Z"
+    },
+    {
+      "id": "1839630",
+      "name": "Sweets Match",
+      "url": "https://www.chobirich.com/ad_details/1839630",
+      "cashback": "469ポイント",
+      "os": "both",
+      "method": "新規アプリインストール後、起動⇒（簡単チュートリアル）レベル1をクリアで22pt",
+      "timestamp": "2025-07-29T07:01:50.449Z"
+    },
+    {
+      "id": "1811080",
+      "name": "金とゴブリンの採掘ゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1811080",
+      "cashback": "240ポイント",
+      "os": "ios",
+      "method": "レベル45到達）（iOS）",
+      "timestamp": "2025-07-29T07:01:54.504Z"
+    }
+  ]
+}
