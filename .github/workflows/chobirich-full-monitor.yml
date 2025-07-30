@@ -1,0 +1,133 @@
+name: Monitor All Chobirich Campaigns
+
+on:
+  schedule:
+    # 毎日 日本時間 19:00 (UTC 10:00) に実行 - アプリランド監視の1時間後
+    - cron: '0 10 * * *'
+  # 手動実行も可能
+  workflow_dispatch:
+
+jobs:
+  monitor-all-campaigns:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2時間のタイムアウト（全案件処理用）
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Install Puppeteer dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y \
+          libnss3-dev \
+          libatk-bridge2.0-dev \
+          libdrm-dev \
+          libxkbcommon-dev \
+          libgtk-3-dev \
+          libasound2-dev
+          
+    - name: Run differential scraping for iOS campaigns
+      run: node scripts/chobirich-differential-system.js ios
+      id: ios_scrape
+      continue-on-error: true
+      
+    - name: Run differential scraping for Android campaigns
+      run: node scripts/chobirich-differential-system.js android
+      id: android_scrape
+      continue-on-error: true
+      
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git add -A
+        if git diff --staged --quiet; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "No changes detected in campaign data"
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "Campaign changes detected!"
+          # 変更内容の要約
+          git diff --staged --stat
+        fi
+        
+    - name: Import new campaigns to database
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        # 新規・変更案件をデータベースに統合
+        if [ -f "chobirich_all_app_campaigns.json" ]; then
+          echo "Importing iOS campaigns..."
+          node scripts/import-chobirich-to-supabase.js
+        fi
+        
+        if [ -f "chobirich_android_app_campaigns.json" ]; then
+          echo "Importing Android campaigns..."
+          node scripts/integrate-android-campaigns.js
+        fi
+        
+    - name: Regenerate search data
+      if: steps.check_changes.outputs.changes == 'true'
+      run: node scripts/generate-search-data.js
+      
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action - Full Campaign Monitor"
+        
+        # 変更統計を収集
+        NEW_COUNT=$(git diff --staged --stat | grep -oE '[0-9]+ insertions' | grep -oE '[0-9]+' || echo "0")
+        CHANGED_COUNT=$(git diff --staged --stat | grep -oE '[0-9]+ deletions' | grep -oE '[0-9]+' || echo "0")
+        
+        git commit -m "🤖 Auto-update: Monitor all Chobirich campaigns $(date '+%Y-%m-%d')
+
+        - Differential scraping for iOS and Android campaigns
+        - New/changed campaigns detected and processed
+        - Search data regenerated with latest campaigns
+        - Monitoring: chobirich-differential-system.js
+        
+        Statistics:
+        - New entries: ~${NEW_COUNT}
+        - Updated entries: ~${CHANGED_COUNT}
+        
+        🤖 Generated with [Claude Code](https://claude.ai/code)
+        
+        Co-Authored-By: Claude <noreply@anthropic.com>" || echo "No changes to commit"
+        
+        git push origin main || echo "Nothing to push"
+        
+    - name: Create summary
+      run: |
+        echo "## Chobirich Full Campaign Monitoring Results" >> $GITHUB_STEP_SUMMARY
+        echo "- **Date**: $(date '+%Y-%m-%d %H:%M:%S JST')" >> $GITHUB_STEP_SUMMARY
+        echo "- **iOS Scraping**: ${{ steps.ios_scrape.outcome }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Android Scraping**: ${{ steps.android_scrape.outcome }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Changes Detected**: ${{ steps.check_changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "chobirich_all_app_campaigns.json" ]; then
+          IOS_COUNT=$(jq '.app_campaigns | length' chobirich_all_app_campaigns.json)
+          echo "- **iOS Campaigns**: ${IOS_COUNT}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ -f "chobirich_android_app_campaigns.json" ]; then
+          ANDROID_COUNT=$(jq '.app_campaigns | length' chobirich_android_app_campaigns.json)
+          echo "- **Android Campaigns**: ${ANDROID_COUNT}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Schedule" >> $GITHUB_STEP_SUMMARY
+        echo "- Appliland monitoring: Daily at 18:00 JST" >> $GITHUB_STEP_SUMMARY
+        echo "- Full campaign monitoring: Daily at 19:00 JST (this job)" >> $GITHUB_STEP_SUMMARY
+        echo "- Next run: Tomorrow at 19:00 JST" >> $GITHUB_STEP_SUMMARY

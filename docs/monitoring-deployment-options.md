@@ -1,9 +1,18 @@
-# アプリランド監視システム デプロイ方法
+# ポイ速 自動監視システム デプロイ方法
 
 ## 現在の実装状況
 
+### 自動監視システム（GitHub Actions実装済み）
+
+#### 1. アプリランド案件専用監視
 ✅ **完成済み**: `appliland-monitoring-system.js`
-❌ **未実装**: 自動実行環境
+✅ **自動実行**: 毎日18:00 JST (.github/workflows/appliland-monitor.yml)
+✅ **対象**: アプリランド案件のみ（約75件）
+
+#### 2. ちょびリッチ全案件監視
+✅ **完成済み**: `chobirich-differential-system.js`
+✅ **自動実行**: 毎日19:00 JST (.github/workflows/chobirich-full-monitor.yml)
+✅ **対象**: iOS/Android全案件（3,000件以上）
 
 ## 実用的なデプロイ選択肢
 

@@ -2,6 +2,10 @@ const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 const crypto = require('crypto');
 
+// 環境変数サポート
+const SUPABASE_URL = process.env.SUPABASE_URL || 'https://pjjhyzbnnslaauwzknrr.supabase.co';
+const SUPABASE_KEY = process.env.SUPABASE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBqamh5emJubnNsYWF1d3prbnJyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5ODg4MzksImV4cCI6MjA2NjU2NDgzOX0.qcrcwNpwX83dCNbhxFaks2E68K_wp2W8urdYwfenDtM';
+
 class ChobirichDifferentialSystem {
   constructor(platform = 'ios') {
     this.platform = platform; // 'ios' or 'android'
