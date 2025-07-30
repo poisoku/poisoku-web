@@ -38,8 +38,8 @@ export function convertToYen(cashback: string, siteName: string): string {
     return cleanedCashback;
   }
   
-  // 数値とポイント/ptを抽出
-  const pointMatch = cleanedCashback.match(/^(\d+(?:,\d{3})*(?:\.\d+)?)\s*(?:ポイント|point|pt|p)?$/i);
+  // 数値とポイント/ptを抽出 - ptがある場合は正確に処理
+  const pointMatch = cleanedCashback.match(/^(\d+(?:,\d{3})*(?:\.\d+)?)\s*(?:ポイント|point|pt|p)$/i);
   
   if (!pointMatch) {
     // 数値が抽出できない場合はそのまま返す
