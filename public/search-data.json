@@ -1,6 +1,86 @@
 {
   "campaigns": [
     {
+      "id": "f3c2c3aa-d7c5-4950-8567-e754e2c28d4d",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大1590ポイント",
+      "cashbackYen": "795円",
+      "device": "All",
+      "url": "https://www.chobirich.com/ad_details/1839410/",
+      "lastUpdated": "2025/7/30 19:00:04",
+      "description": "【条件達成必読】デイリー麻雀マッチ（アプリランド）",
+      "displayName": "【条件達成必読】デイリー麻雀マッチ（アプリランド）",
+      "campaignUrl": "https://www.chobirich.com/ad_details/1839410/",
+      "pointSiteUrl": "https://chobirich.com",
+      "category": "other",
+      "searchKeywords": "【条件達成必読】デイリー麻雀マッチ（アプリランド）",
+      "searchWeight": 2.2
+    },
+    {
+      "id": "ca85872c-2f6d-416f-8825-3f8bbb08759c",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大11506ポイント",
+      "cashbackYen": "5,753円",
+      "device": "All",
+      "url": "https://www.chobirich.com/ad_details/1840597/",
+      "lastUpdated": "2025/7/30 19:00:00",
+      "description": "Mistplay: ゲームで遊んで特典をゲット（アプリランド）",
+      "displayName": "Mistplay: ゲームで遊んで特典をゲット（アプリランド）",
+      "campaignUrl": "https://www.chobirich.com/ad_details/1840597/",
+      "pointSiteUrl": "https://chobirich.com",
+      "category": "other",
+      "searchKeywords": "mistplay: ゲームで遊んで特典をゲット（アプリランド）",
+      "searchWeight": 2.2
+    },
+    {
+      "id": "8fd9179b-e3bd-404f-afe4-9397c6b962f6",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大2280ポイント",
+      "cashbackYen": "1,140円",
+      "device": "All",
+      "url": "https://www.chobirich.com/ad_details/1840608/",
+      "lastUpdated": "2025/7/30 18:59:56",
+      "description": "ジム タイクーン（アプリランド）",
+      "displayName": "ジム タイクーン（アプリランド）",
+      "campaignUrl": "https://www.chobirich.com/ad_details/1840608/",
+      "pointSiteUrl": "https://chobirich.com",
+      "category": "other",
+      "searchKeywords": "ジム タイクーン（アプリランド）",
+      "searchWeight": 2.2
+    },
+    {
+      "id": "d8f81345-3737-40ee-92e8-743096535b13",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大39108ポイント",
+      "cashbackYen": "19,554円",
+      "device": "All",
+      "url": "https://www.chobirich.com/ad_details/1840668/",
+      "lastUpdated": "2025/7/30 18:59:52",
+      "description": "Rock N' Cash Vegas Slot Casino（アプリランド）",
+      "displayName": "Rock N' Cash Vegas Slot Casino（アプリランド）",
+      "campaignUrl": "https://www.chobirich.com/ad_details/1840668/",
+      "pointSiteUrl": "https://chobirich.com",
+      "category": "other",
+      "searchKeywords": "rock n' cash vegas slot casino（アプリランド）",
+      "searchWeight": 2.2
+    },
+    {
+      "id": "9306cc44-1b5d-424a-894e-7d41a8c35ea0",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大3002ポイント",
+      "cashbackYen": "1,501円",
+      "device": "All",
+      "url": "https://www.chobirich.com/ad_details/1840714/",
+      "lastUpdated": "2025/7/30 18:59:48",
+      "description": "ウルフゲーム：ザ・ワイルド・キングダム（アプリランド）",
+      "displayName": "ウルフゲーム：ザ・ワイルド・キングダム（アプリランド）",
+      "campaignUrl": "https://www.chobirich.com/ad_details/1840714/",
+      "pointSiteUrl": "https://chobirich.com",
+      "category": "other",
+      "searchKeywords": "ウルフゲーム：ザ・ワイルド・キングダム（アプリランド）",
+      "searchWeight": 2.2
+    },
+    {
       "id": "cac11f78-6402-4351-bfab-8330a8fcbf48",
       "siteName": "ちょびリッチ",
       "cashback": "最大109342ポイント",
@@ -48226,21 +48306,21 @@
     }
   ],
   "metadata": {
-    "totalCampaigns": 3028,
-    "lastUpdated": "2025-07-30T09:47:01.070Z",
+    "totalCampaigns": 3033,
+    "lastUpdated": "2025-07-30T10:00:33.410Z",
     "categories": {
-      "other": 1094,
+      "other": 1099,
       "entertainment": 654,
       "shopping": 1266
     },
     "devices": {
-      "All": 2637,
+      "All": 2642,
       "Android": 109,
       "iOS": 267,
       "PC": 1
     },
     "sites": {
-      "ちょびリッチ": 1815,
+      "ちょびリッチ": 1820,
       "ポイントインカム": 1199
     },
     "maxCashbackData": {
@@ -48272,7 +48352,7 @@
       },
       {
         "keyword": "アプリランド",
-        "count": 67
+        "count": 71
       },
       {
         "keyword": "1%",

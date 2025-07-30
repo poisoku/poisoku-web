@@ -1,6 +1,51 @@
 {
   "campaigns": [
     {
+      "id": "f3c2c3aa-d7c5-4950-8567-e754e2c28d4d",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大1590ポイント",
+      "device": "All",
+      "description": "【条件達成必読】デイリー麻雀マッチ（アプリランド）",
+      "searchKeywords": "【条件達成必読】デイリー麻雀マッチ（アプリランド）",
+      "category": "other"
+    },
+    {
+      "id": "ca85872c-2f6d-416f-8825-3f8bbb08759c",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大11506ポイント",
+      "device": "All",
+      "description": "Mistplay: ゲームで遊んで特典をゲット（アプリランド）",
+      "searchKeywords": "mistplay: ゲームで遊んで特典をゲット（アプリランド）",
+      "category": "other"
+    },
+    {
+      "id": "8fd9179b-e3bd-404f-afe4-9397c6b962f6",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大2280ポイント",
+      "device": "All",
+      "description": "ジム タイクーン（アプリランド）",
+      "searchKeywords": "ジム タイクーン（アプリランド）",
+      "category": "other"
+    },
+    {
+      "id": "d8f81345-3737-40ee-92e8-743096535b13",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大39108ポイント",
+      "device": "All",
+      "description": "Rock N' Cash Vegas Slot Casino（アプリランド）",
+      "searchKeywords": "rock n' cash vegas slot casino（アプリランド）",
+      "category": "other"
+    },
+    {
+      "id": "9306cc44-1b5d-424a-894e-7d41a8c35ea0",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大3002ポイント",
+      "device": "All",
+      "description": "ウルフゲーム：ザ・ワイルド・キングダム（アプリランド）",
+      "searchKeywords": "ウルフゲーム：ザ・ワイルド・キングダム（アプリランド）",
+      "category": "other"
+    },
+    {
       "id": "cac11f78-6402-4351-bfab-8330a8fcbf48",
       "siteName": "ちょびリッチ",
       "cashback": "最大109342ポイント",
@@ -27128,7 +27173,7 @@
     }
   ],
   "metadata": {
-    "totalCampaigns": 3028,
-    "lastUpdated": "2025-07-30T09:47:01.085Z"
+    "totalCampaigns": 3033,
+    "lastUpdated": "2025-07-30T10:00:33.427Z"
   }
 }
