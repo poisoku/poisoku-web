@@ -1,6 +1,15 @@
 {
   "campaigns": [
     {
+      "id": "cac11f78-6402-4351-bfab-8330a8fcbf48",
+      "siteName": "ちょびリッチ",
+      "cashback": "最大109342ポイント",
+      "device": "All",
+      "description": "マフィア・シティ-極道風雲（アプリランド）",
+      "searchKeywords": "マフィア・シティ-極道風雲（アプリランド）",
+      "category": "other"
+    },
+    {
       "id": "db8a8828-2baa-4a6a-80c5-2cbc9d2238f0",
       "siteName": "ちょびリッチ",
       "cashback": "13400ptポイント",
@@ -27119,7 +27128,7 @@
     }
   ],
   "metadata": {
-    "totalCampaigns": 3027,
-    "lastUpdated": "2025-07-30T08:49:29.938Z"
+    "totalCampaigns": 3028,
+    "lastUpdated": "2025-07-30T09:47:01.085Z"
   }
 }
