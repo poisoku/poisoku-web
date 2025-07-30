@@ -1,0 +1,94 @@
+name: Monitor Appliland Campaigns
+
+on:
+  schedule:
+    # 毎日 日本時間 18:00 (UTC 09:00) に実行
+    - cron: '0 9 * * *'
+  # 手動実行も可能
+  workflow_dispatch:
+
+jobs:
+  monitor-appliland:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Install Puppeteer dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y \
+          libnss3-dev \
+          libatk-bridge2.0-dev \
+          libdrm-dev \
+          libxkbcommon-dev \
+          libgtk-3-dev \
+          libasound2-dev
+          
+    - name: Monitor new Appliland campaigns
+      run: node scripts/appliland-monitoring-system.js
+      id: monitor
+      continue-on-error: true
+      
+    - name: Check for new campaigns
+      id: check_changes
+      run: |
+        if git diff --quiet HEAD -- public/; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "No new campaigns detected"
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "New campaigns detected!"
+        fi
+        
+    - name: Regenerate search data if changes detected
+      if: steps.check_changes.outputs.changes == 'true'
+      run: node scripts/generate-search-data.js
+      
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action - Appliland Monitor"
+        git add public/search-data.json public/search-index.json
+        
+        # 新規案件数を確認
+        NEW_CAMPAIGNS=$(git log --oneline -1 --grep="新規案件" || echo "")
+        
+        git commit -m "🤖 Auto-update: Monitor Appliland campaigns $(date '+%Y-%m-%d')
+
+        - Automated daily scan for new Appliland campaigns
+        - Search data regenerated with latest campaigns
+        - Monitoring system: scripts/appliland-monitoring-system.js
+        
+        🤖 Generated with [Claude Code](https://claude.ai/code)
+        
+        Co-Authored-By: Claude <noreply@anthropic.com>" || echo "No changes to commit"
+        
+        git push origin main || echo "Nothing to push"
+        
+    - name: Create summary
+      run: |
+        echo "## Appliland Monitoring Results" >> $GITHUB_STEP_SUMMARY
+        echo "- **Date**: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+        echo "- **Status**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Changes Detected**: ${{ steps.check_changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
+          echo "- **Action**: Search data regenerated and deployed" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "- **Action**: No changes, search data unchanged" >> $GITHUB_STEP_SUMMARY
+        fi
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Next scheduled run: Tomorrow at 18:00 JST" >> $GITHUB_STEP_SUMMARY
