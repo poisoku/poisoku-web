@@ -1,6 +1,573 @@
 {
   "campaigns": [
     {
+      "id": "ef187cb6-2cda-ffde-4086-507f7fd86ced",
+      "siteName": "ちょびリッチ",
+      "cashback": "469ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Sweets Match",
+      "searchKeywords": "[アプリ]sweets match",
+      "category": "entertainment"
+    },
+    {
+      "id": "83eb744a-346b-3467-49be-dfd682cb6355",
+      "siteName": "ちょびリッチ",
+      "cashback": "480ポイント",
+      "device": "iOS",
+      "description": "[アプリ]マージ デザイナー（Merge Designer）（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]マージ デザイナー（merge designer）（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "0f2096c7-faa0-0484-566e-4d2cbdbcc60c",
+      "siteName": "ちょびリッチ",
+      "cashback": "650ポイント",
+      "device": "iOS",
+      "description": "[アプリ]ゾンビ・パニック（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]ゾンビ・パニック（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "807bcb78-a2da-e0a1-c92a-f3532c764cbd",
+      "siteName": "ちょびリッチ",
+      "cashback": "996ポイント",
+      "device": "iOS",
+      "description": "[アプリ]恋するコーデ「ペアリウム」",
+      "searchKeywords": "[アプリ]恋するコーデ「ペアリウム」",
+      "category": "entertainment"
+    },
+    {
+      "id": "82e79b48-1a0a-2ac5-bcbb-166f957cfa80",
+      "siteName": "ちょびリッチ",
+      "cashback": "038ポイント",
+      "device": "iOS",
+      "description": "[アプリ]ロードモバイル（アプリランド）",
+      "searchKeywords": "[アプリ]ロードモバイル（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "2722d647-0bb6-b97b-fd98-bce78290479a",
+      "siteName": "ちょびリッチ",
+      "cashback": "200ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Golden Tiger（アプリランド）",
+      "searchKeywords": "[アプリ]golden tiger（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "07d0571a-4a7f-5c2d-aebe-d8f5cff68a00",
+      "siteName": "ちょびリッチ",
+      "cashback": "429ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Merge Town : Design Farm",
+      "searchKeywords": "[アプリ]merge town : design farm",
+      "category": "entertainment"
+    },
+    {
+      "id": "d4118120-414a-ce1a-f992-349abf0d73c7",
+      "siteName": "ちょびリッチ",
+      "cashback": "052ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Pocket Styler: Fashion Stars",
+      "searchKeywords": "[アプリ]pocket styler: fashion stars",
+      "category": "entertainment"
+    },
+    {
+      "id": "64faf43b-5f58-74aa-0ee7-8e4d687dc61b",
+      "siteName": "ちょびリッチ",
+      "cashback": "159ポイント",
+      "device": "iOS",
+      "description": "[アプリ]メガカジノ - フォーチュンスロット",
+      "searchKeywords": "[アプリ]メガカジノ - フォーチュンスロット",
+      "category": "entertainment"
+    },
+    {
+      "id": "7eb24559-de95-c104-b7f6-a558f758883e",
+      "siteName": "ちょびリッチ",
+      "cashback": "200ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Cosewa（コセワ）",
+      "searchKeywords": "[アプリ]cosewa（コセワ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "4bb7e388-9fb6-8492-8000-508fcfc42c1d",
+      "siteName": "ちょびリッチ",
+      "cashback": "732ポイント",
+      "device": "iOS",
+      "description": "[アプリ]プッシャーマスター - コインフェスト",
+      "searchKeywords": "[アプリ]プッシャーマスター - コインフェスト",
+      "category": "entertainment"
+    },
+    {
+      "id": "a43ae72c-b7cf-0404-7666-d2876b95b126",
+      "siteName": "ちょびリッチ",
+      "cashback": "840ポイント",
+      "device": "iOS",
+      "description": "[アプリ]喧嘩の花道（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]喧嘩の花道（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "d2680f41-c810-7851-ea5b-665864a2efde",
+      "siteName": "ちょびリッチ",
+      "cashback": "000ポイント",
+      "device": "iOS",
+      "description": "[アプリ]恋するコーデ ペアリウム（アプリランド）",
+      "searchKeywords": "[アプリ]恋するコーデ ペアリウム（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "c9e0e982-ffbf-7dbf-08ef-1589e29e2552",
+      "siteName": "ちょびリッチ",
+      "cashback": "086ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム",
+      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム",
+      "category": "entertainment"
+    },
+    {
+      "id": "10544999-c11d-fde8-10f9-76f49263a732",
+      "siteName": "ちょびリッチ",
+      "cashback": "094ポイント",
+      "device": "iOS",
+      "description": "[アプリ]スーパーラッキーカジノ",
+      "searchKeywords": "[アプリ]スーパーラッキーカジノ",
+      "category": "entertainment"
+    },
+    {
+      "id": "2a121e9b-00ea-a8c3-2d3d-b653b6002a28",
+      "siteName": "ちょびリッチ",
+      "cashback": "040ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Alice's Dream ：かわいいマージゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]alice's dream ：かわいいマージゲーム（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "e21932e6-b85d-3410-7d9f-badfb48c6d90",
+      "siteName": "ちょびリッチ",
+      "cashback": "400ポイント",
+      "device": "iOS",
+      "description": "[アプリ]パズル＆コンクエスト（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]パズル＆コンクエスト（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "f991de0d-b58c-5ed3-4fce-b7d07b1dd2b4",
+      "siteName": "ちょびリッチ",
+      "cashback": "668ポイント",
+      "device": "iOS",
+      "description": "[アプリ]戦国布武：我が天下戦国編（アプリランド）",
+      "searchKeywords": "[アプリ]戦国布武：我が天下戦国編（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "f406332b-b76a-786a-0642-35236f6bdd21",
+      "siteName": "ちょびリッチ",
+      "cashback": "000ポイント",
+      "device": "iOS",
+      "description": "[アプリ]恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "a4012f34-8180-52cb-0f7f-ab51d9e520a1",
+      "siteName": "ちょびリッチ",
+      "cashback": "096ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Alice's Dream：Merge Island（アプリランド）",
+      "searchKeywords": "[アプリ]alice's dream：merge island（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "85cb15f8-b906-fb1d-d125-ad87ea061644",
+      "siteName": "ちょびリッチ",
+      "cashback": "384ポイント",
+      "device": "iOS",
+      "description": "[アプリ]出荷ぶた - 冬ver",
+      "searchKeywords": "[アプリ]出荷ぶた - 冬ver",
+      "category": "entertainment"
+    },
+    {
+      "id": "6ef2e8be-2cb8-e141-0b18-defb3544b010",
+      "siteName": "ちょびリッチ",
+      "cashback": "506ポイント",
+      "device": "iOS",
+      "description": "[アプリ]旦那様の一発逆転人生（アプリランド）",
+      "searchKeywords": "[アプリ]旦那様の一発逆転人生（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "e52ca160-b279-2e63-e73c-ad850f298223",
+      "siteName": "ちょびリッチ",
+      "cashback": "550ポイント",
+      "device": "iOS",
+      "description": "[アプリ]スーパーラッキーカジノ（アプリランド）",
+      "searchKeywords": "[アプリ]スーパーラッキーカジノ（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "10e046c4-5557-02f5-1e16-3e190268a546",
+      "siteName": "ちょびリッチ",
+      "cashback": "825ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Travel Stories: Merge Journey",
+      "searchKeywords": "[アプリ]travel stories: merge journey",
+      "category": "entertainment"
+    },
+    {
+      "id": "87caa41b-d448-5019-62d3-5ff2a4dc0c74",
+      "siteName": "ちょびリッチ",
+      "cashback": "258ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Taylor's Secret: マージゲーム",
+      "searchKeywords": "[アプリ]taylor's secret: マージゲーム",
+      "category": "entertainment"
+    },
+    {
+      "id": "ab3560de-1e36-3f20-c5c1-d6a46d8a661e",
+      "siteName": "ちょびリッチ",
+      "cashback": "714ポイント",
+      "device": "iOS",
+      "description": "[アプリ]我が天下（アプリランド）",
+      "searchKeywords": "[アプリ]我が天下（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "001309a5-9f7b-433e-6791-221d9c5aa3a7",
+      "siteName": "ちょびリッチ",
+      "cashback": "004ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Tyr Rewards",
+      "searchKeywords": "[アプリ]tyr rewards",
+      "category": "entertainment"
+    },
+    {
+      "id": "b8aa6d01-c4e8-b663-de2a-0faf5c7c557d",
+      "siteName": "ちょびリッチ",
+      "cashback": "120ポイント",
+      "device": "iOS",
+      "description": "[アプリ]モーマンタイム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]モーマンタイム（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "79831249-4dbe-dcfd-d52f-ce260ef9a12a",
+      "siteName": "ちょびリッチ",
+      "cashback": "034ポイント",
+      "device": "iOS",
+      "description": "[アプリ]モーマンタイム（アプリランド）",
+      "searchKeywords": "[アプリ]モーマンタイム（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "2faabeb5-9ffd-f735-9367-3d2cd6e043ee",
+      "siteName": "ちょびリッチ",
+      "cashback": "280ポイント",
+      "device": "iOS",
+      "description": "[アプリ]マフィア・シティ-極道風雲（ギフトリンク/別荘Lv.25到達＆初回豪華特権を購入）（iOS）",
+      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲（ギフトリンク/別荘lv.25到達＆初回豪華特権を購入）（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "a084f1a8-5390-da8f-390a-2490a114e4dc",
+      "siteName": "ちょびリッチ",
+      "cashback": "600ポイント",
+      "device": "iOS",
+      "description": "[アプリ]マフィア・シティ-極道風雲（別荘Lv.25到達＆豪華特権購入）（iOS）",
+      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲（別荘lv.25到達＆豪華特権購入）（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "7ab832d9-3d5b-f09e-8560-b42833174cf0",
+      "siteName": "ちょびリッチ",
+      "cashback": "820ポイント",
+      "device": "iOS",
+      "description": "[アプリ]喧嘩の花道（iOS用）",
+      "searchKeywords": "[アプリ]喧嘩の花道（ios用）",
+      "category": "entertainment"
+    },
+    {
+      "id": "89867ced-0306-6de9-1306-13c3b8b315d1",
+      "siteName": "ちょびリッチ",
+      "cashback": "962ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Dice Dreams（アプリランド）",
+      "searchKeywords": "[アプリ]dice dreams（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "4c8743d6-1410-b592-5e7c-2edeff548541",
+      "siteName": "ちょびリッチ",
+      "cashback": "194ポイント",
+      "device": "iOS",
+      "description": "[アプリ]出荷ぶた",
+      "searchKeywords": "[アプリ]出荷ぶた",
+      "category": "entertainment"
+    },
+    {
+      "id": "cb489ab6-7ef7-4b28-d5f4-23214490495d",
+      "siteName": "ちょびリッチ",
+      "cashback": "556ポイント",
+      "device": "iOS",
+      "description": "[アプリ]ゾンビ・パニック（アプリランド）",
+      "searchKeywords": "[アプリ]ゾンビ・パニック（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "85d7e8ef-3ebf-555b-0b39-872651bfabe4",
+      "siteName": "ちょびリッチ",
+      "cashback": "728ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Domino Dreams（アプリランド）",
+      "searchKeywords": "[アプリ]domino dreams（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "1046eb58-8e19-86fd-d37a-51f622d5addc",
+      "siteName": "ちょびリッチ",
+      "cashback": "165ポイント",
+      "device": "iOS",
+      "description": "[アプリ]merge designer",
+      "searchKeywords": "[アプリ]merge designer",
+      "category": "entertainment"
+    },
+    {
+      "id": "3e9e5798-cfcd-d91d-d22f-515ea9dda4ef",
+      "siteName": "ちょびリッチ",
+      "cashback": "200ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Puzzles & Chaos: Frozen Castle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]puzzles & chaos: frozen castle（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "8afa8467-e5b9-b29e-d471-8cc8aac4e72a",
+      "siteName": "ちょびリッチ",
+      "cashback": "488ポイント",
+      "device": "iOS",
+      "description": "[アプリ]ザ・アンツ（アプリランド）",
+      "searchKeywords": "[アプリ]ザ・アンツ（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "ee211332-635e-32ae-ee17-1577da22a579",
+      "siteName": "ちょびリッチ",
+      "cashback": "632ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Decor Merge - Fashion Renovate",
+      "searchKeywords": "[アプリ]decor merge - fashion renovate",
+      "category": "entertainment"
+    },
+    {
+      "id": "bc624be2-bb9d-e923-b4b5-0d3d406c7ce3",
+      "siteName": "ちょびリッチ",
+      "cashback": "990ポイント",
+      "device": "iOS",
+      "description": "[アプリ]ドゥームズデイ：ラストサバイバー（アプリランド）",
+      "searchKeywords": "[アプリ]ドゥームズデイ：ラストサバイバー（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "c492ca20-5416-6b92-780a-269361c76721",
+      "siteName": "ちょびリッチ",
+      "cashback": "672ポイント",
+      "device": "iOS",
+      "description": "[アプリ]パズル＆サバイバル（アプリランド）",
+      "searchKeywords": "[アプリ]パズル＆サバイバル（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "e2f748de-2891-e030-7934-6c1e2f89ba6a",
+      "siteName": "ちょびリッチ",
+      "cashback": "896ポイント",
+      "device": "iOS",
+      "description": "[アプリ]パズル＆カオス（アプリランド）",
+      "searchKeywords": "[アプリ]パズル＆カオス（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "2416ba33-2204-d7e7-8b49-2564a703d2d4",
+      "siteName": "ちょびリッチ",
+      "cashback": "420ポイント",
+      "device": "iOS",
+      "description": "[アプリ]出荷ぶた（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]出荷ぶた（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "396d8e35-00f6-555a-1a77-e1b79f75bb16",
+      "siteName": "ちょびリッチ",
+      "cashback": "420ポイント",
+      "device": "iOS",
+      "description": "[アプリ]出荷ぶた -冬ver-（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "searchKeywords": "[アプリ]出荷ぶた -冬ver-（多段階）（ios）（アプリdeちょ～リッチ）",
+      "category": "entertainment"
+    },
+    {
+      "id": "040e848a-11f8-fa87-ca52-9317819640e2",
+      "siteName": "ちょびリッチ",
+      "cashback": "218ポイント",
+      "device": "iOS",
+      "description": "[アプリ]パズル＆コンクエスト（アプリランド）",
+      "searchKeywords": "[アプリ]パズル＆コンクエスト（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "1552163c-5dd4-5396-9e16-91daff19cae2",
+      "siteName": "ちょびリッチ",
+      "cashback": "756ポイント",
+      "device": "iOS",
+      "description": "[アプリ]パズル＆カオス",
+      "searchKeywords": "[アプリ]パズル＆カオス",
+      "category": "entertainment"
+    },
+    {
+      "id": "e9577a86-0d23-284f-22c7-fbb0ab6bb038",
+      "siteName": "ちょびリッチ",
+      "cashback": "910ポイント",
+      "device": "iOS",
+      "description": "[アプリ]High Roller Vegas（アプリランド）",
+      "searchKeywords": "[アプリ]high roller vegas（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "89390f6a-1870-2a6b-fb93-d2b3cf20435f",
+      "siteName": "ちょびリッチ",
+      "cashback": "452ポイント",
+      "device": "iOS",
+      "description": "[アプリ]The Grand Mafia(ザ グランド マフィア)",
+      "searchKeywords": "[アプリ]the grand mafia(ザ グランド マフィア)",
+      "category": "entertainment"
+    },
+    {
+      "id": "5cc6551b-fb58-2e71-e52f-eb53addca6f4",
+      "siteName": "ちょびリッチ",
+      "cashback": "734ポイント",
+      "device": "iOS",
+      "description": "[アプリ]商人放浪記（アプリランド）",
+      "searchKeywords": "[アプリ]商人放浪記（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "8b787ce9-b23b-2515-e3fc-455855661812",
+      "siteName": "ちょびリッチ",
+      "cashback": "202ポイント",
+      "device": "iOS",
+      "description": "[アプリ]Rock N' Cash Casino-Slots Game（アプリランド）",
+      "searchKeywords": "[アプリ]rock n' cash casino-slots game（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "9b2e89c5-0fea-f7dc-65dd-87428033000b",
+      "siteName": "ちょびリッチ",
+      "cashback": "523ポイント",
+      "device": "iOS",
+      "description": "[アプリ]マフィア・シティ-極道風雲",
+      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲",
+      "category": "entertainment"
+    },
+    {
+      "id": "fdd3df8e-9738-a8f8-7e29-d5368f58c4fd",
+      "siteName": "ちょびリッチ",
+      "cashback": "184ポイント",
+      "device": "iOS",
+      "description": "[アプリ]マフィア・シティ-極道風雲（アプリランド）",
+      "searchKeywords": "[アプリ]マフィア・シティ-極道風雲（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "ad5318b4-d514-8772-de7b-ce91b367326f",
+      "siteName": "ちょびリッチ",
+      "cashback": "930ポイント",
+      "device": "iOS",
+      "description": "[アプリ]氷と炎：キング・オブ・アバロン（アプリランド）",
+      "searchKeywords": "[アプリ]氷と炎：キング・オブ・アバロン（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "adf209c2-f774-e97b-5cfd-0fc9da55a751",
+      "siteName": "ちょびリッチ",
+      "cashback": "810ポイント",
+      "device": "iOS",
+      "description": "[アプリ]ザ・グランドマフィア（アプリランド）",
+      "searchKeywords": "[アプリ]ザ・グランドマフィア（アプリランド）",
+      "category": "entertainment"
+    },
+    {
+      "id": "f2e4c514-9007-e601-810b-af6c1263ea79",
+      "siteName": "ちょびリッチ",
+      "cashback": "160pt",
+      "device": "iOS",
+      "description": "[アプリ]ピコットタウン レベル32到達（iOS）",
+      "searchKeywords": "[アプリ]ピコットタウン レベル32到達（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "5556729e-511d-af72-afe7-4ab02d408111",
+      "siteName": "ちょびリッチ",
+      "cashback": "340pt",
+      "device": "iOS",
+      "description": "[アプリ]ブロックパズル（クラシックモード1万点達成）（iOS）",
+      "searchKeywords": "[アプリ]ブロックパズル（クラシックモード1万点達成）（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "9ea346b6-fd60-dba8-3687-9db41a08ffbc",
+      "siteName": "ちょびリッチ",
+      "cashback": "600pt",
+      "device": "iOS",
+      "description": "[アプリ]Toon Blast（トゥーンブラスト）（レベル1000達成）（iOS）",
+      "searchKeywords": "[アプリ]toon blast（トゥーンブラスト）（レベル1000達成）（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "f2ae8364-45e5-d98a-48bf-7454fefdff55",
+      "siteName": "ちょびリッチ",
+      "cashback": "350pt",
+      "device": "iOS",
+      "description": "[アプリ]たい焼きタイクーン ワールド4ステージ7到達（iOS）",
+      "searchKeywords": "[アプリ]たい焼きタイクーン ワールド4ステージ7到達（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "3ffe4f42-d8c0-16ef-4dcb-8537d995db6f",
+      "siteName": "ちょびリッチ",
+      "cashback": "49ポイント",
+      "device": "iOS",
+      "description": "[アプリ]【独占配信】amood(アムード) - 海外配送も条件なしで送料無料",
+      "searchKeywords": "[アプリ]【独占配信】amood(アムード) - 海外配送も条件なしで送料無料",
+      "category": "entertainment"
+    },
+    {
+      "id": "76d29d15-ede7-64d9-7d63-f7f6cd0215d5",
+      "siteName": "ちょびリッチ",
+      "cashback": "120pt",
+      "device": "iOS",
+      "description": "[アプリ]ローソンアプリ（iOS）",
+      "searchKeywords": "[アプリ]ローソンアプリ（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "838d7f71-a049-85ed-1ecf-b1a08d98d525",
+      "siteName": "ちょびリッチ",
+      "cashback": "350pt",
+      "device": "iOS",
+      "description": "[アプリ]ニコニコ漫画 7日連続1話以上読了（iOS）",
+      "searchKeywords": "[アプリ]ニコニコ漫画 7日連続1話以上読了（ios）",
+      "category": "entertainment"
+    },
+    {
+      "id": "4cf28c4e-901d-15ba-c395-524a5a580472",
+      "siteName": "ちょびリッチ",
+      "cashback": "510ポイント",
+      "device": "iOS",
+      "description": "[アプリ]WINTICKET",
+      "searchKeywords": "[アプリ]winticket",
+      "category": "entertainment"
+    },
+    {
       "id": "4dbb4ca9-00b4-4b6a-85da-e5ac473d7561",
       "siteName": "ちょびリッチ",
       "cashback": "97pt",
@@ -27092,7 +27659,7 @@
     }
   ],
   "metadata": {
-    "totalCampaigns": 3024,
-    "lastUpdated": "2025-08-03T07:39:00.051Z"
+    "totalCampaigns": 3087,
+    "lastUpdated": "2025-08-03T08:53:15.140Z"
   }
 }
