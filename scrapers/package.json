@@ -1,0 +1,22 @@
+{
+  "name": "chobirich-scraper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "ちょびリッチスクレイピングシステム - 差分取得・データベース保存対応",
+  "scripts": {
+    "start": "node main.js",
+    "differential": "node differential.js",
+    "test": "node main.js test",
+    "test-diff": "node differential.js test-diff",
+    "analyze": "node main.js analyze"
+  },
+  "keywords": ["scraping", "chobirich", "point-site", "differential"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.15.0",
+    "yaml": "^2.8.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.4.0"
+  }
+}

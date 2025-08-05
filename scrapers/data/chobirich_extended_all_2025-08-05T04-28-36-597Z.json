@@ -1,0 +1,1286 @@
+{
+  "scrapeDate": "2025-08-05T04:28:36.597Z",
+  "version": "extended_category_system_v1.0.0",
+  "systemType": "extended_category_page_only",
+  "specificationCompliance": true,
+  "targetCategoryTypes": [
+    "shopping",
+    "service"
+  ],
+  "campaigns": [
+    {
+      "id": "1749636",
+      "title": "LINEで受け取る「一都三県非公開物件情報」",
+      "url": "https://www.chobirich.com/ad_details/1749636/",
+      "points": "50pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1730103",
+      "title": "StudySearch",
+      "url": "https://www.chobirich.com/ad_details/1730103/",
+      "points": "150pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1836841",
+      "title": "DMM | Disney+ セットプラン",
+      "url": "https://www.chobirich.com/ad_details/1836841/",
+      "points": "556pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1760880",
+      "title": "DMM TV（DMMプレミアム有料会員登録）",
+      "url": "https://www.chobirich.com/ad_details/1760880/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1680889",
+      "title": "【ITトレンド】口コミ投稿",
+      "url": "https://www.chobirich.com/ad_details/1680889/",
+      "points": "1,800pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1697629",
+      "title": "dマガジン",
+      "url": "https://www.chobirich.com/ad_details/1697629/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1698324",
+      "title": "dジョブ スマホワーク",
+      "url": "https://www.chobirich.com/ad_details/1698324/",
+      "points": "1,600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1045584",
+      "title": "楽天マガジン",
+      "url": "https://www.chobirich.com/ad_details/1045584/",
+      "points": "360pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1809044",
+      "title": "ホームズ不動産投資（本会員登録）",
+      "url": "https://www.chobirich.com/ad_details/1809044/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1217807",
+      "title": "U-NEXT ブック 31日間無料お試し※32日目以降は2,728円(税込)",
+      "url": "https://www.chobirich.com/ad_details/1217807/",
+      "points": "3,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1103284",
+      "title": "U-NEXT 【31日間無料お試し】",
+      "url": "https://www.chobirich.com/ad_details/1103284/",
+      "points": "4,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1725086",
+      "title": "Disney+ (ディズニープラス)<月額プラン>",
+      "url": "https://www.chobirich.com/ad_details/1725086/",
+      "points": "4,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1742285",
+      "title": "Disney+ (ディズニープラス)<年額プラン>",
+      "url": "https://www.chobirich.com/ad_details/1742285/",
+      "points": "4,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1356951",
+      "title": "GambooBET（ギャンブーベット）",
+      "url": "https://www.chobirich.com/ad_details/1356951/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1662629",
+      "title": "Apple Music",
+      "url": "https://www.chobirich.com/ad_details/1662629/",
+      "points": "最大700pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1694691",
+      "title": "ブック放題",
+      "url": "https://www.chobirich.com/ad_details/1694691/",
+      "points": "1,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1682884",
+      "title": "ペットの悩みQ&A【DOQAT】",
+      "url": "https://www.chobirich.com/ad_details/1682884/",
+      "points": "500pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1693345",
+      "title": "Toluna（トルーナ）",
+      "url": "https://www.chobirich.com/ad_details/1693345/",
+      "points": "220pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1068721",
+      "title": "【グリーン・ワークホース】不動産投資（資料請求）",
+      "url": "https://www.chobirich.com/ad_details/1068721/",
+      "points": "7,644pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1687465",
+      "title": "【PC限定RPG】アリスレコード",
+      "url": "https://www.chobirich.com/ad_details/1687465/",
+      "points": "48pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1032311",
+      "title": "生協の宅配『おうちＣＯ-ＯＰ』",
+      "url": "https://www.chobirich.com/ad_details/1032311/",
+      "points": "2,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "65864",
+      "title": "マクロミル「インターネットアンケートモニター募集」",
+      "url": "https://www.chobirich.com/ad_details/65864/",
+      "points": "100pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1011665",
+      "title": "楽天インサイト",
+      "url": "https://www.chobirich.com/ad_details/1011665/",
+      "points": "800pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1809563",
+      "title": "シゴトin",
+      "url": "https://www.chobirich.com/ad_details/1809563/",
+      "points": "-",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "50254",
+      "title": "palsystem（パルシステム）資料請求",
+      "url": "https://www.chobirich.com/ad_details/50254/",
+      "points": "2,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1837517",
+      "title": "dポイントマーケット",
+      "url": "https://www.chobirich.com/ad_details/1837517/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1836754",
+      "title": "リサーチパネル",
+      "url": "https://www.chobirich.com/ad_details/1836754/",
+      "points": "900pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1795372",
+      "title": "Pappy 最短当日、大人のデート",
+      "url": "https://www.chobirich.com/ad_details/1795372/",
+      "points": "8,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1518479",
+      "title": "TSUTAYA DISCAS「定額MAX」",
+      "url": "https://www.chobirich.com/ad_details/1518479/",
+      "points": "8,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1807728",
+      "title": "TSUTAYA DISCAS「定額8ダブル」",
+      "url": "https://www.chobirich.com/ad_details/1807728/",
+      "points": "1,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:07.516Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1777187",
+      "title": "クランクイン!ビデオ",
+      "url": "https://www.chobirich.com/ad_details/1777187/",
+      "points": "4,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1836736",
+      "title": "ブッコミ",
+      "url": "https://www.chobirich.com/ad_details/1836736/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1831378",
+      "title": "BOOK☆WALKER【マンガ・読み放題サービス】",
+      "url": "https://www.chobirich.com/ad_details/1831378/",
+      "points": "1,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1839500",
+      "title": "スタートAI",
+      "url": "https://www.chobirich.com/ad_details/1839500/",
+      "points": "18,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1835572",
+      "title": "スマホインボイスFinFin",
+      "url": "https://www.chobirich.com/ad_details/1835572/",
+      "points": "640pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1834806",
+      "title": "スマホ会計FinFin",
+      "url": "https://www.chobirich.com/ad_details/1834806/",
+      "points": "600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1820265",
+      "title": "Notta",
+      "url": "https://www.chobirich.com/ad_details/1820265/",
+      "points": "15%",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1811054",
+      "title": "画像高画質化AIツール【Aiarty Image Enhancer】",
+      "url": "https://www.chobirich.com/ad_details/1811054/",
+      "points": "15%",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1773820",
+      "title": "ドリームプロジェクト（資料請求）",
+      "url": "https://www.chobirich.com/ad_details/1773820/",
+      "points": "4,800pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1829512",
+      "title": "海外留学のEF",
+      "url": "https://www.chobirich.com/ad_details/1829512/",
+      "points": "220pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1837164",
+      "title": "SHIFT AI",
+      "url": "https://www.chobirich.com/ad_details/1837164/",
+      "points": "50,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1756719",
+      "title": "ドコモスポーツくじ",
+      "url": "https://www.chobirich.com/ad_details/1756719/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1749660",
+      "title": "Clubtoto（無料会員登録）",
+      "url": "https://www.chobirich.com/ad_details/1749660/",
+      "points": "1,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1838930",
+      "title": "暑中見舞い・残暑見舞いテンプレートBANK",
+      "url": "https://www.chobirich.com/ad_details/1838930/",
+      "points": "70pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1838747",
+      "title": "TikTokライバー募集",
+      "url": "https://www.chobirich.com/ad_details/1838747/",
+      "points": "10,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1822082",
+      "title": "予約BACK",
+      "url": "https://www.chobirich.com/ad_details/1822082/",
+      "points": "100pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1831691",
+      "title": "注文住宅に関するアンケート[持ち家計画]",
+      "url": "https://www.chobirich.com/ad_details/1831691/",
+      "points": "100pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1831473",
+      "title": "暮らしのアンケート",
+      "url": "https://www.chobirich.com/ad_details/1831473/",
+      "points": "60pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1839736",
+      "title": "リフォーム口コミ募集",
+      "url": "https://www.chobirich.com/ad_details/1839736/",
+      "points": "1,600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1835581",
+      "title": "ふるさと納税アンケート",
+      "url": "https://www.chobirich.com/ad_details/1835581/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1831233",
+      "title": "サロモン [S/PLUS]",
+      "url": "https://www.chobirich.com/ad_details/1831233/",
+      "points": "160pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1834045",
+      "title": "atone",
+      "url": "https://www.chobirich.com/ad_details/1834045/",
+      "points": "1,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1828198",
+      "title": "ハウジングバザール",
+      "url": "https://www.chobirich.com/ad_details/1828198/",
+      "points": "2,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.260Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1831228",
+      "title": "進学応援キャンペーン",
+      "url": "https://www.chobirich.com/ad_details/1831228/",
+      "points": "300pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.261Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1831419",
+      "title": "インズウェブ学資保険一括資料請求",
+      "url": "https://www.chobirich.com/ad_details/1831419/",
+      "points": "0pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.261Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1831499",
+      "title": "ビズリーチ・キャンパス",
+      "url": "https://www.chobirich.com/ad_details/1831499/",
+      "points": "3,200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.261Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1827908",
+      "title": "ディズニーグッズ・コミュニティ",
+      "url": "https://www.chobirich.com/ad_details/1827908/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.261Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1691308",
+      "title": "Disney+ (ディズニープラス)【dアカウント専用】",
+      "url": "https://www.chobirich.com/ad_details/1691308/",
+      "points": "10,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.261Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1752762",
+      "title": "フランチャイズの窓口「初心者ビジネス」",
+      "url": "https://www.chobirich.com/ad_details/1752762/",
+      "points": "4,600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.261Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1721381",
+      "title": "匠のこだわり、プレゼント。",
+      "url": "https://www.chobirich.com/ad_details/1721381/",
+      "points": "100pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:13.261Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1827755",
+      "title": "家計の見直しアンケート",
+      "url": "https://www.chobirich.com/ad_details/1827755/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.019Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1826956",
+      "title": "CROEL生命保険アンケート",
+      "url": "https://www.chobirich.com/ad_details/1826956/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1830607",
+      "title": "恵比寿不動産マンション口コミ アンケート",
+      "url": "https://www.chobirich.com/ad_details/1830607/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1710489",
+      "title": "”絆”のコミュニティ（新規無料会員登録）",
+      "url": "https://www.chobirich.com/ad_details/1710489/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1709812",
+      "title": "トラミー（新規無料会員登録）",
+      "url": "https://www.chobirich.com/ad_details/1709812/",
+      "points": "1,100pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1709806",
+      "title": "コエタス（新規無料会員登録）",
+      "url": "https://www.chobirich.com/ad_details/1709806/",
+      "points": "800pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1840251",
+      "title": "【聴き放題プラン申込み】audiobook（オーディオブック）",
+      "url": "https://www.chobirich.com/ad_details/1840251/",
+      "points": "2,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1783796",
+      "title": "【年割プラン申込み】audiobook（オーディオブック）",
+      "url": "https://www.chobirich.com/ad_details/1783796/",
+      "points": "3,800pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1422079",
+      "title": "【無料トライアル申込み】audiobook（オーディオブック）",
+      "url": "https://www.chobirich.com/ad_details/1422079/",
+      "points": "3,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1695878",
+      "title": "キャストネット",
+      "url": "https://www.chobirich.com/ad_details/1695878/",
+      "points": "1,500pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1682391",
+      "title": "キューモニター",
+      "url": "https://www.chobirich.com/ad_details/1682391/",
+      "points": "600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1820956",
+      "title": "GOLF me！",
+      "url": "https://www.chobirich.com/ad_details/1820956/",
+      "points": "16,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1834670",
+      "title": "資産運用アンケート",
+      "url": "https://www.chobirich.com/ad_details/1834670/",
+      "points": "2,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1800930",
+      "title": "安心・安全のアンケートサイト【アイリサーチ】",
+      "url": "https://www.chobirich.com/ad_details/1800930/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1672769",
+      "title": "サイバーパネル",
+      "url": "https://www.chobirich.com/ad_details/1672769/",
+      "points": "800pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1797443",
+      "title": "ゲオ宅配レンタル",
+      "url": "https://www.chobirich.com/ad_details/1797443/",
+      "points": "1,400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1797033",
+      "title": "【スマモニ】賢い女性のお試しサイト",
+      "url": "https://www.chobirich.com/ad_details/1797033/",
+      "points": "18,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1820967",
+      "title": "フクマネ",
+      "url": "https://www.chobirich.com/ad_details/1820967/",
+      "points": "4,400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1796343",
+      "title": "無料登録でおこづかいを貯めよう！【iOS版スマートフォンモニター】",
+      "url": "https://www.chobirich.com/ad_details/1796343/",
+      "points": "1,400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1796341",
+      "title": "無料登録でおこづかいを貯めよう！【Android版スマートフォンモニター】",
+      "url": "https://www.chobirich.com/ad_details/1796341/",
+      "points": "1,400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1794143",
+      "title": "恵比寿不動産",
+      "url": "https://www.chobirich.com/ad_details/1794143/",
+      "points": "6,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1791946",
+      "title": "楽天ポイントギフトカード For Business （資料ダウンロード後アポ実施）",
+      "url": "https://www.chobirich.com/ad_details/1791946/",
+      "points": "6,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1791940",
+      "title": "楽天ポイントギフトカード For Business（問い合わせ後アポ実施）",
+      "url": "https://www.chobirich.com/ad_details/1791940/",
+      "points": "6,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1788202",
+      "title": "探す！フランチャイズ",
+      "url": "https://www.chobirich.com/ad_details/1788202/",
+      "points": "3,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1787174",
+      "title": "レオンワークス 投資アンケート",
+      "url": "https://www.chobirich.com/ad_details/1787174/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1779769",
+      "title": "「駅探メンバーPass」会員登録",
+      "url": "https://www.chobirich.com/ad_details/1779769/",
+      "points": "600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1815939",
+      "title": "阪神タイガースコンテンツ会員（ベーシックコース）",
+      "url": "https://www.chobirich.com/ad_details/1815939/",
+      "points": "1,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1766650",
+      "title": "インクロム ボランティアセンター 無料会員登録",
+      "url": "https://www.chobirich.com/ad_details/1766650/",
+      "points": "110pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1792351",
+      "title": "グロービス学び放題",
+      "url": "https://www.chobirich.com/ad_details/1792351/",
+      "points": "4,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1766034",
+      "title": "Uvoice（ユーボイス）【PC用】",
+      "url": "https://www.chobirich.com/ad_details/1766034/",
+      "points": "600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:19.020Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1746651",
+      "title": "ちょっと世界がひろがるコミュニティ きっかけ Supported by 産経新聞",
+      "url": "https://www.chobirich.com/ad_details/1746651/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1820964",
+      "title": "週刊文春電子版（初月300円/2カ月目以降2200円コース)",
+      "url": "https://www.chobirich.com/ad_details/1820964/",
+      "points": "700pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1725892",
+      "title": "阪急交通社【インターネット会員登録】",
+      "url": "https://www.chobirich.com/ad_details/1725892/",
+      "points": "110pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1028771",
+      "title": "infoQ（新規無料会員登録）",
+      "url": "https://www.chobirich.com/ad_details/1028771/",
+      "points": "120pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1833460",
+      "title": "infoQ（新規会員登録＋アンケート回答）",
+      "url": "https://www.chobirich.com/ad_details/1833460/",
+      "points": "900pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1795906",
+      "title": "スキマ時間を活用！ファンタスリサーチ（FANTAS RESEARCH）",
+      "url": "https://www.chobirich.com/ad_details/1795906/",
+      "points": "210pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1738425",
+      "title": "ディーチェ【1ポイント以上利用】",
+      "url": "https://www.chobirich.com/ad_details/1738425/",
+      "points": "600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1709530",
+      "title": "ディーチェ",
+      "url": "https://www.chobirich.com/ad_details/1709530/",
+      "points": "80pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1689596",
+      "title": "生活ガイド.com",
+      "url": "https://www.chobirich.com/ad_details/1689596/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1688915",
+      "title": "絵本のサブスク",
+      "url": "https://www.chobirich.com/ad_details/1688915/",
+      "points": "1,500pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1702269",
+      "title": "J SPORTS（ジェイスポーツ）オンデマンド",
+      "url": "https://www.chobirich.com/ad_details/1702269/",
+      "points": "1,100pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1679521",
+      "title": "華の会メール",
+      "url": "https://www.chobirich.com/ad_details/1679521/",
+      "points": "300pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1652965",
+      "title": "スマイルゼミ",
+      "url": "https://www.chobirich.com/ad_details/1652965/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1658989",
+      "title": "＜マイホーム計画＞持ち家計画[相談・見学完了]",
+      "url": "https://www.chobirich.com/ad_details/1658989/",
+      "points": "10,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1174725",
+      "title": "不動産投資一括資料請求【Oh!Ya（オーヤ）】（資料請求）",
+      "url": "https://www.chobirich.com/ad_details/1174725/",
+      "points": "4,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1518480",
+      "title": "オンラインアンケート「オピニオンワールド」",
+      "url": "https://www.chobirich.com/ad_details/1518480/",
+      "points": "235pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1489562",
+      "title": "レポハピ",
+      "url": "https://www.chobirich.com/ad_details/1489562/",
+      "points": "200pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1267681",
+      "title": "【music.jp】TVコース 30日間無料",
+      "url": "https://www.chobirich.com/ad_details/1267681/",
+      "points": "400pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1022195",
+      "title": "LINEスタンプ格安制作 スタンプファクトリー",
+      "url": "https://www.chobirich.com/ad_details/1022195/",
+      "points": "50pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1413674",
+      "title": "i-Say",
+      "url": "https://www.chobirich.com/ad_details/1413674/",
+      "points": "320pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1635187",
+      "title": "新_Oh!Ya(オーヤ)[セミナー参加完了]",
+      "url": "https://www.chobirich.com/ad_details/1635187/",
+      "points": "10,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1053404",
+      "title": "楽天ミュージック",
+      "url": "https://www.chobirich.com/ad_details/1053404/",
+      "points": "700pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1061964",
+      "title": "電子ギフト券を購入・出品できる売買サイト【ベテルギフト】",
+      "url": "https://www.chobirich.com/ad_details/1061964/",
+      "points": "70pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1050730",
+      "title": "GALA・NAVI",
+      "url": "https://www.chobirich.com/ad_details/1050730/",
+      "points": "500pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1036986",
+      "title": "JAFロードサービス",
+      "url": "https://www.chobirich.com/ad_details/1036986/",
+      "points": "670pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1023763",
+      "title": "CAPAT",
+      "url": "https://www.chobirich.com/ad_details/1023763/",
+      "points": "150pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1023754",
+      "title": "美トリ",
+      "url": "https://www.chobirich.com/ad_details/1023754/",
+      "points": "2,500ポイント",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1022585",
+      "title": "ブロカン",
+      "url": "https://www.chobirich.com/ad_details/1022585/",
+      "points": "80pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "97009",
+      "title": "楽天toto （会員登録）",
+      "url": "https://www.chobirich.com/ad_details/97009/",
+      "points": "260pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:24.761Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1647648",
+      "title": "なるには進学サイト「大学部特集」",
+      "url": "https://www.chobirich.com/ad_details/1647648/",
+      "points": "400ポイント",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:30.522Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1647646",
+      "title": "なるには進学サイト 専門学校特集",
+      "url": "https://www.chobirich.com/ad_details/1647646/",
+      "points": "1,000pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:30.522Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1636107",
+      "title": "いい葬儀[お坊さん]",
+      "url": "https://www.chobirich.com/ad_details/1636107/",
+      "points": "3,500ポイント",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:30.523Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1356922",
+      "title": "skyticketプレミアム",
+      "url": "https://www.chobirich.com/ad_details/1356922/",
+      "points": "150pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:30.523Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1805028",
+      "title": "塾比較ひろば（資料請求）",
+      "url": "https://www.chobirich.com/ad_details/1805028/",
+      "points": "600pt",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:30.523Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1364860",
+      "title": "テンプレートBANK",
+      "url": "https://www.chobirich.com/ad_details/1364860/",
+      "points": "30ポイント",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:30.523Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1741412",
+      "title": "ベビープラネット",
+      "url": "https://www.chobirich.com/ad_details/1741412/",
+      "points": "-",
+      "category": "サービス・クレジットカード・マネー101",
+      "categoryType": "service",
+      "scrapedAt": "2025-08-05T04:28:30.523Z",
+      "source": "extended_category_system"
+    }
+  ],
+  "summary": {
+    "total": 126,
+    "shopping": 0,
+    "service": 126,
+    "categories": 1,
+    "categoryList": [
+      "サービス・クレジットカード・マネー101"
+    ]
+  },
+  "performance": {
+    "avgCampaignsPerCategory": 126,
+    "successRate": "100%",
+    "errorRate": "0%"
+  }
+}

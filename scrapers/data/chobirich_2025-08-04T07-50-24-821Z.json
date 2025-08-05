@@ -1,0 +1,33 @@
+{
+  "scrapeDate": "2025-08-04T07:50:24.821Z",
+  "stats": {
+    "startTime": "2025-08-04T07:50:23.674Z",
+    "endTime": null,
+    "categoriesProcessed": 1,
+    "pagesProcessed": 0,
+    "campaignsFound": 0
+  },
+  "rateLimiterStats": {
+    "totalRequests": 1,
+    "successful": 1,
+    "errors403": 0,
+    "errors403Timeline": [],
+    "lastRequestTime": 1754293823675,
+    "sessionRequests": 1,
+    "currentWaitTime": 60,
+    "successRate": "100.0%",
+    "recommendation": {
+      "severity": "ok",
+      "message": "エラー率は許容範囲内です。",
+      "suggestions": []
+    }
+  },
+  "campaigns": [],
+  "errors": [
+    {
+      "url": "https://www.chobirich.com/shopping/shop/101",
+      "error": "page.waitForTimeout is not a function",
+      "time": "2025-08-04T07:50:24.809Z"
+    }
+  ]
+}

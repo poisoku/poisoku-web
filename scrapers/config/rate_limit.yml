@@ -1,0 +1,38 @@
+# ちょびリッチアクセス制限設定
+# 403エラー回避のための調整可能な設定
+
+rate_limit:
+  # 基本設定
+  requests_per_minute: 20          # 1分あたりの最大リクエスト数（初期値：控えめ）
+  delay_between_requests: 3        # リクエスト間の待機時間（秒）
+  delay_between_categories: 10     # カテゴリ切り替え時の待機時間（秒）
+  
+  # ページネーション設定
+  delay_between_pages: 5           # ページ切り替え時の待機時間（秒）
+  max_pages_per_category: 10       # カテゴリあたりの最大ページ数（安全装置）
+  
+  # 403エラー対策
+  error_403_handling:
+    initial_wait: 60               # 403エラー時の初期待機時間（秒）
+    max_wait: 3600                 # 最大待機時間（1時間）
+    backoff_multiplier: 2          # 待機時間の増加倍率
+    max_retries: 3                 # 最大リトライ回数
+    
+  # セッション管理
+  session:
+    max_requests_per_session: 50   # 1セッションあたりの最大リクエスト数
+    session_break_time: 30         # セッション間の休憩時間（秒）
+    rotate_user_agent: true        # User-Agentのローテーション
+    
+  # 時間帯別設定（将来的な拡張用）
+  time_based:
+    enabled: false
+    peak_hours: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    peak_delay: 5                  # ピーク時の追加待機時間（秒）
+    off_peak_delay: 2               # オフピーク時の待機時間（秒）
+
+# ログ設定
+logging:
+  level: DEBUG                      # ログレベル（DEBUG/INFO/WARNING/ERROR）
+  403_tracker: true                 # 403エラーの詳細追跡
+  performance_metrics: true         # パフォーマンスメトリクスの記録

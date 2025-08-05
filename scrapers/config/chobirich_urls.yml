@@ -1,0 +1,72 @@
+# ちょびリッチ取得対象URL設定
+
+base_url: https://www.chobirich.com
+
+categories:
+  shopping:
+    name: "ショッピング"
+    urls:
+      - path: /shopping/shop/101
+        name: "総合通販・デパート"
+      - path: /shopping/shop/102
+        name: "ファッション"
+      - path: /shopping/shop/103
+        name: "美容・健康"
+      - path: /shopping/shop/104
+        name: "グルメ・食品"
+      - path: /shopping/shop/105
+        name: "家電・パソコン"
+      - path: /shopping/shop/106
+        name: "本・CD・DVD"
+      - path: /shopping/shop/107
+        name: "旅行・チケット"
+      - path: /shopping/shop/108
+        name: "スポーツ・アウトドア"
+      - path: /shopping/shop/109
+        name: "ギフト・花"
+      - path: /shopping/shop/110
+        name: "オークション・買取"
+      - path: /shopping/shop/111
+        name: "その他ショッピング"
+    user_agent: pc
+    
+  service:
+    name: "サービス・クレカ・マネー"
+    urls:
+      - path: /earn/apply/101
+        name: "クレジットカード"
+      - path: /earn/apply/103
+        name: "銀行・証券"
+      - path: /earn/apply/104
+        name: "FX・投資"
+      - path: /earn/apply/106
+        name: "保険"
+      - path: /earn/apply/107
+        name: "プロバイダ・通信"
+      - path: /earn/apply/108
+        name: "資料請求"
+      - path: /earn/apply/109
+        name: "無料会員登録"
+      - path: /earn/apply/111
+        name: "有料サービス"
+      - path: /earn/apply/110
+        name: "その他サービス"
+    user_agent: pc
+    
+  app:
+    name: "スマホアプリ"
+    urls:
+      - path: /smartphone?sort=point
+        name: "スマホアプリ案件"
+    user_agent: mobile  # iOS/Android切り替え必要
+    requires_device_rotation: true
+
+# User-Agent設定
+user_agents:
+  pc:
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  ios:
+    - "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+  android:
+    - "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"

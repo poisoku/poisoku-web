@@ -1,0 +1,948 @@
+{
+  "scrapeDate": "2025-08-04T07:50:56.010Z",
+  "stats": {
+    "startTime": "2025-08-04T07:50:36.901Z",
+    "endTime": null,
+    "categoriesProcessed": 1,
+    "pagesProcessed": 2,
+    "campaignsFound": 92
+  },
+  "rateLimiterStats": {
+    "totalRequests": 4,
+    "successful": 2,
+    "errors403": 0,
+    "errors403Timeline": [],
+    "lastRequestTime": 1754293856010,
+    "sessionRequests": 4,
+    "currentWaitTime": 60,
+    "successRate": "50.0%",
+    "recommendation": {
+      "severity": "ok",
+      "message": "エラー率は許容範囲内です。",
+      "suggestions": []
+    }
+  },
+  "campaigns": [
+    {
+      "id": "36796",
+      "url": "/ad_details/36796/",
+      "title": "楽天市場",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "36796",
+      "url": "/ad_details/36796/",
+      "title": "(1,480件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "41250",
+      "url": "/ad_details/41250/",
+      "title": "Yahoo!ショッピング",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "41250",
+      "url": "/ad_details/41250/",
+      "title": "(782件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "18999",
+      "url": "/ad_details/18999/",
+      "title": "amazon（アマゾン）",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1057461",
+      "url": "/ad_details/1057461/",
+      "title": "au PAY マーケット",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1057461",
+      "url": "/ad_details/1057461/",
+      "title": "(213件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "55744",
+      "url": "/ad_details/55744/",
+      "title": "Qoo10",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "55744",
+      "url": "/ad_details/55744/",
+      "title": "(87件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "100057",
+      "url": "/ad_details/100057/",
+      "title": "セブンネットショッピング",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "100057",
+      "url": "/ad_details/100057/",
+      "title": "(39件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "50400",
+      "url": "/ad_details/50400/",
+      "title": "高島屋",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "50400",
+      "url": "/ad_details/50400/",
+      "title": "(11件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1529826",
+      "url": "/ad_details/1529826/",
+      "title": "タカシマヤファッションスクエア",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1529826",
+      "url": "/ad_details/1529826/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "67032",
+      "url": "/ad_details/67032/",
+      "title": "京王百貨店",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "67032",
+      "url": "/ad_details/67032/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1154526",
+      "url": "/ad_details/1154526/",
+      "title": "大丸松坂屋オンラインストア",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1154526",
+      "url": "/ad_details/1154526/",
+      "title": "(8件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "112424",
+      "url": "/ad_details/112424/",
+      "title": "三越伊勢丹オンラインストア",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "112424",
+      "url": "/ad_details/112424/",
+      "title": "(2件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1029923",
+      "url": "/ad_details/1029923/",
+      "title": "ふるさと納税 ふるなび",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1029923",
+      "url": "/ad_details/1029923/",
+      "title": "(8件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "50845",
+      "url": "/ad_details/50845/",
+      "title": "小田急オンラインショッピング",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "50845",
+      "url": "/ad_details/50845/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1655378",
+      "url": "/ad_details/1655378/",
+      "title": "【さとふる】ふるさと納税サイト",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1655378",
+      "url": "/ad_details/1655378/",
+      "title": "(30件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1701350",
+      "url": "/ad_details/1701350/",
+      "title": "ANAのふるさと納税",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1701350",
+      "url": "/ad_details/1701350/",
+      "title": "(5件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1809942",
+      "url": "/ad_details/1809942/",
+      "title": "セゾンのふるさと納税",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1758818",
+      "url": "/ad_details/1758818/",
+      "title": "マイナビふるさと納税",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1758818",
+      "url": "/ad_details/1758818/",
+      "title": "(4件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1696723",
+      "url": "/ad_details/1696723/",
+      "title": "ふるさと納税ニッポン",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1729087",
+      "url": "/ad_details/1729087/",
+      "title": "ふるさと納税 ふるラボ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1729087",
+      "url": "/ad_details/1729087/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1813907",
+      "url": "/ad_details/1813907/",
+      "title": "マルイウェブチャネル",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1813907",
+      "url": "/ad_details/1813907/",
+      "title": "(3件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "32767",
+      "url": "/ad_details/32767/",
+      "title": "e-CAPCOM（イーカプコン）",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1808125",
+      "url": "/ad_details/1808125/",
+      "title": "ホームセンター通販 DCMオンライン",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1712114",
+      "url": "/ad_details/1712114/",
+      "title": "cui-cui",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1826880",
+      "url": "/ad_details/1826880/",
+      "title": "日本直販",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1708743",
+      "url": "/ad_details/1708743/",
+      "title": "ヨリヤス",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1704161",
+      "url": "/ad_details/1704161/",
+      "title": "浜名湖産直マーケット",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1701509",
+      "url": "/ad_details/1701509/",
+      "title": "クラウドファンディング「READYFOR」",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1693423",
+      "url": "/ad_details/1693423/",
+      "title": "タニタオンラインショップ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1809781",
+      "url": "/ad_details/1809781/",
+      "title": "メルカリ【購入】-アプリ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1809781",
+      "url": "/ad_details/1809781/",
+      "title": "(12件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1837161",
+      "url": "/ad_details/1837161/",
+      "title": "Wish(ウィッシュ)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:39.883Z"
+    },
+    {
+      "id": "1691835",
+      "url": "/ad_details/1691835/",
+      "title": "よろずやマルシェ本店",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1688779",
+      "url": "/ad_details/1688779/",
+      "title": "建材通販【アウンワークス】",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1682440",
+      "url": "/ad_details/1682440/",
+      "title": "HAPPY DOG・HAPPY CAT",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1679542",
+      "url": "/ad_details/1679542/",
+      "title": "ブレイズスマートEV",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1679540",
+      "url": "/ad_details/1679540/",
+      "title": "オンリースタイルUPS搭載リチウム蓄電池セット",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1791754",
+      "url": "/ad_details/1791754/",
+      "title": "【1回目利用の方】Green Beans（グリーンビーンズ）",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1791754",
+      "url": "/ad_details/1791754/",
+      "title": "(4件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1792167",
+      "url": "/ad_details/1792167/",
+      "title": "お取寄せ専門サイト【おとなの週末】",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1791702",
+      "url": "/ad_details/1791702/",
+      "title": "食べチョクふるさと納税",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1819679",
+      "url": "/ad_details/1819679/",
+      "title": "九州ふるさと納税",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1784191",
+      "url": "/ad_details/1784191/",
+      "title": "JRE MALLふるさと納税",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1784191",
+      "url": "/ad_details/1784191/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1780335",
+      "url": "/ad_details/1780335/",
+      "title": "ふるさとパレット",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1776402",
+      "url": "/ad_details/1776402/",
+      "title": "AliExpress（アリエクスプレス）【その他カテゴリ専用】",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1820115",
+      "url": "/ad_details/1820115/",
+      "title": "ココデカウ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1770503",
+      "url": "/ad_details/1770503/",
+      "title": "東武オンラインショップ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1752831",
+      "url": "/ad_details/1752831/",
+      "title": "公式通販【ダイソーネットストア】",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1752831",
+      "url": "/ad_details/1752831/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1696073",
+      "url": "/ad_details/1696073/",
+      "title": "ハーモニック",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1397296",
+      "url": "/ad_details/1397296/",
+      "title": "サニーヘルスショッピング",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1397296",
+      "url": "/ad_details/1397296/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1021914",
+      "url": "/ad_details/1021914/",
+      "title": "ロフトネットストア",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1021914",
+      "url": "/ad_details/1021914/",
+      "title": "(2件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "89854",
+      "url": "/ad_details/89854/",
+      "title": "ヤマダモール",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "99315",
+      "url": "/ad_details/99315/",
+      "title": "ココナラ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "99315",
+      "url": "/ad_details/99315/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1812731",
+      "url": "/ad_details/1812731/",
+      "title": "まいふる by AEON CARD",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1603765",
+      "url": "/ad_details/1603765/",
+      "title": "日テレポシュレ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1603765",
+      "url": "/ad_details/1603765/",
+      "title": "(1件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "100017",
+      "url": "/ad_details/100017/",
+      "title": "ベルメゾンネット",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "100017",
+      "url": "/ad_details/100017/",
+      "title": "(18件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "100039",
+      "url": "/ad_details/100039/",
+      "title": "セシール",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "100039",
+      "url": "/ad_details/100039/",
+      "title": "(14件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1050021",
+      "url": "/ad_details/1050021/",
+      "title": "ベルーナ（初回購入限定）",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1050021",
+      "url": "/ad_details/1050021/",
+      "title": "(4件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1061330",
+      "url": "/ad_details/1061330/",
+      "title": "ディノス オンラインショップ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1061330",
+      "url": "/ad_details/1061330/",
+      "title": "(5件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1110351",
+      "url": "/ad_details/1110351/",
+      "title": "フェリシモ（FELISSIMO）",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1110351",
+      "url": "/ad_details/1110351/",
+      "title": "(4件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "57747",
+      "url": "/ad_details/57747/",
+      "title": "フェリシモ（定期便）",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "57747",
+      "url": "/ad_details/57747/",
+      "title": "(2件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "56806",
+      "url": "/ad_details/56806/",
+      "title": "ShopJapan（ショップジャパン）",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "56806",
+      "url": "/ad_details/56806/",
+      "title": "(10件)",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    },
+    {
+      "id": "1602876",
+      "url": "/ad_details/1602876/",
+      "title": "ダイレクトテレショップ",
+      "points": "",
+      "category": "shopping",
+      "categoryName": "総合通販・デパート",
+      "device": "pc",
+      "scrapedAt": "2025-08-04T07:50:50.983Z"
+    }
+  ],
+  "errors": []
+}
