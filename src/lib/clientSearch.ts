@@ -121,6 +121,19 @@ async function loadSearchData(): Promise<SearchData> {
           
           console.log(`✅ データ取得成功: ${data.campaigns.length}件`);
           
+          // metadataが存在しない場合は空のmetadataを作成
+          if (!data.metadata) {
+            console.log('⚠️ metadataが存在しないため、デフォルトを生成');
+            data.metadata = {
+              totalCampaigns: data.campaigns.length,
+              lastUpdated: new Date().toISOString(),
+              categories: {},
+              devices: {},
+              sites: {},
+              popularKeywords: []
+            };
+          }
+          
           searchDataCache = data;
           loadingPromise = null; // 成功したのでPromiseをクリア
           
@@ -291,7 +304,7 @@ export async function clientSearch(options: SearchOptions = {}) {
       success: true,
       data: {
         results: paginatedResults,
-        maxCashback7Days: searchData.metadata.maxCashbackData,
+        maxCashback7Days: searchData.metadata?.maxCashbackData || null,
         totalCount,
         hasMore: offset + limit < totalCount,
         filters: { keyword, osFilter, category, limit, offset, sortBy, sortOrder },
