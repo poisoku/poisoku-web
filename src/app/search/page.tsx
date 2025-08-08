@@ -3,6 +3,7 @@
 import { useSearchParams } from 'next/navigation';
 import { useState, useEffect, Suspense } from 'react';
 import Header from '@/components/Header';
+import { searchCampaigns as staticSearch } from '@/lib/staticSearch';
 
 interface SearchResult {
   id: string;
@@ -33,22 +34,20 @@ function SearchContent() {
 
   useEffect(() => {
     if (query) {
-      searchCampaigns(query, selectedOsFilter);
+      searchCampaignsHandler(query, selectedOsFilter);
     }
   }, [query, selectedOsFilter]);
 
-  const searchCampaigns = async (searchQuery: string, osFilter: string = 'all') => {
+  const searchCampaignsHandler = async (searchQuery: string, osFilter: string = 'all') => {
     setLoading(true);
     try {
-      // 静的検索を使用
-      const { searchCampaigns: staticSearch } = await import('@/lib/staticSearch');
-      
       const result = await staticSearch({
         keyword: searchQuery,
         osFilter: osFilter as any,
         limit: 100,
         offset: 0,
-        sortBy: 'cashback'
+        sortBy: 'cashback',
+        bustCache: true // キャッシュを強制更新
       });
 
       if (!result.success) {
