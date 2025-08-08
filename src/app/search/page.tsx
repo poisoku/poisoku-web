@@ -3,7 +3,7 @@
 import { useSearchParams } from 'next/navigation';
 import { useState, useEffect, Suspense } from 'react';
 import Header from '@/components/Header';
-import { searchCampaigns as staticSearch } from '@/lib/staticSearch';
+import { clientSearch } from '@/lib/clientSearch';
 
 interface SearchResult {
   id: string;
@@ -41,17 +41,21 @@ function SearchContent() {
   const searchCampaignsHandler = async (searchQuery: string, osFilter: string = 'all') => {
     setLoading(true);
     try {
-      const result = await staticSearch({
+      console.log('🔍 検索開始:', { searchQuery, osFilter });
+      
+      // クライアントサイド検索を実行（すべての環境で確実に動作）
+      const result = await clientSearch({
         keyword: searchQuery,
         osFilter: osFilter as any,
         limit: 100,
         offset: 0,
-        sortBy: 'cashback',
-        bustCache: true // キャッシュを強制更新
+        sortBy: 'cashback'
       });
 
+      console.log('📊 検索結果:', result);
+
       if (!result.success) {
-        throw new Error('検索に失敗しました');
+        throw new Error(result.error || '検索に失敗しました');
       }
 
       setResults(result.data.results);
