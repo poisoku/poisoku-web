@@ -73,18 +73,30 @@ async function loadSearchData(): Promise<SearchData> {
     try {
       console.log('🔍 検索データ読み込み開始...');
       
-      // 複数の方法でデータ取得を試行
+      // 複数の方法でデータ取得を試行（静的サイト対応）
       const attempts = [
         // 方法1: 通常のfetch
-        () => fetch('/search-data.json'),
-        // 方法2: キャッシュバスター付きfetch
-        () => fetch(`/search-data.json?_t=${Date.now()}`),
-        // 方法3: API route経由（もし利用可能なら）
-        () => fetch('/api/search?q=test&limit=1').then(res => {
-          if (res.ok) {
-            return fetch('/search-data.json');
+        () => fetch('/search-data.json', {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
           }
-          throw new Error('API route not available');
+        }),
+        // 方法2: キャッシュバスター付きfetch
+        () => fetch(`/search-data.json?_cb=${Date.now()}`, {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'Cache-Control': 'no-cache'
+          }
+        }),
+        // 方法3: 異なるパスでの試行
+        () => fetch(`./search-data.json?t=${Math.random()}`, {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'Cache-Control': 'no-store'
+          }
         })
       ];
 

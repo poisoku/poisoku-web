@@ -4,6 +4,7 @@ import { useSearchParams } from 'next/navigation';
 import { useState, useEffect, Suspense } from 'react';
 import Header from '@/components/Header';
 import { clientSearch } from '@/lib/clientSearch';
+import { testSearchDataAccess } from '@/lib/testSearch';
 
 interface SearchResult {
   id: string;
@@ -42,6 +43,14 @@ function SearchContent() {
     setLoading(true);
     try {
       console.log('🔍 検索開始:', { searchQuery, osFilter });
+      
+      // まず基本的なデータアクセステストを実行
+      const testResult = await testSearchDataAccess();
+      console.log('🧪 テスト結果:', testResult);
+      
+      if (!testResult.success) {
+        throw new Error(`データアクセステスト失敗: ${testResult.error}`);
+      }
       
       // クライアントサイド検索を実行（すべての環境で確実に動作）
       const result = await clientSearch({

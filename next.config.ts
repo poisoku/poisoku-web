@@ -1,8 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // 静的エクスポートではなく、サーバーレス関数を使用してAPI routesを有効化
-  // output: 'export', // 一時的に無効化
+  output: 'export',
   trailingSlash: true,
   images: {
     unoptimized: true
@@ -13,10 +12,6 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  // Vercel環境での最適化
-  experimental: {
-    serverComponentsExternalPackages: ['fs']
-  }
 };
 
 export default nextConfig;
