@@ -1,0 +1,141 @@
+{
+  "analysisTime": "2025-08-06T04:30:23.661Z",
+  "summary": {
+    "totalCategories": 20,
+    "successfulCategories": 0,
+    "failedCategories": 20,
+    "categoryDetails": {
+      "shopping_101": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "総合通販・デパート・ふるさと納税",
+        "type": "shopping"
+      },
+      "shopping_102": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "ファッション・アクセサリー",
+        "type": "shopping"
+      },
+      "shopping_103": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "コスメ・美容・健康",
+        "type": "shopping"
+      },
+      "shopping_104": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "グルメ・食品",
+        "type": "shopping"
+      },
+      "shopping_105": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "家電・パソコン",
+        "type": "shopping"
+      },
+      "shopping_106": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "インテリア・生活用品",
+        "type": "shopping"
+      },
+      "shopping_107": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "ホビー・エンタメ",
+        "type": "shopping"
+      },
+      "shopping_108": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "スポーツ・アウトドア",
+        "type": "shopping"
+      },
+      "shopping_109": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "車・バイク",
+        "type": "shopping"
+      },
+      "shopping_110": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "本・雑誌・コミック",
+        "type": "shopping"
+      },
+      "shopping_111": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "その他ショッピング",
+        "type": "shopping"
+      },
+      "service_101": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "エンタメ・ゲーム",
+        "type": "service"
+      },
+      "service_103": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "資料請求・査定・相談",
+        "type": "service"
+      },
+      "service_104": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "会員登録・メルマガ",
+        "type": "service"
+      },
+      "service_106": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "金融・投資・保険",
+        "type": "service"
+      },
+      "service_107": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "不動産・引越し",
+        "type": "service"
+      },
+      "service_108": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "美容・健康",
+        "type": "service"
+      },
+      "service_109": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "旅行・宿泊",
+        "type": "service"
+      },
+      "service_110": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "通信・プロバイダ",
+        "type": "service"
+      },
+      "service_111": {
+        "status": "error",
+        "error": "Cannot read properties of null (reading 'newPage')",
+        "category": "その他サービス",
+        "type": "service"
+      }
+    },
+    "estimatedTotalCampaigns": 0
+  },
+  "recommendations": {
+    "currentCoverage": "0/20 categories",
+    "estimatedMissingCampaigns": -664,
+    "nextActions": [
+      "Wait 1-2 hours and retry blocked categories",
+      "Use longer delays between requests",
+      "Consider proxy/VPN for IP rotation",
+      "Implement staged execution approach"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "executionTime": "2025-08-06T03:10:25.277Z",
+  "stats": {
+    "startTime": "2025-08-06T03:07:44.589Z",
+    "endTime": null,
+    "totalCampaigns": 638,
+    "duplicatesRemoved": 2,
+    "categories": {
+      "shopping": 640,
+      "service": 0,
+      "mobileApp": 0
+    }
+  },
+  "dataQuality": {
+    "validCampaigns": 638,
+    "totalCampaigns": 638,
+    "successRate": "100.00%"
+  },
+  "categoryBreakdown": {
+    "shopping": 640,
+    "service": 0,
+    "mobileApp": 0
+  }
+}

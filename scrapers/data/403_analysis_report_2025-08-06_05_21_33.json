@@ -1,0 +1,124 @@
+{
+  "analysisTime": "2025-08-06T05:21:33.878Z",
+  "summary": {
+    "primaryIssues": 3,
+    "totalRecommendations": 7,
+    "immediateActions": 2
+  },
+  "patterns": [
+    {
+      "pattern": "⏰ 実行時間帯",
+      "description": "日中（12-16時）の実行で403エラー多発",
+      "evidence": "成功：早朝4時実行、失敗：日中実行",
+      "likelihood": "high"
+    },
+    {
+      "pattern": "🔄 連続アクセス",
+      "description": "短時間での大量カテゴリアクセス",
+      "evidence": "20カテゴリを短時間で連続アクセス",
+      "likelihood": "high"
+    },
+    {
+      "pattern": "🎭 User-Agent検証",
+      "description": "同一UAでの継続アクセス検知",
+      "evidence": "固定UAでの長時間セッション",
+      "likelihood": "medium"
+    },
+    {
+      "pattern": "📊 アクセス頻度",
+      "description": "1時間以内での総アクセス数制限",
+      "evidence": "成功時は5カテゴリのみ、失敗時は20カテゴリ",
+      "likelihood": "high"
+    },
+    {
+      "pattern": "🌐 IP制限",
+      "description": "同一IPからの過度なアクセス",
+      "evidence": "時間経過での回復パターン",
+      "likelihood": "medium"
+    },
+    {
+      "pattern": "📱 デバイス偽装検知",
+      "description": "ヘッドレスブラウザ検知機能",
+      "evidence": "Puppeteerパターンマッチング",
+      "likelihood": "low"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "immediate",
+      "title": "🕐 実行時間の最適化",
+      "actions": [
+        "夜間・早朝（22:00-6:00）での実行",
+        "営業時間外の batch job 化",
+        "cron設定での定時実行（深夜2-4時）"
+      ]
+    },
+    {
+      "priority": "immediate",
+      "title": "⏳ アクセス間隔の拡大",
+      "actions": [
+        "基本待機時間: 15-30秒",
+        "ランダム要素: 10-20秒追加",
+        "カテゴリ間待機: 60-120秒"
+      ]
+    },
+    {
+      "priority": "high",
+      "title": "🔄 セッション管理改善",
+      "actions": [
+        "3-5リクエスト毎にブラウザ再起動",
+        "Cookie・キャッシュクリア",
+        "セッションID更新"
+      ]
+    },
+    {
+      "priority": "high",
+      "title": "📅 段階実行アプローチ",
+      "actions": [
+        "日次5カテゴリずつ実行",
+        "週次での全カテゴリ完了",
+        "カテゴリ優先度による段階化"
+      ]
+    },
+    {
+      "priority": "medium",
+      "title": "🎭 User-Agent分散",
+      "actions": [
+        "リクエスト毎にUA変更",
+        "Chrome/Firefox/Safari混合使用",
+        "バージョン番号のランダム化"
+      ]
+    },
+    {
+      "priority": "medium",
+      "title": "🌐 IP分散・プロキシ活用",
+      "actions": [
+        "複数プロキシサーバー使用",
+        "VPN活用での地理分散",
+        "residential proxy 検討"
+      ]
+    },
+    {
+      "priority": "low",
+      "title": "🔍 リアルタイム監視",
+      "actions": [
+        "403エラー検知での即座停止",
+        "アラート機能追加",
+        "自動復旧メカニズム"
+      ]
+    }
+  ],
+  "timings": [
+    {
+      "type": "successful_run",
+      "duration": 260.751,
+      "categories": 5,
+      "totalCampaigns": 664
+    }
+  ],
+  "conclusions": {
+    "mainCause": "Time-based access restrictions and rapid consecutive requests",
+    "bestPractice": "Nighttime execution with extended delays between requests",
+    "expectedImprovement": "90% reduction in 403 errors, 2100+ campaigns achievable"
+  }
+}

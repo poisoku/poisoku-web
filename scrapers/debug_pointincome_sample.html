@@ -1,0 +1,61 @@
+
+<div id="all_wrap">
+<script>
+    $(document).ready(function() {
+        var currentPoint = parseInt('');
+        var initPoint = parseInt('');
+
+        // 値チェック
+        if (isNaN(currentPoint) || isNaN(initPoint)) {
+            return;
+        }
+
+        // pt変動してたらアニメーション開始
+        //if( initPoint < currentPoint ){
+        if (initPoint != currentPoint) {
+            $('.pt_count').countTo({
+                from: initPoint, // 初期値
+                to: currentPoint, // 現在のpt数
+                speed: 2000,
+                formatter: function(value, options) { // カンマを追加
+                    value = value.toFixed(options.decimals);
+                    value = value.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+                    return value;
+                },
+                onComplete: function(value) {
+                    //console.log('complete!');
+                }
+            });
+        }
+    });
+</script>
+
+<!-- Google Tag Manager (noscript) #12644 -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KS2BVRS&quot;"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-D60MGKZDDX"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-D60MGKZDDX');
+</script>
+
+<div id="header">
+
+    <div class="head_box clearfix">
+
+        <div id="head"></div><!-- jqueryのモーダルなどで参照している可能性があるため削除不可 -->
+
+        <div id="logo_box" class="clearfix">
+                                <h1 class="header_logo"><a href="/"><img src="/img_new/logo.png" width="211" alt="ショッピングモールの通販・お買い物をポイントでお得に！" title="ショッピングモールの通販・お買い物をポイントでお得に！"></a></h1>
+                                <div class="definition"></div>
+                    </div><!-- logo_box -->
+
+                    <ul id="impo_log

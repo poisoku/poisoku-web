@@ -1,0 +1,75 @@
+{
+  "scrapeDate": "2025-08-05T05:04:44.548Z",
+  "version": "mobile_app_scraper_v1.0.0",
+  "systemType": "mobile_app_os_specific",
+  "targetOS": [
+    "android"
+  ],
+  "sortType": "point",
+  "campaigns": [
+    {
+      "id": "1840933",
+      "title": "MONOPOLY GO!                                     最大",
+      "url": "https://www.chobirich.com/ad_details/1840933",
+      "points": "720pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "android",
+      "scrapedAt": "2025-08-05T05:04:35.559Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841138",
+      "title": "ハローキティ：マイドリームストア                                      最大",
+      "url": "https://www.chobirich.com/ad_details/1841138",
+      "points": "049pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "android",
+      "scrapedAt": "2025-08-05T05:04:35.559Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841255",
+      "title": "ニコニコ漫画 7日連続1話以上読了（Android）",
+      "url": "https://www.chobirich.com/ad_details/1841255",
+      "points": "350pt",
+      "method": "新規アプリインストール後、7日連続1話以上読了で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-05T05:04:35.559Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1808998",
+      "title": "ローソンアプリ（Android）",
+      "url": "https://www.chobirich.com/ad_details/1808998",
+      "points": "120pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "android",
+      "scrapedAt": "2025-08-05T05:04:35.559Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839369",
+      "title": "【独占配信】amood(アムード) - 海外配送も条件なしで送料無料",
+      "url": "https://www.chobirich.com/ad_details/1839369",
+      "points": "49pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "android",
+      "scrapedAt": "2025-08-05T05:04:35.559Z",
+      "source": "mobile_app_scraper"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "ios": 0,
+    "android": 5,
+    "osBreakdown": {
+      "ios": 0,
+      "android": 5
+    }
+  },
+  "performance": {
+    "avgCampaignsPerOS": 5,
+    "successRate": "100%",
+    "errorRate": "0%"
+  }
+}

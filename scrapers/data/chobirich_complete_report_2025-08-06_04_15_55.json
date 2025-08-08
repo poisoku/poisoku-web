@@ -1,0 +1,18 @@
+{
+  "executionTime": "2025-08-06T04:15:55.467Z",
+  "duration": 260.751,
+  "stats": {
+    "startTime": "2025-08-06T04:11:34.715Z",
+    "endTime": "2025-08-06T04:15:55.466Z",
+    "totalCampaigns": 664,
+    "successfulCategories": 5,
+    "failedCategories": 0,
+    "retryAttempts": 0
+  },
+  "dataQuality": {
+    "totalCampaigns": 664,
+    "validCampaigns": 651,
+    "successRate": "98.04%"
+  },
+  "highValueCampaigns": 5
+}

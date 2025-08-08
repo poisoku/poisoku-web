@@ -1,0 +1,197 @@
+{
+  "scrape_date": "2025-08-08T07:07:14.794Z",
+  "stats": {
+    "startTime": "2025-08-08T07:07:11.261Z",
+    "endTime": null,
+    "categoriesProcessed": 1,
+    "pagesProcessed": 0,
+    "duplicatesSkipped": 0,
+    "errors": [],
+    "categoryBreakdown": {
+      "service_69": 20
+    }
+  },
+  "total_campaigns": 20,
+  "campaigns": [
+    {
+      "id": "151959",
+      "title": "積水ハウスLINE公式アカウント友達追加",
+      "url": "https://pointi.jp/ad/151959/",
+      "points": "10円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.755Z"
+    },
+    {
+      "id": "153688",
+      "title": "高速道路の追越車線での危険予測 【クルマ視点】",
+      "url": "https://pointi.jp/ad/153688/",
+      "points": "1円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "153689",
+      "title": "メッシュがクールなアウトドアチェア【アウトドアクイズ】",
+      "url": "https://pointi.jp/ad/153689/",
+      "points": "1円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "153181",
+      "title": "30歳からの恋愛コミュニティ 華の会メール",
+      "url": "https://pointi.jp/ad/153181/",
+      "points": "260円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "138255",
+      "title": "暑中見舞い・残暑見舞いテンプレートBANK 無料会員登録",
+      "url": "https://pointi.jp/ad/138255/",
+      "points": "40円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "153667",
+      "title": "オンライン占い＆メール占いセレーネ会員登録",
+      "url": "https://pointi.jp/ad/153667/",
+      "points": "600円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "153665",
+      "title": "ドクタ－ネイル爪革命の総本店はどこ？【フットケアクイズ】",
+      "url": "https://pointi.jp/ad/153665/",
+      "points": "1円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "153402",
+      "title": "コミック.jp　30日間無料",
+      "url": "https://pointi.jp/ad/153402/",
+      "points": "160円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "147566",
+      "title": "Pontaリサーチ",
+      "url": "https://pointi.jp/ad/147566/",
+      "points": "50円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "149861",
+      "title": "予約BACK 無料会員登録",
+      "url": "https://pointi.jp/ad/149861/",
+      "points": "60円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "150268",
+      "title": "Hulu（フールー）",
+      "url": "https://pointi.jp/ad/150268/",
+      "points": "1,026円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "153543",
+      "title": "小型クーラーボックスの容量【アウトドアクイズ】",
+      "url": "https://pointi.jp/ad/153543/",
+      "points": "1円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "151830",
+      "title": "暮らしのアンケート",
+      "url": "https://pointi.jp/ad/151830/",
+      "points": "30円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "125638",
+      "title": "阪急交通社　無料会員登録",
+      "url": "https://pointi.jp/ad/125638/",
+      "points": "90円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "153479",
+      "title": "住宅地の狭い道での危険予測【バイク編】",
+      "url": "https://pointi.jp/ad/153479/",
+      "points": "1円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "125555",
+      "title": "【即pt】Oh!Ya(オーヤ)無料アンケートキャンペーン",
+      "url": "https://pointi.jp/ad/125555/",
+      "points": "250円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "151817",
+      "title": "【即pt】注文住宅に関するアンケート",
+      "url": "https://pointi.jp/ad/151817/",
+      "points": "50円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "151638",
+      "title": "週刊文春電子版（初月300円/2カ月目以降2200円コース)",
+      "url": "https://pointi.jp/ad/151638/",
+      "points": "300円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "137290",
+      "title": "テンプレートBANK 無料会員登録",
+      "url": "https://pointi.jp/ad/137290/",
+      "points": "15円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    },
+    {
+      "id": "138000",
+      "title": "トラモニ(社会人向けアンケート)",
+      "url": "https://pointi.jp/ad/138000/",
+      "points": "60円",
+      "category_id": 69,
+      "category_type": "service",
+      "timestamp": "2025-08-08T07:07:14.756Z"
+    }
+  ]
+}

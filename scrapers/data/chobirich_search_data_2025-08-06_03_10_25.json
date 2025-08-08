@@ -1,0 +1,5111 @@
+{
+  "site": "chobirich",
+  "lastUpdated": "2025-08-06T03:10:25.275Z",
+  "totalCampaigns": 638,
+  "campaigns": [
+    {
+      "id": "36796",
+      "title": "楽天市場",
+      "url": "https://www.chobirich.com/ad_details/36796/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "41250",
+      "title": "Yahoo!ショッピング",
+      "url": "https://www.chobirich.com/ad_details/41250/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "18999",
+      "title": "amazon（アマゾン）",
+      "url": "https://www.chobirich.com/ad_details/18999/",
+      "points": "",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1057461",
+      "title": "au PAY マーケット",
+      "url": "https://www.chobirich.com/ad_details/1057461/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "55744",
+      "title": "Qoo10",
+      "url": "https://www.chobirich.com/ad_details/55744/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "100057",
+      "title": "セブンネットショッピング",
+      "url": "https://www.chobirich.com/ad_details/100057/",
+      "points": "1.6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "50400",
+      "title": "高島屋",
+      "url": "https://www.chobirich.com/ad_details/50400/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1529826",
+      "title": "タカシマヤファッションスクエア",
+      "url": "https://www.chobirich.com/ad_details/1529826/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "67032",
+      "title": "京王百貨店",
+      "url": "https://www.chobirich.com/ad_details/67032/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1154526",
+      "title": "大丸松坂屋オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1154526/",
+      "points": "1.43%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "112424",
+      "title": "三越伊勢丹オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/112424/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1029923",
+      "title": "ふるさと納税 ふるなび",
+      "url": "https://www.chobirich.com/ad_details/1029923/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "50845",
+      "title": "小田急オンラインショッピング",
+      "url": "https://www.chobirich.com/ad_details/50845/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1655378",
+      "title": "【さとふる】ふるさと納税サイト",
+      "url": "https://www.chobirich.com/ad_details/1655378/",
+      "points": "1.6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1701350",
+      "title": "ANAのふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1701350/",
+      "points": "0.3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1809942",
+      "title": "セゾンのふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1809942/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1758818",
+      "title": "マイナビふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1758818/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1696723",
+      "title": "ふるさと納税ニッポン",
+      "url": "https://www.chobirich.com/ad_details/1696723/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1729087",
+      "title": "ふるさと納税 ふるラボ",
+      "url": "https://www.chobirich.com/ad_details/1729087/",
+      "points": "0.8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1813907",
+      "title": "マルイウェブチャネル",
+      "url": "https://www.chobirich.com/ad_details/1813907/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "32767",
+      "title": "e-CAPCOM（イーカプコン）",
+      "url": "https://www.chobirich.com/ad_details/32767/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1808125",
+      "title": "ホームセンター通販 DCMオンライン",
+      "url": "https://www.chobirich.com/ad_details/1808125/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1712114",
+      "title": "cui-cui",
+      "url": "https://www.chobirich.com/ad_details/1712114/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826880",
+      "title": "日本直販",
+      "url": "https://www.chobirich.com/ad_details/1826880/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1708743",
+      "title": "ヨリヤス",
+      "url": "https://www.chobirich.com/ad_details/1708743/",
+      "points": "",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1704161",
+      "title": "浜名湖産直マーケット",
+      "url": "https://www.chobirich.com/ad_details/1704161/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1701509",
+      "title": "クラウドファンディング「READYFOR」",
+      "url": "https://www.chobirich.com/ad_details/1701509/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693423",
+      "title": "タニタオンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1693423/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1809781",
+      "title": "メルカリ【購入】-アプリ",
+      "url": "https://www.chobirich.com/ad_details/1809781/",
+      "points": "0.1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1837161",
+      "title": "Wish(ウィッシュ)",
+      "url": "https://www.chobirich.com/ad_details/1837161/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1691835",
+      "title": "よろずやマルシェ本店",
+      "url": "https://www.chobirich.com/ad_details/1691835/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688779",
+      "title": "建材通販【アウンワークス】",
+      "url": "https://www.chobirich.com/ad_details/1688779/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682440",
+      "title": "HAPPY DOG・HAPPY CAT",
+      "url": "https://www.chobirich.com/ad_details/1682440/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1679542",
+      "title": "ブレイズスマートEV",
+      "url": "https://www.chobirich.com/ad_details/1679542/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1679540",
+      "title": "オンリースタイルUPS搭載リチウム蓄電池セット",
+      "url": "https://www.chobirich.com/ad_details/1679540/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1791754",
+      "title": "【1回目利用の方】Green Beans（グリーンビーンズ）",
+      "url": "https://www.chobirich.com/ad_details/1791754/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1792167",
+      "title": "お取寄せ専門サイト【おとなの週末】",
+      "url": "https://www.chobirich.com/ad_details/1792167/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1791702",
+      "title": "食べチョクふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1791702/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1819679",
+      "title": "九州ふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1819679/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1784191",
+      "title": "JRE MALLふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1784191/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1780335",
+      "title": "ふるさとパレット",
+      "url": "https://www.chobirich.com/ad_details/1780335/",
+      "points": "0.7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1776402",
+      "title": "AliExpress（アリエクスプレス）【その他カテゴリ専用】",
+      "url": "https://www.chobirich.com/ad_details/1776402/",
+      "points": "3.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1820115",
+      "title": "ココデカウ",
+      "url": "https://www.chobirich.com/ad_details/1820115/",
+      "points": "0.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1770503",
+      "title": "東武オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1770503/",
+      "points": "0.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1752831",
+      "title": "公式通販【ダイソーネットストア】",
+      "url": "https://www.chobirich.com/ad_details/1752831/",
+      "points": "3.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1696073",
+      "title": "ハーモニック",
+      "url": "https://www.chobirich.com/ad_details/1696073/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1397296",
+      "title": "サニーヘルスショッピング",
+      "url": "https://www.chobirich.com/ad_details/1397296/",
+      "points": "9.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1021914",
+      "title": "ロフトネットストア",
+      "url": "https://www.chobirich.com/ad_details/1021914/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "89854",
+      "title": "ヤマダモール",
+      "url": "https://www.chobirich.com/ad_details/89854/",
+      "points": "0.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "99315",
+      "title": "ココナラ",
+      "url": "https://www.chobirich.com/ad_details/99315/",
+      "points": "250pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1812731",
+      "title": "まいふる by AEON CARD",
+      "url": "https://www.chobirich.com/ad_details/1812731/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1603765",
+      "title": "日テレポシュレ",
+      "url": "https://www.chobirich.com/ad_details/1603765/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "100017",
+      "title": "ベルメゾンネット",
+      "url": "https://www.chobirich.com/ad_details/100017/",
+      "points": "0.8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "100039",
+      "title": "セシール",
+      "url": "https://www.chobirich.com/ad_details/100039/",
+      "points": "1.8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1050021",
+      "title": "ベルーナ（初回購入限定）",
+      "url": "https://www.chobirich.com/ad_details/1050021/",
+      "points": "1,400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1061330",
+      "title": "ディノス オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1061330/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1110351",
+      "title": "フェリシモ（FELISSIMO）",
+      "url": "https://www.chobirich.com/ad_details/1110351/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "57747",
+      "title": "フェリシモ（定期便）",
+      "url": "https://www.chobirich.com/ad_details/57747/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "56806",
+      "title": "ShopJapan（ショップジャパン）",
+      "url": "https://www.chobirich.com/ad_details/56806/",
+      "points": "12％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1602876",
+      "title": "ダイレクトテレショップ",
+      "url": "https://www.chobirich.com/ad_details/1602876/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "25657",
+      "title": "TBSショッピング",
+      "url": "https://www.chobirich.com/ad_details/25657/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "37031",
+      "title": "Ropping（ロッピング）",
+      "url": "https://www.chobirich.com/ad_details/37031/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "52923",
+      "title": "トーカ堂 テレビショッピング",
+      "url": "https://www.chobirich.com/ad_details/52923/",
+      "points": "1.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1021974",
+      "title": "快適生活オンライン",
+      "url": "https://www.chobirich.com/ad_details/1021974/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1053348",
+      "title": "LACOSTE （ラコステ）",
+      "url": "https://www.chobirich.com/ad_details/1053348/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "57209",
+      "title": "楽天トラベル（宿泊予約）",
+      "url": "https://www.chobirich.com/ad_details/57209/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "54288",
+      "title": "じゃらんnet",
+      "url": "https://www.chobirich.com/ad_details/54288/",
+      "points": "1.6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "94141",
+      "title": "ホテルズドットコム（Hotels.com）",
+      "url": "https://www.chobirich.com/ad_details/94141/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1011176",
+      "title": "世界最大の宿泊予約サイト【Booking.com】",
+      "url": "https://www.chobirich.com/ad_details/1011176/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "62448",
+      "title": "アゴダ（agoda）",
+      "url": "https://www.chobirich.com/ad_details/62448/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "71412",
+      "title": "エクスペディア【Expedia Japan】（宿泊予約）",
+      "url": "https://www.chobirich.com/ad_details/71412/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1763102",
+      "title": "エクスペディア【Expedia Japan】（航空券購入）",
+      "url": "https://www.chobirich.com/ad_details/1763102/",
+      "points": "95pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1763103",
+      "title": "エクスペディア【Expedia Japan】（航空券＋宿泊予約）",
+      "url": "https://www.chobirich.com/ad_details/1763103/",
+      "points": "1.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "29828",
+      "title": "HIS",
+      "url": "https://www.chobirich.com/ad_details/29828/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1654620",
+      "title": "楽天トラベル（ANA楽パック・JAL楽パック）",
+      "url": "https://www.chobirich.com/ad_details/1654620/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1654621",
+      "title": "楽天トラベル（バス旅行）",
+      "url": "https://www.chobirich.com/ad_details/1654621/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "54015",
+      "title": "楽天トラベル（レンタカー）",
+      "url": "https://www.chobirich.com/ad_details/54015/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1768272",
+      "title": "楽天トラベル観光体験",
+      "url": "https://www.chobirich.com/ad_details/1768272/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1815441",
+      "title": "トリバゴ",
+      "url": "https://www.chobirich.com/ad_details/1815441/",
+      "points": "",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1017273",
+      "title": "じゃらん 遊び・体験予約",
+      "url": "https://www.chobirich.com/ad_details/1017273/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "114696",
+      "title": "じゃらんレンタカー",
+      "url": "https://www.chobirich.com/ad_details/114696/",
+      "points": "250pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "14493",
+      "title": "ニッポンレンタカー",
+      "url": "https://www.chobirich.com/ad_details/14493/",
+      "points": "440pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "24336",
+      "title": "ANAトラベラーズ",
+      "url": "https://www.chobirich.com/ad_details/24336/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "56609",
+      "title": "るるぶトラベル",
+      "url": "https://www.chobirich.com/ad_details/56609/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1015447",
+      "title": "びゅうトラベル（えきねっと JR東日本国内ツアー）",
+      "url": "https://www.chobirich.com/ad_details/1015447/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1182004",
+      "title": "格安航空券サイト　エアトリ【国内航空券予約】",
+      "url": "https://www.chobirich.com/ad_details/1182004/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1840459",
+      "title": "【イオンコンパストラベルモール】国内宿泊（宿・ホテル）",
+      "url": "https://www.chobirich.com/ad_details/1840459/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1840462",
+      "title": "【イオンコンパストラベルモール】全国レンタカー",
+      "url": "https://www.chobirich.com/ad_details/1840462/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "29318",
+      "title": "JAL 日本航空 国内線航空券",
+      "url": "https://www.chobirich.com/ad_details/29318/",
+      "points": "80pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1010088",
+      "title": "近畿日本ツーリスト（国内宿泊・ツアー）",
+      "url": "https://www.chobirich.com/ad_details/1010088/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "54229",
+      "title": "ジャルパック 国内ツアー",
+      "url": "https://www.chobirich.com/ad_details/54229/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "57752",
+      "title": "ジャルパック 海外ツアー",
+      "url": "https://www.chobirich.com/ad_details/57752/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1045501",
+      "title": "JAL 日本航空 国際線航空券",
+      "url": "https://www.chobirich.com/ad_details/1045501/",
+      "points": "0.25％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1068659",
+      "title": "国内外の旅行予約サイト「ホワイト・ベアーファミリー」",
+      "url": "https://www.chobirich.com/ad_details/1068659/",
+      "points": "1.3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1830896",
+      "title": "Traveloka（旅行アクティビティ）",
+      "url": "https://www.chobirich.com/ad_details/1830896/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1830895",
+      "title": "Traveloka（ホテル）",
+      "url": "https://www.chobirich.com/ad_details/1830895/",
+      "points": "6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1830894",
+      "title": "Traveloka（国際線）",
+      "url": "https://www.chobirich.com/ad_details/1830894/",
+      "points": "0.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1830893",
+      "title": "Traveloka（国内線）",
+      "url": "https://www.chobirich.com/ad_details/1830893/",
+      "points": "0.2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1838903",
+      "title": "たびらいアクティビティ",
+      "url": "https://www.chobirich.com/ad_details/1838903/",
+      "points": "360pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1835975",
+      "title": "リゾートグランピングドットコム",
+      "url": "https://www.chobirich.com/ad_details/1835975/",
+      "points": "0.8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "54240",
+      "title": "【JTB】海外旅行",
+      "url": "https://www.chobirich.com/ad_details/54240/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1828424",
+      "title": "NEWT（ニュート）",
+      "url": "https://www.chobirich.com/ad_details/1828424/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1154539",
+      "title": "ALL - Accor Live Limitless",
+      "url": "https://www.chobirich.com/ad_details/1154539/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1014257",
+      "title": "Solaseed Air（ソラシドエア）",
+      "url": "https://www.chobirich.com/ad_details/1014257/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "99521",
+      "title": "クラブツーリズム（バス旅行）",
+      "url": "https://www.chobirich.com/ad_details/99521/",
+      "points": "600pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "99520",
+      "title": "クラブツーリズム（国内旅行）",
+      "url": "https://www.chobirich.com/ad_details/99520/",
+      "points": "600pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814583",
+      "title": "【東武トップツアーズ】国内ツアー・国内宿泊予約",
+      "url": "https://www.chobirich.com/ad_details/1814583/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1710250",
+      "title": "ティークエスト",
+      "url": "https://www.chobirich.com/ad_details/1710250/",
+      "points": "600pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1815174",
+      "title": "Trip.com（ホテル・宿）",
+      "url": "https://www.chobirich.com/ad_details/1815174/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "54243",
+      "title": "【JTB】国内宿泊予約・国内ツアー",
+      "url": "https://www.chobirich.com/ad_details/54243/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1815368",
+      "title": "Trip.com（航空券）",
+      "url": "https://www.chobirich.com/ad_details/1815368/",
+      "points": "0.8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1815370",
+      "title": "Trip.com（航空券＋ホテル）",
+      "url": "https://www.chobirich.com/ad_details/1815370/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1829108",
+      "title": "Trip.com（遊び・体験）",
+      "url": "https://www.chobirich.com/ad_details/1829108/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1702279",
+      "title": "夜行バス・高速バスの予約サイト【バスブックマーク】",
+      "url": "https://www.chobirich.com/ad_details/1702279/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1827713",
+      "title": "高速バスドットコム",
+      "url": "https://www.chobirich.com/ad_details/1827713/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693359",
+      "title": "羽田空港公式通販サイト",
+      "url": "https://www.chobirich.com/ad_details/1693359/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1689708",
+      "title": "ミルキーウェイエクスプレス",
+      "url": "https://www.chobirich.com/ad_details/1689708/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1825714",
+      "title": "Mochi Mochi Tour【国内航空券＋ホテル予約】",
+      "url": "https://www.chobirich.com/ad_details/1825714/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688327",
+      "title": "ゆめやど",
+      "url": "https://www.chobirich.com/ad_details/1688327/",
+      "points": "6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686139",
+      "title": "JAMJAMライナー&JAMJAMツアー",
+      "url": "https://www.chobirich.com/ad_details/1686139/",
+      "points": "1.3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682196",
+      "title": "全国フェリー予約【スカイチケットフェリー】",
+      "url": "https://www.chobirich.com/ad_details/1682196/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1680709",
+      "title": "高速バス・夜行バスの格安予約【バスのる】",
+      "url": "https://www.chobirich.com/ad_details/1680709/",
+      "points": "2.55%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "90009",
+      "title": "【ena（イーナ）】国内航空券予約",
+      "url": "https://www.chobirich.com/ad_details/90009/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1676791",
+      "title": "IHG ホテルズ＆リゾート",
+      "url": "https://www.chobirich.com/ad_details/1676791/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1678786",
+      "title": "【KiPuRu】全国の新幹線・特急券をネットで簡単予約",
+      "url": "https://www.chobirich.com/ad_details/1678786/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1800515",
+      "title": "海外航空券＋海外ホテルの予約なら【エアトリプラス】",
+      "url": "https://www.chobirich.com/ad_details/1800515/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1832141",
+      "title": "エアトリ新幹線",
+      "url": "https://www.chobirich.com/ad_details/1832141/",
+      "points": "300pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1797048",
+      "title": "エアトリ高速バス",
+      "url": "https://www.chobirich.com/ad_details/1797048/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1791841",
+      "title": "Yahoo!トラベル「ヤフーパック（宿泊＋航空券）JAL便利用」",
+      "url": "https://www.chobirich.com/ad_details/1791841/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1794261",
+      "title": "SPRING JAPAN",
+      "url": "https://www.chobirich.com/ad_details/1794261/",
+      "points": "1.6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1794141",
+      "title": "sumyca",
+      "url": "https://www.chobirich.com/ad_details/1794141/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790406",
+      "title": "【レンタカー】Jcation-ジェイケーション",
+      "url": "https://www.chobirich.com/ad_details/1790406/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790402",
+      "title": "【ホテル・旅館】Jcation-ジェイケーション",
+      "url": "https://www.chobirich.com/ad_details/1790402/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790400",
+      "title": "【国内パックツアー】Jcation-ジェイケーション",
+      "url": "https://www.chobirich.com/ad_details/1790400/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1779111",
+      "title": "【Klook】クルック",
+      "url": "https://www.chobirich.com/ad_details/1779111/",
+      "points": "6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1778450",
+      "title": "JR新幹線・特急のチケットを自宅にお届け！【NAVITIME Travel】",
+      "url": "https://www.chobirich.com/ad_details/1778450/",
+      "points": "500pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1771380",
+      "title": "ビッグホリデー【国内旅行】",
+      "url": "https://www.chobirich.com/ad_details/1771380/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1765390",
+      "title": "ハローアクティビティ",
+      "url": "https://www.chobirich.com/ad_details/1765390/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1762025",
+      "title": "エアトリレンタカー",
+      "url": "https://www.chobirich.com/ad_details/1762025/",
+      "points": "420pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1754240",
+      "title": "エアトリ【国内ホテル予約】",
+      "url": "https://www.chobirich.com/ad_details/1754240/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1819971",
+      "title": "GetYourGuide",
+      "url": "https://www.chobirich.com/ad_details/1819971/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1812838",
+      "title": "トラベリスト（海外格安航空券）",
+      "url": "https://www.chobirich.com/ad_details/1812838/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1810680",
+      "title": "ホテリア お得なホテル予約",
+      "url": "https://www.chobirich.com/ad_details/1810680/",
+      "points": "1.2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1717258",
+      "title": "ジャパンキャンピングカーレンタルセンター",
+      "url": "https://www.chobirich.com/ad_details/1717258/",
+      "points": "1,500pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1710309",
+      "title": "NAVITIME Travel",
+      "url": "https://www.chobirich.com/ad_details/1710309/",
+      "points": "1,200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1324145",
+      "title": "【J-TRIP】国内旅行のジェイトリップツアー",
+      "url": "https://www.chobirich.com/ad_details/1324145/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1824204",
+      "title": "トラベリスト（国内ホテル・旅館）",
+      "url": "https://www.chobirich.com/ad_details/1824204/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1825638",
+      "title": "トラベリスト（国内航空券+ホテル）",
+      "url": "https://www.chobirich.com/ad_details/1825638/",
+      "points": "9,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1017820",
+      "title": "トラベリスト（国内格安航空券）",
+      "url": "https://www.chobirich.com/ad_details/1017820/",
+      "points": "6,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "103543",
+      "title": "VELTRA（ベルトラ）",
+      "url": "https://www.chobirich.com/ad_details/103543/",
+      "points": "4.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1655219",
+      "title": "エアトリプラス【国内航空券+国内ホテル予約】",
+      "url": "https://www.chobirich.com/ad_details/1655219/",
+      "points": "2,070pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1364828",
+      "title": "【何度でも獲得可】ソラハピ（国内航空券予約）",
+      "url": "https://www.chobirich.com/ad_details/1364828/",
+      "points": "5,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1071111",
+      "title": "スカイチケットレンタカー",
+      "url": "https://www.chobirich.com/ad_details/1071111/",
+      "points": "1.1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1030202",
+      "title": "小田急トラベル",
+      "url": "https://www.chobirich.com/ad_details/1030202/",
+      "points": "1.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1828310",
+      "title": "長野県白樺湖のリゾートホテル",
+      "url": "https://www.chobirich.com/ad_details/1828310/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1201663",
+      "title": "JALで行く、格安国内旅行なら【ニーズツアー】！",
+      "url": "https://www.chobirich.com/ad_details/1201663/",
+      "points": "1,400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "51281",
+      "title": "日本旅行（JR＋宿泊／国内ツアー成約）",
+      "url": "https://www.chobirich.com/ad_details/51281/",
+      "points": "1,211pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1757560",
+      "title": "日本旅行（国内パッケージ／日帰りJR）",
+      "url": "https://www.chobirich.com/ad_details/1757560/",
+      "points": "1.50%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1757563",
+      "title": "日本旅行（国内宿泊成約）",
+      "url": "https://www.chobirich.com/ad_details/1757563/",
+      "points": "908pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1757564",
+      "title": "日本旅行（海外ツアー成約）",
+      "url": "https://www.chobirich.com/ad_details/1757564/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1005859",
+      "title": "OZmall",
+      "url": "https://www.chobirich.com/ad_details/1005859/",
+      "points": "500pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1022838",
+      "title": "Relux",
+      "url": "https://www.chobirich.com/ad_details/1022838/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1806942",
+      "title": "トルコ専門旅行会社【ターキッシュエア＆トラベル】",
+      "url": "https://www.chobirich.com/ad_details/1806942/",
+      "points": "10,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "51225",
+      "title": "ゆこゆこネット",
+      "url": "https://www.chobirich.com/ad_details/51225/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "99522",
+      "title": "クラブツーリズム（海外旅行）",
+      "url": "https://www.chobirich.com/ad_details/99522/",
+      "points": "600pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1070041",
+      "title": "HOSTELWORLD",
+      "url": "https://www.chobirich.com/ad_details/1070041/",
+      "points": "12.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1642956",
+      "title": "R&Y Rental",
+      "url": "https://www.chobirich.com/ad_details/1642956/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1034247",
+      "title": "Surprice （サプライス）",
+      "url": "https://www.chobirich.com/ad_details/1034247/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1803704",
+      "title": "リアルチケット",
+      "url": "https://www.chobirich.com/ad_details/1803704/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1209942",
+      "title": "格安航空券モール",
+      "url": "https://www.chobirich.com/ad_details/1209942/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1125154",
+      "title": "Qatar Airways",
+      "url": "https://www.chobirich.com/ad_details/1125154/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1009691",
+      "title": "asoview!（アソビュー）",
+      "url": "https://www.chobirich.com/ad_details/1009691/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1066092",
+      "title": "たびらいレンタカー予約",
+      "url": "https://www.chobirich.com/ad_details/1066092/",
+      "points": "340pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1017752",
+      "title": "全国レンタカー最安値比較・予約 レンナビ",
+      "url": "https://www.chobirich.com/ad_details/1017752/",
+      "points": "300pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "59207",
+      "title": "スカイレンタカー",
+      "url": "https://www.chobirich.com/ad_details/59207/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686021",
+      "title": "Rakuten Oyado",
+      "url": "https://www.chobirich.com/ad_details/1686021/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1014253",
+      "title": "ACE ONLINESTORE",
+      "url": "https://www.chobirich.com/ad_details/1014253/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1667808",
+      "title": "アクティビティジャパン",
+      "url": "https://www.chobirich.com/ad_details/1667808/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "77308",
+      "title": "DHCオンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/77308/",
+      "points": "0.8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "28105",
+      "title": "ファンケルオンライン",
+      "url": "https://www.chobirich.com/ad_details/28105/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1700157",
+      "title": "イオンボディオンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1700157/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "55324",
+      "title": "オルビス",
+      "url": "https://www.chobirich.com/ad_details/55324/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "44121",
+      "title": "@cosme shopping（アットコスメ ショッピング）",
+      "url": "https://www.chobirich.com/ad_details/44121/",
+      "points": "2.7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1727445",
+      "title": "パーフェクティング シールド サンプロテクター",
+      "url": "https://www.chobirich.com/ad_details/1727445/",
+      "points": "6,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1672892",
+      "title": "コスメティックタイムズ",
+      "url": "https://www.chobirich.com/ad_details/1672892/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1723765",
+      "title": "【ファンケル】ディープクリア洗顔パウダー 毛穴ごっそり酵素洗顔セット【マイルドクレンジングオイル付き】",
+      "url": "https://www.chobirich.com/ad_details/1723765/",
+      "points": "690pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688446",
+      "title": "ミラブルプラス（tocohana project 株式会社）",
+      "url": "https://www.chobirich.com/ad_details/1688446/",
+      "points": "6,593pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1035274",
+      "title": "【オルビス】クリアフル トライアルセット",
+      "url": "https://www.chobirich.com/ad_details/1035274/",
+      "points": "356pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1029157",
+      "title": "【ファンケル】マイルドクレンジングオイル",
+      "url": "https://www.chobirich.com/ad_details/1029157/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "47954",
+      "title": "ロクシタンオンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/47954/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693600",
+      "title": "SIXPAD（シックスパッド）",
+      "url": "https://www.chobirich.com/ad_details/1693600/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693601",
+      "title": "ReFa（リファ）",
+      "url": "https://www.chobirich.com/ad_details/1693601/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1117859",
+      "title": "ナチュラルセレクトショップ　「コスメキッチン」",
+      "url": "https://www.chobirich.com/ad_details/1117859/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1140007",
+      "title": "Biople",
+      "url": "https://www.chobirich.com/ad_details/1140007/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "44120",
+      "title": "HABA",
+      "url": "https://www.chobirich.com/ad_details/44120/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "67875",
+      "title": "イヴ・サンローラン・ボーテ公式オンラインブティック",
+      "url": "https://www.chobirich.com/ad_details/67875/",
+      "points": "4.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "51890",
+      "title": "山田養蜂場",
+      "url": "https://www.chobirich.com/ad_details/51890/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "84672",
+      "title": "資生堂オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/84672/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1684874",
+      "title": "ラサーナ",
+      "url": "https://www.chobirich.com/ad_details/1684874/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682435",
+      "title": "ETVOS（エトヴォス）",
+      "url": "https://www.chobirich.com/ad_details/1682435/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "56547",
+      "title": "ドクターシーラボ",
+      "url": "https://www.chobirich.com/ad_details/56547/",
+      "points": "15％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1839833",
+      "title": "オリーブヤング",
+      "url": "https://www.chobirich.com/ad_details/1839833/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1839056",
+      "title": "HERA公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1839056/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814639",
+      "title": "サニーストア",
+      "url": "https://www.chobirich.com/ad_details/1814639/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814217",
+      "title": "花西子（フローラシス）",
+      "url": "https://www.chobirich.com/ad_details/1814217/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1811242",
+      "title": "Celvoke（セルヴォーク）",
+      "url": "https://www.chobirich.com/ad_details/1811242/",
+      "points": "6.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1811240",
+      "title": "F ORGANICS(エッフェオーガニック)",
+      "url": "https://www.chobirich.com/ad_details/1811240/",
+      "points": "6.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1811236",
+      "title": "SNIDEL BEAUTY(スナイデル ビューティ)",
+      "url": "https://www.chobirich.com/ad_details/1811236/",
+      "points": "6.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1811230",
+      "title": "to/one(トーン)",
+      "url": "https://www.chobirich.com/ad_details/1811230/",
+      "points": "6.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1834998",
+      "title": "【エクスボーテ　クールフィニッシングルース】新規商品購入プログラム",
+      "url": "https://www.chobirich.com/ad_details/1834998/",
+      "points": "1,200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1832298",
+      "title": "Eｘ：ＢＥＡＵＴＥ（エクスボーテ）クッションファンデーション",
+      "url": "https://www.chobirich.com/ad_details/1832298/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1078612",
+      "title": "WELEDA（ヴェレダ）",
+      "url": "https://www.chobirich.com/ad_details/1078612/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1831915",
+      "title": "無添加化粧品【imy（アイエムワイ）】",
+      "url": "https://www.chobirich.com/ad_details/1831915/",
+      "points": "8%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1839269",
+      "title": "R-COSME STORE",
+      "url": "https://www.chobirich.com/ad_details/1839269/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1823465",
+      "title": "NOIN shop",
+      "url": "https://www.chobirich.com/ad_details/1823465/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "74462",
+      "title": "シーボン",
+      "url": "https://www.chobirich.com/ad_details/74462/",
+      "points": "9.1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1831420",
+      "title": "大人女性のセレクトショップ【 VVch（ブイブイチャンネル）】",
+      "url": "https://www.chobirich.com/ad_details/1831420/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1829650",
+      "title": "ROSELABO（ローズラボ）",
+      "url": "https://www.chobirich.com/ad_details/1829650/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790773",
+      "title": "eh0067エッセンス",
+      "url": "https://www.chobirich.com/ad_details/1790773/",
+      "points": "9,200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1827648",
+      "title": "ホットクレンジングゲル",
+      "url": "https://www.chobirich.com/ad_details/1827648/",
+      "points": "40pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1833667",
+      "title": "【韓国美顔器】Dr. tengle",
+      "url": "https://www.chobirich.com/ad_details/1833667/",
+      "points": "30,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1830499",
+      "title": "COSME ACADEMIA",
+      "url": "https://www.chobirich.com/ad_details/1830499/",
+      "points": "15％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1807164",
+      "title": "アクシージア（AXXZIA）公式ショップ",
+      "url": "https://www.chobirich.com/ad_details/1807164/",
+      "points": "6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1835575",
+      "title": "インナーシグナル",
+      "url": "https://www.chobirich.com/ad_details/1835575/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1356765",
+      "title": "ZIGEN オールインワン フェイスジェル",
+      "url": "https://www.chobirich.com/ad_details/1356765/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1749280",
+      "title": "AURA TREATMENT（オーラトリートメント）",
+      "url": "https://www.chobirich.com/ad_details/1749280/",
+      "points": "8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1728324",
+      "title": "LOGIC（ロジック）",
+      "url": "https://www.chobirich.com/ad_details/1728324/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1803699",
+      "title": "チョゴンジン ソセン シートマスク",
+      "url": "https://www.chobirich.com/ad_details/1803699/",
+      "points": "500pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1825288",
+      "title": "HITOKIWA",
+      "url": "https://www.chobirich.com/ad_details/1825288/",
+      "points": "2,200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1834718",
+      "title": "OCHER（オーカー）",
+      "url": "https://www.chobirich.com/ad_details/1834718/",
+      "points": "1,800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1840326",
+      "title": "MPNサプリメント",
+      "url": "https://www.chobirich.com/ad_details/1840326/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1836263",
+      "title": "Bpro",
+      "url": "https://www.chobirich.com/ad_details/1836263/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1836262",
+      "title": "DayMe",
+      "url": "https://www.chobirich.com/ad_details/1836262/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1719195",
+      "title": "NATURECAN（ネイチャーカン）",
+      "url": "https://www.chobirich.com/ad_details/1719195/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826714",
+      "title": "Corigris（コリグリ）",
+      "url": "https://www.chobirich.com/ad_details/1826714/",
+      "points": "15%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1828224",
+      "title": "オーリムルナ",
+      "url": "https://www.chobirich.com/ad_details/1828224/",
+      "points": "1,188pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1829520",
+      "title": "HOSOMI",
+      "url": "https://www.chobirich.com/ad_details/1829520/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1829518",
+      "title": "スリリンファイア",
+      "url": "https://www.chobirich.com/ad_details/1829518/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1711851",
+      "title": "糖脂ケア",
+      "url": "https://www.chobirich.com/ad_details/1711851/",
+      "points": "392pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1709849",
+      "title": "【エレメンタナノシルバーマウスリンス】100円モニター",
+      "url": "https://www.chobirich.com/ad_details/1709849/",
+      "points": "40pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1709273",
+      "title": "ラグノワール クレーム・ドゥ・ブラス",
+      "url": "https://www.chobirich.com/ad_details/1709273/",
+      "points": "955pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1834704",
+      "title": "Ferne",
+      "url": "https://www.chobirich.com/ad_details/1834704/",
+      "points": "6,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1706169",
+      "title": "コシビシベルト",
+      "url": "https://www.chobirich.com/ad_details/1706169/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1704982",
+      "title": "Cream dot（クリームドット）",
+      "url": "https://www.chobirich.com/ad_details/1704982/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1704377",
+      "title": "Emma Cocarne（エマコッカーナヘアオイル）",
+      "url": "https://www.chobirich.com/ad_details/1704377/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1840239",
+      "title": "SUMATONA Smart Mini",
+      "url": "https://www.chobirich.com/ad_details/1840239/",
+      "points": "12％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814006",
+      "title": "Lupilina（ルピリーナ）",
+      "url": "https://www.chobirich.com/ad_details/1814006/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814971",
+      "title": "ヘアケア家電Lena（リナ）",
+      "url": "https://www.chobirich.com/ad_details/1814971/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1819375",
+      "title": "ELECTRON",
+      "url": "https://www.chobirich.com/ad_details/1819375/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1827753",
+      "title": "薬用ナノインパクト8",
+      "url": "https://www.chobirich.com/ad_details/1827753/",
+      "points": "880pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1697471",
+      "title": "グローパワー（医薬部外品・薬用育毛剤）",
+      "url": "https://www.chobirich.com/ad_details/1697471/",
+      "points": "7.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1697384",
+      "title": "ジュランツ",
+      "url": "https://www.chobirich.com/ad_details/1697384/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1752804",
+      "title": "手軽にアンチエイジングを【DIMANI RF美顔器】",
+      "url": "https://www.chobirich.com/ad_details/1752804/",
+      "points": "12,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1696803",
+      "title": "高級ヘアブラシ　メイソンピアソン",
+      "url": "https://www.chobirich.com/ad_details/1696803/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1695594",
+      "title": "美容オイル【ピュアセラ】",
+      "url": "https://www.chobirich.com/ad_details/1695594/",
+      "points": "180pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1694139",
+      "title": "正しい姿勢をケアする「美姿勢ビルダー」",
+      "url": "https://www.chobirich.com/ad_details/1694139/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693724",
+      "title": "アクアモイス",
+      "url": "https://www.chobirich.com/ad_details/1693724/",
+      "points": "7.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693666",
+      "title": "エミューオイル「エミューの雫」",
+      "url": "https://www.chobirich.com/ad_details/1693666/",
+      "points": "16.50%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688952",
+      "title": "高反発まくらモットン",
+      "url": "https://www.chobirich.com/ad_details/1688952/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688792",
+      "title": "ハホニコ・ハッピーライフ",
+      "url": "https://www.chobirich.com/ad_details/1688792/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688444",
+      "title": "Asettenai？（アセッテナイ）",
+      "url": "https://www.chobirich.com/ad_details/1688444/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1687779",
+      "title": "爪噛み、指しゃぶり防止マニキュア「かむピタ公式通販サイト」",
+      "url": "https://www.chobirich.com/ad_details/1687779/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1687454",
+      "title": "【温泉ミスト（スパミスト）】オンセンキレイ",
+      "url": "https://www.chobirich.com/ad_details/1687454/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1687011",
+      "title": "HOLO BELLエッセンシャル保湿ウォッシュ",
+      "url": "https://www.chobirich.com/ad_details/1687011/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686927",
+      "title": "プレミアムボディーソープ デオラ",
+      "url": "https://www.chobirich.com/ad_details/1686927/",
+      "points": "7.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686833",
+      "title": "柿渋石鹸【みつばちロード】",
+      "url": "https://www.chobirich.com/ad_details/1686833/",
+      "points": "9.20%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686701",
+      "title": "ZACCボタニカルスカルプシャンプー",
+      "url": "https://www.chobirich.com/ad_details/1686701/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686700",
+      "title": "ZACCパールリッチシャンプー",
+      "url": "https://www.chobirich.com/ad_details/1686700/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1785157",
+      "title": "ラサーナ プレミオールお試しヘアケア3点キット「21日間分」",
+      "url": "https://www.chobirich.com/ad_details/1785157/",
+      "points": "198pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1685764",
+      "title": "アイビューティーストアー",
+      "url": "https://www.chobirich.com/ad_details/1685764/",
+      "points": "1.43%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1685648",
+      "title": "プレミアムパヒューム ストーリア",
+      "url": "https://www.chobirich.com/ad_details/1685648/",
+      "points": "7.50%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1684975",
+      "title": "フォトEPC",
+      "url": "https://www.chobirich.com/ad_details/1684975/",
+      "points": "12,500pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1684974",
+      "title": "エステプロCII",
+      "url": "https://www.chobirich.com/ad_details/1684974/",
+      "points": "8,800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1684725",
+      "title": "甘い香りのノンシリコンシャンプー チョコレ",
+      "url": "https://www.chobirich.com/ad_details/1684725/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1684324",
+      "title": "【エミューの雫】オールインワンゲル",
+      "url": "https://www.chobirich.com/ad_details/1684324/",
+      "points": "2,800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1683230",
+      "title": "DT【ダウンタイム】",
+      "url": "https://www.chobirich.com/ad_details/1683230/",
+      "points": "3,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1680987",
+      "title": "天然無添加フェイスパック【雛（ひいな）】",
+      "url": "https://www.chobirich.com/ad_details/1680987/",
+      "points": "7.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1679983",
+      "title": "BRILLIANCE+（ブリリアンス＋）",
+      "url": "https://www.chobirich.com/ad_details/1679983/",
+      "points": "1.45%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1678975",
+      "title": "fafra（ファフラ） シューパウダー",
+      "url": "https://www.chobirich.com/ad_details/1678975/",
+      "points": "500pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1678759",
+      "title": "CHOUCHOU（シュシュ）",
+      "url": "https://www.chobirich.com/ad_details/1678759/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1678488",
+      "title": "リフトマキシマイザー",
+      "url": "https://www.chobirich.com/ad_details/1678488/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1797281",
+      "title": "NARS",
+      "url": "https://www.chobirich.com/ad_details/1797281/",
+      "points": "1.6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790938",
+      "title": "メルヴィータ",
+      "url": "https://www.chobirich.com/ad_details/1790938/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1777280",
+      "title": "TeMOT（テモ）",
+      "url": "https://www.chobirich.com/ad_details/1777280/",
+      "points": "5.1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1774904",
+      "title": "SIXPLUS（シックスプラス）",
+      "url": "https://www.chobirich.com/ad_details/1774904/",
+      "points": "5.3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1782409",
+      "title": "トゥヴェール",
+      "url": "https://www.chobirich.com/ad_details/1782409/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1747814",
+      "title": "DNS ZONE（ディーエヌエス ゾーン）",
+      "url": "https://www.chobirich.com/ad_details/1747814/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1748266",
+      "title": "MYTREX公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1748266/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1644352",
+      "title": "アテニア【ドレスリフト2週間セット 】",
+      "url": "https://www.chobirich.com/ad_details/1644352/",
+      "points": "608pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1822362",
+      "title": "ディセンシア",
+      "url": "https://www.chobirich.com/ad_details/1822362/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1779253",
+      "title": "ディセンシアトライアルセット",
+      "url": "https://www.chobirich.com/ad_details/1779253/",
+      "points": "1,480pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1598453",
+      "title": "【オルビス】ディフェンセラ（お試しフレーバー各1包＋コラーゲンドリンク3本入り）",
+      "url": "https://www.chobirich.com/ad_details/1598453/",
+      "points": "480pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1810731",
+      "title": "aono 2週間トライアルキット",
+      "url": "https://www.chobirich.com/ad_details/1810731/",
+      "points": "792pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1034731",
+      "title": "メタバリアS トライアルセット",
+      "url": "https://www.chobirich.com/ad_details/1034731/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1803048",
+      "title": "ヌボーテ ザ セラム（新規購入）",
+      "url": "https://www.chobirich.com/ad_details/1803048/",
+      "points": "3,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1803183",
+      "title": "【新規購入用】ナチュラルセレクトショップ　「コスメキッチン」",
+      "url": "https://www.chobirich.com/ad_details/1803183/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1802245",
+      "title": "トイロ バランシングトライアルキット【洗顔＆クレンジング付き】",
+      "url": "https://www.chobirich.com/ad_details/1802245/",
+      "points": "480pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814672",
+      "title": "新感覚水素コスメ「re:H（リエイチ）」",
+      "url": "https://www.chobirich.com/ad_details/1814672/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1799672",
+      "title": "日本初泥パックシャンプー【12,000円の豪華ヘアケアセットプレゼント中】",
+      "url": "https://www.chobirich.com/ad_details/1799672/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1799342",
+      "title": "EPIFLASH ポータブルIPL光美容器",
+      "url": "https://www.chobirich.com/ad_details/1799342/",
+      "points": "20,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1798271",
+      "title": "CHAPUP「医薬部外品の育毛剤」",
+      "url": "https://www.chobirich.com/ad_details/1798271/",
+      "points": "20,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1798270",
+      "title": "天然系人気入浴液「つるぽか」",
+      "url": "https://www.chobirich.com/ad_details/1798270/",
+      "points": "800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1706378",
+      "title": "ララブラ",
+      "url": "https://www.chobirich.com/ad_details/1706378/",
+      "points": "12,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1795084",
+      "title": "無添加にこだわった歯磨きジェル",
+      "url": "https://www.chobirich.com/ad_details/1795084/",
+      "points": "14％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1807720",
+      "title": "バストデコルテクリーム（初回購入）",
+      "url": "https://www.chobirich.com/ad_details/1807720/",
+      "points": "796pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1762130",
+      "title": "フェミニンウォッシュLuLufe",
+      "url": "https://www.chobirich.com/ad_details/1762130/",
+      "points": "1,500pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1750634",
+      "title": "ダンディハウス　IPLヘアーリムーバー",
+      "url": "https://www.chobirich.com/ad_details/1750634/",
+      "points": "10,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1725768",
+      "title": "BMLストレートレッグ",
+      "url": "https://www.chobirich.com/ad_details/1725768/",
+      "points": "20%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1779677",
+      "title": "norm+",
+      "url": "https://www.chobirich.com/ad_details/1779677/",
+      "points": "7,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1720997",
+      "title": "美的ラボ「ヴィナピエラ」",
+      "url": "https://www.chobirich.com/ad_details/1720997/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1806244",
+      "title": "毎日続ける青魚生活【DHA＆EPA + ビタミンD】トライアル",
+      "url": "https://www.chobirich.com/ad_details/1806244/",
+      "points": "100pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1759845",
+      "title": "ヒアルロン酸の2倍の保湿効果、もちもちのお肌に！",
+      "url": "https://www.chobirich.com/ad_details/1759845/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814113",
+      "title": "ビーグレン「Cセラム」モニターセット",
+      "url": "https://www.chobirich.com/ad_details/1814113/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1805747",
+      "title": "[機能性表示食品]BMIが高めの方に【カプシEX】",
+      "url": "https://www.chobirich.com/ad_details/1805747/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1702756",
+      "title": "ギュギュマキ",
+      "url": "https://www.chobirich.com/ad_details/1702756/",
+      "points": "2,200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1702749",
+      "title": "ギュギュブラ",
+      "url": "https://www.chobirich.com/ad_details/1702749/",
+      "points": "1,800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1702741",
+      "title": "ギュギュレギンス",
+      "url": "https://www.chobirich.com/ad_details/1702741/",
+      "points": "2,200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1702740",
+      "title": "ギュギュギュ",
+      "url": "https://www.chobirich.com/ad_details/1702740/",
+      "points": "2,200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1769601",
+      "title": "ハップアールフェイススクラブ",
+      "url": "https://www.chobirich.com/ad_details/1769601/",
+      "points": "3,600pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1784840",
+      "title": "炭酸ガスパック【R-FACE BFTパック】",
+      "url": "https://www.chobirich.com/ad_details/1784840/",
+      "points": "2,800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1759849",
+      "title": "美容液成分配合オイルフリークレンジング",
+      "url": "https://www.chobirich.com/ad_details/1759849/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1759833",
+      "title": "ウド洗顔石鹸",
+      "url": "https://www.chobirich.com/ad_details/1759833/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1800205",
+      "title": "WAYANPURI ONLINE STORE",
+      "url": "https://www.chobirich.com/ad_details/1800205/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826720",
+      "title": "プロアクティブ",
+      "url": "https://www.chobirich.com/ad_details/1826720/",
+      "points": "1,400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790426",
+      "title": "BODYPIXEL PRO",
+      "url": "https://www.chobirich.com/ad_details/1790426/",
+      "points": "7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790424",
+      "title": "BODYPIXEL SE",
+      "url": "https://www.chobirich.com/ad_details/1790424/",
+      "points": "7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790414",
+      "title": "BODYPIXEL 天然セラミック かっさ",
+      "url": "https://www.chobirich.com/ad_details/1790414/",
+      "points": "7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1788272",
+      "title": "BODYPIXEL MiniZ",
+      "url": "https://www.chobirich.com/ad_details/1788272/",
+      "points": "1,300pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1745259",
+      "title": "DEPACO",
+      "url": "https://www.chobirich.com/ad_details/1745259/",
+      "points": "1.43%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1690653",
+      "title": "グラマラスタイル",
+      "url": "https://www.chobirich.com/ad_details/1690653/",
+      "points": "3,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1699396",
+      "title": "AND DECO",
+      "url": "https://www.chobirich.com/ad_details/1699396/",
+      "points": "800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1760410",
+      "title": "CurrentBody Japan（新規購入）",
+      "url": "https://www.chobirich.com/ad_details/1760410/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "77119",
+      "title": "ラ ロッシュ ポゼ",
+      "url": "https://www.chobirich.com/ad_details/77119/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688415",
+      "title": "韓国コスメ エチュード（ETUDE）",
+      "url": "https://www.chobirich.com/ad_details/1688415/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1802263",
+      "title": "成田空港免税品予約サイト　JAPAN DUTY FREE",
+      "url": "https://www.chobirich.com/ad_details/1802263/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1807365",
+      "title": "【オルビス】アクアニスト",
+      "url": "https://www.chobirich.com/ad_details/1807365/",
+      "points": "356pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1802257",
+      "title": "羽田空港免税品予約サイト　TIAT DUTY FREE",
+      "url": "https://www.chobirich.com/ad_details/1802257/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1801980",
+      "title": "ジョー マローン ロンドン",
+      "url": "https://www.chobirich.com/ad_details/1801980/",
+      "points": "2.4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1678339",
+      "title": "ISETAN BEAUTY online",
+      "url": "https://www.chobirich.com/ad_details/1678339/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1817314",
+      "title": "USEDコスメ通販　エルリニュー",
+      "url": "https://www.chobirich.com/ad_details/1817314/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1676301",
+      "title": "アサヒカルピスウェルネスショップ",
+      "url": "https://www.chobirich.com/ad_details/1676301/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1807364",
+      "title": "【オルビス】アンバー",
+      "url": "https://www.chobirich.com/ad_details/1807364/",
+      "points": "356pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1673639",
+      "title": "PAL CLOSET",
+      "url": "https://www.chobirich.com/ad_details/1673639/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686090",
+      "title": "【オルビス】オルビスユードット",
+      "url": "https://www.chobirich.com/ad_details/1686090/",
+      "points": "356pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1018178",
+      "title": "マキアレイベル 薬用クリアエステヴェール",
+      "url": "https://www.chobirich.com/ad_details/1018178/",
+      "points": "780pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1772789",
+      "title": "UMIKARA生ファンデーション",
+      "url": "https://www.chobirich.com/ad_details/1772789/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1677809",
+      "title": "ハーバルラクーンナチュラルミスト",
+      "url": "https://www.chobirich.com/ad_details/1677809/",
+      "points": "450pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1689029",
+      "title": "qiolo-キオロ-美容液ファンデーション",
+      "url": "https://www.chobirich.com/ad_details/1689029/",
+      "points": "1,310pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1810179",
+      "title": "ジョンマスターオーガニック",
+      "url": "https://www.chobirich.com/ad_details/1810179/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1673652",
+      "title": "【オルビス】オフクリーム",
+      "url": "https://www.chobirich.com/ad_details/1673652/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1772705",
+      "title": "MISSHA（ミシャ）、A'pieu（アピュー）公式オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1772705/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1645872",
+      "title": "湘南コンタクトレンズライフ",
+      "url": "https://www.chobirich.com/ad_details/1645872/",
+      "points": "3.25%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1654795",
+      "title": "【オルビス】ミスター 7日間体験セット",
+      "url": "https://www.chobirich.com/ad_details/1654795/",
+      "points": "356pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1645867",
+      "title": "ブラックシャンプー",
+      "url": "https://www.chobirich.com/ad_details/1645867/",
+      "points": "7.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1356761",
+      "title": "キス専用美容液【ヌレヌレ】",
+      "url": "https://www.chobirich.com/ad_details/1356761/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1643462",
+      "title": "スリムエネマ",
+      "url": "https://www.chobirich.com/ad_details/1643462/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1421703",
+      "title": "母の滴シルバーエッセンス",
+      "url": "https://www.chobirich.com/ad_details/1421703/",
+      "points": "",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1643460",
+      "title": "アフターシェイブローション",
+      "url": "https://www.chobirich.com/ad_details/1643460/",
+      "points": "7.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1193910",
+      "title": "ハーバルラビットナチュラルゲルクリーム",
+      "url": "https://www.chobirich.com/ad_details/1193910/",
+      "points": "",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1653208",
+      "title": "プレミアム美容家電Areti",
+      "url": "https://www.chobirich.com/ad_details/1653208/",
+      "points": "3.66%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1648777",
+      "title": "バンビウォーターゴールド",
+      "url": "https://www.chobirich.com/ad_details/1648777/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1025459",
+      "title": "スカルプD公式通販 アンファーストア",
+      "url": "https://www.chobirich.com/ad_details/1025459/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1006662",
+      "title": "mod's hair（モッズヘア）",
+      "url": "https://www.chobirich.com/ad_details/1006662/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1095554",
+      "title": "きれいみつけた",
+      "url": "https://www.chobirich.com/ad_details/1095554/",
+      "points": "0.9%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1018221",
+      "title": "NEAL'S YARD REMEDIES（ニールズヤードレメディーズ）",
+      "url": "https://www.chobirich.com/ad_details/1018221/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1340440",
+      "title": "LUXE【ラグゼ】",
+      "url": "https://www.chobirich.com/ad_details/1340440/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1060582",
+      "title": "メディプラスゲル",
+      "url": "https://www.chobirich.com/ad_details/1060582/",
+      "points": "1,192pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1807614",
+      "title": "【オルビス】ミスターヘアケア",
+      "url": "https://www.chobirich.com/ad_details/1807614/",
+      "points": "400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1837984",
+      "title": "【新商品発売】リフレッシング パッションフルーツ(THE BODY SHOP)",
+      "url": "https://www.chobirich.com/ad_details/1837984/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "55607",
+      "title": "THE BODY SHOP",
+      "url": "https://www.chobirich.com/ad_details/55607/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1602836",
+      "title": "有名インフルエンサー6名がプロデュース！【美容室アンククロスのオリジナルシャンプー】",
+      "url": "https://www.chobirich.com/ad_details/1602836/",
+      "points": "15%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1029293",
+      "title": "【ファンケル】エンリッチプラス",
+      "url": "https://www.chobirich.com/ad_details/1029293/",
+      "points": "",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1029299",
+      "title": "【ファンケル】無添加ホワイトニング 薬用美白1ヵ月集中セット 【速攻美白 美容液付き】",
+      "url": "https://www.chobirich.com/ad_details/1029299/",
+      "points": "",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1283803",
+      "title": "コスメリンク",
+      "url": "https://www.chobirich.com/ad_details/1283803/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1658387",
+      "title": "カミソリ定期便【Galleido Shaving Member】",
+      "url": "https://www.chobirich.com/ad_details/1658387/",
+      "points": "200pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1043247",
+      "title": "【三省製薬】デルメッドヘアエッセンス",
+      "url": "https://www.chobirich.com/ad_details/1043247/",
+      "points": "2,160pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1023269",
+      "title": "ツーピーエス脱毛器",
+      "url": "https://www.chobirich.com/ad_details/1023269/",
+      "points": "7,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1062623",
+      "title": "ストロベリーネット",
+      "url": "https://www.chobirich.com/ad_details/1062623/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1060122",
+      "title": "アロマセンス",
+      "url": "https://www.chobirich.com/ad_details/1060122/",
+      "points": "3,400pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1140031",
+      "title": "フィオライズ",
+      "url": "https://www.chobirich.com/ad_details/1140031/",
+      "points": "10.8%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1422199",
+      "title": "ケレキュアネローション（ローション定期コース（初回半額））",
+      "url": "https://www.chobirich.com/ad_details/1422199/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "41713",
+      "title": "ランコム",
+      "url": "https://www.chobirich.com/ad_details/41713/",
+      "points": "4.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "53305",
+      "title": "オージオ",
+      "url": "https://www.chobirich.com/ad_details/53305/",
+      "points": "4.7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1147320",
+      "title": "【リピートOK】iHerb",
+      "url": "https://www.chobirich.com/ad_details/1147320/",
+      "points": "5.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1364990",
+      "title": "簡単増毛ウェルシークレット",
+      "url": "https://www.chobirich.com/ad_details/1364990/",
+      "points": "760pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "102638",
+      "title": "カゴメ健康直送便",
+      "url": "https://www.chobirich.com/ad_details/102638/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1422195",
+      "title": "男のたしなみ",
+      "url": "https://www.chobirich.com/ad_details/1422195/",
+      "points": "370pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "71510",
+      "title": "Kiehl's（キールズ）",
+      "url": "https://www.chobirich.com/ad_details/71510/",
+      "points": "4.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1022874",
+      "title": "AVEDA",
+      "url": "https://www.chobirich.com/ad_details/1022874/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1340320",
+      "title": "レフィーネ",
+      "url": "https://www.chobirich.com/ad_details/1340320/",
+      "points": "800pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "55526",
+      "title": "なちゅライフ",
+      "url": "https://www.chobirich.com/ad_details/55526/",
+      "points": "4.7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "87657",
+      "title": "アルマードオンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/87657/",
+      "points": "1.9％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "106988",
+      "title": "江原道 / Koh Gen Do 公式オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/106988/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1642191",
+      "title": "ケラスターゼ",
+      "url": "https://www.chobirich.com/ad_details/1642191/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1645108",
+      "title": "De-nice（デ・ナイス）",
+      "url": "https://www.chobirich.com/ad_details/1645108/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "56538",
+      "title": "ティーライフ",
+      "url": "https://www.chobirich.com/ad_details/56538/",
+      "points": "2.38%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1018218",
+      "title": "メディカルハーブ専門店【enherb（エンハーブ）】",
+      "url": "https://www.chobirich.com/ad_details/1018218/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1283996",
+      "title": "ネイチャーズウェイ",
+      "url": "https://www.chobirich.com/ad_details/1283996/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1831423",
+      "title": "濃厚スキンケアシリーズのfercil（フェルシル）",
+      "url": "https://www.chobirich.com/ad_details/1831423/",
+      "points": "7.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1817018",
+      "title": "La chicyou（ラシックユー）オールインワン 薬用 女性用育毛剤",
+      "url": "https://www.chobirich.com/ad_details/1817018/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1659742",
+      "title": "Rakuten Fashion（楽天ファッション）",
+      "url": "https://www.chobirich.com/ad_details/1659742/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "100007",
+      "title": "ベルーナ",
+      "url": "https://www.chobirich.com/ad_details/100007/",
+      "points": "4.8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1804988",
+      "title": "and ST（アンドエスティ)",
+      "url": "https://www.chobirich.com/ad_details/1804988/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1719546",
+      "title": "FREAK’S STORE（デイトナパーク）",
+      "url": "https://www.chobirich.com/ad_details/1719546/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1649388",
+      "title": "DHOLIC【ディーホリック】女性に大人気！リピータ多数！",
+      "url": "https://www.chobirich.com/ad_details/1649388/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1807922",
+      "title": "SHEIN（シーイン）【初回購入】",
+      "url": "https://www.chobirich.com/ad_details/1807922/",
+      "points": "7.50%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1738433",
+      "title": "SHEIN（シーイン）【リピート購入】",
+      "url": "https://www.chobirich.com/ad_details/1738433/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "32764",
+      "title": "i LUMINE（アイルミネ）",
+      "url": "https://www.chobirich.com/ad_details/32764/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "96083",
+      "title": "GAP Online Store",
+      "url": "https://www.chobirich.com/ad_details/96083/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1818188",
+      "title": "WEGO ONLINE STORE",
+      "url": "https://www.chobirich.com/ad_details/1818188/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1772704",
+      "title": "tutu anna（チュチュアンナ）",
+      "url": "https://www.chobirich.com/ad_details/1772704/",
+      "points": "6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "52959",
+      "title": "WORLD ONLINE STORE",
+      "url": "https://www.chobirich.com/ad_details/52959/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "89967",
+      "title": "洋服の青山",
+      "url": "https://www.chobirich.com/ad_details/89967/",
+      "points": "2.8%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1664495",
+      "title": "AOKI公式通販",
+      "url": "https://www.chobirich.com/ad_details/1664495/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1071245",
+      "title": "BEAMS Online Shop",
+      "url": "https://www.chobirich.com/ad_details/1071245/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790335",
+      "title": "SHIPS（シップス）",
+      "url": "https://www.chobirich.com/ad_details/1790335/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693522",
+      "title": "ORIHICA（オリヒカ）",
+      "url": "https://www.chobirich.com/ad_details/1693522/",
+      "points": "3.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "39696",
+      "title": "ABC-MART.net",
+      "url": "https://www.chobirich.com/ad_details/39696/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1044812",
+      "title": "Shoplist",
+      "url": "https://www.chobirich.com/ad_details/1044812/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1839321",
+      "title": "DIESEL（ディーゼル）公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1839321/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1674705",
+      "title": "セカンドストリート",
+      "url": "https://www.chobirich.com/ad_details/1674705/",
+      "points": "2.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1691969",
+      "title": "coen ONLINE STORE",
+      "url": "https://www.chobirich.com/ad_details/1691969/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "100025",
+      "title": "ニッセン",
+      "url": "https://www.chobirich.com/ad_details/100025/",
+      "points": "0.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1837519",
+      "title": "ZOZOUSED（初回購入）",
+      "url": "https://www.chobirich.com/ad_details/1837519/",
+      "points": "600pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1837520",
+      "title": "ZOZOUSED（リピート）",
+      "url": "https://www.chobirich.com/ad_details/1837520/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1817696",
+      "title": "NUGU | 韓国ファッション通販サイト",
+      "url": "https://www.chobirich.com/ad_details/1817696/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1606450",
+      "title": "CASETiFY",
+      "url": "https://www.chobirich.com/ad_details/1606450/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1818573",
+      "title": "Honeys（ハニーズ）",
+      "url": "https://www.chobirich.com/ad_details/1818573/",
+      "points": "1.6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "92442",
+      "title": "Teva（R）（テバ）",
+      "url": "https://www.chobirich.com/ad_details/92442/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1679466",
+      "title": "ドクターマーチン・エアウエア ジャパン",
+      "url": "https://www.chobirich.com/ad_details/1679466/",
+      "points": "1.75％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682040",
+      "title": "TATRAS CONCEPT STORE（タトラス公式オンラインストア）",
+      "url": "https://www.chobirich.com/ad_details/1682040/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1809398",
+      "title": "レザーグッズ専門店「GLENCHECK」",
+      "url": "https://www.chobirich.com/ad_details/1809398/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1013642",
+      "title": "fifth（フィフス）",
+      "url": "https://www.chobirich.com/ad_details/1013642/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1660309",
+      "title": "AZUL BY MOUSSY",
+      "url": "https://www.chobirich.com/ad_details/1660309/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "49121",
+      "title": "ワコール",
+      "url": "https://www.chobirich.com/ad_details/49121/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1835574",
+      "title": "ROPE PICNIC(ロペピクニック)",
+      "url": "https://www.chobirich.com/ad_details/1835574/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1831918",
+      "title": "Wpc. ONLINE STORE",
+      "url": "https://www.chobirich.com/ad_details/1831918/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1772993",
+      "title": "セルフジェルネイル「ohora」【リピート】",
+      "url": "https://www.chobirich.com/ad_details/1772993/",
+      "points": "2.3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1808139",
+      "title": "洗えるカバンESTIVANT（エスティバン）",
+      "url": "https://www.chobirich.com/ad_details/1808139/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1809382",
+      "title": "メガネのOWNDAYS（オンデーズ）",
+      "url": "https://www.chobirich.com/ad_details/1809382/",
+      "points": "1.6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1830606",
+      "title": "Claura（クロラ）",
+      "url": "https://www.chobirich.com/ad_details/1830606/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1764372",
+      "title": "italist JP",
+      "url": "https://www.chobirich.com/ad_details/1764372/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1798763",
+      "title": "サンキューマート オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1798763/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1837521",
+      "title": "CIMABUE",
+      "url": "https://www.chobirich.com/ad_details/1837521/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1838342",
+      "title": "革ブランド【かむろぎ】",
+      "url": "https://www.chobirich.com/ad_details/1838342/",
+      "points": "6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1838727",
+      "title": "LOVST TOKYO",
+      "url": "https://www.chobirich.com/ad_details/1838727/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1833421",
+      "title": "グレディブリリアン公式通販",
+      "url": "https://www.chobirich.com/ad_details/1833421/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1839889",
+      "title": "BONAVENTURA （ボナベンチュラ）",
+      "url": "https://www.chobirich.com/ad_details/1839889/",
+      "points": "1％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1828893",
+      "title": "YAMADAYA（ヤマダヤオンラインストア）",
+      "url": "https://www.chobirich.com/ad_details/1828893/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826528",
+      "title": "quadro（クオドロ）",
+      "url": "https://www.chobirich.com/ad_details/1826528/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826832",
+      "title": "TETE HOMME",
+      "url": "https://www.chobirich.com/ad_details/1826832/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826740",
+      "title": "STUDIOUS",
+      "url": "https://www.chobirich.com/ad_details/1826740/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1726975",
+      "title": "メンズストリートファッションブランド【Re&Birth】",
+      "url": "https://www.chobirich.com/ad_details/1726975/",
+      "points": "5.75%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1726974",
+      "title": "OROS JAPAN",
+      "url": "https://www.chobirich.com/ad_details/1726974/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1722522",
+      "title": "L&Co.（エルアンドコー）",
+      "url": "https://www.chobirich.com/ad_details/1722522/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1840342",
+      "title": "キュリエットブラトップ",
+      "url": "https://www.chobirich.com/ad_details/1840342/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1831828",
+      "title": "明日花キララプロデュース【Whip Bunny】",
+      "url": "https://www.chobirich.com/ad_details/1831828/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1719048",
+      "title": "最短当日発送！国内正規品のコンタクトレンズ通販サイト【7lens】",
+      "url": "https://www.chobirich.com/ad_details/1719048/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1715638",
+      "title": "SPU（スプートニクス）スタイルアップ便",
+      "url": "https://www.chobirich.com/ad_details/1715638/",
+      "points": "5,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1714819",
+      "title": "We’ll",
+      "url": "https://www.chobirich.com/ad_details/1714819/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1714466",
+      "title": "Ops.（オプス）公式ストア",
+      "url": "https://www.chobirich.com/ad_details/1714466/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1714465",
+      "title": "バッグミュージアムHAYNI.（ヘイニ）",
+      "url": "https://www.chobirich.com/ad_details/1714465/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1837311",
+      "title": "デルセー公式オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1837311/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1833267",
+      "title": "アンビリオン公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1833267/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1836264",
+      "title": "Daniel Wellington JP（ダニエル・ウェリントン公式オンラインストア）",
+      "url": "https://www.chobirich.com/ad_details/1836264/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1825742",
+      "title": "CASIOオンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1825742/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1685017",
+      "title": "Nordgreen（ノードグリーン）",
+      "url": "https://www.chobirich.com/ad_details/1685017/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1706377",
+      "title": "マトウ公式ストア",
+      "url": "https://www.chobirich.com/ad_details/1706377/",
+      "points": "6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1835117",
+      "title": "【スワロフスキー】のジュエリーコレクション",
+      "url": "https://www.chobirich.com/ad_details/1835117/",
+      "points": "2.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1701866",
+      "title": "LIFE POCKET ライフポケット",
+      "url": "https://www.chobirich.com/ad_details/1701866/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1820259",
+      "title": "プラチナカシミヤ.com",
+      "url": "https://www.chobirich.com/ad_details/1820259/",
+      "points": "6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1698592",
+      "title": "THE KISS（コラボアクセサリー）",
+      "url": "https://www.chobirich.com/ad_details/1698592/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1698591",
+      "title": "Men's Fashion Black Stone",
+      "url": "https://www.chobirich.com/ad_details/1698591/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1838731",
+      "title": "ワンピの魔法",
+      "url": "https://www.chobirich.com/ad_details/1838731/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1838732",
+      "title": "リリアージュ",
+      "url": "https://www.chobirich.com/ad_details/1838732/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1696963",
+      "title": "きものレンタルwargo",
+      "url": "https://www.chobirich.com/ad_details/1696963/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1695036",
+      "title": "キプリス公式オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1695036/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1694538",
+      "title": "ウィッグ・エクステ Brightlele",
+      "url": "https://www.chobirich.com/ad_details/1694538/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1694357",
+      "title": "オールジュエリー",
+      "url": "https://www.chobirich.com/ad_details/1694357/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1836706",
+      "title": "金属アレルギー対応アクセサリー【Las】",
+      "url": "https://www.chobirich.com/ad_details/1836706/",
+      "points": "8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693745",
+      "title": "アームボーテ",
+      "url": "https://www.chobirich.com/ad_details/1693745/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1822751",
+      "title": "スピリチュアルジュエリーHariqua(ハリックァ)",
+      "url": "https://www.chobirich.com/ad_details/1822751/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1693310",
+      "title": "パワーストーン ヒラオカ宝石",
+      "url": "https://www.chobirich.com/ad_details/1693310/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826977",
+      "title": "ひろゆきのブランド【Mo,de in Japan】",
+      "url": "https://www.chobirich.com/ad_details/1826977/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1803702",
+      "title": "I NEED MORE SHOES",
+      "url": "https://www.chobirich.com/ad_details/1803702/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1692249",
+      "title": "レザー製品販売サイト【ノイジャパン】",
+      "url": "https://www.chobirich.com/ad_details/1692249/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1691713",
+      "title": "アートミクロン",
+      "url": "https://www.chobirich.com/ad_details/1691713/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1834706",
+      "title": "Favorite（フェイバリット）",
+      "url": "https://www.chobirich.com/ad_details/1834706/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1836302",
+      "title": "整体パンツNEW ZERO",
+      "url": "https://www.chobirich.com/ad_details/1836302/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1833459",
+      "title": "「着る医療機器」リライブシャツ",
+      "url": "https://www.chobirich.com/ad_details/1833459/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1690398",
+      "title": "キャリーオン",
+      "url": "https://www.chobirich.com/ad_details/1690398/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1689599",
+      "title": "C-PRIME（シープライム）",
+      "url": "https://www.chobirich.com/ad_details/1689599/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1688516",
+      "title": "女性浴衣専門店 Dita（ディータ）",
+      "url": "https://www.chobirich.com/ad_details/1688516/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1827647",
+      "title": "Louis Faglin",
+      "url": "https://www.chobirich.com/ad_details/1827647/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1687437",
+      "title": "Jewelry Connection -ジュエリーコネクション-",
+      "url": "https://www.chobirich.com/ad_details/1687437/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1820303",
+      "title": "GARCIA",
+      "url": "https://www.chobirich.com/ad_details/1820303/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686926",
+      "title": "本格派ミリタリーセレクトショップ《WIP》",
+      "url": "https://www.chobirich.com/ad_details/1686926/",
+      "points": "3.8%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686698",
+      "title": "水着専門店【ビキニ天国】",
+      "url": "https://www.chobirich.com/ad_details/1686698/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1686690",
+      "title": "ヌーブラジャパン公式オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1686690/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826958",
+      "title": "mizutori",
+      "url": "https://www.chobirich.com/ad_details/1826958/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1685342",
+      "title": "レンタルドレス専門店【ルクシュール】",
+      "url": "https://www.chobirich.com/ad_details/1685342/",
+      "points": "4.25%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1684899",
+      "title": "URONA（ウローナ）",
+      "url": "https://www.chobirich.com/ad_details/1684899/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1683730",
+      "title": "Cariru",
+      "url": "https://www.chobirich.com/ad_details/1683730/",
+      "points": "3.8%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1683167",
+      "title": "ROOPTOKYO（ループトウキョウ）",
+      "url": "https://www.chobirich.com/ad_details/1683167/",
+      "points": "10%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682405",
+      "title": "erutuoc（エルトゥーク）",
+      "url": "https://www.chobirich.com/ad_details/1682405/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682316",
+      "title": "Bizoux（ビズー）",
+      "url": "https://www.chobirich.com/ad_details/1682316/",
+      "points": "3.18％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682280",
+      "title": "Dinate（ディネイト）",
+      "url": "https://www.chobirich.com/ad_details/1682280/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1681695",
+      "title": "sot（ソット）",
+      "url": "https://www.chobirich.com/ad_details/1681695/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1835001",
+      "title": "Tシャツの【OJICO】（オジコ）",
+      "url": "https://www.chobirich.com/ad_details/1835001/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1680721",
+      "title": "日本最大級のTシャツショップ「ClubT」",
+      "url": "https://www.chobirich.com/ad_details/1680721/",
+      "points": "150pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1679546",
+      "title": "ALTO（アルト） pure love",
+      "url": "https://www.chobirich.com/ad_details/1679546/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1679094",
+      "title": "アクナス",
+      "url": "https://www.chobirich.com/ad_details/1679094/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1678902",
+      "title": "高品質コスプレキャラウィッグ専門店【Cospedia Wig】",
+      "url": "https://www.chobirich.com/ad_details/1678902/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1677823",
+      "title": "大人女性の韓国ファッション通販【アトランス】",
+      "url": "https://www.chobirich.com/ad_details/1677823/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1829272",
+      "title": "グラニフ",
+      "url": "https://www.chobirich.com/ad_details/1829272/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1831379",
+      "title": "calif",
+      "url": "https://www.chobirich.com/ad_details/1831379/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1824496",
+      "title": "GUESS JAPAN OFFICIAL ONLINE STORE",
+      "url": "https://www.chobirich.com/ad_details/1824496/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1805839",
+      "title": "【新規購入】ユナイテッドアローズ オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1805839/",
+      "points": "8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1805836",
+      "title": "パレモバONLINESTORE",
+      "url": "https://www.chobirich.com/ad_details/1805836/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1804236",
+      "title": "【新規購入用】Pierrot（ピエロ）・RASW（ラス）",
+      "url": "https://www.chobirich.com/ad_details/1804236/",
+      "points": "20％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1825149",
+      "title": "to touch",
+      "url": "https://www.chobirich.com/ad_details/1825149/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1806241",
+      "title": "USED/Vintageラグジュアリーブランドバッグの専門店【Trip】",
+      "url": "https://www.chobirich.com/ad_details/1806241/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1095556",
+      "title": "CHARLES & KEITH 公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1095556/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "56229",
+      "title": "ELLE SHOP",
+      "url": "https://www.chobirich.com/ad_details/56229/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1817650",
+      "title": ".OUNCE",
+      "url": "https://www.chobirich.com/ad_details/1817650/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1801711",
+      "title": "リサイクルバッグブランド【SEAL】",
+      "url": "https://www.chobirich.com/ad_details/1801711/",
+      "points": "6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1801707",
+      "title": "バッグブランド【ETiAM】",
+      "url": "https://www.chobirich.com/ad_details/1801707/",
+      "points": "6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1801593",
+      "title": "本革バッグ屋TIDING SHOP",
+      "url": "https://www.chobirich.com/ad_details/1801593/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1800506",
+      "title": "新感覚イヤープラグの登場【loopearplugs】",
+      "url": "https://www.chobirich.com/ad_details/1800506/",
+      "points": "2.25％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1799222",
+      "title": "【新規購入用】RUNWAY channel",
+      "url": "https://www.chobirich.com/ad_details/1799222/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1796344",
+      "title": "神戸レタス【新規購入】",
+      "url": "https://www.chobirich.com/ad_details/1796344/",
+      "points": "20%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1817890",
+      "title": "axes femme【アクシーズファム 】",
+      "url": "https://www.chobirich.com/ad_details/1817890/",
+      "points": "6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1793545",
+      "title": "ミレー（MILLET）",
+      "url": "https://www.chobirich.com/ad_details/1793545/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1820117",
+      "title": "グラマープリンセス",
+      "url": "https://www.chobirich.com/ad_details/1820117/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1791859",
+      "title": "マキジェリーク",
+      "url": "https://www.chobirich.com/ad_details/1791859/",
+      "points": "9％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1826718",
+      "title": "【新規購入用】Stylora Store",
+      "url": "https://www.chobirich.com/ad_details/1826718/",
+      "points": "8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1822364",
+      "title": "Stylora Store",
+      "url": "https://www.chobirich.com/ad_details/1822364/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1789543",
+      "title": "Cmall（シーモール）",
+      "url": "https://www.chobirich.com/ad_details/1789543/",
+      "points": "2.6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1795367",
+      "title": "人気サロン発のオリジナル眉テンプレート『NAZORU』",
+      "url": "https://www.chobirich.com/ad_details/1795367/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1819651",
+      "title": "アコヤひと粒パール",
+      "url": "https://www.chobirich.com/ad_details/1819651/",
+      "points": "2,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1784639",
+      "title": "レグスタイリッシュ",
+      "url": "https://www.chobirich.com/ad_details/1784639/",
+      "points": "10,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1784409",
+      "title": "イビサ公式オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1784409/",
+      "points": "7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1783841",
+      "title": "LILYSILK（リリーシルク）",
+      "url": "https://www.chobirich.com/ad_details/1783841/",
+      "points": "6.4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1783829",
+      "title": "韓国No.1ヨガウェアブランド【XEXYMIX】",
+      "url": "https://www.chobirich.com/ad_details/1783829/",
+      "points": "7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1835008",
+      "title": "サロモン公式オンラインストア【新規購入】",
+      "url": "https://www.chobirich.com/ad_details/1835008/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1782599",
+      "title": "サロモン公式オンラインストア【リピート】",
+      "url": "https://www.chobirich.com/ad_details/1782599/",
+      "points": "6％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1779753",
+      "title": "DRW（ドロー）",
+      "url": "https://www.chobirich.com/ad_details/1779753/",
+      "points": "8％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1779244",
+      "title": "メンズファッション通販【ASTRONOMY】",
+      "url": "https://www.chobirich.com/ad_details/1779244/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1837476",
+      "title": "KLEMAN",
+      "url": "https://www.chobirich.com/ad_details/1837476/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1822546",
+      "title": "Emma Francis",
+      "url": "https://www.chobirich.com/ad_details/1822546/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1778445",
+      "title": "SHAKA公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1778445/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1777952",
+      "title": "メンズファッション通販【Dcollection】",
+      "url": "https://www.chobirich.com/ad_details/1777952/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1777811",
+      "title": "LUPIS（ルピス）",
+      "url": "https://www.chobirich.com/ad_details/1777811/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1818037",
+      "title": "トゥミ",
+      "url": "https://www.chobirich.com/ad_details/1818037/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1816025",
+      "title": "THE BAGMANIA",
+      "url": "https://www.chobirich.com/ad_details/1816025/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1817321",
+      "title": "CHATONA（シャトナ）",
+      "url": "https://www.chobirich.com/ad_details/1817321/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1769532",
+      "title": "ファイブフォックス オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1769532/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1766665",
+      "title": "白衣・事務服のフォークオンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1766665/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1766308",
+      "title": "ADELO（アデロ）",
+      "url": "https://www.chobirich.com/ad_details/1766308/",
+      "points": "7.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1765216",
+      "title": "GLUCK（グルック）",
+      "url": "https://www.chobirich.com/ad_details/1765216/",
+      "points": "6%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1764831",
+      "title": "医療用白衣・スクラブ・ナース服【クラシコ】",
+      "url": "https://www.chobirich.com/ad_details/1764831/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1763469",
+      "title": "【アイスウォッチ（ice-watch）】の公式販売",
+      "url": "https://www.chobirich.com/ad_details/1763469/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1761948",
+      "title": "金属アレルギー対応のアクセサリー【CREA】",
+      "url": "https://www.chobirich.com/ad_details/1761948/",
+      "points": "6.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1761529",
+      "title": "AXES「アクセス」",
+      "url": "https://www.chobirich.com/ad_details/1761529/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1752765",
+      "title": "overE／オーバーイー",
+      "url": "https://www.chobirich.com/ad_details/1752765/",
+      "points": "3.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1751763",
+      "title": "TUQRU（ツクル）",
+      "url": "https://www.chobirich.com/ad_details/1751763/",
+      "points": "7.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1750109",
+      "title": "the oldnews（ザ・オールドニュース）",
+      "url": "https://www.chobirich.com/ad_details/1750109/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1750395",
+      "title": "Dorry Doll",
+      "url": "https://www.chobirich.com/ad_details/1750395/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1749437",
+      "title": "fitfit（フィットフィット）オフィシャルサイト",
+      "url": "https://www.chobirich.com/ad_details/1749437/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1749352",
+      "title": "aimerfeel（エメフィール）公式通販サイト",
+      "url": "https://www.chobirich.com/ad_details/1749352/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1749176",
+      "title": "京都きもの友禅オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1749176/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1747852",
+      "title": "リゲッタ公式",
+      "url": "https://www.chobirich.com/ad_details/1747852/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1745008",
+      "title": "POPLENS",
+      "url": "https://www.chobirich.com/ad_details/1745008/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1737161",
+      "title": "BANDEL",
+      "url": "https://www.chobirich.com/ad_details/1737161/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1729902",
+      "title": "Pearls（パールズ）",
+      "url": "https://www.chobirich.com/ad_details/1729902/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "75695",
+      "title": "ITOKIN Online Store（イトキンオンラインストア）",
+      "url": "https://www.chobirich.com/ad_details/75695/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1702758",
+      "title": "SPUTNICKS（スプートニクス）",
+      "url": "https://www.chobirich.com/ad_details/1702758/",
+      "points": "7.85%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1682782",
+      "title": "東京クロコダイル",
+      "url": "https://www.chobirich.com/ad_details/1682782/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1667639",
+      "title": "LARA Christie",
+      "url": "https://www.chobirich.com/ad_details/1667639/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1812842",
+      "title": "STANDOOL TOKYO（スタンドゥール）",
+      "url": "https://www.chobirich.com/ad_details/1812842/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1751764",
+      "title": "コールドシェイプ",
+      "url": "https://www.chobirich.com/ad_details/1751764/",
+      "points": "7,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1018024",
+      "title": "神戸レタス",
+      "url": "https://www.chobirich.com/ad_details/1018024/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "41048",
+      "title": "夢展望",
+      "url": "https://www.chobirich.com/ad_details/41048/",
+      "points": "3.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1644992",
+      "title": "Les Bliss",
+      "url": "https://www.chobirich.com/ad_details/1644992/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1644991",
+      "title": "レンズチャンピオン",
+      "url": "https://www.chobirich.com/ad_details/1644991/",
+      "points": "3.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1642951",
+      "title": "SOIM",
+      "url": "https://www.chobirich.com/ad_details/1642951/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1636962",
+      "title": "THE KISS",
+      "url": "https://www.chobirich.com/ad_details/1636962/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1636948",
+      "title": "アサヒシューズ",
+      "url": "https://www.chobirich.com/ad_details/1636948/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1636946",
+      "title": "池田工芸",
+      "url": "https://www.chobirich.com/ad_details/1636946/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1605525",
+      "title": "きものレンタリエ",
+      "url": "https://www.chobirich.com/ad_details/1605525/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1605526",
+      "title": "BRILLAMICO",
+      "url": "https://www.chobirich.com/ad_details/1605526/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1604632",
+      "title": "KRKC＆CO",
+      "url": "https://www.chobirich.com/ad_details/1604632/",
+      "points": "5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1602863",
+      "title": "tu-hacci",
+      "url": "https://www.chobirich.com/ad_details/1602863/",
+      "points": "10％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1636089",
+      "title": "パンダウェア",
+      "url": "https://www.chobirich.com/ad_details/1636089/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1598462",
+      "title": "Codibook",
+      "url": "https://www.chobirich.com/ad_details/1598462/",
+      "points": "2.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1182179",
+      "title": "AMOSTYLE BY Triumph",
+      "url": "https://www.chobirich.com/ad_details/1182179/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1186116",
+      "title": "Triumph",
+      "url": "https://www.chobirich.com/ad_details/1186116/",
+      "points": "3％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1020773",
+      "title": "三恵",
+      "url": "https://www.chobirich.com/ad_details/1020773/",
+      "points": "4%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "39020",
+      "title": "白鳩",
+      "url": "https://www.chobirich.com/ad_details/39020/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1648879",
+      "title": "【オーダーシャツ】SOLVE公式通販",
+      "url": "https://www.chobirich.com/ad_details/1648879/",
+      "points": "1,000pt",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1275657",
+      "title": "Pour Vous（プール・ヴー）",
+      "url": "https://www.chobirich.com/ad_details/1275657/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1644755",
+      "title": "CAMPER（カンペール）",
+      "url": "https://www.chobirich.com/ad_details/1644755/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1730100",
+      "title": "Legend Walker Store",
+      "url": "https://www.chobirich.com/ad_details/1730100/",
+      "points": "2.25%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1181963",
+      "title": "ティティベイト／titivate",
+      "url": "https://www.chobirich.com/ad_details/1181963/",
+      "points": "1.15%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1340296",
+      "title": "aquagarage",
+      "url": "https://www.chobirich.com/ad_details/1340296/",
+      "points": "7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1110596",
+      "title": "SEA DRESS",
+      "url": "https://www.chobirich.com/ad_details/1110596/",
+      "points": "1.15％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1814681",
+      "title": "超鏡面ナノミラーピアス（Lunano）",
+      "url": "https://www.chobirich.com/ad_details/1814681/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1251720",
+      "title": "ルイ・グラマラス",
+      "url": "https://www.chobirich.com/ad_details/1251720/",
+      "points": "3.8%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1068906",
+      "title": "「marimekko/IL BISONTE」LOOK@E-SHOP",
+      "url": "https://www.chobirich.com/ad_details/1068906/",
+      "points": "2.86%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "90834",
+      "title": "GUNZE store（グンゼストア）",
+      "url": "https://www.chobirich.com/ad_details/90834/",
+      "points": "2.0%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1068295",
+      "title": "オシャレウォーカー【osharewalker】",
+      "url": "https://www.chobirich.com/ad_details/1068295/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1068799",
+      "title": "LUISA VIA ROMA",
+      "url": "https://www.chobirich.com/ad_details/1068799/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1790363",
+      "title": "Jack Wolfskin（ジャック・ウルフスキン）公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1790363/",
+      "points": "5.2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1068836",
+      "title": "福助オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1068836/",
+      "points": "3%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "45660",
+      "title": "オンワード・クローゼット",
+      "url": "https://www.chobirich.com/ad_details/45660/",
+      "points": "1.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1110648",
+      "title": "韓国アナウンサーご愛用ブランド【styleonme】",
+      "url": "https://www.chobirich.com/ad_details/1110648/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1174740",
+      "title": "dazzy store",
+      "url": "https://www.chobirich.com/ad_details/1174740/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1474194",
+      "title": "URBAN RESEARCH ONLINE STORE",
+      "url": "https://www.chobirich.com/ad_details/1474194/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1006470",
+      "title": "RUNWAY channel（ランウェイチャンネル）",
+      "url": "https://www.chobirich.com/ad_details/1006470/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "51305",
+      "title": "DoCLASSE（ドゥクラッセ）",
+      "url": "https://www.chobirich.com/ad_details/51305/",
+      "points": "0.7％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1023867",
+      "title": "SHEL'TTER WEB STORE",
+      "url": "https://www.chobirich.com/ad_details/1023867/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1034259",
+      "title": "Farfetch.com（ファーフェッチ）",
+      "url": "https://www.chobirich.com/ad_details/1034259/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1132845",
+      "title": "「七緒」公式オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1132845/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1103112",
+      "title": "上品な大人カジュアルファッション通販【STORYNINE】",
+      "url": "https://www.chobirich.com/ad_details/1103112/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1749430",
+      "title": "ハッピーマリリン",
+      "url": "https://www.chobirich.com/ad_details/1749430/",
+      "points": "2%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "100058",
+      "title": "集英社HAPPY PLUS STORE",
+      "url": "https://www.chobirich.com/ad_details/100058/",
+      "points": "1.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1021942",
+      "title": "ur's",
+      "url": "https://www.chobirich.com/ad_details/1021942/",
+      "points": "1.15％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "53306",
+      "title": "Nursery（ナースリー）",
+      "url": "https://www.chobirich.com/ad_details/53306/",
+      "points": "5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1059546",
+      "title": "GILT（ギルト）",
+      "url": "https://www.chobirich.com/ad_details/1059546/",
+      "points": "2％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1023660",
+      "title": "USAGI ONLINE（ウサギオンライン）",
+      "url": "https://www.chobirich.com/ad_details/1023660/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1397426",
+      "title": "Alinoma（アリノマ）",
+      "url": "https://www.chobirich.com/ad_details/1397426/",
+      "points": "1%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1024104",
+      "title": "パーティードレス通販GIRL",
+      "url": "https://www.chobirich.com/ad_details/1024104/",
+      "points": "3.5%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1102970",
+      "title": "激安メンズファッション公式サイト ARCADE",
+      "url": "https://www.chobirich.com/ad_details/1102970/",
+      "points": "4.76%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1110464",
+      "title": "SILVER BULLET",
+      "url": "https://www.chobirich.com/ad_details/1110464/",
+      "points": "3.81%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1102965",
+      "title": "SORIENO（ソリエノ）",
+      "url": "https://www.chobirich.com/ad_details/1102965/",
+      "points": "4％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1812480",
+      "title": "SUIT SQUARE",
+      "url": "https://www.chobirich.com/ad_details/1812480/",
+      "points": "2.5％",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "87961",
+      "title": "Tokyo Life",
+      "url": "https://www.chobirich.com/ad_details/87961/",
+      "points": "0.9%",
+      "category": "shopping",
+      "platform": "pc"
+    },
+    {
+      "id": "1055871",
+      "title": "ブランディア",
+      "url": "https://www.chobirich.com/ad_details/1055871/",
+      "points": "0.5%",
+      "category": "shopping",
+      "platform": "pc"
+    }
+  ]
+}

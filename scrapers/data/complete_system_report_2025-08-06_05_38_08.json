@@ -1,0 +1,23 @@
+{
+  "executionTime": "2025-08-06T05:38:08.675Z",
+  "duration": 53.009,
+  "stats": {
+    "startTime": "2025-08-06T05:37:15.665Z",
+    "endTime": "2025-08-06T05:38:08.674Z",
+    "totalWebCampaigns": 178,
+    "totalMobileCampaigns": 0,
+    "totalCombined": 178,
+    "categoriesProcessed": 20,
+    "errors": []
+  },
+  "dataQuality": {
+    "totalCampaigns": 178,
+    "validCampaigns": 175,
+    "successRate": "98.31%"
+  },
+  "categoryBreakdown": {
+    "shopping": 178
+  },
+  "highValueCampaigns": 1,
+  "systemStatus": "completed_successfully"
+}

@@ -1,0 +1,65 @@
+{
+  "scrapeDate": "2025-08-05T05:02:49.137Z",
+  "version": "mobile_app_scraper_v1.0.0",
+  "systemType": "mobile_app_os_specific",
+  "targetOS": [
+    "ios"
+  ],
+  "sortType": "point",
+  "campaigns": [
+    {
+      "id": "1794491",
+      "title": "WINTICKET\n                                    3510pt\n                                    初回投票(インストール後、条件達成)",
+      "url": "https://www.chobirich.com/ad_details/1794491",
+      "points": "初回投票(インストール後、条件達成)",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-05T05:02:39.752Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841249",
+      "title": "ニコニコ漫画 7日連続1話以上読了（iOS）\n                                    350pt\n                                    新規アプリインストール後、7日連続1話以上読了で成果",
+      "url": "https://www.chobirich.com/ad_details/1841249",
+      "points": "新規アプリインストール後、7日連続1話以上読了で成果",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-05T05:02:39.752Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1808993",
+      "title": "ローソンアプリ（iOS）\n                                    120pt\n                                    新規アプリインストール後、初回起動",
+      "url": "https://www.chobirich.com/ad_details/1808993",
+      "points": "新規アプリインストール後、初回起動",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-05T05:02:39.752Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839368",
+      "title": "【独占配信】amood(アムード) - 海外配送も条件なしで送料無料\n                                    49pt\n                                    新規アプリインストール後、初回起動",
+      "url": "https://www.chobirich.com/ad_details/1839368",
+      "points": "新規アプリインストール後、初回起動",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-05T05:02:39.752Z",
+      "source": "mobile_app_scraper"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "ios": 4,
+    "android": 0,
+    "osBreakdown": {
+      "ios": 4,
+      "android": 0
+    }
+  },
+  "performance": {
+    "avgCampaignsPerOS": 4,
+    "successRate": "100%",
+    "errorRate": "0%"
+  }
+}

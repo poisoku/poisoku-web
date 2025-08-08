@@ -6,7 +6,9 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "check-imports": "node scripts/validate-imports.js",
+    "prebuild": "npm run check-imports"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.50.3",
