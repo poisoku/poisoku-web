@@ -11,8 +11,8 @@ const crypto = require('crypto');
 async function integratePointIncomeData() {
   console.log('🔄 ポイントインカムデータ統合開始');
   
-  // 最新のポイントインカムデータを読み込み
-  const pointIncomeDataPath = '/Users/kn/poisoku-web/scrapers/data/pointincome/pointincome_web_2025-08-09T03-31-02-201Z.json';
+  // 最新のポイントインカムデータを読み込み（完全版911件）
+  const pointIncomeDataPath = '/Users/kn/poisoku-web/scrapers/data/pointincome_latest_complete.json';
   const pointIncomeRaw = await fs.readFile(pointIncomeDataPath, 'utf-8');
   const pointIncomeData = JSON.parse(pointIncomeRaw);
   

@@ -6,7 +6,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 /**
- * ポイントインカムWebスクレイパー
+ * ポイントインカムWebスクレイパー（最適化版）
  * 82カテゴリ（ショッピング50、サービス32）対応
  */
 class PointIncomeWebScraper {
@@ -39,7 +39,11 @@ class PointIncomeWebScraper {
       pageWaitTime: 3000,
       maxRetriesPerCategory: 3,
       maxPagesPerCategory: 999,
-      browserRestartInterval: 5
+      browserRestartInterval: 5,
+      browserStartupWait: 2000,
+      pageLoadWait: 5000,
+      paginationWaitTime: 45000,
+      paginationCheckInterval: 2000
     };
   }
 
@@ -90,21 +94,16 @@ class PointIncomeWebScraper {
 
     console.log('🔄 新しいブラウザインスタンス起動中...');
     this.browser = await puppeteer.launch({
-      headless: 'new',
+      headless: true,
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
         '--disable-dev-shm-usage',
-        '--disable-web-security',
-        '--disable-background-timer-throttling',
-        '--disable-backgrounding-occluded-windows',
-        '--disable-renderer-backgrounding',
-        '--memory-pressure-off'
+        '--disable-web-security'
       ]
     });
     
-    // ブラウザ起動後に少し待機
-    await new Promise(resolve => setTimeout(resolve, 2000));
+    await new Promise(resolve => setTimeout(resolve, this.config.browserStartupWait));
   }
 
   async execute() {
@@ -127,10 +126,10 @@ class PointIncomeWebScraper {
           await this.initializeBrowser();
         }
         
-        // カテゴリ間で少し休憩
         await new Promise(resolve => setTimeout(resolve, 2000));
       }
 
+      this.stats.endTime = new Date();
       await this.generateReport();
       
     } catch (error) {
@@ -143,7 +142,6 @@ class PointIncomeWebScraper {
       if (this.browser) {
         await this.browser.close();
       }
-      this.stats.endTime = new Date();
     }
   }
 
@@ -156,7 +154,6 @@ class PointIncomeWebScraper {
     while (retryCount < this.config.maxRetriesPerCategory) {
       let page = null;
       try {
-        // ブラウザの健康状態チェック
         if (!this.browser || !this.browser.isConnected()) {
           console.log('⚠️ ブラウザ接続失効、再初期化中...');
           await this.initializeBrowser();
@@ -166,14 +163,12 @@ class PointIncomeWebScraper {
         await page.setUserAgent(this.config.userAgent);
         await page.setViewport(this.config.viewport);
 
-        // より堅牢なページ読み込み
         await page.goto(categoryConfig.url, {
           waitUntil: 'networkidle2',
           timeout: this.config.timeout
         });
         
-        // ページのJavaScript完全実行を待機
-        await new Promise(resolve => setTimeout(resolve, 5000));
+        await new Promise(resolve => setTimeout(resolve, this.config.pageLoadWait));
         
         let currentPage = 1;
         let hasNextPage = true;
@@ -214,7 +209,6 @@ class PointIncomeWebScraper {
         retryCount++;
         console.log(`   ⚠️ エラー (リトライ ${retryCount}/${this.config.maxRetriesPerCategory}): ${error.message}`);
         
-        // ページクリーンアップ
         if (page) {
           try {
             await page.close();
@@ -223,7 +217,6 @@ class PointIncomeWebScraper {
           }
         }
         
-        // 接続エラーの場合はブラウザを再初期化
         if (error.message.includes('Protocol error') || error.message.includes('Connection closed')) {
           console.log('   🔄 接続エラーのためブラウザ再初期化中...');
           await this.initializeBrowser();
@@ -236,7 +229,6 @@ class PointIncomeWebScraper {
           });
         }
         
-        // リトライ前に少し待機
         await new Promise(resolve => setTimeout(resolve, 3000));
       }
     }
@@ -303,7 +295,7 @@ class PointIncomeWebScraper {
               title,
               url: absoluteUrl,
               points,
-              device: 'すべて',  // スマホアプリ案件以外は全て「すべて」
+              device: 'すべて',
               category_id: config ? config.id : null,
               category_type: config ? config.type : null,
               timestamp: new Date().toISOString()
@@ -320,219 +312,169 @@ class PointIncomeWebScraper {
 
   async navigateToNextPage(page, currentPage) {
     try {
-      // 現在のページ番号を取得して次のページ番号を計算
       const nextPageNumber = currentPage + 1;
       console.log(`🔍 ページ${currentPage} → ページ${nextPageNumber} への遷移を試行`);
       
-      // ページネーション要素の完全ロードを待機
       await new Promise(resolve => setTimeout(resolve, 3000));
       
-      // 利用可能なページ番号を確認（より厳密な検出）
-      const availablePages = await page.evaluate(() => {
-        // ページが完全にロードされるまで少し待機
-        const pageLinks = Array.from(document.querySelectorAll('a[onclick*="tab_select"]'));
-        
-        console.log(`DEBUG: Found ${pageLinks.length} tab_select links`);
-        
-        const pageNumbers = pageLinks
-          .map(link => {
-            const onclick = link.getAttribute('onclick');
-            const text = link.textContent.trim();
-            console.log(`DEBUG: Link text: "${text}", onclick: "${onclick}"`);
-            
-            if (!onclick) return null;
-            
-            // より柔軟な正規表現パターン
-            const patterns = [
-              /tab_select\('tab1',\s*0,\s*\d+,\s*(\d+)\)/,  // 一般的なパターン
-              /tab_select\('tab1',\s*\d+,\s*\d+,\s*(\d+)\)/, // インデックスが異なる場合
-              /tab_select\(\s*'[^']+',\s*\d+,\s*\d+,\s*(\d+)\s*\)/ // より汎用的
-            ];
-            
-            for (const pattern of patterns) {
-              const match = onclick.match(pattern);
-              if (match) {
-                console.log(`DEBUG: Matched pattern with page ${match[1]}`);
-                return parseInt(match[1]);
-              }
-            }
-            
-            return null;
-          })
-          .filter(num => num !== null)
-          .sort((a, b) => a - b);
-        
-        console.log(`DEBUG: Extracted page numbers: [${pageNumbers.join(', ')}]`);
-        return pageNumbers;
-      });
-      
-      console.log(`📊 利用可能なページ: [${availablePages.join(', ')}]`);
-      
-      // ポイントインカムの「次へ」ボタンを正確に検出（最終ページ判定の主要な方法）
-      const nextButtonInfo = await page.evaluate(() => {
-        // 「次へ>」テキストを含み、tab_selectのonclickを持つ要素を探す
-        const links = Array.from(document.querySelectorAll('a[onclick*="tab_select"]'));
-        
-        for (const link of links) {
-          const text = link.textContent.trim();
-          if (text.includes('次へ') || text === '次へ>') {
-            // onclick属性から次のページ番号を取得
-            const onclick = link.getAttribute('onclick');
-            const pageMatch = onclick.match(/tab_select\([^,]+,\s*\d+,\s*\d+,\s*(\d+)\)/);
-            const targetPage = pageMatch ? parseInt(pageMatch[1]) : null;
-            
-            return {
-              found: true,
-              onclick: onclick,
-              href: link.getAttribute('href'),
-              text: text,
-              targetPage: targetPage
-            };
-          }
-        }
-        
-        // フォールバック：class="next"を持つ要素
-        const nextLinks = Array.from(document.querySelectorAll('a.next, a[class*="next"]'));
-        if (nextLinks.length > 0 && nextLinks[0].getAttribute('onclick')) {
-          const link = nextLinks[0];
-          const onclick = link.getAttribute('onclick');
-          const pageMatch = onclick.match(/tab_select\([^,]+,\s*\d+,\s*\d+,\s*(\d+)\)/);
-          const targetPage = pageMatch ? parseInt(pageMatch[1]) : null;
-          
-          return {
-            found: true,
-            onclick: onclick,
-            href: link.getAttribute('href'),
-            text: link.textContent.trim(),
-            targetPage: targetPage
-          };
-        }
-        
-        return { found: false };
-      });
+      // 「次へ」ボタンの検出
+      const nextButtonInfo = await this.detectNextButton(page);
 
       if (!nextButtonInfo.found) {
         console.log('❌ 次へボタンが見つかりません（最終ページに到達）');
         return false;
       }
 
-      // 次のページ番号が現在のページ番号より大きいかチェック
       if (nextButtonInfo.targetPage && nextButtonInfo.targetPage <= currentPage) {
         console.log(`❌ 次ページ番号が無効 (現在:${currentPage}, 次:${nextButtonInfo.targetPage})（最終ページに到達）`);
         return false;
       }
 
-      console.log(`🔍 「次へ」ボタン発見 - onclick: ${nextButtonInfo.onclick}, href: ${nextButtonInfo.href}, 対象ページ: ${nextButtonInfo.targetPage}`);
+      console.log(`🔍 「次へ」ボタン発見 - 対象ページ: ${nextButtonInfo.targetPage}`);
       
       if (nextButtonInfo.onclick && nextButtonInfo.onclick.includes('tab_select')) {
-        // JavaScriptによるページ遷移
-        console.log('🖱️ JavaScriptページネーション実行中...');
-        
-        // クリック前の最初の案件タイトルを記録（変化検出用）
-        const beforeFirstTitle = await page.evaluate(() => {
-          const firstAd = document.querySelector('.box_ad .title_list');
-          return firstAd ? firstAd.textContent.trim() : null;
-        }).catch(() => null);
-        
-        const beforeCount = await page.$$eval('.box_ad', elements => elements.length).catch(() => 0);
-        console.log(`📊 クリック前: ${beforeCount}件 (最初: "${beforeFirstTitle}")`);
-        
-        // jQueryベースのtab_select関数を動的なページ番号で実行
-        const clickResult = await page.evaluate((nextPage) => {
-          // 次へボタンをクリックして tab_select を実行
-          if (typeof window.tab_select === 'function') {
-            console.log(`tab_select関数を実行中... ページ${nextPage}へ`);
-            // 動的なページ番号を使用
-            window.tab_select('tab1', 0, 63, nextPage);
-            return true;
-          }
-          return false;
-        }, nextButtonInfo.targetPage || nextPageNumber);
-        
-        if (!clickResult) {
-          console.log('❌ tab_select関数が見つかりません');
-          return false;
-        }
-        
-        console.log('⏳ jQuery .load() 完了待機中...');
-        
-        // より長い初期待機（jQueryのAJAXロード完了を確実に待つ）
-        await new Promise(resolve => setTimeout(resolve, 5000));
-        
-        // DOM変更を監視して内容が変わるまで最大45秒待機
-        let contentChanged = false;
-        const maxWaitTime = 45000;
-        const checkInterval = 2000; // 2秒間隔に延長
-        let waitedTime = 0;
-        
-        while (waitedTime < maxWaitTime && !contentChanged) {
-          await new Promise(resolve => setTimeout(resolve, checkInterval));
-          waitedTime += checkInterval;
-          
-          // より確実な変化検出（複数の要素をチェック）
-          const currentState = await page.evaluate(() => {
-            const firstAd = document.querySelector('.box_ad .title_list');
-            const allAds = document.querySelectorAll('.box_ad');
-            return {
-              firstTitle: firstAd ? firstAd.textContent.trim() : null,
-              totalCount: allAds.length,
-              // 2番目の案件タイトルも確認
-              secondTitle: allAds.length > 1 && allAds[1].querySelector('.title_list') 
-                ? allAds[1].querySelector('.title_list').textContent.trim() : null
-            };
-          }).catch(() => ({ firstTitle: null, totalCount: 0, secondTitle: null }));
-          
-          // より厳密な変化検出
-          if (currentState.firstTitle && 
-              (currentState.firstTitle !== beforeFirstTitle || 
-               currentState.totalCount !== beforeCount)) {
-            contentChanged = true;
-            console.log(`📝 内容変化を検出: "${beforeFirstTitle}" → "${currentState.firstTitle}" (${beforeCount}→${currentState.totalCount}件)`);
-            break;
-          }
-          
-          // 3秒おきにプログレス表示
-          if (waitedTime % 6000 === 0) {
-            console.log(`⏳ 待機中... ${waitedTime/1000}秒経過 (現在: ${currentState.firstTitle || 'null'})`);
-          }
-        }
-        
-        const afterCount = await page.$$eval('.box_ad', elements => elements.length).catch(() => 0);
-        const afterFirstTitle = await page.evaluate(() => {
-          const firstAd = document.querySelector('.box_ad .title_list');
-          return firstAd ? firstAd.textContent.trim() : null;
-        }).catch(() => null);
-        
-        console.log(`📊 クリック後: ${afterCount}件 (最初: "${afterFirstTitle}")`);
-        
-        // 内容が変化していればページネーション成功
-        if (contentChanged && afterCount > 0) {
-          console.log('✅ ページネーション成功！');
-          return true;
-        } else {
-          console.log('❌ ページネーション失敗：内容が変化しませんでした');
-          return false;
-        }
-        
+        return await this.handleJavaScriptPagination(page, nextButtonInfo.targetPage || nextPageNumber);
       } else if (nextButtonInfo.href && nextButtonInfo.href !== 'javascript:void(0);' && nextButtonInfo.href !== '#') {
-        // 通常のリンク遷移
-        console.log('🔗 通常リンク遷移実行中...');
-        await page.goto(nextButtonInfo.href, {
-          waitUntil: 'networkidle2',
-          timeout: this.config.timeout
-        });
-        return true;
+        return await this.handleLinkPagination(page, nextButtonInfo.href);
       } else {
         console.log('❌ 有効なページネーション方法が見つかりません');
         return false;
       }
-
-      return true;
       
     } catch (error) {
       console.log('      ℹ️ 次ページなし');
       return false;
     }
+  }
+
+  async detectNextButton(page) {
+    return await page.evaluate(() => {
+      const PAGE_NUMBER_PATTERN = /tab_select\([^,]+,\s*\d+,\s*\d+,\s*(\d+)\)/;
+      
+      // 「次へ」ボタンの検索
+      const links = Array.from(document.querySelectorAll('a[onclick*="tab_select"]'));
+      
+      for (const link of links) {
+        const text = link.textContent.trim();
+        if (text.includes('次へ') || text === '次へ>') {
+          const onclick = link.getAttribute('onclick');
+          const pageMatch = onclick.match(PAGE_NUMBER_PATTERN);
+          const targetPage = pageMatch ? parseInt(pageMatch[1]) : null;
+          
+          return {
+            found: true,
+            onclick: onclick,
+            href: link.getAttribute('href'),
+            text: text,
+            targetPage: targetPage
+          };
+        }
+      }
+      
+      // フォールバック：class="next"を持つ要素
+      const nextLinks = Array.from(document.querySelectorAll('a.next, a[class*="next"]'));
+      if (nextLinks.length > 0 && nextLinks[0].getAttribute('onclick')) {
+        const link = nextLinks[0];
+        const onclick = link.getAttribute('onclick');
+        const pageMatch = onclick.match(PAGE_NUMBER_PATTERN);
+        const targetPage = pageMatch ? parseInt(pageMatch[1]) : null;
+        
+        return {
+          found: true,
+          onclick: onclick,
+          href: link.getAttribute('href'),
+          text: link.textContent.trim(),
+          targetPage: targetPage
+        };
+      }
+      
+      return { found: false };
+    });
+  }
+
+  async handleJavaScriptPagination(page, targetPage) {
+    console.log('🖱️ JavaScriptページネーション実行中...');
+    
+    // 現在のページ状態を記録
+    const beforeState = await this.getPageState(page);
+    console.log(`📊 クリック前: ${beforeState.count}件 (最初: "${beforeState.firstTitle}")`);
+    
+    // tab_select関数を実行
+    const clickResult = await page.evaluate((nextPage) => {
+      if (typeof window.tab_select === 'function') {
+        console.log(`tab_select関数を実行中... ページ${nextPage}へ`);
+        // TODO: 第3引数は動的に取得する必要があるかもしれない
+        window.tab_select('tab1', 0, 63, nextPage);
+        return true;
+      }
+      return false;
+    }, targetPage);
+    
+    if (!clickResult) {
+      console.log('❌ tab_select関数が見つかりません');
+      return false;
+    }
+    
+    console.log('⏳ jQuery .load() 完了待機中...');
+    await new Promise(resolve => setTimeout(resolve, 5000));
+    
+    // ページ内容の変化を待機
+    const contentChanged = await this.waitForContentChange(page, beforeState);
+    
+    const afterState = await this.getPageState(page);
+    console.log(`📊 クリック後: ${afterState.count}件 (最初: "${afterState.firstTitle}")`);
+    
+    if (contentChanged && afterState.count > 0) {
+      console.log('✅ ページネーション成功！');
+      return true;
+    } else {
+      console.log('❌ ページネーション失敗：内容が変化しませんでした');
+      return false;
+    }
+  }
+
+  async handleLinkPagination(page, href) {
+    console.log('🔗 通常リンク遷移実行中...');
+    await page.goto(href, {
+      waitUntil: 'networkidle2',
+      timeout: this.config.timeout
+    });
+    return true;
+  }
+
+  async getPageState(page) {
+    return await page.evaluate(() => {
+      const firstAd = document.querySelector('.box_ad .title_list');
+      const allAds = document.querySelectorAll('.box_ad');
+      return {
+        firstTitle: firstAd ? firstAd.textContent.trim() : null,
+        count: allAds.length
+      };
+    }).catch(() => ({ firstTitle: null, count: 0 }));
+  }
+
+  async waitForContentChange(page, beforeState) {
+    let waitedTime = 0;
+    
+    while (waitedTime < this.config.paginationWaitTime) {
+      await new Promise(resolve => setTimeout(resolve, this.config.paginationCheckInterval));
+      waitedTime += this.config.paginationCheckInterval;
+      
+      const currentState = await this.getPageState(page);
+      
+      if (currentState.firstTitle && 
+          (currentState.firstTitle !== beforeState.firstTitle || 
+           currentState.count !== beforeState.count)) {
+        console.log(`📝 内容変化を検出: "${beforeState.firstTitle}" → "${currentState.firstTitle}"`);
+        return true;
+      }
+      
+      if (waitedTime % 6000 === 0) {
+        console.log(`⏳ 待機中... ${waitedTime/1000}秒経過`);
+      }
+    }
+    
+    return false;
   }
 
   async generateReport() {
