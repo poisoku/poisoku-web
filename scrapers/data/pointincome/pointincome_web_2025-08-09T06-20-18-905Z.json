@@ -1,0 +1,1567 @@
+{
+  "scrape_date": "2025-08-09T06:20:18.905Z",
+  "stats": {
+    "startTime": "2025-08-09T06:18:29.536Z",
+    "endTime": null,
+    "categoriesProcessed": 3,
+    "pagesProcessed": 6,
+    "duplicatesSkipped": 8,
+    "errors": [],
+    "categoryBreakdown": {
+      "shopping_66": 60,
+      "shopping_177": 52,
+      "service_79": 60
+    }
+  },
+  "total_campaigns": 172,
+  "campaigns": [
+    {
+      "id": "49384",
+      "title": "ビックカメラ.com",
+      "url": "https://pointi.jp/ad/49384/",
+      "points": "1.8%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "143060",
+      "title": "ダイソーネットストア　DAISO",
+      "url": "https://pointi.jp/ad/143060/",
+      "points": "4%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "135355",
+      "title": "au PAY マーケット",
+      "url": "https://pointi.jp/ad/135355/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "136739",
+      "title": "羽田空港公式通販サイト",
+      "url": "https://pointi.jp/ad/136739/",
+      "points": "5.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "148367",
+      "title": "【初回購入限定】Green Beans（グリーンビーンズ）",
+      "url": "https://pointi.jp/ad/148367/",
+      "points": "10%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "146956",
+      "title": "AliExpress（アリエクスプレス）衣類・雑貨専用",
+      "url": "https://pointi.jp/ad/146956/",
+      "points": "6%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "153478",
+      "title": "日テレポシュレ",
+      "url": "https://pointi.jp/ad/153478/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "147168",
+      "title": "Qoo10",
+      "url": "https://pointi.jp/ad/147168/",
+      "points": "1.9%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "153397",
+      "title": "プライムダイレクト",
+      "url": "https://pointi.jp/ad/153397/",
+      "points": "7%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "147716",
+      "title": "ショップジャパン【8/13まで高還元】",
+      "url": "https://pointi.jp/ad/147716/",
+      "points": "10%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "146954",
+      "title": "AliExpress（アリエクスプレス）その他カテゴリ",
+      "url": "https://pointi.jp/ad/146954/",
+      "points": "4%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "146955",
+      "title": "AliExpress（アリエクスプレス）家電・PC専用",
+      "url": "https://pointi.jp/ad/146955/",
+      "points": "2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "148872",
+      "title": "神戸レタス（Koube　Lettuce）　新規購入",
+      "url": "https://pointi.jp/ad/148872/",
+      "points": "21%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "18378",
+      "title": "神戸レタス（Koube　Lettuce）",
+      "url": "https://pointi.jp/ad/18378/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "11144",
+      "title": "Yahoo!ショッピング（ヤフーショッピング）",
+      "url": "https://pointi.jp/ad/11144/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "153234",
+      "title": "Wish(ウィッシュ)",
+      "url": "https://pointi.jp/ad/153234/",
+      "points": "3.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "152776",
+      "title": "京王百貨店ネットショップ",
+      "url": "https://pointi.jp/ad/152776/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "122897",
+      "title": "DHCオンラインショップ",
+      "url": "https://pointi.jp/ad/122897/",
+      "points": "0.6%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "13226",
+      "title": "トーカ堂テレビショッピング",
+      "url": "https://pointi.jp/ad/13226/",
+      "points": "2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "119559",
+      "title": "ベルーナ",
+      "url": "https://pointi.jp/ad/119559/",
+      "points": "5.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.839Z"
+    },
+    {
+      "id": "126151",
+      "title": "サンプル百貨店　初回購入",
+      "url": "https://pointi.jp/ad/126151/",
+      "points": "22円",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "152394",
+      "title": "DHCオンラインショップ　新規購入",
+      "url": "https://pointi.jp/ad/152394/",
+      "points": "100円",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "152267",
+      "title": "日本直販(NIHON CHOKUHAN)",
+      "url": "https://pointi.jp/ad/152267/",
+      "points": "4%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "148519",
+      "title": "高島屋オンラインストア",
+      "url": "https://pointi.jp/ad/148519/",
+      "points": "1.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "6857",
+      "title": "nissen（ニッセン）",
+      "url": "https://pointi.jp/ad/6857/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "6894",
+      "title": "BELLE MAISON(ベルメゾン)",
+      "url": "https://pointi.jp/ad/6894/",
+      "points": "0.6%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "150971",
+      "title": "DCMオンライン（ホームセンター通販）",
+      "url": "https://pointi.jp/ad/150971/",
+      "points": "2.1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "150057",
+      "title": "JAPAN DUTY FREE　成田空港免税品予約サイト",
+      "url": "https://pointi.jp/ad/150057/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "150056",
+      "title": "TIAT DUTY FREE　羽田空港免税品予約サイト",
+      "url": "https://pointi.jp/ad/150056/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "7105",
+      "title": "ショップチャンネル",
+      "url": "https://pointi.jp/ad/7105/",
+      "points": "0.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:39.841Z"
+    },
+    {
+      "id": "67905",
+      "title": "セブンネットショッピング",
+      "url": "https://pointi.jp/ad/67905/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "10890",
+      "title": "Ropping（ロッピング）",
+      "url": "https://pointi.jp/ad/10890/",
+      "points": "2.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "143990",
+      "title": "Watts（ワッツ）公式オンラインショップ【100円ショップ】",
+      "url": "https://pointi.jp/ad/143990/",
+      "points": "2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "122189",
+      "title": "Joshin（ジョーシン)webショップ",
+      "url": "https://pointi.jp/ad/122189/",
+      "points": "0.6%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "147254",
+      "title": "サマンサタバサ公式オンラインショップ",
+      "url": "https://pointi.jp/ad/147254/",
+      "points": "7%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "128873",
+      "title": "オルビス ディフェンセラ",
+      "url": "https://pointi.jp/ad/128873/",
+      "points": "240円",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "126227",
+      "title": "ダイレクトテレショップ",
+      "url": "https://pointi.jp/ad/126227/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "146213",
+      "title": "東武オンラインショッピング（東武百貨店）",
+      "url": "https://pointi.jp/ad/146213/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "145737",
+      "title": "BRUNO online（ブルーノオンライン）",
+      "url": "https://pointi.jp/ad/145737/",
+      "points": "3.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "705",
+      "title": "ITOKIN ONLINE STORE（イトキン公式サイト）",
+      "url": "https://pointi.jp/ad/705/",
+      "points": "1.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "114646",
+      "title": "ロフトネットストア",
+      "url": "https://pointi.jp/ad/114646/",
+      "points": "2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "7068",
+      "title": "TBSショッピング",
+      "url": "https://pointi.jp/ad/7068/",
+      "points": "1.8%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "94456",
+      "title": "イオンショップ",
+      "url": "https://pointi.jp/ad/94456/",
+      "points": "5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "14236",
+      "title": "ディノス オンラインショップ",
+      "url": "https://pointi.jp/ad/14236/",
+      "points": "0.6%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "84287",
+      "title": "リコメン堂",
+      "url": "https://pointi.jp/ad/84287/",
+      "points": "1.8%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "142880",
+      "title": "イオンネットスーパー",
+      "url": "https://pointi.jp/ad/142880/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "6172",
+      "title": "大丸松坂屋オンラインストア",
+      "url": "https://pointi.jp/ad/6172/",
+      "points": "2.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "139297",
+      "title": "ISETAN BEAUTY online（イセタン ビューティー オンライン）",
+      "url": "https://pointi.jp/ad/139297/",
+      "points": "0.6%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "139130",
+      "title": "FELISSIMO(フェリシモ)",
+      "url": "https://pointi.jp/ad/139130/",
+      "points": "2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "137839",
+      "title": "e通販.com",
+      "url": "https://pointi.jp/ad/137839/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "15569",
+      "title": "GUNZE store(グンゼストア）",
+      "url": "https://pointi.jp/ad/15569/",
+      "points": "3%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "13115",
+      "title": "小田急百貨店オンラインショッピング",
+      "url": "https://pointi.jp/ad/13115/",
+      "points": "1.2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "6953",
+      "title": "三越伊勢丹オンラインストア",
+      "url": "https://pointi.jp/ad/6953/",
+      "points": "2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "135920",
+      "title": "AEON STYLE ONLINE（イオンスタイルオンライン）",
+      "url": "https://pointi.jp/ad/135920/",
+      "points": "1.2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "131850",
+      "title": "よろずやマルシェ本店",
+      "url": "https://pointi.jp/ad/131850/",
+      "points": "1.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "57583",
+      "title": "楽天市場",
+      "url": "https://pointi.jp/ad/57583/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "116640",
+      "title": "ケーズデンキ",
+      "url": "https://pointi.jp/ad/116640/",
+      "points": "0.5%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "112132",
+      "title": "ニトリ 楽天市場",
+      "url": "https://pointi.jp/ad/112132/",
+      "points": "1%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "18989",
+      "title": "ヤマダ電機 YAMADAモール",
+      "url": "https://pointi.jp/ad/18989/",
+      "points": "0.6%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "12567",
+      "title": "KILAT（キラット）",
+      "url": "https://pointi.jp/ad/12567/",
+      "points": "1.2%",
+      "category_id": 66,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:18:52.918Z"
+    },
+    {
+      "id": "85582",
+      "title": "SHOPLIST(ショップリスト)",
+      "url": "https://pointi.jp/ad/85582/",
+      "points": "4%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "149139",
+      "title": "SHEIN（シーイン）　 新規購入用",
+      "url": "https://pointi.jp/ad/149139/",
+      "points": "22%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "152262",
+      "title": "Temu（テム） リピート用",
+      "url": "https://pointi.jp/ad/152262/",
+      "points": "8.5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "148324",
+      "title": "axes femme（アクシーズファム）",
+      "url": "https://pointi.jp/ad/148324/",
+      "points": "5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "149179",
+      "title": "SHEIN（シーイン）　リピート用",
+      "url": "https://pointi.jp/ad/149179/",
+      "points": "2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "152261",
+      "title": "Temu（テム）  新規購入用",
+      "url": "https://pointi.jp/ad/152261/",
+      "points": "50%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "144913",
+      "title": "DHOLIC（ディーホリック）",
+      "url": "https://pointi.jp/ad/144913/",
+      "points": "8%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "137450",
+      "title": "tu-hacci（ツーハッチ）",
+      "url": "https://pointi.jp/ad/137450/",
+      "points": "10%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "122091",
+      "title": "GILT（ギルト）",
+      "url": "https://pointi.jp/ad/122091/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "150707",
+      "title": "HUGO BOSS（ヒューゴボス）",
+      "url": "https://pointi.jp/ad/150707/",
+      "points": "8%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "153603",
+      "title": "京都きもの友禅",
+      "url": "https://pointi.jp/ad/153603/",
+      "points": "10%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.411Z"
+    },
+    {
+      "id": "153260",
+      "title": "ZOZOUSED（新規購入）",
+      "url": "https://pointi.jp/ad/153260/",
+      "points": "260円",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.413Z"
+    },
+    {
+      "id": "141148",
+      "title": "DazzyStore（デイジーストア）　激安ドレスの専門サイト",
+      "url": "https://pointi.jp/ad/141148/",
+      "points": "6%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.413Z"
+    },
+    {
+      "id": "153518",
+      "title": "DIESEL（ディーゼル）公式オンラインストア",
+      "url": "https://pointi.jp/ad/153518/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.413Z"
+    },
+    {
+      "id": "142761",
+      "title": "PETIT BATEAU（プチバトーオンラインブティック）",
+      "url": "https://pointi.jp/ad/142761/",
+      "points": "5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.413Z"
+    },
+    {
+      "id": "153261",
+      "title": "ZOZOUSED（リピート利用）",
+      "url": "https://pointi.jp/ad/153261/",
+      "points": "2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "149403",
+      "title": "and ST (アンドエスティ)",
+      "url": "https://pointi.jp/ad/149403/",
+      "points": "1%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "153351",
+      "title": "ハッピーマリリン",
+      "url": "https://pointi.jp/ad/153351/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "121888",
+      "title": "ベルーナ　新規会員登録おトクキャンペーン",
+      "url": "https://pointi.jp/ad/121888/",
+      "points": "700円",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "147574",
+      "title": "Alinoma(アリノマ)",
+      "url": "https://pointi.jp/ad/147574/",
+      "points": "1.2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "146030",
+      "title": "ヒマラヤオンラインストア",
+      "url": "https://pointi.jp/ad/146030/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "152198",
+      "title": "STUDIOUS（ステュディオス）",
+      "url": "https://pointi.jp/ad/152198/",
+      "points": "2.5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "153254",
+      "title": "Admiral（アドミラル）",
+      "url": "https://pointi.jp/ad/153254/",
+      "points": "7%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "153089",
+      "title": "ROPE PICNIC(ロペピクニック)",
+      "url": "https://pointi.jp/ad/153089/",
+      "points": "2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "153107",
+      "title": "グレディブリリアン公式通販",
+      "url": "https://pointi.jp/ad/153107/",
+      "points": "2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "153078",
+      "title": "Pierrot（ピエロ）/RASW（ラス）",
+      "url": "https://pointi.jp/ad/153078/",
+      "points": "5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:15.414Z"
+    },
+    {
+      "id": "153062",
+      "title": "biffle（ビッフィル）",
+      "url": "https://pointi.jp/ad/153062/",
+      "points": "4%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "124092",
+      "title": "DoCLASSE（ドゥクラッセ）",
+      "url": "https://pointi.jp/ad/124092/",
+      "points": "2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "137489",
+      "title": "宝島チャンネル",
+      "url": "https://pointi.jp/ad/137489/",
+      "points": "1.3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "147503",
+      "title": "グレゴリー(GREGORY)公式通販",
+      "url": "https://pointi.jp/ad/147503/",
+      "points": "1.5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "151818",
+      "title": "Stylora Store（スタイロラ ストア）",
+      "url": "https://pointi.jp/ad/151818/",
+      "points": "2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "152214",
+      "title": "Stylora Store（スタイロラ ストア）　新規購入用",
+      "url": "https://pointi.jp/ad/152214/",
+      "points": "7%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "152669",
+      "title": "Emma Francis（エマフランシス）",
+      "url": "https://pointi.jp/ad/152669/",
+      "points": "4%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "152636",
+      "title": "calif(カリフ)",
+      "url": "https://pointi.jp/ad/152636/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "152619",
+      "title": "Pierrot（ピエロ）　新規購入",
+      "url": "https://pointi.jp/ad/152619/",
+      "points": "20%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "147407",
+      "title": "LEVI'S（リーバイス）オンラインストア",
+      "url": "https://pointi.jp/ad/147407/",
+      "points": "2.5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "152434",
+      "title": "YAMADAYA（ヤマダヤオンラインストア）",
+      "url": "https://pointi.jp/ad/152434/",
+      "points": "2.5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "152422",
+      "title": "グラニフ公式オンラインストア(graniph)",
+      "url": "https://pointi.jp/ad/152422/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "148219",
+      "title": "SHIPS - シップス（ファッション通販）",
+      "url": "https://pointi.jp/ad/148219/",
+      "points": "1.5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "11175",
+      "title": "URBAN RESEARCH　(アーバンリサーチオンラインショップ)",
+      "url": "https://pointi.jp/ad/11175/",
+      "points": "1.2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "115661",
+      "title": "COLE HAAN（コールハーンオンラインストア）",
+      "url": "https://pointi.jp/ad/115661/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "152239",
+      "title": "mo,de in japan（モードインジャパン） ひろゆきのブランド",
+      "url": "https://pointi.jp/ad/152239/",
+      "points": "7%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "151895",
+      "title": "さしい暮らしの店",
+      "url": "https://pointi.jp/ad/151895/",
+      "points": "7.2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "37673",
+      "title": "adidas Online Shop(アディダス)",
+      "url": "https://pointi.jp/ad/37673/",
+      "points": "0.6%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "151642",
+      "title": "WEGO ONLINE STORE(ウィゴー)",
+      "url": "https://pointi.jp/ad/151642/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "151489",
+      "title": "WORLD ONLINE STORE(ワールド オンラインストア)",
+      "url": "https://pointi.jp/ad/151489/",
+      "points": "1%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "109058",
+      "title": "RUNWAY channel（ランウェイチャンネル）",
+      "url": "https://pointi.jp/ad/109058/",
+      "points": "2%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "151097",
+      "title": "NUGU（ヌグ）",
+      "url": "https://pointi.jp/ad/151097/",
+      "points": "3%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "150984",
+      "title": "LC（ラックスカタログ）",
+      "url": "https://pointi.jp/ad/150984/",
+      "points": "5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "149006",
+      "title": "Rakuten Fashion(楽天ファッション)",
+      "url": "https://pointi.jp/ad/149006/",
+      "points": "4%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "149271",
+      "title": "RUNWAY channel（ランウェイチャンネル）　新規購入",
+      "url": "https://pointi.jp/ad/149271/",
+      "points": "13%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "150176",
+      "title": "F.O.Online Store",
+      "url": "https://pointi.jp/ad/150176/",
+      "points": "1.5%",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-09T06:19:28.488Z"
+    },
+    {
+      "id": "153578",
+      "title": "ワッピー",
+      "url": "https://pointi.jp/ad/153578/",
+      "points": "1,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "145512",
+      "title": "外壁塗装ヒカーク",
+      "url": "https://pointi.jp/ad/145512/",
+      "points": "13,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "125856",
+      "title": "保険の窓口インズウェブ自動車保険一括見積り",
+      "url": "https://pointi.jp/ad/125856/",
+      "points": "0円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "149874",
+      "title": "【リピートOK！】ITトレンド ビジネスツール導入診断",
+      "url": "https://pointi.jp/ad/149874/",
+      "points": "3,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "135223",
+      "title": "おいくら　一括査定",
+      "url": "https://pointi.jp/ad/135223/",
+      "points": "100円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "148013",
+      "title": "CTN中古車一括査定",
+      "url": "https://pointi.jp/ad/148013/",
+      "points": "4,800円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "126300",
+      "title": "ヌリカエ（外壁塗装）",
+      "url": "https://pointi.jp/ad/126300/",
+      "points": "2,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "136665",
+      "title": "リショップナビ　リフォーム費用一括見積",
+      "url": "https://pointi.jp/ad/136665/",
+      "points": "10,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "151492",
+      "title": "バイセル",
+      "url": "https://pointi.jp/ad/151492/",
+      "points": "3,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "149579",
+      "title": "RENOSY（リノシー）　投資用不動産AI査定",
+      "url": "https://pointi.jp/ad/149579/",
+      "points": "3,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "820",
+      "title": "ズバット引越し比較",
+      "url": "https://pointi.jp/ad/820/",
+      "points": "200円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "153488",
+      "title": "塗装工事ドットコム",
+      "url": "https://pointi.jp/ad/153488/",
+      "points": "5,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "153299",
+      "title": "GoodDeal",
+      "url": "https://pointi.jp/ad/153299/",
+      "points": "12,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "151614",
+      "title": "nomu.com（ノムコム）無料査定",
+      "url": "https://pointi.jp/ad/151614/",
+      "points": "10,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "149717",
+      "title": "持ち家売却（訪問査定完了）",
+      "url": "https://pointi.jp/ad/149717/",
+      "points": "10,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.766Z"
+    },
+    {
+      "id": "152322",
+      "title": "すむたろう（リフォーム）",
+      "url": "https://pointi.jp/ad/152322/",
+      "points": "11,600円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "152321",
+      "title": "すむたろう（外壁塗装）",
+      "url": "https://pointi.jp/ad/152321/",
+      "points": "11,600円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "146518",
+      "title": "外構・エクステリアパートナーズ",
+      "url": "https://pointi.jp/ad/146518/",
+      "points": "2,100円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "152563",
+      "title": "【不動産売却査定タカウル】ポイントに加えて1,000円分ギフト券プレゼント",
+      "url": "https://pointi.jp/ad/152563/",
+      "points": "2,400円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "152487",
+      "title": "SellCa（セルカ）中古車売却",
+      "url": "https://pointi.jp/ad/152487/",
+      "points": "5,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "150237",
+      "title": "DOOR引越し見積もり",
+      "url": "https://pointi.jp/ad/150237/",
+      "points": "750円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "152384",
+      "title": "ニコノリ　",
+      "url": "https://pointi.jp/ad/152384/",
+      "points": "35,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "150266",
+      "title": "カババ",
+      "url": "https://pointi.jp/ad/150266/",
+      "points": "5,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "152016",
+      "title": "一般社団法人が提供する公平な不動産査定",
+      "url": "https://pointi.jp/ad/152016/",
+      "points": "7,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "150936",
+      "title": "ザ・ゴールド",
+      "url": "https://pointi.jp/ad/150936/",
+      "points": "3,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "135507",
+      "title": "片付けサポーター",
+      "url": "https://pointi.jp/ad/135507/",
+      "points": "2,200円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "151590",
+      "title": "引越マルシェ",
+      "url": "https://pointi.jp/ad/151590/",
+      "points": "150円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "151167",
+      "title": "リフォームガイド",
+      "url": "https://pointi.jp/ad/151167/",
+      "points": "3,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "151084",
+      "title": "シロアリ駆除「キャッツ」",
+      "url": "https://pointi.jp/ad/151084/",
+      "points": "7,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "150894",
+      "title": "イーライフ司法書士法人（情報商材対応）",
+      "url": "https://pointi.jp/ad/150894/",
+      "points": "9,100円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:19:50.767Z"
+    },
+    {
+      "id": "150893",
+      "title": "イーライフ司法書士法人（闇金対応）",
+      "url": "https://pointi.jp/ad/150893/",
+      "points": "5,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.821Z"
+    },
+    {
+      "id": "139943",
+      "title": "グリエネ（太陽光発電）",
+      "url": "https://pointi.jp/ad/139943/",
+      "points": "8,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.821Z"
+    },
+    {
+      "id": "132754",
+      "title": "リショップナビ　外壁塗装",
+      "url": "https://pointi.jp/ad/132754/",
+      "points": "8,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.821Z"
+    },
+    {
+      "id": "135332",
+      "title": "引っ越しバービィー",
+      "url": "https://pointi.jp/ad/135332/",
+      "points": "650円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.821Z"
+    },
+    {
+      "id": "10839",
+      "title": "アート引越センター",
+      "url": "https://pointi.jp/ad/10839/",
+      "points": "500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.821Z"
+    },
+    {
+      "id": "150402",
+      "title": "たった60秒！所有中の不動産を簡易査定！",
+      "url": "https://pointi.jp/ad/150402/",
+      "points": "2,800円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "135278",
+      "title": "クリーンクルー",
+      "url": "https://pointi.jp/ad/135278/",
+      "points": "300円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "139939",
+      "title": "グリエネ（蓄電池）",
+      "url": "https://pointi.jp/ad/139939/",
+      "points": "7,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "138594",
+      "title": "エコライナー",
+      "url": "https://pointi.jp/ad/138594/",
+      "points": "2,200円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "147714",
+      "title": "グーネット定額乗り",
+      "url": "https://pointi.jp/ad/147714/",
+      "points": "3,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "149324",
+      "title": "迅速片付け屋",
+      "url": "https://pointi.jp/ad/149324/",
+      "points": "3,800円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "149322",
+      "title": "外壁塗装のプロカベ",
+      "url": "https://pointi.jp/ad/149322/",
+      "points": "2,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "149304",
+      "title": "アイサポ",
+      "url": "https://pointi.jp/ad/149304/",
+      "points": "600円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "145050",
+      "title": "廃車ツヨシ",
+      "url": "https://pointi.jp/ad/145050/",
+      "points": "400円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "146600",
+      "title": "外壁塗装コンシェルジュ",
+      "url": "https://pointi.jp/ad/146600/",
+      "points": "10,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "146827",
+      "title": "害獣退治屋さん　見積もり",
+      "url": "https://pointi.jp/ad/146827/",
+      "points": "1,200円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "146775",
+      "title": "防水工事屋さんPRO　見積もり",
+      "url": "https://pointi.jp/ad/146775/",
+      "points": "2,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "146670",
+      "title": "あなたの町のハウスクリーニング屋さん　見積もり",
+      "url": "https://pointi.jp/ad/146670/",
+      "points": "1,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "114692",
+      "title": "スタンプファクトリー",
+      "url": "https://pointi.jp/ad/114692/",
+      "points": "25円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "3412",
+      "title": "ズバット車買取比較",
+      "url": "https://pointi.jp/ad/3412/",
+      "points": "600円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "41402",
+      "title": "サカイ引越センター",
+      "url": "https://pointi.jp/ad/41402/",
+      "points": "250円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "143534",
+      "title": "リビンマッチ不動産売却",
+      "url": "https://pointi.jp/ad/143534/",
+      "points": "0円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "138146",
+      "title": "外壁塗装パートナーズ",
+      "url": "https://pointi.jp/ad/138146/",
+      "points": "10,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "142810",
+      "title": "ファクタリングならビートレーディング！",
+      "url": "https://pointi.jp/ad/142810/",
+      "points": "11,000円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "142785",
+      "title": "防犯カメラ設置110番",
+      "url": "https://pointi.jp/ad/142785/",
+      "points": "1,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "142784",
+      "title": "アンテナ110番",
+      "url": "https://pointi.jp/ad/142784/",
+      "points": "750円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "142783",
+      "title": "シロアリ110番",
+      "url": "https://pointi.jp/ad/142783/",
+      "points": "3,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "142706",
+      "title": "アンテナドクター",
+      "url": "https://pointi.jp/ad/142706/",
+      "points": "850円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "142597",
+      "title": "司法書士法人杉山事務所",
+      "url": "https://pointi.jp/ad/142597/",
+      "points": "0円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    },
+    {
+      "id": "124637",
+      "title": "カービュー（みんカラ）",
+      "url": "https://pointi.jp/ad/124637/",
+      "points": "1,500円",
+      "category_id": 79,
+      "category_type": "service",
+      "timestamp": "2025-08-09T06:20:03.822Z"
+    }
+  ]
+}

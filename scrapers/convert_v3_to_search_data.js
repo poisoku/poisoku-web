@@ -158,7 +158,7 @@ class V3ToSearchDataConverter {
     }
     
     // 数値のみの場合はpt付与
-    const numMatch = points.match(/(\d+)/);
+    const numMatch = points.match(/([\d,]+)/);
     if (numMatch) {
       return `${numMatch[1]}pt`;
     }
@@ -178,19 +178,19 @@ class V3ToSearchDataConverter {
     }
     
     // pt表記から円換算 (1pt = 0.5円)
-    const ptMatch = points.match(/(\d+)pt/);
+    const ptMatch = points.match(/([\d,]+)pt/);
     if (ptMatch) {
-      const ptValue = parseInt(ptMatch[1]);
+      const ptValue = parseInt(ptMatch[1].replace(/,/g, ''));
       const yenValue = Math.floor(ptValue * 0.5);
-      return `${yenValue}円`;
+      return `${yenValue.toLocaleString()}円`;
     }
     
     // 数値のみの場合
-    const numMatch = points.match(/(\d+)/);
+    const numMatch = points.match(/([\d,]+)/);
     if (numMatch) {
-      const ptValue = parseInt(numMatch[1]);
+      const ptValue = parseInt(numMatch[1].replace(/,/g, ''));
       const yenValue = Math.floor(ptValue * 0.5);
-      return `${yenValue}円`;
+      return `${yenValue.toLocaleString()}円`;
     }
     
     return points;
