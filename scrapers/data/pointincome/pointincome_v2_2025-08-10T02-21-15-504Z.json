@@ -1,0 +1,814 @@
+{
+  "scrape_date": "2025-08-10T02:21:15.505Z",
+  "version": "ajax_fixed_v2",
+  "stats": {
+    "startTime": "2025-08-10T02:20:42.862Z",
+    "endTime": "2025-08-10T02:21:15.503Z",
+    "categoriesProcessed": 3,
+    "pagesProcessed": 0,
+    "duplicatesSkipped": 0,
+    "paginationSuccesses": 0,
+    "paginationFailures": 3,
+    "errors": [],
+    "categoryBreakdown": {
+      "test_161": 24,
+      "test_179": 26,
+      "test_75": 26
+    },
+    "ajaxRequests": [
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=1&page=1&max=24&narrow=0&category=161&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T02:20:46.804Z"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=1&page=2&max=24&narrow=0&category=161&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T02:20:54.213Z"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=1&page=1&max=26&narrow=0&category=179&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T02:20:56.974Z"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=1&page=2&max=24&narrow=0&category=179&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T02:21:04.041Z"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=1&page=1&max=26&narrow=0&category=75&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T02:21:07.192Z"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=1&page=2&max=24&narrow=0&category=75&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T02:21:13.462Z"
+      }
+    ]
+  },
+  "total_campaigns": 76,
+  "campaigns": [
+    {
+      "id": "153049",
+      "title": "もち麦満腹バースターターセット",
+      "url": "https://pointi.jp/ad/153049/",
+      "points": "1,150円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "151471",
+      "title": "iHerb（アイハーブ）",
+      "url": "https://pointi.jp/ad/151471/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "135355",
+      "title": "au PAY マーケット",
+      "url": "https://pointi.jp/ad/135355/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "147352",
+      "title": "日清食品グループ オンラインストア",
+      "url": "https://pointi.jp/ad/147352/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "134832",
+      "title": "GREEN SPOON（グリーンスプーン）",
+      "url": "https://pointi.jp/ad/134832/",
+      "points": "1,500円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "74630",
+      "title": "PizzaHut（ピザハットオンライン）",
+      "url": "https://pointi.jp/ad/74630/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "150889",
+      "title": "楽天全国スーパー",
+      "url": "https://pointi.jp/ad/150889/",
+      "points": "500円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "13226",
+      "title": "トーカ堂テレビショッピング",
+      "url": "https://pointi.jp/ad/13226/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.103Z"
+    },
+    {
+      "id": "152267",
+      "title": "日本直販(NIHON CHOKUHAN)",
+      "url": "https://pointi.jp/ad/152267/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "152242",
+      "title": "島の人オンラインショップ　北海道海鮮専門店",
+      "url": "https://pointi.jp/ad/152242/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "143791",
+      "title": "一風堂オフィシャルオンラインストア",
+      "url": "https://pointi.jp/ad/143791/",
+      "points": "5.5%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "33356",
+      "title": "スーパーマーケット成城石井.com",
+      "url": "https://pointi.jp/ad/33356/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "13609",
+      "title": "ダイエーネットショッピング",
+      "url": "https://pointi.jp/ad/13609/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "149799",
+      "title": "ロス活SHOP",
+      "url": "https://pointi.jp/ad/149799/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "148982",
+      "title": "カスミ・マルエツ・マックスバリュ関東のネットスーパー　オンラインデリバリー",
+      "url": "https://pointi.jp/ad/148982/",
+      "points": "1.6%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "67905",
+      "title": "セブンネットショッピング",
+      "url": "https://pointi.jp/ad/67905/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "94456",
+      "title": "イオンショップ",
+      "url": "https://pointi.jp/ad/94456/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "142880",
+      "title": "イオンネットスーパー",
+      "url": "https://pointi.jp/ad/142880/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "6172",
+      "title": "大丸松坂屋オンラインストア",
+      "url": "https://pointi.jp/ad/6172/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "119091",
+      "title": "リンガーハット オンラインショップ",
+      "url": "https://pointi.jp/ad/119091/",
+      "points": "160円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "133738",
+      "title": "TOMIZ（富澤商店）",
+      "url": "https://pointi.jp/ad/133738/",
+      "points": "200円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "6953",
+      "title": "三越伊勢丹オンラインストア",
+      "url": "https://pointi.jp/ad/6953/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "133892",
+      "title": "ピエール ･エルメ ･パリ",
+      "url": "https://pointi.jp/ad/133892/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "57583",
+      "title": "楽天市場",
+      "url": "https://pointi.jp/ad/57583/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:20:54.104Z"
+    },
+    {
+      "id": "152262",
+      "title": "Temu（テム） リピート用",
+      "url": "https://pointi.jp/ad/152262/",
+      "points": "8.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "152261",
+      "title": "Temu（テム）  新規購入用",
+      "url": "https://pointi.jp/ad/152261/",
+      "points": "50%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "142761",
+      "title": "PETIT BATEAU（プチバトーオンラインブティック）",
+      "url": "https://pointi.jp/ad/142761/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "153508",
+      "title": "LEGO(レゴ)ショップ公式オンラインストア",
+      "url": "https://pointi.jp/ad/153508/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "153089",
+      "title": "ROPE PICNIC(ロペピクニック)",
+      "url": "https://pointi.jp/ad/153089/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "151465",
+      "title": "Engels Zimmer 【エンジェルズ　ジマー】",
+      "url": "https://pointi.jp/ad/151465/",
+      "points": "3.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "147407",
+      "title": "LEVI'S（リーバイス）オンラインストア",
+      "url": "https://pointi.jp/ad/147407/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "152235",
+      "title": "GUESS（ゲス） JAPAN公式オンラインストア",
+      "url": "https://pointi.jp/ad/152235/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "11175",
+      "title": "URBAN RESEARCH　(アーバンリサーチオンラインショップ)",
+      "url": "https://pointi.jp/ad/11175/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "151521",
+      "title": "Aenak（アエナック）",
+      "url": "https://pointi.jp/ad/151521/",
+      "points": "10%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "150176",
+      "title": "F.O.Online Store",
+      "url": "https://pointi.jp/ad/150176/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "148609",
+      "title": "子供服のdevirockstore（デビロックストア）",
+      "url": "https://pointi.jp/ad/148609/",
+      "points": "6.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "120150",
+      "title": "アカチャンホンポOnline Shop",
+      "url": "https://pointi.jp/ad/120150/",
+      "points": "0.6%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "146206",
+      "title": "BABYDOLL(ベビードール) 公式オンラインショップ",
+      "url": "https://pointi.jp/ad/146206/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "146713",
+      "title": "COLORFUL CANDY STYLE",
+      "url": "https://pointi.jp/ad/146713/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "146017",
+      "title": "PAL CLOSET（パルクローゼット）",
+      "url": "https://pointi.jp/ad/146017/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "146018",
+      "title": "3COINS（スリーコインズ）　PAL CLOSET店",
+      "url": "https://pointi.jp/ad/146018/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "115778",
+      "title": "Gap Japan",
+      "url": "https://pointi.jp/ad/115778/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "141519",
+      "title": "モギカバン",
+      "url": "https://pointi.jp/ad/141519/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "113035",
+      "title": "fifth store(フィフスストア)",
+      "url": "https://pointi.jp/ad/113035/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "8167",
+      "title": "ふぁみーるコンタクト",
+      "url": "https://pointi.jp/ad/8167/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "97428",
+      "title": "アットレンズ",
+      "url": "https://pointi.jp/ad/97428/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "137285",
+      "title": "キャリーオン",
+      "url": "https://pointi.jp/ad/137285/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "118839",
+      "title": "プーマオンラインストア　Puma Online Store",
+      "url": "https://pointi.jp/ad/118839/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "134327",
+      "title": "SOIM（ソイム）",
+      "url": "https://pointi.jp/ad/134327/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "33404",
+      "title": "Brooks Brothers（ブルックスブラザーズ）",
+      "url": "https://pointi.jp/ad/33404/",
+      "points": "3.1%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T02:21:03.943Z"
+    },
+    {
+      "id": "127195",
+      "title": "ホットヨガスタジオLAVA　体験レッスン",
+      "url": "https://pointi.jp/ad/127195/",
+      "points": "2,500円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "150995",
+      "title": "chocoZAP（チョコザップ）無料体験完了",
+      "url": "https://pointi.jp/ad/150995/",
+      "points": "700円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "129022",
+      "title": "U-NEXT［電子書籍・動画・音楽chセット］ 31日間無料（ユーネクスト）",
+      "url": "https://pointi.jp/ad/129022/",
+      "points": "2,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "151987",
+      "title": "Amazon Prime Video（無料体験登録）",
+      "url": "https://pointi.jp/ad/151987/",
+      "points": "250円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "150115",
+      "title": "湘南ゼミナール　無料授業体験",
+      "url": "https://pointi.jp/ad/150115/",
+      "points": "7,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "150513",
+      "title": "東京ダンスヴィレッジ 無料体験レッスン",
+      "url": "https://pointi.jp/ad/150513/",
+      "points": "2,500円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "146524",
+      "title": "8/31で終了！ホットヨガスタジオ CALDO（カルド）",
+      "url": "https://pointi.jp/ad/146524/",
+      "points": "2,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "137098",
+      "title": "SHElikes（シーライクス）無料体験レッスン",
+      "url": "https://pointi.jp/ad/137098/",
+      "points": "4,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "129021",
+      "title": "U-NEXT［動画・音楽chセット］ 31日間無料お試し（ユーネクスト）",
+      "url": "https://pointi.jp/ad/129021/",
+      "points": "2,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "144593",
+      "title": "自立学習RED　無料体験参加",
+      "url": "https://pointi.jp/ad/144593/",
+      "points": "3,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "144592",
+      "title": "そら塾　無料体験参加",
+      "url": "https://pointi.jp/ad/144592/",
+      "points": "5,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "153484",
+      "title": "Belle Up（ベルアップ）",
+      "url": "https://pointi.jp/ad/153484/",
+      "points": "400円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "153239",
+      "title": "楽天ミュージック　30日間無料",
+      "url": "https://pointi.jp/ad/153239/",
+      "points": "280円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.346Z"
+    },
+    {
+      "id": "144845",
+      "title": "DAZN for BUSINESS",
+      "url": "https://pointi.jp/ad/144845/",
+      "points": "15,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "148528",
+      "title": "明光義塾　無料体験授業",
+      "url": "https://pointi.jp/ad/148528/",
+      "points": "700円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "152599",
+      "title": "Cosmo SubscRental（コスモサブスクレンタル）",
+      "url": "https://pointi.jp/ad/152599/",
+      "points": "2,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "124966",
+      "title": "「ネスカフェ ドルチェ グスト」マシンが無料で使えるサブスク【ネスレ日本 公式】",
+      "url": "https://pointi.jp/ad/124966/",
+      "points": "5,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "148771",
+      "title": "E-PRO（イープロ）英会話　無料体験レッスン",
+      "url": "https://pointi.jp/ad/148771/",
+      "points": "1,200円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "149706",
+      "title": "楽天car試乗",
+      "url": "https://pointi.jp/ad/149706/",
+      "points": "1,300円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "152259",
+      "title": "italki(アイトーキー)",
+      "url": "https://pointi.jp/ad/152259/",
+      "points": "1,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "149191",
+      "title": "ネスカフェ バリスタ（ネスレ）",
+      "url": "https://pointi.jp/ad/149191/",
+      "points": "5,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "135602",
+      "title": "イーリズム塾さがし/家庭教師特集",
+      "url": "https://pointi.jp/ad/135602/",
+      "points": "4,200円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "135604",
+      "title": "イーリズム塾さがし",
+      "url": "https://pointi.jp/ad/135604/",
+      "points": "4,200円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "150263",
+      "title": "ピラティススタジオDEP（デップ）",
+      "url": "https://pointi.jp/ad/150263/",
+      "points": "1,500円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "145466",
+      "title": "キッズチアダンススクールGravis（グラビス）　体験レッスン",
+      "url": "https://pointi.jp/ad/145466/",
+      "points": "500円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    },
+    {
+      "id": "127090",
+      "title": "mixhost（ミックスホスト）",
+      "url": "https://pointi.jp/ad/127090/",
+      "points": "1,000円",
+      "device": "すべて",
+      "category_id": 75,
+      "category_type": "service",
+      "timestamp": "2025-08-10T02:21:13.347Z"
+    }
+  ]
+}

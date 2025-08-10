@@ -1,0 +1,1849 @@
+{
+  "scrape_date": "2025-08-10T00:18:08.338Z",
+  "stats": {
+    "startTime": "2025-08-10T00:14:01.624Z",
+    "endTime": "2025-08-10T00:18:08.337Z",
+    "categoriesProcessed": 3,
+    "pagesProcessed": 4,
+    "duplicatesSkipped": 15,
+    "errors": [],
+    "categoryBreakdown": {
+      "shopping_161": 24,
+      "shopping_179": 26,
+      "shopping_177": 133
+    }
+  },
+  "total_campaigns": 183,
+  "campaigns": [
+    {
+      "id": "153049",
+      "title": "もち麦満腹バースターターセット",
+      "url": "https://pointi.jp/ad/153049/",
+      "points": "1,150円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.099Z"
+    },
+    {
+      "id": "151471",
+      "title": "iHerb（アイハーブ）",
+      "url": "https://pointi.jp/ad/151471/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "135355",
+      "title": "au PAY マーケット",
+      "url": "https://pointi.jp/ad/135355/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "147352",
+      "title": "日清食品グループ オンラインストア",
+      "url": "https://pointi.jp/ad/147352/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "134832",
+      "title": "GREEN SPOON（グリーンスプーン）",
+      "url": "https://pointi.jp/ad/134832/",
+      "points": "1,500円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "74630",
+      "title": "PizzaHut（ピザハットオンライン）",
+      "url": "https://pointi.jp/ad/74630/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "150889",
+      "title": "楽天全国スーパー",
+      "url": "https://pointi.jp/ad/150889/",
+      "points": "500円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "13226",
+      "title": "トーカ堂テレビショッピング",
+      "url": "https://pointi.jp/ad/13226/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "152267",
+      "title": "日本直販(NIHON CHOKUHAN)",
+      "url": "https://pointi.jp/ad/152267/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "152242",
+      "title": "島の人オンラインショップ　北海道海鮮専門店",
+      "url": "https://pointi.jp/ad/152242/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "143791",
+      "title": "一風堂オフィシャルオンラインストア",
+      "url": "https://pointi.jp/ad/143791/",
+      "points": "5.5%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "33356",
+      "title": "スーパーマーケット成城石井.com",
+      "url": "https://pointi.jp/ad/33356/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "13609",
+      "title": "ダイエーネットショッピング",
+      "url": "https://pointi.jp/ad/13609/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "149799",
+      "title": "ロス活SHOP",
+      "url": "https://pointi.jp/ad/149799/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "148982",
+      "title": "カスミ・マルエツ・マックスバリュ関東のネットスーパー　オンラインデリバリー",
+      "url": "https://pointi.jp/ad/148982/",
+      "points": "1.6%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "67905",
+      "title": "セブンネットショッピング",
+      "url": "https://pointi.jp/ad/67905/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "94456",
+      "title": "イオンショップ",
+      "url": "https://pointi.jp/ad/94456/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "142880",
+      "title": "イオンネットスーパー",
+      "url": "https://pointi.jp/ad/142880/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "6172",
+      "title": "大丸松坂屋オンラインストア",
+      "url": "https://pointi.jp/ad/6172/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "119091",
+      "title": "リンガーハット オンラインショップ",
+      "url": "https://pointi.jp/ad/119091/",
+      "points": "160円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "133738",
+      "title": "TOMIZ（富澤商店）",
+      "url": "https://pointi.jp/ad/133738/",
+      "points": "200円",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "6953",
+      "title": "三越伊勢丹オンラインストア",
+      "url": "https://pointi.jp/ad/6953/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "133892",
+      "title": "ピエール ･エルメ ･パリ",
+      "url": "https://pointi.jp/ad/133892/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "57583",
+      "title": "楽天市場",
+      "url": "https://pointi.jp/ad/57583/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 161,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:14:12.100Z"
+    },
+    {
+      "id": "152262",
+      "title": "Temu（テム） リピート用",
+      "url": "https://pointi.jp/ad/152262/",
+      "points": "8.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "152261",
+      "title": "Temu（テム）  新規購入用",
+      "url": "https://pointi.jp/ad/152261/",
+      "points": "50%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "142761",
+      "title": "PETIT BATEAU（プチバトーオンラインブティック）",
+      "url": "https://pointi.jp/ad/142761/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "153508",
+      "title": "LEGO(レゴ)ショップ公式オンラインストア",
+      "url": "https://pointi.jp/ad/153508/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "153089",
+      "title": "ROPE PICNIC(ロペピクニック)",
+      "url": "https://pointi.jp/ad/153089/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "151465",
+      "title": "Engels Zimmer 【エンジェルズ　ジマー】",
+      "url": "https://pointi.jp/ad/151465/",
+      "points": "3.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "147407",
+      "title": "LEVI'S（リーバイス）オンラインストア",
+      "url": "https://pointi.jp/ad/147407/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "152235",
+      "title": "GUESS（ゲス） JAPAN公式オンラインストア",
+      "url": "https://pointi.jp/ad/152235/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "11175",
+      "title": "URBAN RESEARCH　(アーバンリサーチオンラインショップ)",
+      "url": "https://pointi.jp/ad/11175/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "151521",
+      "title": "Aenak（アエナック）",
+      "url": "https://pointi.jp/ad/151521/",
+      "points": "10%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "150176",
+      "title": "F.O.Online Store",
+      "url": "https://pointi.jp/ad/150176/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "148609",
+      "title": "子供服のdevirockstore（デビロックストア）",
+      "url": "https://pointi.jp/ad/148609/",
+      "points": "6.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "120150",
+      "title": "アカチャンホンポOnline Shop",
+      "url": "https://pointi.jp/ad/120150/",
+      "points": "0.6%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "146206",
+      "title": "BABYDOLL(ベビードール) 公式オンラインショップ",
+      "url": "https://pointi.jp/ad/146206/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "146713",
+      "title": "COLORFUL CANDY STYLE",
+      "url": "https://pointi.jp/ad/146713/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "146017",
+      "title": "PAL CLOSET（パルクローゼット）",
+      "url": "https://pointi.jp/ad/146017/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "146018",
+      "title": "3COINS（スリーコインズ）　PAL CLOSET店",
+      "url": "https://pointi.jp/ad/146018/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "115778",
+      "title": "Gap Japan",
+      "url": "https://pointi.jp/ad/115778/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "141519",
+      "title": "モギカバン",
+      "url": "https://pointi.jp/ad/141519/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "113035",
+      "title": "fifth store(フィフスストア)",
+      "url": "https://pointi.jp/ad/113035/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "8167",
+      "title": "ふぁみーるコンタクト",
+      "url": "https://pointi.jp/ad/8167/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "97428",
+      "title": "アットレンズ",
+      "url": "https://pointi.jp/ad/97428/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "137285",
+      "title": "キャリーオン",
+      "url": "https://pointi.jp/ad/137285/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "118839",
+      "title": "プーマオンラインストア　Puma Online Store",
+      "url": "https://pointi.jp/ad/118839/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "134327",
+      "title": "SOIM（ソイム）",
+      "url": "https://pointi.jp/ad/134327/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "33404",
+      "title": "Brooks Brothers（ブルックスブラザーズ）",
+      "url": "https://pointi.jp/ad/33404/",
+      "points": "3.1%",
+      "device": "すべて",
+      "category_id": 179,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:15:15.858Z"
+    },
+    {
+      "id": "85582",
+      "title": "SHOPLIST(ショップリスト)",
+      "url": "https://pointi.jp/ad/85582/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "149139",
+      "title": "SHEIN（シーイン）　 新規購入用",
+      "url": "https://pointi.jp/ad/149139/",
+      "points": "22%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "149179",
+      "title": "SHEIN（シーイン）　リピート用",
+      "url": "https://pointi.jp/ad/149179/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "144913",
+      "title": "DHOLIC（ディーホリック）",
+      "url": "https://pointi.jp/ad/144913/",
+      "points": "8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "148324",
+      "title": "axes femme（アクシーズファム）",
+      "url": "https://pointi.jp/ad/148324/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "137450",
+      "title": "tu-hacci（ツーハッチ）",
+      "url": "https://pointi.jp/ad/137450/",
+      "points": "10%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "122091",
+      "title": "GILT（ギルト）",
+      "url": "https://pointi.jp/ad/122091/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "150707",
+      "title": "HUGO BOSS（ヒューゴボス）",
+      "url": "https://pointi.jp/ad/150707/",
+      "points": "8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "153603",
+      "title": "京都きもの友禅",
+      "url": "https://pointi.jp/ad/153603/",
+      "points": "10%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.050Z"
+    },
+    {
+      "id": "153260",
+      "title": "ZOZOUSED（新規購入）",
+      "url": "https://pointi.jp/ad/153260/",
+      "points": "260円",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "146956",
+      "title": "AliExpress（アリエクスプレス）衣類・雑貨専用",
+      "url": "https://pointi.jp/ad/146956/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "141148",
+      "title": "DazzyStore（デイジーストア）　激安ドレスの専門サイト",
+      "url": "https://pointi.jp/ad/141148/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153518",
+      "title": "DIESEL（ディーゼル）公式オンラインストア",
+      "url": "https://pointi.jp/ad/153518/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153261",
+      "title": "ZOZOUSED（リピート利用）",
+      "url": "https://pointi.jp/ad/153261/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "149403",
+      "title": "and ST (アンドエスティ)",
+      "url": "https://pointi.jp/ad/149403/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153351",
+      "title": "ハッピーマリリン",
+      "url": "https://pointi.jp/ad/153351/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "148872",
+      "title": "神戸レタス（Koube　Lettuce）　新規購入",
+      "url": "https://pointi.jp/ad/148872/",
+      "points": "21%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "121888",
+      "title": "ベルーナ　新規会員登録おトクキャンペーン",
+      "url": "https://pointi.jp/ad/121888/",
+      "points": "700円",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "18378",
+      "title": "神戸レタス（Koube　Lettuce）",
+      "url": "https://pointi.jp/ad/18378/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "147574",
+      "title": "Alinoma(アリノマ)",
+      "url": "https://pointi.jp/ad/147574/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "146030",
+      "title": "ヒマラヤオンラインストア",
+      "url": "https://pointi.jp/ad/146030/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "152198",
+      "title": "STUDIOUS（ステュディオス）",
+      "url": "https://pointi.jp/ad/152198/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153234",
+      "title": "Wish(ウィッシュ)",
+      "url": "https://pointi.jp/ad/153234/",
+      "points": "3.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153254",
+      "title": "Admiral（アドミラル）",
+      "url": "https://pointi.jp/ad/153254/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153107",
+      "title": "グレディブリリアン公式通販",
+      "url": "https://pointi.jp/ad/153107/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153078",
+      "title": "Pierrot（ピエロ）/RASW（ラス）",
+      "url": "https://pointi.jp/ad/153078/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:20.053Z"
+    },
+    {
+      "id": "153062",
+      "title": "biffle（ビッフィル）",
+      "url": "https://pointi.jp/ad/153062/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "124092",
+      "title": "DoCLASSE（ドゥクラッセ）",
+      "url": "https://pointi.jp/ad/124092/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "137489",
+      "title": "宝島チャンネル",
+      "url": "https://pointi.jp/ad/137489/",
+      "points": "1.3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "147503",
+      "title": "グレゴリー(GREGORY)公式通販",
+      "url": "https://pointi.jp/ad/147503/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "151818",
+      "title": "Stylora Store（スタイロラ ストア）",
+      "url": "https://pointi.jp/ad/151818/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "152214",
+      "title": "Stylora Store（スタイロラ ストア）　新規購入用",
+      "url": "https://pointi.jp/ad/152214/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "119559",
+      "title": "ベルーナ",
+      "url": "https://pointi.jp/ad/119559/",
+      "points": "5.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "152669",
+      "title": "Emma Francis（エマフランシス）",
+      "url": "https://pointi.jp/ad/152669/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "152636",
+      "title": "calif(カリフ)",
+      "url": "https://pointi.jp/ad/152636/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "152619",
+      "title": "Pierrot（ピエロ）　新規購入",
+      "url": "https://pointi.jp/ad/152619/",
+      "points": "20%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "152434",
+      "title": "YAMADAYA（ヤマダヤオンラインストア）",
+      "url": "https://pointi.jp/ad/152434/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "152422",
+      "title": "グラニフ公式オンラインストア(graniph)",
+      "url": "https://pointi.jp/ad/152422/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "148219",
+      "title": "SHIPS - シップス（ファッション通販）",
+      "url": "https://pointi.jp/ad/148219/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "148519",
+      "title": "高島屋オンラインストア",
+      "url": "https://pointi.jp/ad/148519/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "115661",
+      "title": "COLE HAAN（コールハーンオンラインストア）",
+      "url": "https://pointi.jp/ad/115661/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "152239",
+      "title": "mo,de in japan（モードインジャパン） ひろゆきのブランド",
+      "url": "https://pointi.jp/ad/152239/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "151895",
+      "title": "さしい暮らしの店",
+      "url": "https://pointi.jp/ad/151895/",
+      "points": "7.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "37673",
+      "title": "adidas Online Shop(アディダス)",
+      "url": "https://pointi.jp/ad/37673/",
+      "points": "0.6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "6857",
+      "title": "nissen（ニッセン）",
+      "url": "https://pointi.jp/ad/6857/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "151642",
+      "title": "WEGO ONLINE STORE(ウィゴー)",
+      "url": "https://pointi.jp/ad/151642/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "151489",
+      "title": "WORLD ONLINE STORE(ワールド オンラインストア)",
+      "url": "https://pointi.jp/ad/151489/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "109058",
+      "title": "RUNWAY channel（ランウェイチャンネル）",
+      "url": "https://pointi.jp/ad/109058/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "151097",
+      "title": "NUGU（ヌグ）",
+      "url": "https://pointi.jp/ad/151097/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "6894",
+      "title": "BELLE MAISON(ベルメゾン)",
+      "url": "https://pointi.jp/ad/6894/",
+      "points": "0.6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "150984",
+      "title": "LC（ラックスカタログ）",
+      "url": "https://pointi.jp/ad/150984/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "149006",
+      "title": "Rakuten Fashion(楽天ファッション)",
+      "url": "https://pointi.jp/ad/149006/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "149271",
+      "title": "RUNWAY channel（ランウェイチャンネル）　新規購入",
+      "url": "https://pointi.jp/ad/149271/",
+      "points": "13%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:33.094Z"
+    },
+    {
+      "id": "149803",
+      "title": "UNITED ARROWS ONLINE（ユナイテッドアローズ）　新規購入",
+      "url": "https://pointi.jp/ad/149803/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "150137",
+      "title": "パレモバONLINESTORE",
+      "url": "https://pointi.jp/ad/150137/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "114623",
+      "title": "USAGI ONLINE（ウサギオンライン）公式通販",
+      "url": "https://pointi.jp/ad/114623/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "149511",
+      "title": "Classical Elf（クラシカルエルフ）",
+      "url": "https://pointi.jp/ad/149511/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "148182",
+      "title": "Cmall（シーモール）",
+      "url": "https://pointi.jp/ad/148182/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "140690",
+      "title": "Honeys（ハニーズ）",
+      "url": "https://pointi.jp/ad/140690/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "98657",
+      "title": "BITTER OFFICIAL WEB STORE（ビターストア）",
+      "url": "https://pointi.jp/ad/98657/",
+      "points": "4.8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "139924",
+      "title": "Daytona Park（デイトナーパーク）旧：FREAK'S STORE",
+      "url": "https://pointi.jp/ad/139924/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "148090",
+      "title": "LUISA VIA ROMA（ルイーザヴィアローマ）",
+      "url": "https://pointi.jp/ad/148090/",
+      "points": "4.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.128Z"
+    },
+    {
+      "id": "148087",
+      "title": "SILVER BULLET（シルバーバレット）",
+      "url": "https://pointi.jp/ad/148087/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "37655",
+      "title": "メンズファッションARCADE（アーケード）",
+      "url": "https://pointi.jp/ad/37655/",
+      "points": "6.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "147895",
+      "title": "vivid golf（ビビゴルフ）",
+      "url": "https://pointi.jp/ad/147895/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "147809",
+      "title": "海外ブランドファッション通販AXES(アクセス)",
+      "url": "https://pointi.jp/ad/147809/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "130644",
+      "title": "BEAMS Online Shop（ビームス公式）",
+      "url": "https://pointi.jp/ad/130644/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "147375",
+      "title": "ASTRONOMY",
+      "url": "https://pointi.jp/ad/147375/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "147374",
+      "title": "offprice.ec（オフプライスイーシー）",
+      "url": "https://pointi.jp/ad/147374/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "5290",
+      "title": "キムラタン",
+      "url": "https://pointi.jp/ad/5290/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "25603",
+      "title": "UNITED ARROWS ONLINE（ユナイテッドアローズ）",
+      "url": "https://pointi.jp/ad/25603/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "146882",
+      "title": "Codibook",
+      "url": "https://pointi.jp/ad/146882/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "146349",
+      "title": "京都きもの町",
+      "url": "https://pointi.jp/ad/146349/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "124734",
+      "title": "福助オンラインストア",
+      "url": "https://pointi.jp/ad/124734/",
+      "points": "0.9%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "144371",
+      "title": "三京商会",
+      "url": "https://pointi.jp/ad/144371/",
+      "points": "3.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "146213",
+      "title": "東武オンラインショッピング（東武百貨店）",
+      "url": "https://pointi.jp/ad/146213/",
+      "points": "1%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "705",
+      "title": "ITOKIN ONLINE STORE（イトキン公式サイト）",
+      "url": "https://pointi.jp/ad/705/",
+      "points": "1.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "103508",
+      "title": "SPUTNICKS（スプートニクス）",
+      "url": "https://pointi.jp/ad/103508/",
+      "points": "12%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "134528",
+      "title": "セカンドストリート　オンラインストア",
+      "url": "https://pointi.jp/ad/134528/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:46.129Z"
+    },
+    {
+      "id": "65685",
+      "title": "i LUMINE(アイルミネ)",
+      "url": "https://pointi.jp/ad/65685/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "144958",
+      "title": "授乳服とマタニティ服のMilk tea（ミルクティー）",
+      "url": "https://pointi.jp/ad/144958/",
+      "points": "5.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "10568",
+      "title": "UNDER ARMOUR（アンダーアーマー）公式サイト",
+      "url": "https://pointi.jp/ad/10568/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "120649",
+      "title": "Theory luxe（セオリーリュクス）公式通販サイト",
+      "url": "https://pointi.jp/ad/120649/",
+      "points": "2.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "144528",
+      "title": "CASTELBAJAC（カステルバジャック）",
+      "url": "https://pointi.jp/ad/144528/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "144441",
+      "title": "サンデーマウンテン",
+      "url": "https://pointi.jp/ad/144441/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "132701",
+      "title": "大きいサイズレディース通販サイトangeLsize（エンジェルサイズ）",
+      "url": "https://pointi.jp/ad/132701/",
+      "points": "8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "143907",
+      "title": "Palude(パルーデ)　アニメ・ゲームのルームウェア/雑貨ショップ",
+      "url": "https://pointi.jp/ad/143907/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "143767",
+      "title": "overE（オーバーイー）",
+      "url": "https://pointi.jp/ad/143767/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "14236",
+      "title": "ディノス オンラインショップ",
+      "url": "https://pointi.jp/ad/14236/",
+      "points": "0.6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "143106",
+      "title": "およばれドレス　Dorry Doll",
+      "url": "https://pointi.jp/ad/143106/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "42102",
+      "title": "titivate（ティティベイト）",
+      "url": "https://pointi.jp/ad/42102/",
+      "points": "0.9%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "121978",
+      "title": "Brandear オークション（ブランディア公式オークション）",
+      "url": "https://pointi.jp/ad/121978/",
+      "points": "0.6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "141513",
+      "title": "オシャレウォーカー(osharewalker)",
+      "url": "https://pointi.jp/ad/141513/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.152Z"
+    },
+    {
+      "id": "140775",
+      "title": "LANDS’ END(ランズエンド) 初回購入",
+      "url": "https://pointi.jp/ad/140775/",
+      "points": "300円",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "140644",
+      "title": "Pearls（パールズ）",
+      "url": "https://pointi.jp/ad/140644/",
+      "points": "8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "6897",
+      "title": "cecile(セシール)",
+      "url": "https://pointi.jp/ad/6897/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "139854",
+      "title": "アクアガレージ(aquagarage）",
+      "url": "https://pointi.jp/ad/139854/",
+      "points": "10%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "139130",
+      "title": "FELISSIMO(フェリシモ)",
+      "url": "https://pointi.jp/ad/139130/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "138980",
+      "title": "Tika-ティカ-",
+      "url": "https://pointi.jp/ad/138980/",
+      "points": "4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "138558",
+      "title": "fulvum(フルーム)公式通販サイト",
+      "url": "https://pointi.jp/ad/138558/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "138183",
+      "title": "Lululemon（ルルレモン）",
+      "url": "https://pointi.jp/ad/138183/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "15569",
+      "title": "GUNZE store(グンゼストア）",
+      "url": "https://pointi.jp/ad/15569/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "7175",
+      "title": "MoMA Design Store",
+      "url": "https://pointi.jp/ad/7175/",
+      "points": "4.5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "111128",
+      "title": "セレクトショップZUTTO",
+      "url": "https://pointi.jp/ad/111128/",
+      "points": "8.1%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "132060",
+      "title": "タカシマヤファッションスクエア",
+      "url": "https://pointi.jp/ad/132060/",
+      "points": "1.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "132280",
+      "title": "AZUL BY MOUSSY（アズールバイマウジー）",
+      "url": "https://pointi.jp/ad/132280/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "135060",
+      "title": "TATRAS CONCEPT STORE",
+      "url": "https://pointi.jp/ad/135060/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:16:59.153Z"
+    },
+    {
+      "id": "136517",
+      "title": "ノイジャパン",
+      "url": "https://pointi.jp/ad/136517/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "114564",
+      "title": "ur's(ユアーズ)",
+      "url": "https://pointi.jp/ad/114564/",
+      "points": "1.4%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "121242",
+      "title": "ラコステジャパン (LACOSTE)",
+      "url": "https://pointi.jp/ad/121242/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "64045",
+      "title": "UGG(R) 公式サイト",
+      "url": "https://pointi.jp/ad/64045/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "133253",
+      "title": "浴衣通販Dita（ディータ）",
+      "url": "https://pointi.jp/ad/133253/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "131100",
+      "title": "MILESTO（ミレスト）",
+      "url": "https://pointi.jp/ad/131100/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "125547",
+      "title": "SEA DRESS",
+      "url": "https://pointi.jp/ad/125547/",
+      "points": "1.3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "106046",
+      "title": "D COLLECTION　ディーコレクション",
+      "url": "https://pointi.jp/ad/106046/",
+      "points": "5%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "125933",
+      "title": "集英社HAPPY PLUS STORE（ハッピープラスストア）",
+      "url": "https://pointi.jp/ad/125933/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "124631",
+      "title": "スウィートマミー",
+      "url": "https://pointi.jp/ad/124631/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "117963",
+      "title": "Farfetch.com (ファーフェッチ)",
+      "url": "https://pointi.jp/ad/117963/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "121355",
+      "title": "infirmiere（アンファミエ）",
+      "url": "https://pointi.jp/ad/121355/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "9563",
+      "title": "MIZUNO SHOP",
+      "url": "https://pointi.jp/ad/9563/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "9580",
+      "title": "ワコール",
+      "url": "https://pointi.jp/ad/9580/",
+      "points": "2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "120544",
+      "title": "ELLE SHOP（エル・ショップ）",
+      "url": "https://pointi.jp/ad/120544/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "118064",
+      "title": "Lady Cat Smart",
+      "url": "https://pointi.jp/ad/118064/",
+      "points": "3%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.180Z"
+    },
+    {
+      "id": "10317",
+      "title": "GLENCHECK",
+      "url": "https://pointi.jp/ad/10317/",
+      "points": "7%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "103671",
+      "title": "Amazon.co.jp（アマゾン）",
+      "url": "https://pointi.jp/ad/103671/",
+      "points": "0%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "109816",
+      "title": "428DROPP(シブヤド ロップ)",
+      "url": "https://pointi.jp/ad/109816/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "69252",
+      "title": "藤巻百貨店",
+      "url": "https://pointi.jp/ad/69252/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "62385",
+      "title": "B-GALLERY",
+      "url": "https://pointi.jp/ad/62385/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "59468",
+      "title": "LITHEE（リジー）",
+      "url": "https://pointi.jp/ad/59468/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "8314",
+      "title": "ナース専門「ナースリー」",
+      "url": "https://pointi.jp/ad/8314/",
+      "points": "6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "7203",
+      "title": "サッカーショップ加茂",
+      "url": "https://pointi.jp/ad/7203/",
+      "points": "1.8%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "8126",
+      "title": "ブランドバッグ&アクセサリーレンタル Cariru レンタル申込",
+      "url": "https://pointi.jp/ad/8126/",
+      "points": "4.2%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    },
+    {
+      "id": "11011",
+      "title": "erutuoc（エルトゥーク）",
+      "url": "https://pointi.jp/ad/11011/",
+      "points": "0.6%",
+      "device": "すべて",
+      "category_id": 177,
+      "category_type": "shopping",
+      "timestamp": "2025-08-10T00:17:12.181Z"
+    }
+  ]
+}

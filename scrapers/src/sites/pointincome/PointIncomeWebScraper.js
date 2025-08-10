@@ -399,12 +399,29 @@ class PointIncomeWebScraper {
     const beforeState = await this.getPageState(page);
     console.log(`📊 クリック前: ${beforeState.count}件 (最初: "${beforeState.firstTitle}")`);
     
-    // tab_select関数を実行
+    // tab_select関数を実行（第3引数を動的に取得）
     const clickResult = await page.evaluate((nextPage) => {
       if (typeof window.tab_select === 'function') {
-        console.log(`tab_select関数を実行中... ページ${nextPage}へ`);
-        // TODO: 第3引数は動的に取得する必要があるかもしれない
-        window.tab_select('tab1', 0, 63, nextPage);
+        // 実際の「次へ」ボタンのonclick属性から正しいパラメータを取得
+        const nextButton = Array.from(document.querySelectorAll('a[onclick*="tab_select"]'))
+          .find(link => link.textContent.trim().includes('次へ') || link.textContent.trim() === '次へ>');
+        
+        if (nextButton) {
+          const onclick = nextButton.getAttribute('onclick');
+          const paramMatch = onclick.match(/tab_select\('([^']+)',\s*(\d+),\s*(\d+),\s*(\d+)\)/);
+          
+          if (paramMatch) {
+            const [, tab, param2, param3, param4] = paramMatch;
+            console.log(`tab_select実行: ('${tab}', ${param2}, ${param3}, ${nextPage})`);
+            window.tab_select(tab, parseInt(param2), parseInt(param3), nextPage);
+            return true;
+          }
+        }
+        
+        // フォールバック: 従来の方法（案件数ベース）
+        const campaignCount = document.querySelectorAll('.box_ad').length;
+        console.log(`tab_select実行（フォールバック）: ('tab1', 0, ${campaignCount}, ${nextPage})`);
+        window.tab_select('tab1', 0, campaignCount, nextPage);
         return true;
       }
       return false;
