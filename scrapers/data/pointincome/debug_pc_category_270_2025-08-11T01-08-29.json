@@ -1,0 +1,200 @@
+{
+  "config": {
+    "category": {
+      "id": 270,
+      "name": "PC限定案件（ブラウザゲーム）",
+      "url": "https://pointi.jp/list.php?category=270"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "timeout": 45000,
+    "pageLoadWait": 5000,
+    "ajaxWait": 8000
+  },
+  "results": [
+    {
+      "id": "pc_270_1754874508964_2",
+      "title": "<前へ",
+      "url": "https://pointi.jp/javascript:void(0);",
+      "points": "不明",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "selector": ".load > *",
+      "element_info": {
+        "tagName": "DIV",
+        "className": "pager_wrap",
+        "textLength": 73
+      },
+      "timestamp": "2025-08-11T01:08:28.964Z"
+    },
+    {
+      "id": "pc_270_1754874508964_0",
+      "title": "キャンペーン",
+      "url": "https://pointi.jp/campaign/",
+      "points": "不明",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "selector": ".campaign",
+      "element_info": {
+        "tagName": "A",
+        "className": "nav_title_a campaign",
+        "textLength": 6
+      },
+      "timestamp": "2025-08-11T01:08:28.964Z"
+    },
+    {
+      "id": "pc_270_1754874508964_0",
+      "title": "お気に入り",
+      "url": "https://pointi.jp/favorite/favorite_list.php",
+      "points": "不明",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "selector": "tr td",
+      "element_info": {
+        "tagName": "TD",
+        "className": "",
+        "textLength": 5
+      },
+      "timestamp": "2025-08-11T01:08:28.964Z"
+    },
+    {
+      "id": "pc_270_1754874508964_1",
+      "title": "ご利用ガイド",
+      "url": "https://pointi.jp/contents/howto/",
+      "points": "不明",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "selector": "tr td",
+      "element_info": {
+        "tagName": "TD",
+        "className": "",
+        "textLength": 6
+      },
+      "timestamp": "2025-08-11T01:08:28.964Z"
+    },
+    {
+      "id": "pc_270_1754874508964_2",
+      "title": "よくある質問",
+      "url": "https://pointi.jp/help/",
+      "points": "不明",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "selector": "tr td",
+      "element_info": {
+        "tagName": "TD",
+        "className": "",
+        "textLength": 6
+      },
+      "timestamp": "2025-08-11T01:08:28.964Z"
+    },
+    {
+      "id": "pc_270_1754874508964_3",
+      "title": "お問い合わせ",
+      "url": "https://pointi.jp/contactus/form.php",
+      "points": "不明",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "selector": "tr td",
+      "element_info": {
+        "tagName": "TD",
+        "className": "",
+        "textLength": 6
+      },
+      "timestamp": "2025-08-11T01:08:28.964Z"
+    },
+    {
+      "id": "pc_270_1754874508964_4",
+      "title": "お知らせ",
+      "url": "https://pointi.jp/info/",
+      "points": "不明",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "selector": "tr td",
+      "element_info": {
+        "tagName": "TD",
+        "className": "",
+        "textLength": 4
+      },
+      "timestamp": "2025-08-11T01:08:28.964Z"
+    }
+  ],
+  "debugInfo": {
+    "initialContent": {
+      "phase": "初期静的コンテンツ",
+      "campaignElements": 0,
+      "loadElements": 0,
+      "tabElements": 0,
+      "ajaxFunctions": [
+        "tab_select"
+      ],
+      "visibleText": "会員登録はこちら\n広告名で探す\n獲得条件で探す\nお気に入り\n\t\nご利用ガイド\n\t\nよくある質問\n\t\nお問い合わせ\n\t\nお知らせ\nTOP\nサービス\nショッピング\nアンケート\nモニター\nキャンペーン\nお友達紹介\nマイページ\nポイントサイト・お小遣いサイト｜ポイントインカムTOP > ブラウザゲーム一覧\nカテゴリーから探す\nクレジットカード比較\nおすすめ無料特集\nふるさと納税徹底解説\nネット証券&クレカ徹底解説\nFX徹底解説\n暗号資産とは\niDeCo&NISA徹底解説\n即追加\n会員登録・申込\n体験・トライアル\n本入会・成約\n資料請求\nアンケート・口コミ\nモニター・キャンペーン応募\n予約・来店\n面談・セミナー\n見積もり・査定・調査\n買取・不用品回収\n融資・ローン・キャッシング\n口座開設・入金\n株・FX・暗号資産（取引）\n投資信託・投資型CF\n美容・脱毛サロン\n旅行・ホテル\nバス・航空券・レンタカー\nネット回線\nスマホ・格安SIM\nウォーターサーバー\n電気・ガス\n資格・講座・スクール\n家事代行・クリーニング\n訪問サービス\nリース・レンタル\n求職・求人\n法人向けサービス\n各種保険\n事前登録\nブラウ",
+      "allSelectors": {
+        ".box01": 0,
+        ".campaign-item": 0,
+        "li[class*=\"list\"]": 0,
+        ".load": 1,
+        ".tab": 3,
+        "a[onclick*=\"tab_select\"]": 2
+      }
+    },
+    "ajaxContent": {
+      "phase": "AJAX読み込み後",
+      "campaignElements": 0,
+      "loadElements": 0,
+      "tabElements": 0,
+      "ajaxFunctions": [
+        "tab_select"
+      ],
+      "visibleText": "会員登録はこちら\n広告名で探す\n獲得条件で探す\nお気に入り\n\t\nご利用ガイド\n\t\nよくある質問\n\t\nお問い合わせ\n\t\nお知らせ\nTOP\nサービス\nショッピング\nアンケート\nモニター\nキャンペーン\nお友達紹介\nマイページ\nポイントサイト・お小遣いサイト｜ポイントインカムTOP > ブラウザゲーム一覧\nカテゴリーから探す\nクレジットカード比較\nおすすめ無料特集\nふるさと納税徹底解説\nネット証券&クレカ徹底解説\nFX徹底解説\n暗号資産とは\niDeCo&NISA徹底解説\n即追加\n会員登録・申込\n体験・トライアル\n本入会・成約\n資料請求\nアンケート・口コミ\nモニター・キャンペーン応募\n予約・来店\n面談・セミナー\n見積もり・査定・調査\n買取・不用品回収\n融資・ローン・キャッシング\n口座開設・入金\n株・FX・暗号資産（取引）\n投資信託・投資型CF\n美容・脱毛サロン\n旅行・ホテル\nバス・航空券・レンタカー\nネット回線\nスマホ・格安SIM\nウォーターサーバー\n電気・ガス\n資格・講座・スクール\n家事代行・クリーニング\n訪問サービス\nリース・レンタル\n求職・求人\n法人向けサービス\n各種保険\n事前登録\nブラウ",
+      "allSelectors": {
+        ".box01": 0,
+        ".campaign-item": 0,
+        "li[class*=\"list\"]": 0,
+        ".load": 1,
+        ".tab": 3,
+        "a[onclick*=\"tab_select\"]": 2
+      }
+    },
+    "networkRequests": [
+      {
+        "url": "https://pointi.jp/ajax_load/load.php",
+        "method": "GET",
+        "type": "AJAX_REQUEST"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=1&page=1&max=1&narrow=0&category=270&data_type=",
+        "method": "GET",
+        "type": "AJAX_REQUEST"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load.php",
+        "method": "GET",
+        "type": "AJAX_REQUEST"
+      },
+      {
+        "url": "https://pointi.jp/ajax_load/load_list.php?order=2&page=1&max=1&narrow=0&category=270&data_type=",
+        "method": "GET",
+        "type": "AJAX_REQUEST"
+      }
+    ],
+    "errors": []
+  },
+  "timestamp": "2025-08-11T01:08:29.032Z"
+}

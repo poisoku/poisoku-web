@@ -1,0 +1,88 @@
+{
+  "scrape_date": "2025-08-10T05:10:38.589Z",
+  "version": "mobile_infinite_scroll_v1",
+  "strategy": "mobile_infinite_scroll_complete_extraction",
+  "stats": {
+    "startTime": "2025-08-10T05:09:40.195Z",
+    "endTime": "2025-08-10T05:10:38.588Z",
+    "categoriesProcessed": 3,
+    "totalScrolls": 9,
+    "totalPages": 3,
+    "duplicatesSkipped": 0,
+    "errors": [],
+    "categoryBreakdown": {
+      "test_161": 0,
+      "test_179": 0,
+      "test_75": 0
+    },
+    "ajaxRequests": [
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_infinite.php?cat_no=161&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:09:43.378Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=1&cat_no=161&od=1&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T05:09:43.520Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=2&cat_no=161&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:09:51.095Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=3&cat_no=161&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:09:54.276Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_infinite.php?cat_no=179&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:02.578Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=1&cat_no=179&od=1&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:02.709Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=2&cat_no=179&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:09.758Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=3&cat_no=179&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:12.440Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_infinite.php?cat_no=75&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:20.669Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=1&cat_no=75&od=1&data_type=",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:20.832Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=2&cat_no=75&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:27.770Z"
+      },
+      {
+        "url": "https://sp.pointi.jp/ajax_load/load_list_site.php?page=3&cat_no=75&od=1",
+        "status": 200,
+        "timestamp": "2025-08-10T05:10:30.956Z"
+      }
+    ]
+  },
+  "total_campaigns": 0,
+  "campaigns": [],
+  "notes": [
+    "モバイル版無限スクロールで全ページ取得",
+    "スマホアプリ案件以外のデバイスは「すべて」に設定",
+    "AJAX load_list_site.php エンドポイント使用"
+  ]
+}

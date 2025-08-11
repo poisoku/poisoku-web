@@ -10,8 +10,8 @@ const path = require('path');
 async function integrateFinalPointIncomeData() {
   console.log('🔄 ポイントインカム最終版データ統合開始');
   
-  // 最新のポイントインカムデータを読み込み（1,626件）
-  const pointIncomeDataPath = '/Users/kn/poisoku-web/scrapers/data/pointincome/pointincome_final_2025-08-10T03-10-01-143Z.json';
+  // 最新のポイントインカムデータを読み込み（1,017件）
+  const pointIncomeDataPath = '/Users/kn/poisoku-web/scrapers/data/pointincome/pointincome_mobile_complete_2025-08-10T06-28-47-194Z.json';
   const pointIncomeRaw = await fs.readFile(pointIncomeDataPath, 'utf-8');
   const pointIncomeData = JSON.parse(pointIncomeRaw);
   

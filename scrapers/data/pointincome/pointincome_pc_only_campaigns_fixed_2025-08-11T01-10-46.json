@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2025-08-11T01:10:46.300Z",
+  "device": "PC",
+  "category_id": 270,
+  "category_name": "PC限定案件（ブラウザゲーム）",
+  "ajax_requests": 4,
+  "total_campaigns": 0,
+  "campaigns": [],
+  "stats": {
+    "startTime": "2025-08-11T01:10:30.762Z",
+    "endTime": "2025-08-11T01:10:46.299Z",
+    "ajaxRequests": 4,
+    "campaignsFound": 0
+  },
+  "ajax_content_sample": "\n<div id=\"middle_wrap\" class=\"clearfix\">\n        \n    <div class=\"box_ad_wrap\">\n        <div class=\"box_ad\">\n\n            \n            <div class=\"box_ad_inner\">\n\n                <a href=\"./ad/147452/\" class=\"cont_img\">\n                    <img src=\"https://img.ad-leap.jp/ad_material/1391_20230818200324\" alt=\"World of Warships（Windows PCのみ）\" class=\"cnr_round\">\n                </a>\n\n                <div class=\"cont_text\">\n\n                    <div class=\"title_list\">World of Warships（Windows PCのみ）</div>\n\n                    <div class=\"list_pt_box\">\n                                                    <div class=\"list_pt\"><span class=\"red\"><span class=\"big\">5,000</span><span class=\"pt_after\">pt</span></span></div>\n                                            </div><!-- list_pt_box -->\n\n                    <div class=\"ad_cat_wrap clearfix\">\n                        <span class=\"statas_emphas\">サービス</span>                    </div>\n\n                    <div class=\"list_way\">獲得条件:無料会員登録後、ゲーム内通",
+  "notes": [
+    "PC環境専用案件（モバイル環境では表示されない）",
+    "AJAX応答から直接HTML解析により抽出",
+    "カテゴリ270: ブラウザゲーム案件"
+  ]
+}

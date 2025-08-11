@@ -107,19 +107,49 @@
 - https://pointi.jp/list.php?category=270
 - https://pointi.jp/list.php?category=82
 
+## デバイス分類
+ショッピングカテゴリ・サービス・クレジットカード・マネーなどの案件から取得した案件のデバイス分類は「すべて」とする
+
 ## スマホアプリ案件
+- https://sp.pointi.jp/pts_app.php?cat_no=285&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=286&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=287&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=288&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=289&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=290&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=291&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=292&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=293&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=294&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=295&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=296&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=297&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=298&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=299&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=300&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=301&sort=&sub=4
+- https://sp.pointi.jp/pts_app.php?cat_no=302&sort=&sub=4
 
-- https://sp.pointi.jp/list.php?cat_no=68
+## デバイス分類
+スマホアプリ案件のデバイス分類は、iOS環境で取得 → デバイス「iOS」/Android環境で取得 → デバイス「Android」とする
 
-### 備考
-スマホアプリ案件のページは、画面を下にスクロールすることで、掲載されている案件が表示される仕組みです。
+
+## PC限定案件
+- https://pointi.jp/list.php?category=270
+PC限定案件はモバイル環境では表示されない。PC限定案件のページで取得した案件のデバイス分類は「PC」とする。
+
+**技術仕様**:
+- AJAX動的コンテンツ読み込み対応
+- box_ad_inner HTML構造解析
+- 複数ソート順序・ページ網羅
+- 重複除去機能搭載
+- 実行スクリプト: `/scripts/run-pointincome-pc-only-scraper.sh`
+
+
 
 ## 注意事項
 
-### 注意1: ページネーション
-スマホアプリ案件以外のURLには、2ページ目以降が存在します。2ページ目以降はURLが指定されておらず、案件URLページの下部にある「次へ>」をタップすることで2ページ目以降が表示される仕様となっています。「次へ>」のリンクテキストは`javascript:void(0);`となっています。
-
-### 注意2: 案件の重複
+### 注意1: 案件の重複
 同じ案件が複数の案件URLで掲載されている（重複している）ケースが多く見られます。
 
 ## 統計情報

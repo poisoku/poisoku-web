@@ -1,0 +1,23 @@
+{
+  "scrape_date": "2025-08-11T01:05:45.354Z",
+  "device": "PC",
+  "category_id": 270,
+  "category_name": "PC限定案件",
+  "pages_processed": 1,
+  "total_campaigns": 0,
+  "duplicates_skipped": 0,
+  "campaigns": [],
+  "stats": {
+    "startTime": "2025-08-11T01:05:33.753Z",
+    "endTime": "2025-08-11T01:05:45.353Z",
+    "totalPages": 1,
+    "totalScrolls": 0,
+    "duplicatesSkipped": 0,
+    "errors": []
+  },
+  "notes": [
+    "PC環境専用案件（モバイル環境では表示されない）",
+    "デバイス分類: PC",
+    "カテゴリ270専用"
+  ]
+}
