@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-require('dotenv').config();
 const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 const path = require('path');
@@ -85,11 +84,9 @@ class PointIncomePCOnlyScraper {
             console.log(`📥 AJAX応答解析: ${responseBody.length} bytes`);
             this.stats.ajaxRequests++;
             
-            // AJAX応答から案件を抽出
             const ajaxCampaigns = this.extractCampaignsFromHTML(responseBody);
             console.log(`   🎯 抽出案件: ${ajaxCampaigns.length}件`);
             
-            // 重複除去して結果に追加
             ajaxCampaigns.forEach(campaign => {
               if (!this.seenIds.has(campaign.id)) {
                 this.seenIds.add(campaign.id);

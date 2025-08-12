@@ -1,0 +1,75 @@
+🎯 ポイントインカム スマホアプリ案件完全版取得開始
+======================================================================
+📱 対象カテゴリ: 18個
+🔄 取得パターン: 18 × 2 OS = 36回
+
+📱 iOS環境での取得開始...
+   ❌ カテゴリ285エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ286エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ287エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ288エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ289エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ290エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ291エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ292エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ293エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ294エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ295エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ296エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ297エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ298エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ299エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ300エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ301エラー: Navigation timeout of 45000 ms exceeded
+   ❌ カテゴリ302エラー: Navigation timeout of 45000 ms exceeded
+
+🤖 Android環境での取得開始...
+   ✅ カテゴリ285: 10件 (新規: 10件)
+   ✅ カテゴリ286: 10件 (新規: 10件)
+   ✅ カテゴリ287: 4件 (新規: 4件)
+   ✅ カテゴリ288: 9件 (新規: 9件)
+   ✅ カテゴリ289: 10件 (新規: 10件)
+   🔄 ブラウザ再起動 (5カテゴリ処理完了)
+   📈 ANDROID進捗: 5/18 (27.8%)
+   ✅ カテゴリ290: 10件 (新規: 10件)
+   ✅ カテゴリ291: 10件 (新規: 10件)
+   ✅ カテゴリ292: 2件 (新規: 2件)
+   ✅ カテゴリ293: 10件 (新規: 10件)
+   ✅ カテゴリ294: 10件 (新規: 10件)
+   🔄 ブラウザ再起動 (10カテゴリ処理完了)
+   📈 ANDROID進捗: 10/18 (55.6%)
+   ✅ カテゴリ295: 10件 (新規: 10件)
+   ✅ カテゴリ296: 10件 (新規: 10件)
+   ✅ カテゴリ297: 4件 (新規: 4件)
+   ✅ カテゴリ298: 10件 (新規: 10件)
+   ✅ カテゴリ299: 6件 (新規: 6件)
+   🔄 ブラウザ再起動 (15カテゴリ処理完了)
+   📈 ANDROID進捗: 15/18 (83.3%)
+   ✅ カテゴリ300: 3件 (新規: 3件)
+   ✅ カテゴリ301: 10件 (新規: 10件)
+   ✅ カテゴリ302: 10件 (新規: 10件)
+   📈 ANDROID進捗: 18/18 (100.0%)
+
+======================================================================
+📊 スマホアプリ案件完全版取得完了レポート
+======================================================================
+⏱️ 実行時間: 16.93分
+📱 iOS案件: 0件
+🤖 Android案件: 148件
+📊 合計案件数: 148件
+🔁 重複除去: iOS 0件, Android 0件
+
+📈 カテゴリ別取得数（上位5）:
+   1. カテゴリ285 (Android): 10件
+   2. カテゴリ286 (Android): 10件
+   3. カテゴリ289 (Android): 10件
+   4. カテゴリ290 (Android): 10件
+   5. カテゴリ291 (Android): 10件
+
+⚠️ エラー: 18件
+
+💾 iOS用ファイル: /Users/kn/poisoku-web/scrapers/data/pointincome/pointincome_ios_app_full_2025-08-11T05-55-39.json
+💾 Android用ファイル: /Users/kn/poisoku-web/scrapers/data/pointincome/pointincome_android_app_full_2025-08-11T05-55-39.json
+💾 統合版ファイル: /Users/kn/poisoku-web/scrapers/data/pointincome/pointincome_app_full_combined_2025-08-11T05-55-39.json
+
+✅ 全処理完了

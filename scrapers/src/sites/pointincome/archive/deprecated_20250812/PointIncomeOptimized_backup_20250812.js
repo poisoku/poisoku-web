@@ -4,6 +4,7 @@ require('dotenv').config();
 const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 const path = require('path');
+const PointIncomeScrapingConfig = require('./PointIncomeScrapingConfig');
 
 /**
  * ポイントインカム モバイル版スクレイパー（最適化版）
@@ -14,6 +15,7 @@ class PointIncomeOptimized {
     this.browser = null;
     this.results = [];
     this.seenCampaignIds = new Set();
+    this.scrapingConfig = new PointIncomeScrapingConfig();
     this.stats = {
       startTime: null,
       endTime: null,
@@ -23,24 +25,25 @@ class PointIncomeOptimized {
       duplicatesSkipped: 0,
       errors: [],
       categoryBreakdown: {},
-      highVolumeCategories: 0
+      highVolumeCategories: 0,
+      consecutiveTimeouts: 0
     };
   }
 
-  // 設定を一元管理
+  // 設定を統一管理クラスから取得（モバイル環境指定）
   get config() {
+    // 通常案件はモバイル版ページを使用するため、ios環境を指定
+    const optimizedConfig = this.scrapingConfig.getOptimizedConfig('ios', 'normalCampaigns');
     return {
-      userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1',
-      viewport: { width: 375, height: 812, isMobile: true, hasTouch: true },
-      timeout: 45000,
-      scrollWaitTime: 2500,
+      ...optimizedConfig,
       maxRetriesPerCategory: 2,
-      maxScrollsPerCategory: 30,
-      browserRestartInterval: 15,
+      maxScrollsPerCategory: 500,        // 異常時の安全弁として大幅拡張
+      stableScrollCount: 8,              // 真の無限スクロール: 8回連続で新規なし→完了
+      categoryTimeout: 1800000,          // カテゴリ別30分タイムアウト
+      scrollWaitTime: 2500,              // スクロール間隔維持
       browserStartupWait: 1000,
-      pageLoadWait: 3000,
-      stableScrollCount: 2,
-      highVolumeThreshold: 50 // 大量案件の閾値
+      highVolumeThreshold: 50,           // 大量案件の閾値
+      infiniteScrollMode: true           // 無限スクロール有効化フラグ
     };
   }
 
@@ -82,17 +85,19 @@ class PointIncomeOptimized {
       }
     }
 
-    this.browser = await puppeteer.launch({
-      headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-web-security']
-    });
-    
+    // 統一設定クラスを使用してブラウザ作成（モバイル環境）
+    this.browser = await this.scrapingConfig.createBrowser('ios');
     await this.sleep(this.config.browserStartupWait);
+    
+    console.log(`   🚀 ブラウザ再起動完了 - モバイル高負荷対応最適化`);
   }
 
   async execute() {
     console.log('🎯 ポイントインカム取得開始 (83カテゴリ)');
     console.log('='.repeat(70));
+    
+    // 設定情報の表示（モバイル環境）
+    this.scrapingConfig.logConfiguration('ios', 'normalCampaigns');
 
     this.stats.startTime = new Date();
 
@@ -102,11 +107,20 @@ class PointIncomeOptimized {
       
       for (let i = 0; i < categoryEntries.length; i++) {
         const [key, config] = categoryEntries[i];
-        await this.processCategory(key, config);
+        await this.processCategory(key, config, i);
         
-        // ブラウザ再起動
-        if ((i + 1) % this.config.browserRestartInterval === 0) {
+        // 統一設定による動的ブラウザ再起動（モバイル環境）
+        const restartInfo = this.scrapingConfig.shouldRestartBrowser(i, 'ios', 'normalCampaigns');
+        if (restartInfo.shouldRestart) {
+          console.log(`   🔄 ブラウザ再起動 (${i + 1}/${restartInfo.restartInterval}カテゴリ処理完了) - 高負荷対応最適化`);
           await this.initializeBrowser();
+          
+          // メモリクリーンアップ実行
+          if (restartInfo.needsMemoryCleanup && global.gc) {
+            console.log(`   🧹 メモリクリーンアップ実行`);
+            await this.sleep(2000);
+            global.gc();
+          }
         }
         
         // 進捗表示（10カテゴリごと）
@@ -115,7 +129,7 @@ class PointIncomeOptimized {
           console.log(`📈 進捗: ${i + 1}/${categoryEntries.length} (${progress}%) - 取得数: ${this.results.length}件`);
         }
         
-        await this.sleep(1000);
+        await this.sleep(restartInfo.waitTime);
       }
 
       this.stats.endTime = new Date();
@@ -129,7 +143,7 @@ class PointIncomeOptimized {
     }
   }
 
-  async processCategory(categoryKey, categoryConfig) {
+  async processCategory(categoryKey, categoryConfig, categoryIndex) {
     let retryCount = 0;
 
     while (retryCount < this.config.maxRetriesPerCategory) {
@@ -152,7 +166,8 @@ class PointIncomeOptimized {
         // 新規案件の追加
         const newCount = this.addNewCampaigns(campaigns);
         
-        console.log(`✅ ${categoryKey}: ${campaigns.length}件 (新規: ${newCount}件)`);
+        const scrollInfo = scrollResult.completionReason || `${scrollResult.totalScrolls}回スクロール`;
+        console.log(`✅ ${categoryKey}: ${campaigns.length}件 (新規: ${newCount}件) [${scrollInfo}]`);
         
         if (campaigns.length >= this.config.highVolumeThreshold) {
           this.stats.highVolumeCategories++;
@@ -162,6 +177,7 @@ class PointIncomeOptimized {
         this.stats.categoryBreakdown[categoryKey] = campaigns.length;
         this.stats.totalScrolls += scrollResult.totalScrolls;
         this.stats.totalPages += scrollResult.pagesLoaded;
+        this.stats.consecutiveTimeouts = 0; // 成功時にリセット
 
         await page.close();
         break;
@@ -170,8 +186,26 @@ class PointIncomeOptimized {
         retryCount++;
         if (page) await page.close().catch(() => {});
         
+        // タイムアウトエラーの特別処理
+        if (error.message.includes('timeout') || error.message.includes('Navigation')) {
+          this.stats.consecutiveTimeouts++;
+          console.log(`⚠️ ${categoryKey}: タイムアウト検出 (連続${this.stats.consecutiveTimeouts}回) - 緊急対応実行`);
+          
+          // 統一設定による緊急復旧処理（モバイル環境）
+          this.browser = await this.scrapingConfig.handleTimeoutError(
+            this.browser, 
+            'ios', 
+            this.stats.consecutiveTimeouts
+          );
+          
+          // 連続タイムアウトが多い場合は追加待機
+          if (this.stats.consecutiveTimeouts >= 2) {
+            await this.sleep(5000);
+          }
+        }
+        
         if (retryCount >= this.config.maxRetriesPerCategory) {
-          console.log(`❌ ${categoryKey}: エラー - ${error.message}`);
+          console.log(`❌ ${categoryKey}: エラー (${retryCount}回試行) - ${error.message}`);
           this.stats.errors.push({ category: categoryKey, error: error.message });
         } else {
           await this.sleep(2000);
@@ -192,13 +226,25 @@ class PointIncomeOptimized {
   }
 
   async performInfiniteScroll(page) {
+    console.log(`      🔄 真の無限スクロール開始（完了まで継続）`);
+    
     let scrollCount = 0;
     let pagesLoaded = 1;
     let noChangeCount = 0;
     let previousCount = await this.getCampaignCount(page);
+    const startTime = Date.now();
+
+    console.log(`      📊 初期案件数: ${previousCount}件`);
 
     while (scrollCount < this.config.maxScrollsPerCategory && noChangeCount < this.config.stableScrollCount) {
       scrollCount++;
+      
+      // カテゴリ別タイムアウトチェック
+      const elapsed = Date.now() - startTime;
+      if (elapsed > this.config.categoryTimeout) {
+        console.log(`      ⏰ カテゴリタイムアウト (${Math.round(elapsed/60000)}分) - 強制終了`);
+        break;
+      }
       
       await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
       await this.sleep(this.config.scrollWaitTime);
@@ -206,16 +252,40 @@ class PointIncomeOptimized {
       const currentCount = await this.getCampaignCount(page);
       
       if (currentCount > previousCount) {
+        const newItems = currentCount - previousCount;
+        console.log(`      📈 スクロール${scrollCount}: ${newItems}件追加 (計:${currentCount}件)`);
         pagesLoaded++;
         noChangeCount = 0;
       } else {
         noChangeCount++;
+        if (this.config.infiniteScrollMode && scrollCount % 10 === 0) {
+          console.log(`      ⏸️  スクロール${scrollCount}: 新規なし(${noChangeCount}/${this.config.stableScrollCount}回連続)`);
+        }
       }
       
       previousCount = currentCount;
+      
+      // 進捗表示（50回毎）
+      if (scrollCount % 50 === 0) {
+        const timeMin = Math.round(elapsed / 60000);
+        console.log(`      📊 無限スクロール進捗: ${scrollCount}回, ${currentCount}件, ${timeMin}分経過`);
+      }
     }
 
-    return { totalScrolls: scrollCount, pagesLoaded, finalCount: previousCount };
+    const endReason = noChangeCount >= this.config.stableScrollCount ? 
+      `完全取得(${noChangeCount}回連続で新規なし)` : 
+      `安全弁作動(${scrollCount}回到達)`;
+    
+    console.log(`      ✅ 無限スクロール完了: ${endReason}`);
+    console.log(`      📊 最終結果: ${previousCount}件 (${scrollCount}回スクロール)`);
+
+    return { 
+      totalScrolls: scrollCount, 
+      pagesLoaded, 
+      finalCount: previousCount,
+      completionReason: endReason,
+      elapsedTime: Math.round((Date.now() - startTime) / 1000)
+    };
   }
 
   async getCampaignCount(page) {

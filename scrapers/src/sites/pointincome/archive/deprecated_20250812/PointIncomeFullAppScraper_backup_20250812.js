@@ -4,6 +4,7 @@ require('dotenv').config();
 const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 const path = require('path');
+const PointIncomeScrapingConfig = require('./PointIncomeScrapingConfig');
 
 /**
  * ポイントインカム スマホアプリ案件完全版スクレイパー
@@ -12,6 +13,7 @@ const path = require('path');
 class PointIncomeFullAppScraper {
   constructor() {
     this.browser = null;
+    this.scrapingConfig = new PointIncomeScrapingConfig();
     this.results = {
       ios: [],
       android: []
@@ -28,14 +30,16 @@ class PointIncomeFullAppScraper {
         totalCampaigns: 0,
         duplicatesSkipped: 0,
         errors: [],
-        categoryBreakdown: {}
+        categoryBreakdown: {},
+        consecutiveTimeouts: 0
       },
       android: { 
         categoriesProcessed: 0,
         totalCampaigns: 0,
         duplicatesSkipped: 0,
         errors: [],
-        categoryBreakdown: {}
+        categoryBreakdown: {},
+        consecutiveTimeouts: 0
       }
     };
   }
@@ -63,26 +67,18 @@ class PointIncomeFullAppScraper {
         { id: 302, name: 'アプリカテゴリ302' }
       ],
       getUrl: (categoryId) => `https://sp.pointi.jp/pts_app.php?cat_no=${categoryId}&sort=&sub=4`,
-      userAgents: {
-        ios: 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1',
-        android: 'Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36'
-      },
-      viewport: {
-        ios: { width: 375, height: 812, isMobile: true, hasTouch: true },
-        android: { width: 360, height: 640, isMobile: true, hasTouch: true }
-      },
       scrollWaitTime: 2500,
-      maxScrolls: 30,
+      maxScrollsPerCategory: 500,        // 真の無限スクロール用安全弁
+      stableScrollCount: 8,              // 8回連続新規なし→完了
+      categoryTimeout: 1800000,          // 30分タイムアウト
       pageLoadWait: 3000,
-      stableScrollCount: 2,
-      timeout: 45000,
-      browserRestartInterval: 5,
-      iosSpecificSettings: {
-        browserRestartInterval: 3,
-        categoryWaitTime: 3000,
-        additionalMemoryCleanup: true
-      }
+      infiniteScrollMode: true           // 無限スクロール有効
     };
+  }
+  
+  // 環境別最適化設定を取得
+  getEnvironmentConfig(os) {
+    return this.scrapingConfig.getOptimizedConfig(os, 'appCampaigns');
   }
 
   async execute() {
@@ -118,15 +114,13 @@ class PointIncomeFullAppScraper {
   }
 
   async scrapeAllCategories(os) {
-    await this.initializeBrowser();
+    await this.initializeBrowser(os);
     
-    // OS別の設定適用
-    const restartInterval = os === 'ios' ? 
-      this.config.iosSpecificSettings.browserRestartInterval : 
-      this.config.browserRestartInterval;
-    const waitTime = os === 'ios' ? 
-      this.config.iosSpecificSettings.categoryWaitTime : 
-      1000;
+    // 統一設定から環境別設定を取得
+    const envConfig = this.getEnvironmentConfig(os);
+    
+    // 設定情報の表示
+    this.scrapingConfig.logConfiguration(os, 'appCampaigns');
     
     for (let i = 0; i < this.config.categories.length; i++) {
       const category = this.config.categories[i];
@@ -134,17 +128,19 @@ class PointIncomeFullAppScraper {
       try {
         await this.scrapeCategory(category, os);
         this.stats[os].categoriesProcessed++;
+        this.stats[os].consecutiveTimeouts = 0; // 成功時にリセット
         
-        // OS別ブラウザ再起動頻度
-        if ((i + 1) % restartInterval === 0) {
-          console.log(`   🔄 ブラウザ再起動 (${i + 1}カテゴリ処理完了) - ${os.toUpperCase()}最適化`);
-          await this.initializeBrowser();
+        // 統一設定による動的ブラウザ再起動
+        const restartInfo = this.scrapingConfig.shouldRestartBrowser(i, os, 'appCampaigns');
+        if (restartInfo.shouldRestart) {
+          console.log(`   🔄 ブラウザ再起動 (${i + 1}/${restartInfo.restartInterval}カテゴリ処理完了) - ${os.toUpperCase()}最適化`);
+          await this.initializeBrowser(os);
           
-          // iOS用追加メモリクリーンアップ
-          if (os === 'ios' && this.config.iosSpecificSettings.additionalMemoryCleanup) {
-            console.log(`   🧹 iOS用メモリクリーンアップ実行`);
+          // メモリクリーンアップ実行
+          if (restartInfo.needsMemoryCleanup && global.gc) {
+            console.log(`   🧹 ${os.toUpperCase()}用メモリクリーンアップ実行`);
             await this.sleep(2000);
-            if (global.gc) global.gc();
+            global.gc();
           }
         }
         
@@ -161,15 +157,26 @@ class PointIncomeFullAppScraper {
           error: error.message
         });
         
-        // iOS でタイムアウトエラーの場合、ブラウザを即座に再起動
-        if (os === 'ios' && error.message.includes('timeout')) {
-          console.log(`   🚨 iOS タイムアウト検出 - 緊急ブラウザ再起動`);
-          await this.initializeBrowser();
-          await this.sleep(3000);
+        // タイムアウトエラーの統一処理
+        if (error.message.includes('timeout') || error.message.includes('Navigation')) {
+          this.stats[os].consecutiveTimeouts++;
+          console.log(`   🚨 ${os.toUpperCase()} タイムアウト検出 (連続${this.stats[os].consecutiveTimeouts}回) - 緊急復旧開始`);
+          
+          // 統一設定による緊急復旧処理
+          this.browser = await this.scrapingConfig.handleTimeoutError(
+            this.browser, 
+            os, 
+            this.stats[os].consecutiveTimeouts
+          );
+          
+          // 連続タイムアウト対策
+          if (this.stats[os].consecutiveTimeouts >= 2) {
+            await this.sleep(5000);
+          }
         }
       }
       
-      await this.sleep(waitTime);
+      await this.sleep(envConfig.categoryWaitTime);
     }
   }
 
@@ -177,13 +184,16 @@ class PointIncomeFullAppScraper {
     const page = await this.browser.newPage();
     
     try {
-      await page.setUserAgent(this.config.userAgents[os]);
-      await page.setViewport(this.config.viewport[os]);
+      // 統一設定から環境別設定を取得
+      const envConfig = this.getEnvironmentConfig(os);
+      
+      await page.setUserAgent(envConfig.userAgent);
+      await page.setViewport(envConfig.viewport);
       
       const url = this.config.getUrl(category.id);
       await page.goto(url, {
         waitUntil: 'domcontentloaded',
-        timeout: this.config.timeout
+        timeout: envConfig.timeout
       });
       
       await this.sleep(this.config.pageLoadWait);
@@ -209,7 +219,8 @@ class PointIncomeFullAppScraper {
       this.stats[os].categoryBreakdown[category.id] = newCount;
       this.stats[os].totalCampaigns += newCount;
       
-      console.log(`   ✅ カテゴリ${category.id}: ${campaigns.length}件 (新規: ${newCount}件)`);
+      const scrollInfo = scrollResult.completionReason || `${scrollResult.totalScrolls}回スクロール`;
+      console.log(`   ✅ カテゴリ${category.id}: ${campaigns.length}件 (新規: ${newCount}件) [${scrollInfo}]`);
       
     } finally {
       await page.close();
@@ -217,12 +228,24 @@ class PointIncomeFullAppScraper {
   }
 
   async performInfiniteScroll(page) {
+    console.log(`      🔄 真の無限スクロール開始（アプリ案件完全取得）`);
+    
     let scrollCount = 0;
     let noChangeCount = 0;
     let previousCount = await this.getCampaignCount(page);
-    
-    while (scrollCount < this.config.maxScrolls && noChangeCount < this.config.stableScrollCount) {
+    const startTime = Date.now();
+
+    console.log(`      📊 初期案件数: ${previousCount}件`);
+
+    while (scrollCount < this.config.maxScrollsPerCategory && noChangeCount < this.config.stableScrollCount) {
       scrollCount++;
+      
+      // カテゴリ別タイムアウトチェック
+      const elapsed = Date.now() - startTime;
+      if (elapsed > this.config.categoryTimeout) {
+        console.log(`      ⏰ カテゴリタイムアウト (${Math.round(elapsed/60000)}分) - 強制終了`);
+        break;
+      }
       
       await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
       await this.sleep(this.config.scrollWaitTime);
@@ -230,15 +253,32 @@ class PointIncomeFullAppScraper {
       const currentCount = await this.getCampaignCount(page);
       
       if (currentCount > previousCount) {
+        const newItems = currentCount - previousCount;
+        console.log(`      📈 スクロール${scrollCount}: ${newItems}件追加 (計:${currentCount}件)`);
         noChangeCount = 0;
       } else {
         noChangeCount++;
+        if (this.config.infiniteScrollMode && scrollCount % 5 === 0) {
+          console.log(`      ⏸️  スクロール${scrollCount}: 新規なし(${noChangeCount}/${this.config.stableScrollCount}回連続)`);
+        }
       }
       
       previousCount = currentCount;
     }
+
+    const endReason = noChangeCount >= this.config.stableScrollCount ? 
+      `完全取得(${noChangeCount}回連続で新規なし)` : 
+      `安全弁作動(${scrollCount}回到達)`;
     
-    return { totalScrolls: scrollCount, finalCount: previousCount };
+    console.log(`      ✅ アプリ案件無限スクロール完了: ${endReason}`);
+    console.log(`      📊 最終結果: ${previousCount}件 (${scrollCount}回スクロール)`);
+
+    return { 
+      totalScrolls: scrollCount, 
+      finalCount: previousCount,
+      completionReason: endReason,
+      elapsedTime: Math.round((Date.now() - startTime) / 1000)
+    };
   }
 
   async getCampaignCount(page) {
@@ -354,29 +394,14 @@ class PointIncomeFullAppScraper {
     }, os, category);
   }
 
-  async initializeBrowser() {
+  async initializeBrowser(os = 'desktop') {
     if (this.browser) {
       await this.browser.close();
     }
     
-    this.browser = await puppeteer.launch({
-      headless: true,
-      args: [
-        '--no-sandbox', 
-        '--disable-setuid-sandbox', 
-        '--disable-dev-shm-usage',
-        '--disable-web-security',
-        '--disable-features=VizDisplayCompositor',
-        '--memory-pressure-off',
-        '--disable-background-timer-throttling',
-        '--disable-backgrounding-occluded-windows',
-        '--disable-renderer-backgrounding'
-      ]
-    });
-    
-    // iOS最適化のためのブラウザコンテキスト設定
-    const context = this.browser.defaultBrowserContext();
-    await context.overridePermissions('https://sp.pointi.jp', []);
+    // 統一設定クラスを使用してブラウザ作成
+    this.browser = await this.scrapingConfig.createBrowser(os);
+    console.log(`   🚀 ブラウザ再起動完了 - ${os.toUpperCase()}最適化`);
   }
 
   async generateReport() {
