@@ -259,12 +259,39 @@ class AllDataIntegrator {
     let cashbackValue = 0;
     let cashbackUnit = '円';
     let cashbackYen = null;
+    let cleanedPoints = campaign.points || '不明'; // スコープ外でも使用するため外に移動
     
     if (campaign.points) {
+      // %案件の不要テキスト除去（「購入金額の1%」→「1%」）
+      cleanedPoints = campaign.points;
+      
+      // 「購入金額の」や「円の」などの不要テキストを除去
+      if (cleanedPoints.includes('%') || cleanedPoints.includes('％')) {
+        // %案件の場合：数字+%のみを抽出
+        const percentMatch = cleanedPoints.match(/([0-9]+(?:\.[0-9]+)?)[%％]/);
+        if (percentMatch) {
+          cleanedPoints = `${percentMatch[1]}%`;
+        }
+      }
+      
+      // 矢印表記がある場合は右側の値を取得（ポイントアップ案件）
+      if (cleanedPoints.includes('⇒')) {
+        const parts = cleanedPoints.split('⇒');
+        cleanedPoints = parts[parts.length - 1].trim();
+        
+        // 再度%の清浄化処理
+        if (cleanedPoints.includes('%') || cleanedPoints.includes('％')) {
+          const percentMatch = cleanedPoints.match(/([0-9]+(?:\.[0-9]+)?)[%％]/);
+          if (percentMatch) {
+            cleanedPoints = `${percentMatch[1]}%`;
+          }
+        }
+      }
+      
       // ポイントインカムのポイント形式に対応（pt, 円, %）
-      const match = campaign.points.match(/([0-9,]+)(pt|円|%|％)/);
+      const match = cleanedPoints.match(/([0-9,]+(?:\.[0-9]+)?)(pt|円|%|％)/);
       if (match) {
-        cashbackValue = parseInt(match[1].replace(/,/g, ''));
+        cashbackValue = parseFloat(match[1].replace(/,/g, ''));
         cashbackUnit = match[2].replace('％', '%');
         
         // ポイントインカム仕様書: 1pt = 0.1円
@@ -299,7 +326,7 @@ class AllDataIntegrator {
       site: 'ポイントインカム',
       siteId: 'pointincome',
       url: campaign.url,
-      cashback: campaign.points || '不明',
+      cashback: cleanedPoints || campaign.points || '不明',
       cashbackYen: cashbackYen, // 円換算値（仕様書対応）
       cashbackValue,
       cashbackUnit,
