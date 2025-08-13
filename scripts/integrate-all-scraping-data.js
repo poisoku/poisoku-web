@@ -198,15 +198,23 @@ class AllDataIntegrator {
   }
 
   convertChobirichCampaign(campaign) {
-    // 還元率の正規化
+    // 還元率の正規化と円換算処理（仕様書対応）
     let cashbackValue = 0;
     let cashbackUnit = 'pt';
+    let cashbackYen = null;
     
     if (campaign.points) {
       const match = campaign.points.match(/([0-9,]+)(pt|%|％|円)/);
       if (match) {
         cashbackValue = parseInt(match[1].replace(/,/g, ''));
         cashbackUnit = match[2].replace('％', '%');
+        
+        // ちょびリッチ仕様書: 2pt = 1円
+        if (cashbackUnit === 'pt') {
+          const yenAmount = Math.floor(cashbackValue / 2);
+          cashbackYen = `${yenAmount.toLocaleString()}円`;
+        }
+        // %案件はそのまま表示（円換算しない）
       }
     }
 
@@ -225,6 +233,7 @@ class AllDataIntegrator {
       siteId: 'chobirich',
       url: campaign.url,
       cashback: campaign.points || '不明',
+      cashbackYen: cashbackYen, // 円換算値（仕様書対応）
       cashbackValue,
       cashbackUnit,
       category: this.mapCategory(campaign.categoryType),
@@ -246,15 +255,28 @@ class AllDataIntegrator {
   }
 
   convertPointIncomeCampaign(campaign, type) {
-    // 還元率の正規化
+    // 還元率の正規化と円換算処理（仕様書対応）
     let cashbackValue = 0;
     let cashbackUnit = '円';
+    let cashbackYen = null;
     
     if (campaign.points) {
-      const match = campaign.points.match(/([0-9,]+)(円|%)/);
+      // ポイントインカムのポイント形式に対応（pt, 円, %）
+      const match = campaign.points.match(/([0-9,]+)(pt|円|%|％)/);
       if (match) {
         cashbackValue = parseInt(match[1].replace(/,/g, ''));
-        cashbackUnit = match[2];
+        cashbackUnit = match[2].replace('％', '%');
+        
+        // ポイントインカム仕様書: 1pt = 0.1円
+        if (cashbackUnit === 'pt') {
+          const yenAmount = cashbackValue * 0.1;
+          cashbackYen = `${yenAmount.toLocaleString()}円`;
+        }
+        // 円案件はそのまま
+        else if (cashbackUnit === '円') {
+          cashbackYen = `${cashbackValue.toLocaleString()}円`;
+        }
+        // %案件はそのまま表示（円換算しない）
       }
     }
 
@@ -278,6 +300,7 @@ class AllDataIntegrator {
       siteId: 'pointincome',
       url: campaign.url,
       cashback: campaign.points || '不明',
+      cashbackYen: cashbackYen, // 円換算値（仕様書対応）
       cashbackValue,
       cashbackUnit,
       category: this.mapPointIncomeCategory(campaign.category_type),
