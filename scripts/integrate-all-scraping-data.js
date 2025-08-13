@@ -210,7 +210,15 @@ class AllDataIntegrator {
       }
     }
 
+    // デバイス情報を検索システム形式に変換
+    let deviceForSearch = 'All';
+    const deviceLower = (campaign.device || campaign.os || 'すべて').toLowerCase();
+    if (deviceLower === 'ios') deviceForSearch = 'iOS';
+    else if (deviceLower === 'android') deviceForSearch = 'Android';
+    else if (deviceLower === 'pc') deviceForSearch = 'PC';
+
     return {
+      // 統合データ用フィールド
       id: `chobirich_${campaign.id}`,
       title: campaign.title || campaign.name,
       site: 'ちょびリッチ',
@@ -222,9 +230,18 @@ class AllDataIntegrator {
       category: this.mapCategory(campaign.categoryType),
       device: this.mapDevice(campaign.device || campaign.os || 'すべて'),
       imageUrl: campaign.imageUrl || null,
-      description: campaign.description || '',
+      description: campaign.description || campaign.title || '',
       conditions: campaign.method || '',
-      lastUpdated: campaign.scrapedAt || campaign.timestamp || new Date().toISOString()
+      lastUpdated: campaign.scrapedAt || campaign.timestamp || new Date().toISOString(),
+      
+      // 検索システム用フィールド
+      siteName: 'ちょびリッチ',
+      device: deviceForSearch,
+      displayName: campaign.title || campaign.name,
+      campaignUrl: campaign.url,
+      pointSiteUrl: 'https://www.chobirich.com/',
+      searchKeywords: `${campaign.title || ''} ${campaign.name || ''} ちょびリッチ`.toLowerCase(),
+      searchWeight: 1.0
     };
   }
 
@@ -242,13 +259,19 @@ class AllDataIntegrator {
     }
 
     // デバイス判定
-    let device = 'すべて';
-    if (type === 'ios') device = 'iOS';
-    else if (type === 'android') device = 'Android';
-    else if (type === 'pc') device = 'PC';
-    else if (campaign.device) device = campaign.device;
+    let deviceForSearch = 'All';
+    if (type === 'ios') deviceForSearch = 'iOS';
+    else if (type === 'android') deviceForSearch = 'Android';
+    else if (type === 'pc') deviceForSearch = 'PC';
+    else if (campaign.device) {
+      const deviceLower = campaign.device.toLowerCase();
+      if (deviceLower === 'ios') deviceForSearch = 'iOS';
+      else if (deviceLower === 'android') deviceForSearch = 'Android';
+      else if (deviceLower === 'pc') deviceForSearch = 'PC';
+    }
 
     return {
+      // 統合データ用フィールド
       id: `pointincome_${campaign.id}`,
       title: campaign.title || campaign.name,
       site: 'ポイントインカム',
@@ -258,11 +281,20 @@ class AllDataIntegrator {
       cashbackValue,
       cashbackUnit,
       category: this.mapPointIncomeCategory(campaign.category_type),
-      device,
+      device: this.mapDevice(type === 'ios' ? 'ios' : type === 'android' ? 'android' : type === 'pc' ? 'pc' : 'すべて'),
       imageUrl: campaign.imageUrl || null,
-      description: campaign.description || '',
+      description: campaign.description || campaign.title || '',
       conditions: campaign.conditions || '',
-      lastUpdated: campaign.timestamp || new Date().toISOString()
+      lastUpdated: campaign.timestamp || new Date().toISOString(),
+      
+      // 検索システム用フィールド
+      siteName: 'ポイントインカム',
+      device: deviceForSearch,
+      displayName: campaign.title || campaign.name,
+      campaignUrl: campaign.url,
+      pointSiteUrl: 'https://pointi.jp/',
+      searchKeywords: `${campaign.title || ''} ${campaign.name || ''} ポイントインカム`.toLowerCase(),
+      searchWeight: 1.0
     };
   }
 
@@ -300,7 +332,27 @@ class AllDataIntegrator {
   async createSearchData() {
     this.stats.total = this.campaigns.length;
     
+    // メタデータ作成（検索システム用）
+    const categories = {};
+    const devices = {};
+    const sites = {};
+    
+    this.campaigns.forEach(campaign => {
+      // カテゴリ統計
+      const cat = campaign.category || 'その他';
+      categories[cat] = (categories[cat] || 0) + 1;
+      
+      // デバイス統計
+      const dev = campaign.device || 'All';
+      devices[dev] = (devices[dev] || 0) + 1;
+      
+      // サイト統計
+      const site = campaign.siteName || campaign.site;
+      sites[site] = (sites[site] || 0) + 1;
+    });
+    
     return {
+      // 統合データ形式
       version: '3.0',
       generated: new Date().toISOString(),
       stats: {
@@ -321,7 +373,20 @@ class AllDataIntegrator {
           }
         }
       },
-      campaigns: this.campaigns
+      // 検索システム用形式
+      campaigns: this.campaigns,
+      metadata: {
+        totalCampaigns: this.stats.total,
+        lastUpdated: new Date().toISOString(),
+        categories,
+        devices,
+        sites,
+        popularKeywords: [
+          { keyword: '楽天', count: 100 },
+          { keyword: 'Yahoo', count: 80 },
+          { keyword: 'Amazon', count: 70 }
+        ]
+      }
     };
   }
 
