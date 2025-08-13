@@ -17,7 +17,7 @@ class ExtendedChobirichScraper {
   }
 
   /**
-   * 統計情報初期化
+   * 統計情報初期化（堅牢性統計追加）
    */
   initializeStats() {
     return {
@@ -27,12 +27,17 @@ class ExtendedChobirichScraper {
       pagesProcessed: 0,
       campaignsFound: 0,
       totalRequests: 0,
-      errors: []
+      errors: [],
+      // 堅牢性統計
+      browserRestarts: 0,
+      http403Errors: 0,
+      retriesExecuted: 0,
+      errorRecoveries: 0
     };
   }
 
   /**
-   * 設定情報
+   * 設定情報（403エラー対策機能付き）
    */
   getConfig() {
     return {
@@ -41,7 +46,14 @@ class ExtendedChobirichScraper {
       timeout: 30000,
       pageDelay: 2000,
       contentLoadDelay: 3000,
-      defaultMaxPages: 15
+      defaultMaxPages: 15,
+      // 403エラー対策設定
+      maxCategoriesPerBrowser: 2,  // 2カテゴリ毎にブラウザ再起動
+      maxRetries: 3,               // 最大3回リトライ
+      browserRestartDelay: 65000,  // ブラウザ再起動間隔65秒（アクセス数リセット）
+      errorRecoveryDelay: 60000,   // エラー時60秒待機
+      categoryDelay: 65000,        // カテゴリ間65秒待機（アクセス数制限対策）
+      http403RetryDelay: 300000    // 403エラー時5分待機
     };
   }
 
@@ -103,25 +115,52 @@ class ExtendedChobirichScraper {
   }
 
   /**
-   * 初期化
+   * 初期化（403エラー対策機能付き）
    */
   async initialize() {
-    console.log('🚀 拡張版ちょびリッチスクレイパー【洗練版】初期化中...');
+    console.log('🚀 拡張版ちょびリッチスクレイパー【堅牢版】初期化中...');
+    console.log('🛡️ 403エラー対策機能（バランス型）:');
+    console.log('   ✅ 2カテゴリ毎の強制ブラウザ再起動');
+    console.log('   ✅ 403エラー時5分待機・自動リトライ');
+    console.log('   ✅ カテゴリ間65秒待機');
+    console.log('   ✅ ブラウザ再起動間65秒待機');
     console.log('📋 対応カテゴリ:');
     console.log('   - ショッピングカテゴリ: 11カテゴリ (shop/101-111)');
     console.log('   - サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)');
     
+    await this.createNewBrowser();
+    
+    console.log('✅ 初期化完了');
+  }
+
+  /**
+   * 新しいブラウザインスタンス作成
+   */
+  async createNewBrowser() {
+    if (this.browser) {
+      try {
+        await this.browser.close();
+      } catch (error) {
+        console.log('⚠️ 既存ブラウザクローズエラー（無視）');
+      }
+    }
+
+    console.log('🔄 新しいブラウザインスタンス作成中...');
     this.browser = await puppeteer.launch({
       headless: 'new',
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox', 
         '--disable-dev-shm-usage',
-        '--disable-web-security'
+        '--disable-web-security',
+        '--disable-features=VizDisplayCompositor'
       ]
     });
     
-    console.log('✅ 初期化完了');
+    this.stats.browserRestarts++;
+    
+    // ブラウザ起動後の安定化待機
+    await new Promise(resolve => setTimeout(resolve, 3000));
   }
 
   /**
@@ -186,7 +225,13 @@ class ExtendedChobirichScraper {
       this.stats.totalRequests++;
 
       if (response.status() !== 200) {
-        console.log(`   ❌ HTTPエラー: ${response.status()}`);
+        const errorMessage = `HTTPエラー: ${response.status()}`;
+        console.log(`   ❌ ${errorMessage}`);
+        
+        if (response.status() === 403) {
+          throw new Error(`403 Forbidden - アクセス制限: ${targetUrl}`);
+        }
+        
         return [];
       }
 
@@ -338,31 +383,136 @@ class ExtendedChobirichScraper {
   }
 
   /**
-   * カテゴリの全ページ処理
+   * バッチ処理（エラー回復機能付き）
    */
-  async processCategory(categoryKey, categoryConfig) {
+  async processBatchWithErrorHandling(categoryKeys, batchNumber) {
+    let attempt = 0;
+    let success = false;
+    
+    while (attempt < this.config.maxRetries && !success) {
+      try {
+        console.log(`\n🔧 Batch ${batchNumber} 実行開始 (試行 ${attempt + 1}/${this.config.maxRetries})`);
+        
+        // 新しいブラウザインスタンス作成
+        await this.createNewBrowser();
+        
+        // バッチ内のカテゴリを順次処理
+        for (const categoryKey of categoryKeys) {
+          const categoryConfig = this.categories[categoryKey];
+          if (!categoryConfig) {
+            console.log(`⚠️ 不明なカテゴリ: ${categoryKey}`);
+            continue;
+          }
+          
+          await this.processCategoryWithRetry(categoryKey, categoryConfig);
+          
+          // カテゴリ間待機（アクセス数制限対策）
+          if (categoryKeys.indexOf(categoryKey) < categoryKeys.length - 1) {
+            console.log(`   ⏳ 次カテゴリまで${this.config.categoryDelay/1000}秒待機（アクセス数制限対策）...`);
+            await new Promise(resolve => setTimeout(resolve, this.config.categoryDelay));
+          }
+        }
+        
+        console.log(`✅ Batch ${batchNumber} 完了`);
+        success = true;
+        
+      } catch (error) {
+        attempt++;
+        console.log(`❌ Batch ${batchNumber} 失敗 (試行 ${attempt}): ${error.message}`);
+        
+        this.stats.errors.push({
+          batch: batchNumber,
+          attempt,
+          error: error.message,
+          timestamp: new Date().toISOString()
+        });
+        
+        if (attempt < this.config.maxRetries) {
+          console.log(`🛡️ エラー回復中 - ${this.config.errorRecoveryDelay/1000}秒待機...`);
+          await new Promise(resolve => setTimeout(resolve, this.config.errorRecoveryDelay));
+          this.stats.errorRecoveries++;
+        }
+      }
+    }
+    
+    if (!success) {
+      console.log(`💥 Batch ${batchNumber} 最大リトライ数に達しました`);
+    }
+  }
+
+  /**
+   * カテゴリ処理（リトライ機能付き）
+   */
+  async processCategoryWithRetry(categoryKey, categoryConfig) {
     console.log(`\n📂 ${categoryConfig.type.toUpperCase()}カテゴリ: ${categoryConfig.name}`);
     console.log('-'.repeat(50));
     
     const allCampaigns = [];
+    let emptyPageCount = 0; // 連続して案件が0件のページ数をカウント
+    const maxEmptyPages = 3; // 3ページ連続で0件なら終了
     
     for (let page = 1; page <= categoryConfig.maxPages; page++) {
-      const campaigns = await this.scrapeCategoryPage(
-        categoryConfig.baseUrl,
-        page,
-        categoryConfig.type
-      );
+      let pageSuccess = false;
+      let pageAttempt = 0;
       
-      if (campaigns.length === 0) {
-        console.log(`   ➡️ ページ${page}: 案件なし。次のカテゴリへ`);
+      while (pageAttempt < this.config.maxRetries && !pageSuccess) {
+        try {
+          const campaigns = await this.scrapeCategoryPage(
+            categoryConfig.baseUrl,
+            page,
+            categoryConfig.type
+          );
+          
+          if (campaigns.length === 0) {
+            emptyPageCount++;
+            console.log(`   ➡️ ページ${page}: 案件なし（${emptyPageCount}/${maxEmptyPages}）`);
+            
+            // 3ページ連続で案件が0件の場合、残りのページをスキップ
+            if (emptyPageCount >= maxEmptyPages) {
+              console.log(`   ⏭️ ${maxEmptyPages}ページ連続で案件なし。次のカテゴリへ`);
+              return allCampaigns; // カテゴリ処理を終了
+            }
+            
+            pageSuccess = true;
+            // ページ間待機は必要ないのでbreakする
+            break;
+          }
+          
+          // 案件が見つかったらカウントをリセット
+          emptyPageCount = 0;
+          allCampaigns.push(...campaigns);
+          this.stats.pagesProcessed++;
+          pageSuccess = true;
+          
+        } catch (error) {
+          pageAttempt++;
+          
+          if (error.message.includes('403')) {
+            this.stats.http403Errors++;
+            console.log(`   ❌ 403エラー (試行 ${pageAttempt}): ${this.config.http403RetryDelay/60000}分待機（アクセス数リセット）...`);
+            
+            if (pageAttempt < this.config.maxRetries) {
+              await new Promise(resolve => setTimeout(resolve, this.config.http403RetryDelay));
+              this.stats.retriesExecuted++;
+            }
+          } else {
+            console.log(`   ❌ ページ${page}エラー (試行 ${pageAttempt}): ${error.message}`);
+            
+            if (pageAttempt < this.config.maxRetries) {
+              await new Promise(resolve => setTimeout(resolve, 5000));
+              this.stats.retriesExecuted++;
+            }
+          }
+        }
+      }
+      
+      if (!pageSuccess) {
+        console.log(`   💥 ページ${page}: 最大リトライ数に達しました`);
         break;
       }
       
-      allCampaigns.push(...campaigns);
-      this.stats.pagesProcessed++;
-      
       // ページ間待機
-      if (page < categoryConfig.maxPages) {
+      if (page < categoryConfig.maxPages && allCampaigns.length > 0) {
         await new Promise(resolve => setTimeout(resolve, this.config.pageDelay));
       }
     }
@@ -374,11 +524,11 @@ class ExtendedChobirichScraper {
   }
 
   /**
-   * メインスクレイピング処理
+   * メインスクレイピング処理（403エラー対策付き）
    */
   async scrape(targetCategories = null, categoryTypes = null) {
     this.stats.startTime = new Date();
-    console.log('🎯 拡張版スクレイピング開始');
+    console.log('🎯 拡張版スクレイピング開始（堅牢版）');
     console.log('='.repeat(60));
     
     await this.initialize();
@@ -396,13 +546,25 @@ class ExtendedChobirichScraper {
       
       console.log(`📋 処理対象: ${categoriesToProcess.length}カテゴリ`);
       
-      for (const categoryKey of categoriesToProcess) {
-        if (!this.categories[categoryKey]) {
-          console.log(`⚠️ 不明なカテゴリ: ${categoryKey}`);
-          continue;
-        }
+      // 3カテゴリずつのバッチに分割
+      const batches = [];
+      for (let i = 0; i < categoriesToProcess.length; i += this.config.maxCategoriesPerBrowser) {
+        batches.push(categoriesToProcess.slice(i, i + this.config.maxCategoriesPerBrowser));
+      }
+      
+      console.log(`🔄 ${batches.length}バッチに分割実行（403エラー対策）`);
+      
+      for (let batchIndex = 0; batchIndex < batches.length; batchIndex++) {
+        const batch = batches[batchIndex];
+        console.log(`\n📦 Batch ${batchIndex + 1}/${batches.length}: ${batch.join(', ')}`);
         
-        await this.processCategory(categoryKey, this.categories[categoryKey]);
+        await this.processBatchWithErrorHandling(batch, batchIndex + 1);
+        
+        // バッチ間の待機（アクセス数リセット待機）
+        if (batchIndex < batches.length - 1) {
+          console.log(`⏳ 次バッチまで${this.config.browserRestartDelay/1000}秒待機（アクセス数リセット待機）...`);
+          await new Promise(resolve => setTimeout(resolve, this.config.browserRestartDelay));
+        }
       }
       
     } catch (error) {
@@ -446,11 +608,27 @@ class ExtendedChobirichScraper {
     console.log(`  ショッピング: ${shoppingCampaigns}件`);
     console.log(`  サービス: ${serviceCampaigns}件`);
     
+    // 堅牢性統計
+    console.log(`\n🛡️ 堅牢性統計:`);
+    console.log(`  ブラウザ再起動: ${this.stats.browserRestarts}回`);
+    console.log(`  403エラー: ${this.stats.http403Errors}回`);
+    console.log(`  リトライ実行: ${this.stats.retriesExecuted}回`);
+    console.log(`  エラー回復: ${this.stats.errorRecoveries}回`);
+    
     if (this.stats.totalRequests > 0) {
       const avgTime = duration / this.stats.totalRequests;
       console.log(`\n⚡ パフォーマンス:`);
       console.log(`  平均処理時間: ${avgTime.toFixed(2)}秒/リクエスト`);
       console.log(`  案件取得効率: ${(this.stats.campaignsFound / this.stats.totalRequests).toFixed(1)}件/リクエスト`);
+    }
+    
+    // 成功率計算
+    const successRate = this.stats.totalRequests > 0 ? 
+      ((this.stats.totalRequests - this.stats.errors.length) / this.stats.totalRequests * 100).toFixed(1) : 0;
+    console.log(`  成功率: ${successRate}%`);
+    
+    if (this.stats.http403Errors === 0) {
+      console.log(`\n🎉 403エラー対策成功！全カテゴリを堅牢に取得`);
     }
   }
 

@@ -34,10 +34,9 @@ async function main() {
   const scraper = new MobileAppScraper();
   
   try {
-    // コマンドライン引数の解析（修正版）
+    // コマンドライン引数の解析
     const args = process.argv.slice(2);
     let targetOS = ['ios', 'android'];
-    let sortType = null; // デフォルトはソートなし
     
     if (args.length > 0) {
       const arg = args[0].toLowerCase();
@@ -51,31 +50,16 @@ async function main() {
         console.log('🎯 Android案件のみ処理');
       } else if (arg === 'both' || arg === 'all') {
         console.log('🎯 iOS・Android両OS処理');
-      } else {
-        // ソートタイプ指定
-        if (['point', 'new', 'ranking', 'low'].includes(arg)) {
-          sortType = arg;
-          console.log(`🔄 ソート指定: ${sortType}`);
-        }
       }
     } else {
       console.log('🎯 iOS・Android両OS処理（デフォルト）');
     }
     
-    // ソートタイプが2番目の引数で指定された場合
-    if (args.length > 1) {
-      const sortArg = args[1].toLowerCase();
-      if (['point', 'new', 'ranking', 'low'].includes(sortArg)) {
-        sortType = sortArg;
-        console.log(`🔄 ソート指定: ${sortType}`);
-      }
-    }
-    
     // スクレイピング実行
-    const results = await scraper.scrape(targetOS, sortType);
+    const results = await scraper.scrape(targetOS);
     
     // 結果保存
-    await saveResults(results, targetOS, sortType);
+    await saveResults(results, targetOS);
     
     console.log('\n🎊 スマホアプリ案件スクレイピング完了！');
     
@@ -88,7 +72,7 @@ async function main() {
 /**
  * 結果保存
  */
-async function saveResults(results, targetOS, sortType) {
+async function saveResults(results, targetOS) {
   const timestamp = new Date().toISOString().slice(0, 19).replace(/[T:]/g, '_');
   
   // OS別保存とまとめ保存の両方実行

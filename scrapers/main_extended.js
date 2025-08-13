@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 /**
- * 拡張版ちょびリッチスクレイピングシステム メインエントリーポイント
+ * 拡張版ちょびリッチスクレイピングシステム メインエントリーポイント【堅牢版】
  * 
  * 仕様書対応：
  * - 全ショッピングカテゴリ（shop/101-111）
  * - サービス・クレジットカード・マネーカテゴリ（earn/apply/101,103,104,106-111）
  * - カテゴリページ完結型で100倍高速化
- * - 403エラーリスクほぼゼロ
+ * - 403エラー対策完備（v3システムと同等の堅牢性）
  */
 
 const ExtendedChobirichScraper = require('./src/sites/chobirich/ExtendedChobirichScraper');
@@ -18,13 +18,18 @@ const path = require('path');
  * メイン実行関数
  */
 async function main() {
-  console.log('🎉 拡張版ちょびリッチスクレイピングシステム');
+  console.log('🎉 拡張版ちょびリッチスクレイピングシステム【堅牢版】');
   console.log('=' .repeat(60));
   console.log('📋 仕様書対応:');
   console.log('  ✅ ショッピングカテゴリ: 11カテゴリ (shop/101-111)');
   console.log('  ✅ サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)');
   console.log('  ✅ 全ページ対応 (page=2, page=3, ...)');
   console.log('  ✅ カテゴリページ完結型');
+  console.log('🛡️ 403エラー対策:');
+  console.log('  ✅ 2カテゴリ毎ブラウザ再起動');
+  console.log('  ✅ 403エラー時5分待機・自動リトライ');
+  console.log('  ✅ カテゴリ間65秒待機（アクセス数制限対策）');
+  console.log('  ✅ ブラウザ再起動間65秒待機（アクセス数リセット）');
   console.log('=' .repeat(60));
 
   const scraper = new ExtendedChobirichScraper();

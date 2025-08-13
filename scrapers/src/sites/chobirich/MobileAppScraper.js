@@ -135,39 +135,6 @@ class MobileAppScraper {
           return bestMatch;
         }
         
-        // 獲得条件を抽出する関数
-        function extractMethod(text, title) {
-          if (!text) return '';
-          
-          // 条件パターン
-          const patterns = [
-            /新規アプリインストール後、([^。\n]+)/,
-            /初回([^。\n]+)/,
-            /(レベル\d+到達)/,
-            /(ステージ\d+到達)/,
-            /(\d+日連続[^。\n]+)/
-          ];
-          
-          for (const pattern of patterns) {
-            const match = text.match(pattern);
-            if (match) {
-              return match[0].trim();
-            }
-          }
-          
-          // タイトルから推測
-          if (title) {
-            if (title.includes('レベル') || title.includes('ステージ')) {
-              const match = title.match(/(レベル|ステージ)\d+/);
-              if (match) {
-                return match[0];
-              }
-            }
-          }
-          
-          return '新規アプリインストール後、指定条件達成で成果';
-        }
-        
         // アプリ案件要素を取得（シンプル版）
         const appItems = document.querySelectorAll('li.CommonSearchItem.App__item') || 
                        document.querySelectorAll('li.CommonSearchItem');
@@ -178,7 +145,6 @@ class MobileAppScraper {
             title: '',
             url: '',
             points: '',
-            method: '',
             os: osType,
             scrapedAt: new Date().toISOString(),
             source: 'mobile_app_scraper'
@@ -200,10 +166,9 @@ class MobileAppScraper {
               campaign.id = idMatch[1];
             }
             
-            // ポイント・獲得条件取得
+            // ポイント取得
             const fullText = item.textContent;
             campaign.points = extractPoints(fullText);
-            campaign.method = extractMethod(fullText, campaign.title);
           }
 
           // 必須データが揃っている場合のみ追加
@@ -238,7 +203,7 @@ class MobileAppScraper {
   /**
    * OS別の全ページを処理
    */
-  async processOS(osType, sortType = null, maxPages = 20) {
+  async processOS(osType, maxPages = 20) {
     console.log(`\n📱 ${osType.toUpperCase()} アプリ案件取得開始`);
     console.log('-'.repeat(50));
     
@@ -279,8 +244,15 @@ class MobileAppScraper {
     try {
       console.log(`🎯 対象OS: ${targetOS.join(', ').toUpperCase()}`);
       
-      for (const osType of targetOS) {
+      for (let i = 0; i < targetOS.length; i++) {
+        const osType = targetOS[i];
         await this.processOS(osType);
+        
+        // OS間の待機（403エラー対策）
+        if (i < targetOS.length - 1) {
+          console.log(`\n⏳ 次OS処理まで2分待機（403エラー対策）...`);
+          await new Promise(resolve => setTimeout(resolve, 120000)); // 2分待機
+        }
       }
       
     } catch (error) {
