@@ -347,8 +347,9 @@ export class SiteInvestigator {
       analyses
     };
 
-    const fs = require('fs');
-    fs.writeFileSync(filename, JSON.stringify(report, null, 2));
+    // Note: File writing disabled for client-side compatibility
+    // const fs = require('fs');
+    // fs.writeFileSync(filename, JSON.stringify(report, null, 2));
     console.log(`調査レポートを保存しました: ${filename}`);
   }
 }
