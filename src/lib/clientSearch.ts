@@ -244,8 +244,8 @@ export async function clientSearch(options: SearchOptions = {}) {
 
     // 無効な還元率の案件を除外
     results = results.filter(campaign => {
-      const cashback = campaign.cashback || '';
-      const cashbackYen = campaign.cashbackYen || '';
+      const cashback = String(campaign.cashback || '');
+      const cashbackYen = String(campaign.cashbackYen || '');
       
       const invalidPatterns = [
         '要確認', '不明', 'なし', '未定', 'TBD', '確認中'
@@ -377,8 +377,9 @@ export async function clientSearch(options: SearchOptions = {}) {
 }
 
 // 還元率から数値を抽出
-function extractNumericValue(cashback: string): number {
-  const match = cashback.match(/(\d{1,3}(?:,\d{3})*(?:\.\d+)?)/);
+function extractNumericValue(cashback: string | number | null | undefined): number {
+  const cashbackStr = String(cashback || '');
+  const match = cashbackStr.match(/(\d{1,3}(?:,\d{3})*(?:\.\d+)?)/);
   if (match) {
     return parseFloat(match[1].replace(/,/g, ''));
   }
