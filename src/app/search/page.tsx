@@ -36,6 +36,7 @@ function SearchContent() {
   } | null>(null);
 
   useEffect(() => {
+    console.log('🔄 検索Effect実行:', { query, selectedOsFilter });
     if (query) {
       searchCampaignsHandler(query, selectedOsFilter);
     }
@@ -64,16 +65,36 @@ function SearchContent() {
       });
 
       console.log('📊 検索結果:', result);
+      console.log('📊 結果データ構造:', {
+        success: result.success,
+        resultsCount: result.data?.results?.length,
+        hasResults: !!result.data?.results,
+        firstResult: result.data?.results?.[0]
+      });
 
       if (!result.success) {
+        console.error('🚨 検索失敗:', result.error);
         throw new Error(result.error || '検索に失敗しました');
       }
 
+      if (!result.data?.results) {
+        console.warn('🚨 結果データが無効:', result.data);
+        throw new Error('検索結果データが無効です');
+      }
+
+      console.log('✅ 検索成功:', {
+        count: result.data.results.length,
+        maxCashback: result.data.maxCashback7Days
+      });
+      
       setResults(result.data.results);
       setMaxCashback7Days(result.data.maxCashback7Days);
 
     } catch (error) {
-      console.error('検索エラー:', error);
+      console.error('🚨 検索エラー詳細:', error);
+      console.error('🚨 エラーStack:', error instanceof Error ? error.stack : 'No stack trace');
+      console.error('🚨 検索パラメータ:', { searchQuery, osFilter });
+      
       setResults([]);
       setMaxCashback7Days(null);
       
@@ -82,22 +103,22 @@ function SearchContent() {
         {
           id: 'mock-1',
           siteName: 'サンプルサイト',
+          site: 'サンプルサイト',
+          title: 'エラーテスト',
           cashback: '1.0%',
           device: 'All' as const,
           url: '#',
           lastUpdated: new Date().toLocaleString('ja-JP'),
-          description: '検索結果の取得中にエラーが発生しました',
+          description: `検索結果の取得中にエラーが発生しました: ${error instanceof Error ? error.message : String(error)}`,
+          displayName: '検索エラー',
           campaignUrl: '#',
           pointSiteUrl: '#',
         }
       ];
       
-      // OSフィルターが適用されている場合のみ表示
-      if (osFilter === 'all' || osFilter === 'pc') {
-        setResults(mockResults);
-      } else {
-        setResults([]);
-      }
+      // エラー時は常にフォールバック表示
+      console.warn('🚨 フォールバック表示を設定:', mockResults);
+      setResults(mockResults);
     } finally {
       setLoading(false);
     }
