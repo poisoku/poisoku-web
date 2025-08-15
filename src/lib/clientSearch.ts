@@ -84,7 +84,18 @@ async function loadSearchData(): Promise<SearchData> {
             'Accept': 'application/json',
           }
         }),
-        // 方法2: キャッシュバスター付きfetch
+        // 方法2: 絶対URLでのfetch（本番環境対応）
+        () => {
+          const baseUrl = typeof window !== 'undefined' ? window.location.origin : '';
+          return fetch(`${baseUrl}/search-data.json?_cb=${Date.now()}`, {
+            method: 'GET',
+            headers: {
+              'Accept': 'application/json',
+              'Cache-Control': 'no-cache'
+            }
+          });
+        },
+        // 方法3: キャッシュバスター付きfetch
         () => fetch(`/search-data.json?_cb=${Date.now()}`, {
           method: 'GET',
           headers: {
@@ -92,7 +103,7 @@ async function loadSearchData(): Promise<SearchData> {
             'Cache-Control': 'no-cache'
           }
         }),
-        // 方法3: 異なるパスでの試行
+        // 方法4: 相対パスでの試行
         () => fetch(`./search-data.json?t=${Math.random()}`, {
           method: 'GET',
           headers: {
@@ -109,15 +120,33 @@ async function loadSearchData(): Promise<SearchData> {
           console.log(`📡 データ取得試行 ${i + 1}/${attempts.length}`);
           
           const response = await attempts[i]();
+          console.log(`📡 Response URL: ${response.url}`);
+          console.log(`📡 Response status: ${response.status}`);
           
           if (!response.ok) {
             throw new Error(`HTTP ${response.status}: ${response.statusText}`);
           }
           
-          const data = await response.json();
+          const text = await response.text();
+          console.log(`📄 Response size: ${text.length} bytes`);
+          
+          // 空のレスポンスチェック
+          if (!text || text.length === 0) {
+            throw new Error('Empty response received');
+          }
+          
+          let data;
+          try {
+            data = JSON.parse(text);
+          } catch (parseError) {
+            console.error('JSON parse error:', parseError);
+            console.log('First 500 chars of response:', text.substring(0, 500));
+            throw new Error(`JSON parse failed: ${parseError}`);
+          }
           
           // データの妥当性チェック
           if (!data.campaigns || !Array.isArray(data.campaigns)) {
+            console.error('Invalid data structure:', Object.keys(data));
             throw new Error('Invalid data format: campaigns not found');
           }
           
@@ -143,6 +172,10 @@ async function loadSearchData(): Promise<SearchData> {
           
         } catch (error) {
           console.warn(`❌ 試行 ${i + 1} 失敗:`, error);
+          console.warn(`❌ Error details:`, {
+            message: error instanceof Error ? error.message : String(error),
+            stack: error instanceof Error ? error.stack : undefined
+          });
           lastError = error as Error;
           
           // 少し待ってから次を試行
