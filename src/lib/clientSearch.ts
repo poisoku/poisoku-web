@@ -5,19 +5,21 @@
 
 interface SearchResult {
   id: string;
-  siteName: string;
+  siteName?: string;
+  site?: string;
+  title?: string;
   cashback: string;
   cashbackYen?: string;
-  device: 'PC' | 'iOS' | 'Android' | 'All' | 'iOS/Android';
+  device: 'PC' | 'iOS' | 'Android' | 'All' | 'iOS/Android' | string;
   url: string;
   lastUpdated: string;
   description?: string;
   displayName?: string;
   campaignUrl?: string;
   pointSiteUrl?: string;
-  category: string;
-  searchKeywords: string;
-  searchWeight: number;
+  category?: string;
+  searchKeywords?: string;
+  searchWeight?: number;
 }
 
 interface SearchData {
@@ -218,22 +220,25 @@ export async function clientSearch(options: SearchOptions = {}) {
       const searchTerms = keyword.toLowerCase().split(/\s+/).filter(term => term.length > 0);
       
       results = results.filter(campaign => {
-        const searchText = `${campaign.description} ${campaign.siteName}`.toLowerCase();
+        const searchText = `${campaign.description || campaign.title || ''} ${campaign.siteName || campaign.site || ''}`.toLowerCase();
+        const keywords = campaign.searchKeywords || '';
         
         return searchTerms.every(term => 
-          searchText.includes(term) || campaign.searchKeywords.includes(term)
+          searchText.includes(term) || keywords.includes(term)
         );
       });
 
       // 関連度スコア計算
       results = results.map(campaign => {
-        let relevanceScore = campaign.searchWeight;
-        const searchText = `${campaign.description} ${campaign.siteName}`.toLowerCase();
+        let relevanceScore = campaign.searchWeight || 1;
+        const description = campaign.description || campaign.title || '';
+        const siteName = campaign.siteName || campaign.site || '';
+        const searchText = `${description} ${siteName}`.toLowerCase();
         
         searchTerms.forEach(term => {
           if (searchText.includes(term)) relevanceScore += 2;
-          if (campaign.description.toLowerCase().includes(term)) relevanceScore += 1;
-          if (campaign.siteName.toLowerCase().includes(term)) relevanceScore += 0.5;
+          if (description.toLowerCase().includes(term)) relevanceScore += 1;
+          if (siteName.toLowerCase().includes(term)) relevanceScore += 0.5;
         });
         
         return { ...campaign, relevanceScore };

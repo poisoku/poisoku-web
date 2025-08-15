@@ -1,0 +1,5289 @@
+{
+  "scrapeDate": "2025-08-13T06:44:29.669Z",
+  "version": "mobile_app_scraper_v2.0.0",
+  "systemType": "mobile_app_final",
+  "os": "ios",
+  "campaigns": [
+    {
+      "id": "1841931",
+      "title": "ブロックパズルにゃん",
+      "url": "https://www.chobirich.com/ad_details/1841931",
+      "points": "1842pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.143Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841929",
+      "title": "ウキウキ天下ロード",
+      "url": "https://www.chobirich.com/ad_details/1841929",
+      "points": "268pt",
+      "method": "新規アプリインストール後、起動⇒",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.144Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841928",
+      "title": "ギョッとハンター",
+      "url": "https://www.chobirich.com/ad_details/1841928",
+      "points": "268pt",
+      "method": "新規アプリインストール後、船を進めて魚を釣り上げ、最終地点に到着するとオジサンをゲット",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.144Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831508",
+      "title": "ハトジャンプ",
+      "url": "https://www.chobirich.com/ad_details/1831508",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.144Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841898",
+      "title": "マフィア・シティ-極道風雲",
+      "url": "https://www.chobirich.com/ad_details/1841898",
+      "points": "48005pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.144Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841896",
+      "title": "ハロータウン(Hello Town)：マージ＆ストーリー",
+      "url": "https://www.chobirich.com/ad_details/1841896",
+      "points": "2352pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841885",
+      "title": "トゥーンブラスト",
+      "url": "https://www.chobirich.com/ad_details/1841885",
+      "points": "2912pt",
+      "method": "レベル1000到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839708",
+      "title": "ステッカータウン",
+      "url": "https://www.chobirich.com/ad_details/1839708",
+      "points": "201pt",
+      "method": "新規アプリインストール後、ハードモード30ステージ「海水浴場」クリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837933",
+      "title": "戦国布武：我が天下戦国編（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837933",
+      "points": "17740pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837920",
+      "title": "我が天下（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837920",
+      "points": "19718pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836757",
+      "title": "氷と炎：キング・オブ・アバロン（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836757",
+      "points": "86060pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841770",
+      "title": "8 Ball Pool",
+      "url": "https://www.chobirich.com/ad_details/1841770",
+      "points": "504pt",
+      "method": "新規アプリインストール後、レベル15到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841766",
+      "title": "大江戸ロマンス〜ようこそ利益至上主義の町へ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841766",
+      "points": "10500pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841764",
+      "title": "Coke ON（初回起動）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841764",
+      "points": "90pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841754",
+      "title": "Nonogram Puzzle - Elf Island",
+      "url": "https://www.chobirich.com/ad_details/1841754",
+      "points": "4564pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841752",
+      "title": "たい焼きタイクーン",
+      "url": "https://www.chobirich.com/ad_details/1841752",
+      "points": "230pt",
+      "method": "新規アプリインストール後、ワールド4ステージ7到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841716",
+      "title": "トリプルパズルマッチ",
+      "url": "https://www.chobirich.com/ad_details/1841716",
+      "points": "7210pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839496",
+      "title": "ステッカータウン : カラーブック パズル",
+      "url": "https://www.chobirich.com/ad_details/1839496",
+      "points": "254pt",
+      "method": "新規アプリインストール後、ハードモード30ステージ「海水浴場」クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837609",
+      "title": "メメントモリ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837609",
+      "points": "7938pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1824165",
+      "title": "LUCK ROCK（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1824165",
+      "points": "3900pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.145Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820718",
+      "title": "アラクレ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1820718",
+      "points": "3720pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.146Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1817569",
+      "title": "クラウドキャッチャー（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1817569",
+      "points": "3900pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.146Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841654",
+      "title": "High Roller Vegas（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841654",
+      "points": "37628pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.146Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841652",
+      "title": "ブルブル三国（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841652",
+      "points": "3966pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.146Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841632",
+      "title": "ウッドマッチ - ウッドブロック",
+      "url": "https://www.chobirich.com/ad_details/1841632",
+      "points": "8205pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:43.146Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841608",
+      "title": "iAEON（アイイオン）",
+      "url": "https://www.chobirich.com/ad_details/1841608",
+      "points": "86pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.894Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841587",
+      "title": "麻雀ゲーム - 麻雀牌合わせ、日本の麻雀",
+      "url": "https://www.chobirich.com/ad_details/1841587",
+      "points": "1283pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.895Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834957",
+      "title": "ネコティア 癒し系ねこソリティアゲーム（累計300勝利コイン獲得後、初心者ミッション画面にて達成報酬の300ポイントを獲得）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1834957",
+      "points": "640pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.895Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841560",
+      "title": "マーブルマスター (Marble Master)（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841560",
+      "points": "480pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.895Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841554",
+      "title": "マージコンビニ",
+      "url": "https://www.chobirich.com/ad_details/1841554",
+      "points": "2396pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.895Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841477",
+      "title": "スーパーラッキーカジノ",
+      "url": "https://www.chobirich.com/ad_details/1841477",
+      "points": "12177pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.896Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833898",
+      "title": "ヒーローウォーズアライアンス — 放置系ロールプレイング（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833898",
+      "points": "8844pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.896Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1832093",
+      "title": "マフィア・シティ-極道風雲（別荘Lv.25到達＆豪華特権購入）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1832093",
+      "points": "20800pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.896Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841422",
+      "title": "蒼雷の対話者《BLUE THUNDER DIPLOMAT》",
+      "url": "https://www.chobirich.com/ad_details/1841422",
+      "points": "93pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.896Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841408",
+      "title": "大江戸ロマンス",
+      "url": "https://www.chobirich.com/ad_details/1841408",
+      "points": "5724pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.896Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841406",
+      "title": "iAEON(アイイオン)",
+      "url": "https://www.chobirich.com/ad_details/1841406",
+      "points": "115pt",
+      "method": "初回起動(インストール後、アプリ起動)",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.896Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841392",
+      "title": "MONOPOLY GO!",
+      "url": "https://www.chobirich.com/ad_details/1841392",
+      "points": "12720pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.897Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841390",
+      "title": "ねこのナンプレ広場（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1841390",
+      "points": "960pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.897Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841354",
+      "title": "放置ゲームゾンビ鉱夫",
+      "url": "https://www.chobirich.com/ad_details/1841354",
+      "points": "5101pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.897Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841352",
+      "title": "マージサバイバル（マージゲーム）（キャンプ7日目到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841352",
+      "points": "336pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.897Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841344",
+      "title": "実りの地",
+      "url": "https://www.chobirich.com/ad_details/1841344",
+      "points": "3092pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.897Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841251",
+      "title": "Card Match（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841251",
+      "points": "4040pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.897Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841249",
+      "title": "ニコニコ漫画 7日連続1話以上読了（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841249",
+      "points": "350pt",
+      "method": "新規アプリインストール後、7日連続1話以上読了で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841194",
+      "title": "ローソンアプリ",
+      "url": "https://www.chobirich.com/ad_details/1841194",
+      "points": "82pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841154",
+      "title": "たい焼きタイクーン ワールド4ステージ7到達（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841154",
+      "points": "350pt",
+      "method": "新規アプリインストール後、ワールド4ステージ7到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841122",
+      "title": "たい焼きタイクーン",
+      "url": "https://www.chobirich.com/ad_details/1841122",
+      "points": "240pt",
+      "method": "新規アプリインストール後、起動 ⇒",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841120",
+      "title": "たい焼きタイクーン（ワールド4ステージ7到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841120",
+      "points": "432pt",
+      "method": "ステージ7到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841098",
+      "title": "プッシャーマスター - コインフェスト",
+      "url": "https://www.chobirich.com/ad_details/1841098",
+      "points": "11460pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841097",
+      "title": "メガカジノ - フォーチュンスロット",
+      "url": "https://www.chobirich.com/ad_details/1841097",
+      "points": "8787pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841095",
+      "title": "ローソン",
+      "url": "https://www.chobirich.com/ad_details/1841095",
+      "points": "96pt",
+      "method": "新規アプリインストール後、初回起動完了",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.898Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841092",
+      "title": "ローソン（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841092",
+      "points": "64pt",
+      "method": "初回起動で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.899Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841086",
+      "title": "LINEマッチフライト",
+      "url": "https://www.chobirich.com/ad_details/1841086",
+      "points": "960pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.899Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841082",
+      "title": "LINEシェフ",
+      "url": "https://www.chobirich.com/ad_details/1841082",
+      "points": "1120pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.899Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841080",
+      "title": "LINE レンジャー",
+      "url": "https://www.chobirich.com/ad_details/1841080",
+      "points": "576pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:41:51.899Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841076",
+      "title": "LINE POP2（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841076",
+      "points": "2200pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.639Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841075",
+      "title": "LINE おまかせレンジャー（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841075",
+      "points": "2920pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.640Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841074",
+      "title": "Golden Tiger（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841074",
+      "points": "9200pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.640Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840713",
+      "title": "ウルフゲーム：ザ・ワイルド・キングダム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840713",
+      "points": "3086pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.640Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1808993",
+      "title": "ローソンアプリ（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1808993",
+      "points": "120pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.640Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840667",
+      "title": "Rock N' Cash Casino-Slots Game（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840667",
+      "points": "40202pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840650",
+      "title": "Domino Dreams（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840650",
+      "points": "19728pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840184",
+      "title": "パズル＆カオス（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840184",
+      "points": "24896pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839788",
+      "title": "Ball Sort Puzzle：ボールソーティングパズル",
+      "url": "https://www.chobirich.com/ad_details/1839788",
+      "points": "646pt",
+      "method": "レベル500到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839200",
+      "title": "Primitive Brothers（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1839200",
+      "points": "6212pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838866",
+      "title": "Color Sort Water Purrfect Puzz（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838866",
+      "points": "6026pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838829",
+      "title": "三国志:戦乱（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838829",
+      "points": "2936pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838496",
+      "title": "ファミリーファームの冒険（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838496",
+      "points": "2202pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.641Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838382",
+      "title": "パズル＆サバイバル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838382",
+      "points": "24672pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838263",
+      "title": "ホワイトアウト・サバイバル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838263",
+      "points": "4702pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838089",
+      "title": "パズル＆コンクエスト（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838089",
+      "points": "28218pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837134",
+      "title": "Tile Match 3D：Triple Master",
+      "url": "https://www.chobirich.com/ad_details/1837134",
+      "points": "470pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836897",
+      "title": "モーマンタイム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836897",
+      "points": "17034pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836778",
+      "title": "ドゥームズデイ：ラストサバイバー（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836778",
+      "points": "23990pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836698",
+      "title": "Take Off Bolts: Screw Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1836698",
+      "points": "782pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836324",
+      "title": "Dice Dreams（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1836324",
+      "points": "18962pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.642Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836323",
+      "title": "Goods Match 3D：Triple master",
+      "url": "https://www.chobirich.com/ad_details/1836323",
+      "points": "470pt",
+      "method": "レベル400到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.643Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836244",
+      "title": "Mahjong Mingle",
+      "url": "https://www.chobirich.com/ad_details/1836244",
+      "points": "516pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.643Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835586",
+      "title": "Ten Crush",
+      "url": "https://www.chobirich.com/ad_details/1835586",
+      "points": "782pt",
+      "method": "ステージ5到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.643Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835041",
+      "title": "Sliding Match Puzzle Game（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1835041",
+      "points": "2792pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.643Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835004",
+      "title": "Delta Force",
+      "url": "https://www.chobirich.com/ad_details/1835004",
+      "points": "587pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.643Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834371",
+      "title": "ファミリーアイランド - ファーム冒険ゲーム",
+      "url": "https://www.chobirich.com/ad_details/1834371",
+      "points": "3528pt",
+      "method": "レベル30到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.643Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834177",
+      "title": "Car Out - バスマニア くるま パーキングジャム",
+      "url": "https://www.chobirich.com/ad_details/1834177",
+      "points": "257pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:00.643Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834175",
+      "title": "Triple Match 3D - Tidy Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1834175",
+      "points": "782pt",
+      "method": "レベル400到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.351Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833899",
+      "title": "Block King Puzzle（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833899",
+      "points": "5466pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.353Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833897",
+      "title": "Love Water（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833897",
+      "points": "7466pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.353Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833895",
+      "title": "ロードモバイル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833895",
+      "points": "9038pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.354Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833893",
+      "title": "旦那様の一発逆転人生（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833893",
+      "points": "14506pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.354Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833890",
+      "title": "商人放浪記（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1833890",
+      "points": "35734pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.354Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833869",
+      "title": "Zen Life: Tile Match Puzzles",
+      "url": "https://www.chobirich.com/ad_details/1833869",
+      "points": "2587pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.355Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833868",
+      "title": "2048 Blast: Merge Numbers 2248",
+      "url": "https://www.chobirich.com/ad_details/1833868",
+      "points": "587pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.355Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833863",
+      "title": "Goods Triple 3D-Sorting Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1833863",
+      "points": "782pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.355Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833858",
+      "title": "Falling Match -3D Tidy Master",
+      "url": "https://www.chobirich.com/ad_details/1833858",
+      "points": "963pt",
+      "method": "レベル320到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.355Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833854",
+      "title": "Hotties Merge",
+      "url": "https://www.chobirich.com/ad_details/1833854",
+      "points": "387pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.355Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833850",
+      "title": "Vita Mahjong",
+      "url": "https://www.chobirich.com/ad_details/1833850",
+      "points": "622pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.355Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833847",
+      "title": "Merge Supermarket :Dream Merge",
+      "url": "https://www.chobirich.com/ad_details/1833847",
+      "points": "1528pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.355Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833845",
+      "title": "Travel Town - Merge Adventure",
+      "url": "https://www.chobirich.com/ad_details/1833845",
+      "points": "281pt",
+      "method": "レベル10到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841025",
+      "title": "そらのたまご",
+      "url": "https://www.chobirich.com/ad_details/1841025",
+      "points": "356pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841024",
+      "title": "ウキウキ天下ロード",
+      "url": "https://www.chobirich.com/ad_details/1841024",
+      "points": "356pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841023",
+      "title": "チャリでん！",
+      "url": "https://www.chobirich.com/ad_details/1841023",
+      "points": "356pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840938",
+      "title": "ハローキティ：マイドリームストア ",
+      "url": "https://www.chobirich.com/ad_details/1840938",
+      "points": "635pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840937",
+      "title": "War machines",
+      "url": "https://www.chobirich.com/ad_details/1840937",
+      "points": "3131pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840934",
+      "title": "Heroes of History",
+      "url": "https://www.chobirich.com/ad_details/1840934",
+      "points": "1680pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840708",
+      "title": "Tyr Rewards",
+      "url": "https://www.chobirich.com/ad_details/1840708",
+      "points": "16004pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.356Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840679",
+      "title": "Empires&Puzzles",
+      "url": "https://www.chobirich.com/ad_details/1840679",
+      "points": "5649pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.357Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840677",
+      "title": "Earnimo",
+      "url": "https://www.chobirich.com/ad_details/1840677",
+      "points": "2459pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.357Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840674",
+      "title": "借金あるからギャンブルしてくる",
+      "url": "https://www.chobirich.com/ad_details/1840674",
+      "points": "221pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.357Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840672",
+      "title": "ぶたポンDX",
+      "url": "https://www.chobirich.com/ad_details/1840672",
+      "points": "221pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.357Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840610",
+      "title": "Block Master: Wood Blast",
+      "url": "https://www.chobirich.com/ad_details/1840610",
+      "points": "307pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.357Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840591",
+      "title": "アイドルマイニングファクトリータイクーン",
+      "url": "https://www.chobirich.com/ad_details/1840591",
+      "points": "291pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.357Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840585",
+      "title": "ブロックマスター",
+      "url": "https://www.chobirich.com/ad_details/1840585",
+      "points": "916pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.357Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840567",
+      "title": "Classic Mahjong:Solitaire Game",
+      "url": "https://www.chobirich.com/ad_details/1840567",
+      "points": "567pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:09.358Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840565",
+      "title": "Goods Match 3D: 収納ゲームマスター",
+      "url": "https://www.chobirich.com/ad_details/1840565",
+      "points": "439pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.126Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1791634",
+      "title": "ジム タイクーン",
+      "url": "https://www.chobirich.com/ad_details/1791634",
+      "points": "1440pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.127Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840494",
+      "title": "Decor Merge - Fashion Renovate",
+      "url": "https://www.chobirich.com/ad_details/1840494",
+      "points": "4704pt",
+      "method": "新規アプリインストール後、広告クリックから30日以内にレベル30に到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.127Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840493",
+      "title": "ギョッとハンター",
+      "url": "https://www.chobirich.com/ad_details/1840493",
+      "points": "356pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.127Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840492",
+      "title": "Astral Braille ~神語解析システムSIGMA~",
+      "url": "https://www.chobirich.com/ad_details/1840492",
+      "points": "93pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.128Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840471",
+      "title": "Goods Master 3D: 収納ゲームマスター",
+      "url": "https://www.chobirich.com/ad_details/1840471",
+      "points": "2431pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.128Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840461",
+      "title": "Tile Master 3D: マッチング パズルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1840461",
+      "points": "699pt",
+      "method": "初回起動",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.128Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840450",
+      "title": "【注意事項必読】ミストバレー",
+      "url": "https://www.chobirich.com/ad_details/1840450",
+      "points": "576pt",
+      "method": "レベル10到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.128Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840446",
+      "title": "merge designer",
+      "url": "https://www.chobirich.com/ad_details/1840446",
+      "points": "4704pt",
+      "method": "新規アプリインストール後、起動 ⇒広告クリックから30日以内にレベル30に到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.128Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841168",
+      "title": "Ball Sort Puzzle：ボールソーティングパズル（プレイヤーレベル500到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1841168",
+      "points": "720pt",
+      "method": "レベル500到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.128Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840354",
+      "title": "8 Ball Pool",
+      "url": "https://www.chobirich.com/ad_details/1840354",
+      "points": "3574pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.128Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840339",
+      "title": "マッチファクトリー(Match Factory)!",
+      "url": "https://www.chobirich.com/ad_details/1840339",
+      "points": "6214pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.129Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839949",
+      "title": "Bubble Pop Shooter（ゲームプレイ画面真ん中上部のlv.8に到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839949",
+      "points": "640pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.129Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840302",
+      "title": "Car Out - パーキングジャム 3D",
+      "url": "https://www.chobirich.com/ad_details/1840302",
+      "points": "982pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.129Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840299",
+      "title": "ヒーローズオブヒストリー Heroes of History",
+      "url": "https://www.chobirich.com/ad_details/1840299",
+      "points": "1663pt",
+      "method": "新規アプリインストール後、古代ギリシャ時代の「強化盾」のロック解除で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.129Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840296",
+      "title": "シヴィライゼーション:時代と盟友（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840296",
+      "points": "510pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.129Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840284",
+      "title": "三国志:戦乱（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1840284",
+      "points": "4920pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.129Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1794491",
+      "title": "WINTICKET",
+      "url": "https://www.chobirich.com/ad_details/1794491",
+      "points": "2912pt",
+      "method": "初回投票(インストール後、条件達成)",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.129Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840211",
+      "title": "ColorSing",
+      "url": "https://www.chobirich.com/ad_details/1840211",
+      "points": "2560pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840195",
+      "title": "サメサメ進化論(Fish Eater.io)",
+      "url": "https://www.chobirich.com/ad_details/1840195",
+      "points": "452pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840179",
+      "title": "バルーン パズル - 3Dマッチ パズルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1840179",
+      "points": "1097pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840163",
+      "title": "Merge Inn",
+      "url": "https://www.chobirich.com/ad_details/1840163",
+      "points": "840pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840161",
+      "title": "ビゴ ライブ(BIGO LIVE)",
+      "url": "https://www.chobirich.com/ad_details/1840161",
+      "points": "2160pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1771932",
+      "title": "ロードママ 夢の屋台：韓国料理タイクーン（Level50到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1771932",
+      "points": "256pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840096",
+      "title": "少年ジャンプ＋",
+      "url": "https://www.chobirich.com/ad_details/1840096",
+      "points": "432pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840067",
+      "title": "All in Hole",
+      "url": "https://www.chobirich.com/ad_details/1840067",
+      "points": "2280pt",
+      "method": "新規アプリインストール後、レベル2000到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840054",
+      "title": "PLUG（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1840054",
+      "points": "468pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840020",
+      "title": "ねこのナンプレ広場",
+      "url": "https://www.chobirich.com/ad_details/1840020",
+      "points": "574pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840012",
+      "title": "Merge Town : Design Farm",
+      "url": "https://www.chobirich.com/ad_details/1840012",
+      "points": "9429pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836468",
+      "title": "TikTok",
+      "url": "https://www.chobirich.com/ad_details/1836468",
+      "points": "1081pt",
+      "method": "初回起動日に動画10分視聴(インストール後、条件達成)",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:18.130Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840048",
+      "title": "Merge Restaurant",
+      "url": "https://www.chobirich.com/ad_details/1840048",
+      "points": "831pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.935Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839954",
+      "title": "にゃん王国",
+      "url": "https://www.chobirich.com/ad_details/1839954",
+      "points": "1680pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839952",
+      "title": "なめこの巣",
+      "url": "https://www.chobirich.com/ad_details/1839952",
+      "points": "2138pt",
+      "method": "新規アプリインストール後、初回課金後、Level70到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839933",
+      "title": "実りの地",
+      "url": "https://www.chobirich.com/ad_details/1839933",
+      "points": "6480pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839930",
+      "title": "マジックスクール",
+      "url": "https://www.chobirich.com/ad_details/1839930",
+      "points": "513pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839928",
+      "title": "ピコットタウン",
+      "url": "https://www.chobirich.com/ad_details/1839928",
+      "points": "923pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839857",
+      "title": "サバイバルアイランド――放置型ストラテジーゲーム",
+      "url": "https://www.chobirich.com/ad_details/1839857",
+      "points": "953pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839853",
+      "title": "ピコットタウン",
+      "url": "https://www.chobirich.com/ad_details/1839853",
+      "points": "379pt",
+      "method": "レベル32到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839820",
+      "title": "ワンバンク",
+      "url": "https://www.chobirich.com/ad_details/1839820",
+      "points": "1440pt",
+      "method": "初回入金完了(インストール後、条件達成)",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839786",
+      "title": "マージクッキング テーマレストラン（ギフトリンク/Lv.35到達&初回課金）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839786",
+      "points": "3040pt",
+      "method": "初回課金）（iOS）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839738",
+      "title": "Wild Survival",
+      "url": "https://www.chobirich.com/ad_details/1839738",
+      "points": "10696pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839715",
+      "title": "メカアサルト（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1839715",
+      "points": "3540pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839696",
+      "title": "Hexa Master 3D - 六角ブロックパズルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1839696",
+      "points": "1094pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839646",
+      "title": "クラシルブロックパズル ポイ活ゲームでポイントが貯まる（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839646",
+      "points": "35pt",
+      "method": "初回起動で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839632",
+      "title": "Alice's Dream ：かわいいマージゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1839632",
+      "points": "13040pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839630",
+      "title": "Sweets Match",
+      "url": "https://www.chobirich.com/ad_details/1839630",
+      "points": "8469pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831601",
+      "title": "Berry Factory Tycoon（「革新的な工場」到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1831601",
+      "points": "1840pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.936Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839549",
+      "title": "merge designer",
+      "url": "https://www.chobirich.com/ad_details/1839549",
+      "points": "20165pt",
+      "method": "初回起動",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839547",
+      "title": "Puppy Match : Match 3 Game",
+      "url": "https://www.chobirich.com/ad_details/1839547",
+      "points": "5521pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839537",
+      "title": "なめこ発掘キット",
+      "url": "https://www.chobirich.com/ad_details/1839537",
+      "points": "2019pt",
+      "method": "新規アプリインストール後、エリア7クリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839535",
+      "title": "オール・イン・ホール (All in Hole)",
+      "url": "https://www.chobirich.com/ad_details/1839535",
+      "points": "2257pt",
+      "method": "新規アプリインストール後、レベル2000到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839528",
+      "title": "ノクターン・クロニクル：運命楽章《レゾナンス》",
+      "url": "https://www.chobirich.com/ad_details/1839528",
+      "points": "331pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839527",
+      "title": "焔裁咆哮†Dragon's Judgment†",
+      "url": "https://www.chobirich.com/ad_details/1839527",
+      "points": "331pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839525",
+      "title": "Nonogram Jigsaw- Logic Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1839525",
+      "points": "2596pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839508",
+      "title": "Alice's Dream：Merge Island（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1839508",
+      "points": "14096pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839504",
+      "title": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（クイズ90回クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839504",
+      "points": "224pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839484",
+      "title": "スライディングヒーロー -全てのピンチを救え（挑戦数240回到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839484",
+      "points": "240pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834582",
+      "title": "CODE: FLAG-X",
+      "url": "https://www.chobirich.com/ad_details/1834582",
+      "points": "142pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839457",
+      "title": "モーマンタイム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1839457",
+      "points": "16120pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839454",
+      "title": "モーマンタイム（プレーヤーレベル94に到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839454",
+      "points": "3520pt",
+      "method": "レベル94",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:26.937Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839450",
+      "title": "たっぴんアドベンチャー",
+      "url": "https://www.chobirich.com/ad_details/1839450",
+      "points": "356pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.573Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839448",
+      "title": "Travel Stories: Merge Journey",
+      "url": "https://www.chobirich.com/ad_details/1839448",
+      "points": "14825pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.575Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839366",
+      "title": "Triple Tile:トリプルタイル：パズル合わせゲーム",
+      "url": "https://www.chobirich.com/ad_details/1839366",
+      "points": "2400pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.575Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840052",
+      "title": "X2：数字合体ゲーム 2048",
+      "url": "https://www.chobirich.com/ad_details/1840052",
+      "points": "594pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.576Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840050",
+      "title": "2248：数字パズル2048",
+      "url": "https://www.chobirich.com/ad_details/1840050",
+      "points": "772pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.576Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839325",
+      "title": "Block Travel（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1839325",
+      "points": "3240pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.576Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839267",
+      "title": "Decor Merge - Fashion Renovate",
+      "url": "https://www.chobirich.com/ad_details/1839267",
+      "points": "22632pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.576Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839244",
+      "title": "にゃん王国",
+      "url": "https://www.chobirich.com/ad_details/1839244",
+      "points": "1663pt",
+      "method": "新規アプリインストール後、ストーリー11-40をクリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.576Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838327",
+      "title": "Baseball Clash",
+      "url": "https://www.chobirich.com/ad_details/1838327",
+      "points": "687pt",
+      "method": "新規アプリインストール後、10日以内にリーグ10到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.577Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839204",
+      "title": "Block Puzzle : Match Combo",
+      "url": "https://www.chobirich.com/ad_details/1839204",
+      "points": "168pt",
+      "method": "新規アプリインストール後、マッチコンボ ポイント10000ゲット",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.577Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839202",
+      "title": "イース6 オンライン",
+      "url": "https://www.chobirich.com/ad_details/1839202",
+      "points": "76pt",
+      "method": "レベル3到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.577Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839198",
+      "title": "花マッチ - トリプルカラーソートゲーム ケーキマージ",
+      "url": "https://www.chobirich.com/ad_details/1839198",
+      "points": "1000pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.577Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839193",
+      "title": "たっぴんアドベンチャー",
+      "url": "https://www.chobirich.com/ad_details/1839193",
+      "points": "268pt",
+      "method": "新規アプリインストール後、勇者の冒険を進め、最終地点に到着するとお宝をゲット",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.577Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839103",
+      "title": "ソリティアランド｜簡単だけど機能充実（累計1500ポイント獲得）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839103",
+      "points": "640pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839100",
+      "title": "Tyr Rewards(ティールリワード)",
+      "url": "https://www.chobirich.com/ad_details/1839100",
+      "points": "2970pt",
+      "method": "新規アプリインストール後、別アプリをインストールし100万ポイント到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839099",
+      "title": "Crowd Express: Boarding Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1839099",
+      "points": "1306pt",
+      "method": "新規アプリインストール後、レベル250クリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839060",
+      "title": "ペアケア",
+      "url": "https://www.chobirich.com/ad_details/1839060",
+      "points": "449pt",
+      "method": "新規アプリインストール後、起動 ⇒プレミアム1ヶ月プランの登録で成果達成となります",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838841",
+      "title": "Ninja Run（忍者ラン）",
+      "url": "https://www.chobirich.com/ad_details/1838841",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838840",
+      "title": "スイカゲーム ランVer.",
+      "url": "https://www.chobirich.com/ad_details/1838840",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838703",
+      "title": "ふわっち（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838703",
+      "points": "2640pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839368",
+      "title": "【独占配信】amood(アムード) - 海外配送も条件なしで送料無料",
+      "url": "https://www.chobirich.com/ad_details/1839368",
+      "points": "49pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.578Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838700",
+      "title": "恋するコーデ「ペアリウム」アバター着せ替え・結婚できるゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1838700",
+      "points": "14000pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.579Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838683",
+      "title": "Ninja Run（Run Game）",
+      "url": "https://www.chobirich.com/ad_details/1838683",
+      "points": "360pt",
+      "method": "新規アプリインストール後、ステージ6−4クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.579Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838588",
+      "title": "tenki.jp",
+      "url": "https://www.chobirich.com/ad_details/1838588",
+      "points": "46pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.579Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838587",
+      "title": "ルナルナ　ファミリーコース",
+      "url": "https://www.chobirich.com/ad_details/1838587",
+      "points": "916pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.579Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838586",
+      "title": "コミック.jp",
+      "url": "https://www.chobirich.com/ad_details/1838586",
+      "points": "323pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.579Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838580",
+      "title": "パズル＆カオス",
+      "url": "https://www.chobirich.com/ad_details/1838580",
+      "points": "30756pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.579Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838579",
+      "title": "ソリティア無限にやれる「そるティア」(勝利数50回クリア)（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1838579",
+      "points": "192pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:35.580Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836906",
+      "title": "メルカリ",
+      "url": "https://www.chobirich.com/ad_details/1836906",
+      "points": "553pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.427Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1828860",
+      "title": "病み彼女これくしょん（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1828860",
+      "points": "1260pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1824985",
+      "title": "ポイ活稼ぐPayクレーンメダルゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1824985",
+      "points": "600pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803287",
+      "title": "ゾンビ・パニック（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803287",
+      "points": "8650pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838519",
+      "title": "ザ・アンツ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838519",
+      "points": "21488pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838493",
+      "title": "放浪仙人〜借金取りと妖怪退治の旅～（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838493",
+      "points": "3960pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838491",
+      "title": "スイカゲーム ランVer.",
+      "url": "https://www.chobirich.com/ad_details/1838491",
+      "points": "360pt",
+      "method": "新規アプリインストール後、ステージ38クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1809312",
+      "title": "ポイポイねこ",
+      "url": "https://www.chobirich.com/ad_details/1809312",
+      "points": "36pt",
+      "method": "初回起動(インストール後、アプリ起動)",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838395",
+      "title": "放浪仙人 〜借金取りと妖怪退治の旅〜",
+      "url": "https://www.chobirich.com/ad_details/1838395",
+      "points": "2620pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840046",
+      "title": "Brain Test(ブレインテスト)",
+      "url": "https://www.chobirich.com/ad_details/1840046",
+      "points": "415pt",
+      "method": "新規アプリインストール後、30日以内にレベル450到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838335",
+      "title": "まるっと円のなぞ（挑戦数90回到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1838335",
+      "points": "224pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838324",
+      "title": "Merge Inn",
+      "url": "https://www.chobirich.com/ad_details/1838324",
+      "points": "831pt",
+      "method": "新規アプリインストール後、レベル16クリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838317",
+      "title": "Toon Blast",
+      "url": "https://www.chobirich.com/ad_details/1838317",
+      "points": "2160pt",
+      "method": "新規アプリインストール後、レベル1000達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838314",
+      "title": "Traffic Escape!",
+      "url": "https://www.chobirich.com/ad_details/1838314",
+      "points": "1259pt",
+      "method": "新規アプリインストール後、レベル3000クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838276",
+      "title": "Spoon(スプーン) : 音声コンテンツライブ配信アプリ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838276",
+      "points": "844pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1828052",
+      "title": "Alice's Dream ：かわいいマージゲーム（レベル18到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1828052",
+      "points": "5120pt",
+      "method": "レベル18到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839274",
+      "title": "Purify the World（ワールド1のミッションをすべてクリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1839274",
+      "points": "160pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838110",
+      "title": "恋するコーデ ペアリウム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1838110",
+      "points": "12000pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838023",
+      "title": "Huuuge Casino 777 Slots Games",
+      "url": "https://www.chobirich.com/ad_details/1838023",
+      "points": "5280pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838008",
+      "title": "マージスウィーツ(Merge Sweets)",
+      "url": "https://www.chobirich.com/ad_details/1838008",
+      "points": "1008pt",
+      "method": "新規アプリインストール後、プレイヤーレベル50達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837980",
+      "title": "イブのモール：ドレスアップアニメゲーム",
+      "url": "https://www.chobirich.com/ad_details/1837980",
+      "points": "502pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1799915",
+      "title": "サバイバルアイランド――放置型ストラテジーゲーム（凍てつく島の船LV.9到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1799915",
+      "points": "1040pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837931",
+      "title": "マフィア・シティ-極道風雲（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837931",
+      "points": "80184pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837923",
+      "title": "恋するコーデ「ペアリウム」",
+      "url": "https://www.chobirich.com/ad_details/1837923",
+      "points": "8996pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837910",
+      "title": "レイドラッシュ：タワーディフェンス",
+      "url": "https://www.chobirich.com/ad_details/1837910",
+      "points": "4486pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837796",
+      "title": "Triple Match 3D - Tidy Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1837796",
+      "points": "529pt",
+      "method": "新規アプリインストール後、レベル400をクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837795",
+      "title": "Triple Sort 3D - Matching Tidy",
+      "url": "https://www.chobirich.com/ad_details/1837795",
+      "points": "250pt",
+      "method": "初回起動後、",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837794",
+      "title": "Tile Match 3D：Triple Master",
+      "url": "https://www.chobirich.com/ad_details/1837794",
+      "points": "489pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837793",
+      "title": "Triple Sort 3D - Matching Tidy",
+      "url": "https://www.chobirich.com/ad_details/1837793",
+      "points": "264pt",
+      "method": "初回起動後、レベル350をクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:44.432Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837792",
+      "title": "Tile Match 3D：Triple Master",
+      "url": "https://www.chobirich.com/ad_details/1837792",
+      "points": "486pt",
+      "method": "新規アプリインストール後、レベル400をクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.114Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837790",
+      "title": "Triple Match 3D - Tidy Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1837790",
+      "points": "522pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.115Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837760",
+      "title": "当たらなければどうということは…ある！（挑戦数240回到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1837760",
+      "points": "224pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.115Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829656",
+      "title": "ブロックパズル：マッチコンボ（クラシックモードの点数10,000点以上で成果）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1829656",
+      "points": "272pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.115Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837727",
+      "title": "審眼裁決《Verdict of Gaze》",
+      "url": "https://www.chobirich.com/ad_details/1837727",
+      "points": "331pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.116Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837725",
+      "title": "アーミータイクーン：アイドルベース",
+      "url": "https://www.chobirich.com/ad_details/1837725",
+      "points": "217pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.116Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837702",
+      "title": "やばい！少女に囲まれた！",
+      "url": "https://www.chobirich.com/ad_details/1837702",
+      "points": "6011pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.116Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803290",
+      "title": "君の目的はボクを殺すこと3（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803290",
+      "points": "4480pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.116Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1811086",
+      "title": "ミクチャ",
+      "url": "https://www.chobirich.com/ad_details/1811086",
+      "points": "2400pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.116Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837484",
+      "title": "キャットポップンマッチ（Cat Pop'n Match)（ステージ150クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1837484",
+      "points": "112pt",
+      "method": "ステージ150",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.116Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837479",
+      "title": "ソリティアランド",
+      "url": "https://www.chobirich.com/ad_details/1837479",
+      "points": "420pt",
+      "method": "初回起動後、",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.117Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837080",
+      "title": "Block Puzzle : Match Combo(ブロックパズル：マッチコンボ)",
+      "url": "https://www.chobirich.com/ad_details/1837080",
+      "points": "201pt",
+      "method": "新規アプリインストール後、クラシックモード1万点達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.117Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1805041",
+      "title": "BIGO LIVE（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1805041",
+      "points": "1020pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.117Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837207",
+      "title": "Sea Block 1010（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1837207",
+      "points": "1760pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.117Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835175",
+      "title": "スーパーラッキーカジノ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1835175",
+      "points": "14550pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.117Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835093",
+      "title": "マージスウィーツ(Merge Sweets)（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1835093",
+      "points": "2508pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.117Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835037",
+      "title": "Ball Sort - Color Tube Puzzle（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1835037",
+      "points": "5952pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.117Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1832607",
+      "title": "パズルスパイ : 脳トレ脱出ゲーム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1832607",
+      "points": "1260pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1832271",
+      "title": "【注意事項必読】TikTok Lite（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1832271",
+      "points": "2600pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1832095",
+      "title": "ポチポチ高速暗算 犬の計算トレーニングアプリ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1832095",
+      "points": "192pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831505",
+      "title": "モーリーオンライン（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1831505",
+      "points": "2300pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830319",
+      "title": "オタクレ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1830319",
+      "points": "2040pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830143",
+      "title": "VoicePococha（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1830143",
+      "points": "1200pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830076",
+      "title": "えみぅ　歩いて育ててポイ活アプリ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1830076",
+      "points": "620pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829887",
+      "title": "ポイすら（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829887",
+      "points": "560pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829723",
+      "title": "喧嘩の花道（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829723",
+      "points": "11840pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.118Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829667",
+      "title": "出荷ぶた -冬ver-（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829667",
+      "points": "25420pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.119Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829661",
+      "title": "Alice's Dream ：かわいいマージゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829661",
+      "points": "6860pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.119Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829653",
+      "title": "ポイ活＆懸賞マッチ3パズルゲーム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1829653",
+      "points": "1008pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:42:53.119Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829646",
+      "title": "ポイ活&懸賞クレーンゲーム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1829646",
+      "points": "1008pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.789Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829627",
+      "title": "Puzzles & Chaos: Frozen Castle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829627",
+      "points": "20200pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.790Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829617",
+      "title": "出荷ぶた（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1829617",
+      "points": "25420pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.790Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829458",
+      "title": "ゾンビ・パニック（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1829458",
+      "points": "19556pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.790Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829303",
+      "title": "リヴリーアイランド（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1829303",
+      "points": "6720pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1828287",
+      "title": "Merge Town（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1828287",
+      "points": "5240pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827563",
+      "title": "ポイ活&懸賞ソリティア（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1827563",
+      "points": "528pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1826325",
+      "title": "ポイ活&懸賞2048（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1826325",
+      "points": "252pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1826321",
+      "title": "ポイ活&懸賞麻雀（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1826321",
+      "points": "528pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1826319",
+      "title": "ポイ活&懸賞ナンプレ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1826319",
+      "points": "528pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1826316",
+      "title": "ポイ活&懸賞ブロックパズル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1826316",
+      "points": "432pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1825118",
+      "title": "ポイ活&懸賞バブルパズル 脳トレ 簡単な暇つぶしゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1825118",
+      "points": "2580pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.791Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1825070",
+      "title": "オンラインクレーンゲーム(オンクレ) - アラクレ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1825070",
+      "points": "3640pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1824648",
+      "title": "カプコンネットキャッチャー カプとれ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1824648",
+      "points": "3640pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1824375",
+      "title": "ビンゴの旅 - 人気のカジノゲーム（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1824375",
+      "points": "5160pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823758",
+      "title": "クラウドキャッチャー（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823758",
+      "points": "3660pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823756",
+      "title": "LUCK ROCK オンラインクレーンゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823756",
+      "points": "3700pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823751",
+      "title": "ポイ活&懸賞ナンプレ - 暇つぶしゲーム 人気 脳トレ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823751",
+      "points": "660pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823611",
+      "title": "ハムデパート まじかるクラフト（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823611",
+      "points": "3520pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823607",
+      "title": "ポイ活&懸賞ソリティア - 暇つぶしゲーム 脳トレ 人気（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823607",
+      "points": "660pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823604",
+      "title": "ポイント麻雀 脳トレ 暇つぶしゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823604",
+      "points": "620pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.792Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823405",
+      "title": "ポイ活＆懸賞ブロックパズル - 脳トレ 人気 パズルゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823405",
+      "points": "1300pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823401",
+      "title": "ポイ活＆懸賞2048 - 暇つぶしゲーム 人気 面白い（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1823401",
+      "points": "300pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1821081",
+      "title": "マージ デザイナー（Merge Designer）（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1821081",
+      "points": "8480pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820719",
+      "title": "カプとれ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1820719",
+      "points": "3264pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820370",
+      "title": "POINTブラストパズル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1820370",
+      "points": "2088pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820324",
+      "title": "POINTブラストパズル（ポイントブラストパズル）（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1820324",
+      "points": "2360pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819626",
+      "title": "ポイ活&懸賞クレーンゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1819626",
+      "points": "1300pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819329",
+      "title": "ポイ活＆懸賞マッチ3パズルゲーム - 暇つぶしゲーム 脳トレ（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1819329",
+      "points": "1300pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.793Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1814499",
+      "title": "パズルレスキュー：ピンを引く（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1814499",
+      "points": "1260pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:01.794Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1811080",
+      "title": "金とゴブリンの採掘ゲーム（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1811080",
+      "points": "8240pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.495Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1805301",
+      "title": "Love Water – Color Sort Puzzle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1805301",
+      "points": "7300pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.496Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1804803",
+      "title": "君の目的はボクを殺すこと３（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1804803",
+      "points": "2400pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.497Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1804764",
+      "title": "スマッシュパーティ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1804764",
+      "points": "6780pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.497Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1804758",
+      "title": "LIFTる。（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1804758",
+      "points": "3600pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.497Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1804736",
+      "title": "ザ・グランドマフィア（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1804736",
+      "points": "99810pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.497Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803330",
+      "title": "Ball Sort - Color Tube Puzzle（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803330",
+      "points": "2500pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.497Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803324",
+      "title": "引っ越しペンギン（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803324",
+      "points": "1034pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803323",
+      "title": "派遣モンスター（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803323",
+      "points": "1034pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803322",
+      "title": "捨て猫レスキュー（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803322",
+      "points": "1034pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803317",
+      "title": "借金あるからギャンブルしてくる（多段階②）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803317",
+      "points": "400pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803288",
+      "title": "プリケツにゃー（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1803288",
+      "points": "4050pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837328",
+      "title": "ピコットタウン",
+      "url": "https://www.chobirich.com/ad_details/1837328",
+      "points": "755pt",
+      "method": "新規アプリインストール後、レベル32到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837325",
+      "title": "フード＆トラベル：合成ゲーム",
+      "url": "https://www.chobirich.com/ad_details/1837325",
+      "points": "4050pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837320",
+      "title": "MONOPOLY GO!",
+      "url": "https://www.chobirich.com/ad_details/1837320",
+      "points": "1560pt",
+      "method": "新規アプリインストール後、モントリオールのボードをクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837287",
+      "title": "キャットポップンマッチ",
+      "url": "https://www.chobirich.com/ad_details/1837287",
+      "points": "89pt",
+      "method": "新規アプリインストール後、起動 ⇒ステージ150クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.498Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837271",
+      "title": "Sea Block 1010（レベル10到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1837271",
+      "points": "512pt",
+      "method": "レベル10到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.499Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837250",
+      "title": "マージキャンプ",
+      "url": "https://www.chobirich.com/ad_details/1837250",
+      "points": "587pt",
+      "method": "新規アプリインストール後、26レベル到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.499Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837238",
+      "title": "ハロータウン(Hello Town)：マージ＆ストーリー",
+      "url": "https://www.chobirich.com/ad_details/1837238",
+      "points": "1008pt",
+      "method": "新規アプリインストール後、起動⇒",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.499Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837166",
+      "title": "ねこのカフェ: てんさいねこシェフ",
+      "url": "https://www.chobirich.com/ad_details/1837166",
+      "points": "355pt",
+      "method": "新規アプリインストール後、起動 ⇒ワールド４のステージ７到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.499Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837073",
+      "title": "Idle Food Bar: Olivia & Oliver",
+      "url": "https://www.chobirich.com/ad_details/1837073",
+      "points": "1933pt",
+      "method": "初回起動後7日以内に、",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.499Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837008",
+      "title": "マスクハガシタインジャー - やつらの素顔を暴け！（挑戦数240回到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1837008",
+      "points": "224pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.499Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837000",
+      "title": "ときめきパティスリー・ゆるかわ系経営シミュレーション",
+      "url": "https://www.chobirich.com/ad_details/1837000",
+      "points": "2334pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.500Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836975",
+      "title": "賃貸物件検索 ニフティ不動産",
+      "url": "https://www.chobirich.com/ad_details/1836975",
+      "points": "316pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.500Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830464",
+      "title": "Water Sort Puzzle - ソートパズルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1830464",
+      "points": "712pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.500Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827766",
+      "title": "Super Run - 暇つぶしゲーム -",
+      "url": "https://www.chobirich.com/ad_details/1827766",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.500Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1825975",
+      "title": "Drop Master!(ドロップマスター)",
+      "url": "https://www.chobirich.com/ad_details/1825975",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.500Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819863",
+      "title": "ジム タイクーン（レストラン）（氷雪ジム‐レストランをアンロック）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1819863",
+      "points": "415pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:10.500Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819861",
+      "title": "Idle Food Bar（マップ3アンロック）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1819861",
+      "points": "225pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.162Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819787",
+      "title": "Woody Sort（シークレット（隠し）レベル 100クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1819787",
+      "points": "783pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.163Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819665",
+      "title": "Merge Blast Number（レベル8到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1819665",
+      "points": "356pt",
+      "method": "レベル8到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.163Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1815360",
+      "title": "Super Dog Run",
+      "url": "https://www.chobirich.com/ad_details/1815360",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.164Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1815359",
+      "title": "MISSION 物理ゲーム(ミッション)",
+      "url": "https://www.chobirich.com/ad_details/1815359",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.164Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1813946",
+      "title": "ラズベリーマッシュ",
+      "url": "https://www.chobirich.com/ad_details/1813946",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.164Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1813944",
+      "title": "異世界派遣の係長",
+      "url": "https://www.chobirich.com/ad_details/1813944",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.164Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1809752",
+      "title": "Tile Dynasty(タイルダイナスティー)",
+      "url": "https://www.chobirich.com/ad_details/1809752",
+      "points": "2316pt",
+      "method": "新規アプリインストール後、レベル1000クリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.164Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1809725",
+      "title": "10Puzzle.",
+      "url": "https://www.chobirich.com/ad_details/1809725",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.164Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1807925",
+      "title": "ヒットアンドブロー",
+      "url": "https://www.chobirich.com/ad_details/1807925",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.164Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1806500",
+      "title": "ノリオカート(乗り男カート)",
+      "url": "https://www.chobirich.com/ad_details/1806500",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.165Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1806488",
+      "title": "二角取りゲーム -麻雀ソリティア-　四川省",
+      "url": "https://www.chobirich.com/ad_details/1806488",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.165Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1806283",
+      "title": "暇つぶしゲーム ピラミッドソリティア",
+      "url": "https://www.chobirich.com/ad_details/1806283",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.165Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1806282",
+      "title": "暇つぶしゲーム Black Jack 21",
+      "url": "https://www.chobirich.com/ad_details/1806282",
+      "points": "594pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.165Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1806281",
+      "title": "Cat Run!",
+      "url": "https://www.chobirich.com/ad_details/1806281",
+      "points": "356pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.165Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1805885",
+      "title": "エバーテイル（3日連続ログインボーナス獲得）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1805885",
+      "points": "356pt",
+      "method": "3日連続ログインボーナス獲得）（iOS）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.165Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1803151",
+      "title": "バズーカ・ロワイヤル（アリーナ6到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1803151",
+      "points": "356pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.166Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1799459",
+      "title": "暇つぶしゲーム Fruits Bomb Crasher",
+      "url": "https://www.chobirich.com/ad_details/1799459",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.166Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1798792",
+      "title": "暇つぶしゲーム Cube Blast",
+      "url": "https://www.chobirich.com/ad_details/1798792",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.166Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1798519",
+      "title": "スーパースライム：イートホール (Super Slime)（ステージ50到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1798519",
+      "points": "212pt",
+      "method": "レベル50到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.166Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1793515",
+      "title": "Climb the mountain（レベル75に到達）",
+      "url": "https://www.chobirich.com/ad_details/1793515",
+      "points": "178pt",
+      "method": "レベル75",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.167Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1793514",
+      "title": "スタバタイクーン (Coffee Break)（Stage6解放）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1793514",
+      "points": "153pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.167Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1792596",
+      "title": "勇者「入部させてください…」",
+      "url": "https://www.chobirich.com/ad_details/1792596",
+      "points": "534pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:19.167Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1791944",
+      "title": "実りの地（レベル25到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1791944",
+      "points": "594pt",
+      "method": "レベル25到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:27.917Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1791612",
+      "title": "スーパーしょぼんカート",
+      "url": "https://www.chobirich.com/ad_details/1791612",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:27.919Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1790922",
+      "title": "Hide N' Seek 3D（level 50達成）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1790922",
+      "points": "106pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:27.919Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1788291",
+      "title": "Pizza Ready（Stage4 （4つ目の店舗）到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1788291",
+      "points": "142pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:27.919Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1762433",
+      "title": "喧嘩の花道（iOS用）",
+      "url": "https://www.chobirich.com/ad_details/1762433",
+      "points": "17820pt",
+      "method": "新規アプリインストール後、MISSION5クリア後、ミッション報酬受取",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.720Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1031247",
+      "title": "skyticket",
+      "url": "https://www.chobirich.com/ad_details/1031247",
+      "points": "21pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.721Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836909",
+      "title": "ジム タイクーン",
+      "url": "https://www.chobirich.com/ad_details/1836909",
+      "points": "621pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.721Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836904",
+      "title": "Color Bolts Sort Puzzle（ユーザーレベル8に到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1836904",
+      "points": "512pt",
+      "method": "レベル8",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.721Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836870",
+      "title": "Taylor's Secret: マージゲーム",
+      "url": "https://www.chobirich.com/ad_details/1836870",
+      "points": "14864pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.722Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836771",
+      "title": "Woody Block Color Blast（レベル13到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1836771",
+      "points": "960pt",
+      "method": "レベル13到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.722Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836709",
+      "title": "アイランドタイム～のんびり牧場生活～",
+      "url": "https://www.chobirich.com/ad_details/1836709",
+      "points": "352pt",
+      "method": "新規アプリインストール後、牧場レベル30に到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.722Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836707",
+      "title": "ハムデパート まじかるクラフト",
+      "url": "https://www.chobirich.com/ad_details/1836707",
+      "points": "1956pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.722Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836697",
+      "title": "ねこのカフェ: てんさいねこシェフ（エリア4ハワイのステージ7海鮮レストラン到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1836697",
+      "points": "320pt",
+      "method": "ステージ7",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.722Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836525",
+      "title": "Nonogram -ノノグラム・アートクロスワード",
+      "url": "https://www.chobirich.com/ad_details/1836525",
+      "points": "2273pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.722Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837093",
+      "title": "8 Ball Pool",
+      "url": "https://www.chobirich.com/ad_details/1837093",
+      "points": "747pt",
+      "method": "新規アプリインストール後、レベル22到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.723Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837078",
+      "title": "Merge Sweets(マージスウィーツ)",
+      "url": "https://www.chobirich.com/ad_details/1837078",
+      "points": "831pt",
+      "method": "新規アプリインストール後、プレイヤーレベル50達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.723Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836391",
+      "title": "ふわっち",
+      "url": "https://www.chobirich.com/ad_details/1836391",
+      "points": "1440pt",
+      "method": "初回課金",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.723Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1763779",
+      "title": "実りの地_レベル30到達成果",
+      "url": "https://www.chobirich.com/ad_details/1763779",
+      "points": "2400pt",
+      "method": "レベル30到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.723Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1836105",
+      "title": "Match Mansion（レベル501到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1836105",
+      "points": "480pt",
+      "method": "レベル501到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.723Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1821103",
+      "title": "ヘリでイノシシ狩り (Heli Hog Hunt)（ミッション6-6到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1821103",
+      "points": "192pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:36.723Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835903",
+      "title": "Goods Match 3D：Triple master",
+      "url": "https://www.chobirich.com/ad_details/1835903",
+      "points": "413pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.427Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837106",
+      "title": "Merge Camp(マージキャンプ)",
+      "url": "https://www.chobirich.com/ad_details/1837106",
+      "points": "581pt",
+      "method": "新規アプリインストール後、26レベル到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1838261",
+      "title": "パズル＆コンクエスト（多段階）（iOS）（アプリdeちょ～リッチ）",
+      "url": "https://www.chobirich.com/ad_details/1838261",
+      "points": "13400pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835496",
+      "title": "ピコットタウン レベル32到達（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1835496",
+      "points": "1160pt",
+      "method": "新規アプリインストール後、レベル32到達で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835460",
+      "title": "引越しペンギン",
+      "url": "https://www.chobirich.com/ad_details/1835460",
+      "points": "1656pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835458",
+      "title": "ハト郵便局",
+      "url": "https://www.chobirich.com/ad_details/1835458",
+      "points": "1656pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835456",
+      "title": "捨て猫レスキュー",
+      "url": "https://www.chobirich.com/ad_details/1835456",
+      "points": "1656pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835454",
+      "title": "派遣モンスター",
+      "url": "https://www.chobirich.com/ad_details/1835454",
+      "points": "1656pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.428Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835452",
+      "title": "ハチミツコレクション",
+      "url": "https://www.chobirich.com/ad_details/1835452",
+      "points": "1656pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1835325",
+      "title": "ファミリーファームの冒険",
+      "url": "https://www.chobirich.com/ad_details/1835325",
+      "points": "3352pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831434",
+      "title": "Backpack Rush: Bag Merge（チャプター25をクリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1831434",
+      "points": "640pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1786251",
+      "title": "FXなび",
+      "url": "https://www.chobirich.com/ad_details/1786251",
+      "points": "240pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834975",
+      "title": "ドンピシャスイング（挑戦数240回到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1834975",
+      "points": "240pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837095",
+      "title": "Triple Tile(トリプルタイル)",
+      "url": "https://www.chobirich.com/ad_details/1837095",
+      "points": "2257pt",
+      "method": "新規アプリインストール後、レベル1000クリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834826",
+      "title": "Color Sort Water Purrfect Puzzle（Challenge 7クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1834826",
+      "points": "512pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.429Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834625",
+      "title": "ほんわかバトルオペレーション（挑戦数240回到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1834625",
+      "points": "224pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1787113",
+      "title": "Pizza Ready（Stage4 （4つ目の店舗）到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1787113",
+      "points": "192pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834575",
+      "title": "勇者「こんなに仲間あつめていいんですか？」",
+      "url": "https://www.chobirich.com/ad_details/1834575",
+      "points": "144pt",
+      "method": "新規アプリインストール後、ステージ81クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834573",
+      "title": "もふもふ！お弁当パズル",
+      "url": "https://www.chobirich.com/ad_details/1834573",
+      "points": "628pt",
+      "method": "新規アプリインストール後、おかずのプロフィールNo1～81まで獲得",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834572",
+      "title": "魔王「世界の半分あげるって言っちゃった」",
+      "url": "https://www.chobirich.com/ad_details/1834572",
+      "points": "2249pt",
+      "method": "新規アプリインストール後、初回起動し第13の城【近未来と標的の城】クリアの達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.430Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834570",
+      "title": "勇者「剣投げるしかねーか」",
+      "url": "https://www.chobirich.com/ad_details/1834570",
+      "points": "404pt",
+      "method": "新規アプリインストール後、初回起動しステージ9クリアの達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834568",
+      "title": "商人サーガ 「魔王城でお店開けって言われた」",
+      "url": "https://www.chobirich.com/ad_details/1834568",
+      "points": "809pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834566",
+      "title": "商人サーガ 「魔王城でお店開けって言われた」",
+      "url": "https://www.chobirich.com/ad_details/1834566",
+      "points": "842pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834564",
+      "title": "秘密のメッセージはじめました",
+      "url": "https://www.chobirich.com/ad_details/1834564",
+      "points": "169pt",
+      "method": "新規アプリインストール後、シーズン１とシーズン２をコンプリートすること",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834562",
+      "title": "勇者「入部させてください…」",
+      "url": "https://www.chobirich.com/ad_details/1834562",
+      "points": "628pt",
+      "method": "新規アプリインストール後、初回起動しステージ10をクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834560",
+      "title": "放課後！サバ部",
+      "url": "https://www.chobirich.com/ad_details/1834560",
+      "points": "206pt",
+      "method": "初回起動後、広告クリックから6日以内にアクティビティ7をクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834558",
+      "title": "洋菓子店ローズ ～パン屋はじめました～",
+      "url": "https://www.chobirich.com/ad_details/1834558",
+      "points": "360pt",
+      "method": "新規アプリインストール後、初回起動しレシピ1600個作成の達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.431Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834556",
+      "title": "ハコハコ！商店街",
+      "url": "https://www.chobirich.com/ad_details/1834556",
+      "points": "268pt",
+      "method": "新規アプリインストール後、初回起動し知名度Rank15到達の達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:45.432Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1809384",
+      "title": "Toon Blast（トゥーンブラスト）（レベル1000達成）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1809384",
+      "points": "3600pt",
+      "method": "新規アプリインストール後、レベル1000クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.231Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1834398",
+      "title": "ネコティア",
+      "url": "https://www.chobirich.com/ad_details/1834398",
+      "points": "266pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.232Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1826066",
+      "title": "トゥーンブラスト",
+      "url": "https://www.chobirich.com/ad_details/1826066",
+      "points": "2496pt",
+      "method": "レベル1000到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.233Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837090",
+      "title": "Traffic Escape!",
+      "url": "https://www.chobirich.com/ad_details/1837090",
+      "points": "1247pt",
+      "method": "新規アプリインストール後、レベル3000クリアで成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.233Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833607",
+      "title": "Alice's Dream ：かわいいマージゲーム",
+      "url": "https://www.chobirich.com/ad_details/1833607",
+      "points": "12086pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.234Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833420",
+      "title": "draw flights - puzzle game",
+      "url": "https://www.chobirich.com/ad_details/1833420",
+      "points": "807pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.234Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833419",
+      "title": "one stroke draw - 一筆描きパズルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1833419",
+      "points": "583pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.234Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830082",
+      "title": "TikTok",
+      "url": "https://www.chobirich.com/ad_details/1830082",
+      "points": "1320pt",
+      "method": "初回インストール起動後、10分間動画視聴完了",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.234Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1833210",
+      "title": "ハトジャンプ",
+      "url": "https://www.chobirich.com/ad_details/1833210",
+      "points": "384pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.234Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1774233",
+      "title": "三國志 真戦",
+      "url": "https://www.chobirich.com/ad_details/1774233",
+      "points": "6912pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.234Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1766785",
+      "title": "オンラインクレーンゲーム「アラクレ」（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1766785",
+      "points": "768pt",
+      "method": "初回課金完了で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.234Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829612",
+      "title": "Cosewa（コセワ）",
+      "url": "https://www.chobirich.com/ad_details/1829612",
+      "points": "11200pt",
+      "method": "新規アプリインストール後、動物取扱業登録有シッターの予約の実施後、アンケート回答完了",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.235Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831781",
+      "title": "ミストバレー（レベル8到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1831781",
+      "points": "320pt",
+      "method": "レベル8到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.235Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1832267",
+      "title": "達人の間合い - 居合切りで海鮮丼を作るタップゲーム（挑戦数240回到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1832267",
+      "points": "240pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.235Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840042",
+      "title": "ボールソート：色分けパズル",
+      "url": "https://www.chobirich.com/ad_details/1840042",
+      "points": "475pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.235Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840040",
+      "title": "禅ライフ(Zen Life)：タイルマッチパズルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1840040",
+      "points": "594pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.235Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840036",
+      "title": "数字合わせ：10クラッシュパズル",
+      "url": "https://www.chobirich.com/ad_details/1840036",
+      "points": "653pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.235Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840035",
+      "title": "ウッディソート",
+      "url": "https://www.chobirich.com/ad_details/1840035",
+      "points": "594pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831785",
+      "title": "勇者「剣投げるしかねーか」（ステージ8-3クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1831785",
+      "points": "480pt",
+      "method": "ステージ8",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831719",
+      "title": "Draw Bridge - Puzzle Game（レベル200クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1831719",
+      "points": "144pt",
+      "method": "レベル200",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831697",
+      "title": "バーガーください！",
+      "url": "https://www.chobirich.com/ad_details/1831697",
+      "points": "179pt",
+      "method": "新規アプリインストール後、4つ目の店舗を解放",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1767533",
+      "title": "Climb the mountain（レベル75に到達）",
+      "url": "https://www.chobirich.com/ad_details/1767533",
+      "points": "240pt",
+      "method": "レベル75",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831561",
+      "title": "ポチポチ高速暗算",
+      "url": "https://www.chobirich.com/ad_details/1831561",
+      "points": "103pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829955",
+      "title": "StockPoint for CONNECT",
+      "url": "https://www.chobirich.com/ad_details/1829955",
+      "points": "2249pt",
+      "method": "新規アプリインストール後、アプリ内で新規口座開設、口座連携を完了",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837026",
+      "title": "IRIAM",
+      "url": "https://www.chobirich.com/ad_details/1837026",
+      "points": "384pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831116",
+      "title": "アイドルマイニングファクトリータイクーン（深水鉱坑をアンロック）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1831116",
+      "points": "288pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:43:54.236Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831041",
+      "title": "Papa Doner（レベル5到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1831041",
+      "points": "192pt",
+      "method": "レベル5到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.074Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830800",
+      "title": "Match Tile Scenery",
+      "url": "https://www.chobirich.com/ad_details/1830800",
+      "points": "478pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830798",
+      "title": "エバーテイル（3日連続ログインボーナス獲得）",
+      "url": "https://www.chobirich.com/ad_details/1830798",
+      "points": "360pt",
+      "method": "3日連続ログインボーナス獲得）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830628",
+      "title": "ハトジャンプ 難しすぎるジャンプゲーム-オンライン対戦（ポイ活モードにて累計200けいけんち獲得後、初心者ミッション画面にて達成報酬の150ポイントを獲得）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1830628",
+      "points": "72pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830619",
+      "title": "アイカサ（新規無料会員登録後、初回利用完了）",
+      "url": "https://www.chobirich.com/ad_details/1830619",
+      "points": "336pt",
+      "method": "新規アプリインストール後、新規無料会員登録後の初回利用完了",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830585",
+      "title": "Pizza Ready（ギフトリンク/Stage7到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1830585",
+      "points": "272pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830454",
+      "title": "テイペンウォーズ",
+      "url": "https://www.chobirich.com/ad_details/1830454",
+      "points": "879pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830453",
+      "title": "ぼくとネコ（ギフトリンク/闘技場ゴールドクラスⅢ到達）\t",
+      "url": "https://www.chobirich.com/ad_details/1830453",
+      "points": "560pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830426",
+      "title": "出荷ぶた -冬ver-（ギフトリンク/牧場のレベルアップ1周目到達）",
+      "url": "https://www.chobirich.com/ad_details/1830426",
+      "points": "144pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.076Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823431",
+      "title": "Block Joy（Journeyモードでレベル50クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1823431",
+      "points": "160pt",
+      "method": "レベル50",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830203",
+      "title": "ハトジャンプ",
+      "url": "https://www.chobirich.com/ad_details/1830203",
+      "points": "103pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830074",
+      "title": "Double Number Merging（レベル8到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1830074",
+      "points": "464pt",
+      "method": "レベル8到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830067",
+      "title": "出荷ぶた（ギフトリンク/牧場のレベルアップ1周目到達）",
+      "url": "https://www.chobirich.com/ad_details/1830067",
+      "points": "144pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830065",
+      "title": "Kyash（キャッシュ）-チャージ式Visaカード（初回決済）",
+      "url": "https://www.chobirich.com/ad_details/1830065",
+      "points": "672pt",
+      "method": "新規アプリインストール後、初回決済",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830059",
+      "title": "Pontaアプリ",
+      "url": "https://www.chobirich.com/ad_details/1830059",
+      "points": "96pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830049",
+      "title": "Alice's Dream ：かわいいマージゲーム",
+      "url": "https://www.chobirich.com/ad_details/1830049",
+      "points": "10287pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830048",
+      "title": "脳トレねこぽい",
+      "url": "https://www.chobirich.com/ad_details/1830048",
+      "points": "103pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830042",
+      "title": "Mini Survival: Zombie Fight",
+      "url": "https://www.chobirich.com/ad_details/1830042",
+      "points": "4222pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.077Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830041",
+      "title": "マジンアイランド",
+      "url": "https://www.chobirich.com/ad_details/1830041",
+      "points": "1038pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830032",
+      "title": "東京リベンジャーズ ぱずりべ！全国制覇への道",
+      "url": "https://www.chobirich.com/ad_details/1830032",
+      "points": "1795pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830026",
+      "title": "出荷ぶた - 冬ver",
+      "url": "https://www.chobirich.com/ad_details/1830026",
+      "points": "14384pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830024",
+      "title": "出荷ぶた",
+      "url": "https://www.chobirich.com/ad_details/1830024",
+      "points": "19194pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830022",
+      "title": "喧嘩の花道",
+      "url": "https://www.chobirich.com/ad_details/1830022",
+      "points": "4802pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830016",
+      "title": "find out",
+      "url": "https://www.chobirich.com/ad_details/1830016",
+      "points": "525pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830013",
+      "title": "マンガほっと",
+      "url": "https://www.chobirich.com/ad_details/1830013",
+      "points": "435pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830012",
+      "title": "フルーツメール",
+      "url": "https://www.chobirich.com/ad_details/1830012",
+      "points": "268pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830006",
+      "title": "Super Run 暇つぶしゲーム",
+      "url": "https://www.chobirich.com/ad_details/1830006",
+      "points": "179pt",
+      "method": "新規アプリインストール後、起動 ⇒ステージ24クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.078Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830003",
+      "title": "Drop Master!",
+      "url": "https://www.chobirich.com/ad_details/1830003",
+      "points": "179pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.079Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830002",
+      "title": "Hard Race 暇つぶしゲーム",
+      "url": "https://www.chobirich.com/ad_details/1830002",
+      "points": "268pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:03.079Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830001",
+      "title": "インポッシブルカート2　面白いゲーム",
+      "url": "https://www.chobirich.com/ad_details/1830001",
+      "points": "179pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.877Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1830000",
+      "title": "Impossible Kart",
+      "url": "https://www.chobirich.com/ad_details/1830000",
+      "points": "179pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.878Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829995",
+      "title": "Cat Run!",
+      "url": "https://www.chobirich.com/ad_details/1829995",
+      "points": "179pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.879Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829994",
+      "title": "Solitaire & BINGO",
+      "url": "https://www.chobirich.com/ad_details/1829994",
+      "points": "268pt",
+      "method": "レベル60到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.879Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829993",
+      "title": "Crazy Kart Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1829993",
+      "points": "449pt",
+      "method": "新規アプリインストール後、起動 ⇒ステージ8‐4クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.879Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829992",
+      "title": "暇つぶしゲーム Jump Ball",
+      "url": "https://www.chobirich.com/ad_details/1829992",
+      "points": "360pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.879Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829991",
+      "title": "暇つぶしゲーム Panic Run.",
+      "url": "https://www.chobirich.com/ad_details/1829991",
+      "points": "360pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829989",
+      "title": "au Wi-Fiアクセス",
+      "url": "https://www.chobirich.com/ad_details/1829989",
+      "points": "179pt",
+      "method": "新規アプリインストール後、au IDでログインし、利用規約に同意で成果が発生します",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829984",
+      "title": "Alice's Mergeland",
+      "url": "https://www.chobirich.com/ad_details/1829984",
+      "points": "3101pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829979",
+      "title": "勇者ランキング",
+      "url": "https://www.chobirich.com/ad_details/1829979",
+      "points": "2868pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829977",
+      "title": "君の目的はボクを殺すこと3",
+      "url": "https://www.chobirich.com/ad_details/1829977",
+      "points": "4502pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829973",
+      "title": "マジンアイランド",
+      "url": "https://www.chobirich.com/ad_details/1829973",
+      "points": "1619pt",
+      "method": "新規アプリインストール後、13つ目の島クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829971",
+      "title": "マジンアイランド",
+      "url": "https://www.chobirich.com/ad_details/1829971",
+      "points": "539pt",
+      "method": "新規アプリインストール後、9つ目の島クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829969",
+      "title": "マジンマンション",
+      "url": "https://www.chobirich.com/ad_details/1829969",
+      "points": "2371pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.880Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829967",
+      "title": "勇者ランキング",
+      "url": "https://www.chobirich.com/ad_details/1829967",
+      "points": "971pt",
+      "method": "新規アプリインストール後、372番目のクエストクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829964",
+      "title": "マジンマンション",
+      "url": "https://www.chobirich.com/ad_details/1829964",
+      "points": "2808pt",
+      "method": "新規アプリインストール後、15部屋目クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829963",
+      "title": "ピラミッドソリティア",
+      "url": "https://www.chobirich.com/ad_details/1829963",
+      "points": "268pt",
+      "method": "新規アプリインストール後、広告クリックから14日以内にランク80達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829962",
+      "title": "ノリオカート",
+      "url": "https://www.chobirich.com/ad_details/1829962",
+      "points": "360pt",
+      "method": "新規アプリインストール後、広告クリックから14日以内にFINALステージクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829961",
+      "title": "暇つぶしゲーム Black Jack 21",
+      "url": "https://www.chobirich.com/ad_details/1829961",
+      "points": "449pt",
+      "method": "新規アプリインストール後、広告クリックから14日以内にランク80クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829960",
+      "title": "Super Dog Run",
+      "url": "https://www.chobirich.com/ad_details/1829960",
+      "points": "360pt",
+      "method": "新規アプリインストール後、起動⇒広告クリックから14日以内にステージ24をクリアで成果が発生します",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829958",
+      "title": "マジンマンション",
+      "url": "https://www.chobirich.com/ad_details/1829958",
+      "points": "1080pt",
+      "method": "新規アプリインストール後、11部屋目クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829952",
+      "title": "異世界派遣の係長 -ドットとリアルが融合！？異世界RPG",
+      "url": "https://www.chobirich.com/ad_details/1829952",
+      "points": "179pt",
+      "method": "新規アプリインストール後、ワールド9-3クリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829948",
+      "title": "プリケツにゃー！放置系RPG＆猫（ねこ）キャラのバトルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1829948",
+      "points": "2428pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.881Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829946",
+      "title": "ラズベリーマッシュ",
+      "url": "https://www.chobirich.com/ad_details/1829946",
+      "points": "179pt",
+      "method": "新規アプリインストール後、フロア6のボス撃破で達成",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.882Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829944",
+      "title": "さる山温泉旅館",
+      "url": "https://www.chobirich.com/ad_details/1829944",
+      "points": "494pt",
+      "method": "新規アプリインストール後、温泉のリセット31回到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.882Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829942",
+      "title": "さる山温泉旅館",
+      "url": "https://www.chobirich.com/ad_details/1829942",
+      "points": "1656pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.882Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829940",
+      "title": "出荷ぶた - 冬ver",
+      "url": "https://www.chobirich.com/ad_details/1829940",
+      "points": "494pt",
+      "method": "新規アプリインストール後、牧場レベル31到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.882Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829938",
+      "title": "ハト郵便局",
+      "url": "https://www.chobirich.com/ad_details/1829938",
+      "points": "494pt",
+      "method": "新規アプリインストール後、訓練所のリセット31回到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.882Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829934",
+      "title": "ハチミツコレクション",
+      "url": "https://www.chobirich.com/ad_details/1829934",
+      "points": "494pt",
+      "method": "新規アプリインストール後、起動 ⇒お花畑のリセット31回到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.882Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829930",
+      "title": "派遣モンスター",
+      "url": "https://www.chobirich.com/ad_details/1829930",
+      "points": "494pt",
+      "method": "新規アプリインストール後、起動 ⇒育成場のリセット31回到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:11.882Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829926",
+      "title": "引越しペンギン",
+      "url": "https://www.chobirich.com/ad_details/1829926",
+      "points": "494pt",
+      "method": "新規アプリインストール後、起動 ⇒南極のリセット31回到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.696Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829923",
+      "title": "捨て猫レスキュー",
+      "url": "https://www.chobirich.com/ad_details/1829923",
+      "points": "494pt",
+      "method": "新規アプリインストール後、空き地のリセット31回到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.697Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829920",
+      "title": "出荷ぶた",
+      "url": "https://www.chobirich.com/ad_details/1829920",
+      "points": "494pt",
+      "method": "新規アプリインストール後、牧場レベル31到達（31周）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.698Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1802186",
+      "title": "Sea Block 1010（レベル15到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1802186",
+      "points": "1280pt",
+      "method": "レベル15到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.698Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1792248",
+      "title": "Save the Pets（深さ(DEPTH)2000メートル到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1792248",
+      "points": "720pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.698Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829752",
+      "title": "プリケツにゃー（ギフトリンク/プリケツレベル400到達）",
+      "url": "https://www.chobirich.com/ad_details/1829752",
+      "points": "2400pt",
+      "method": "レベル400到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.698Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829663",
+      "title": "Alice's Dream ：かわいいマージゲーム（ギフトリンク/レベル16到達）",
+      "url": "https://www.chobirich.com/ad_details/1829663",
+      "points": "2080pt",
+      "method": "レベル16到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.698Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829585",
+      "title": "ブロックパズル（クラシックモード1万点達成）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1829585",
+      "points": "340pt",
+      "method": "新規アプリインストール後、クラシックモード1万点達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.698Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827888",
+      "title": "ハムデパート まじかるクラフト",
+      "url": "https://www.chobirich.com/ad_details/1827888",
+      "points": "1440pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.699Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829260",
+      "title": "Puzzles & Chaos: Frozen Castle（ギフトリンク/センターキャッスルレベル21到達）",
+      "url": "https://www.chobirich.com/ad_details/1829260",
+      "points": "2000pt",
+      "method": "レベル21到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.699Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1829621",
+      "title": "パズル＆サバイバル（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1829621",
+      "points": "12509pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.699Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1796561",
+      "title": "スーパースライム：イートホール (Super Slime)（レベル50到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1796561",
+      "points": "288pt",
+      "method": "レベル50到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.699Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1771946",
+      "title": "バーガーください！（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1771946",
+      "points": "272pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.699Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1840038",
+      "title": "Bolt Breaker : Unbolt it!",
+      "url": "https://www.chobirich.com/ad_details/1840038",
+      "points": "88pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.700Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1828051",
+      "title": "Dance Of Jewels（ステージ500クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1828051",
+      "points": "528pt",
+      "method": "ステージ500",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.700Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1828047",
+      "title": "洋菓子店ローズ パンもはじめました（レシピ1,600個作成）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1828047",
+      "points": "504pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.700Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827756",
+      "title": "REALITY",
+      "url": "https://www.chobirich.com/ad_details/1827756",
+      "points": "288pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.700Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827735",
+      "title": "Trump's Empire: idle game（フロリダのプライベートクラブを建設する）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1827735",
+      "points": "160pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.700Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827732",
+      "title": "Paris: City Adventure（レベル40）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1827732",
+      "points": "1600pt",
+      "method": "レベル40",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827730",
+      "title": "実りの地（レベル15到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1827730",
+      "points": "192pt",
+      "method": "レベル15到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827712",
+      "title": "ソリティア無限にやれる「そるティア」（勝利数10回クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1827712",
+      "points": "76pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1827614",
+      "title": "Idle Outpost: 経営シミュレーション（3-7市内の「スーパーマーケット」に到達する）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1827614",
+      "points": "448pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1826570",
+      "title": "ちょびリッチ公式Xフォロー",
+      "url": "https://www.chobirich.com/ad_details/1826570",
+      "points": "10pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1826525",
+      "title": "Pococha",
+      "url": "https://www.chobirich.com/ad_details/1826525",
+      "points": "1920pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1821018",
+      "title": "Mirrativ",
+      "url": "https://www.chobirich.com/ad_details/1821018",
+      "points": "816pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1825517",
+      "title": "Big Card Solitaire（レベル100到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1825517",
+      "points": "144pt",
+      "method": "レベル100到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.701Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1824629",
+      "title": "マフィア・シティ-極道風雲（ギフトリンク/別荘Lv.25到達＆初回豪華特権を購入）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1824629",
+      "points": "17280pt",
+      "method": "初回豪華特権を購入）（iOS）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.702Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1805754",
+      "title": "Match Factory!",
+      "url": "https://www.chobirich.com/ad_details/1805754",
+      "points": "1056pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:20.702Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1821228",
+      "title": "マージ デザイナー（Merge Designer）（ギフトリンク/Level25に到達）\t",
+      "url": "https://www.chobirich.com/ad_details/1821228",
+      "points": "1600pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.516Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823428",
+      "title": "Block Puzzle - Gems Adventure (レベル50クリア) （iOS）",
+      "url": "https://www.chobirich.com/ad_details/1823428",
+      "points": "128pt",
+      "method": "レベル50",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.518Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1823406",
+      "title": "Sliding Match Puzzle Game（チャレンジ20クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1823406",
+      "points": "960pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.518Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1822368",
+      "title": "Mr.Shipping（ステージ2のタスク「トータル売り上げ$4,500,000 」をクリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1822368",
+      "points": "144pt",
+      "method": "ステージ2",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.519Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1822333",
+      "title": "Hide My Test!（ランダムモード100ステージクリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1822333",
+      "points": "160pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.520Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1822332",
+      "title": "仕事サボる！ -暇つぶし 簡単謎解き脱出ゲーム（ランダムモード120ステージクリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1822332",
+      "points": "144pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.520Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1791715",
+      "title": "au Wi-Fiアクセス",
+      "url": "https://www.chobirich.com/ad_details/1791715",
+      "points": "192pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.520Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820432",
+      "title": "パズル＆サバイバル（ギフトリンク/コントロールセンターレベル15到達＆3つ星の建築マスターを購入）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1820432",
+      "points": "2240pt",
+      "method": "レベル15到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.521Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1821135",
+      "title": "Police Rush（レベル131-1到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1821135",
+      "points": "144pt",
+      "method": "レベル131",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.521Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820937",
+      "title": "金とゴブリンの採掘ゲーム（ギフトリンク/鉱山35に到達）",
+      "url": "https://www.chobirich.com/ad_details/1820937",
+      "points": "2400pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.522Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820826",
+      "title": "MONOPOLY GO!",
+      "url": "https://www.chobirich.com/ad_details/1820826",
+      "points": "1344pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.522Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1821804",
+      "title": "出荷ぶた冬ver",
+      "url": "https://www.chobirich.com/ad_details/1821804",
+      "points": "1152pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.522Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1821802",
+      "title": "出荷ぶた",
+      "url": "https://www.chobirich.com/ad_details/1821802",
+      "points": "1152pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.522Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820136",
+      "title": "Puzzles & Chaos: Frozen Castle（センターキャッスルレベル22到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1820136",
+      "points": "2720pt",
+      "method": "レベル22到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.522Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820011",
+      "title": "Love Water – Color Sort Puzzle（ギフトリンク/Event 3: “Sweet Home” クリア）",
+      "url": "https://www.chobirich.com/ad_details/1820011",
+      "points": "304pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819927",
+      "title": "モーリーオンライン（初回課金（MPチャージ））（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1819927",
+      "points": "768pt",
+      "method": "初回課金（MPチャージ））（iOS）",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819875",
+      "title": "ダウンヒルレーサー（Downhill Racer）（Level60到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1819875",
+      "points": "144pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819443",
+      "title": "Decor Merge - マージ インテリア（レベル32到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1819443",
+      "points": "4640pt",
+      "method": "レベル32到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1819357",
+      "title": "ポイ活稼ぐクレーンメダルゲーム",
+      "url": "https://www.chobirich.com/ad_details/1819357",
+      "points": "192pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1818406",
+      "title": "Brain Test 2: Tricky Stories（レベル350クリア）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1818406",
+      "points": "208pt",
+      "method": "レベル350",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1818159",
+      "title": "花札 -花鳥風月-（称号対局の花鳥風月杯をクリア（500ステージクリア））（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1818159",
+      "points": "480pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1817485",
+      "title": "ハコハコ！商店街（Rank Legend Lv1到達（佐渡島解放））（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1817485",
+      "points": "336pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.523Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1816324",
+      "title": "ラズベリーマッシュ（Normalステージを全クリア（フロア6クリア））（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1816324",
+      "points": "272pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.524Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1795202",
+      "title": "実りの地（Harvest Land）（レベル45到達）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1795202",
+      "points": "5440pt",
+      "method": "レベル45到達",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.524Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1815059",
+      "title": "Idle Food Bar（マップ3アンロック）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1815059",
+      "points": "304pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.524Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1814911",
+      "title": "ポイ活稼ぐPayクレーンメダルゲーム（クレーン30回使用）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1814911",
+      "points": "176pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.524Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1795507",
+      "title": "タイトーオンラインクレーン",
+      "url": "https://www.chobirich.com/ad_details/1795507",
+      "points": "1056pt",
+      "method": "初回課金(インストール後、条件達成)",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.524Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1814156",
+      "title": "TikTok Lite（ギフトリンク/2日間連続チェックイン）（iOS）",
+      "url": "https://www.chobirich.com/ad_details/1814156",
+      "points": "680pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "ios",
+      "scrapedAt": "2025-08-13T06:44:29.525Z",
+      "source": "mobile_app_scraper"
+    }
+  ],
+  "summary": {
+    "total": 527,
+    "os": "ios",
+    "maxPages": 20,
+    "features": [
+      "User-Agent切替",
+      "1-5桁ポイント対応",
+      "太字タイトル取得",
+      "矢印表記対応"
+    ]
+  }
+}

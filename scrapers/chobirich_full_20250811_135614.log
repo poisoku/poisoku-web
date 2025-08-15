@@ -1,0 +1,483 @@
+🚀 ちょびリッチ完全案件取得システム v3.0
+======================================================================
+🛡️ Protocol error完全回避機能:
+   ✅ 3カテゴリ毎の強制ブラウザ再起動
+   ✅ メモリリーク防止・監視システム
+   ✅ 自動エラー検知・復旧機能
+   ✅ リアルタイム健康監視
+   🎯 目標: 99.9%以上の取得率
+======================================================================
+
+🎯 既存データ読み込み
+--------------------------------------------------
+📂 既存データ読み込み完了:
+   Web案件: 1388件
+   iOS案件: 329件
+   Android案件: 562件
+   合計: 2279件
+
+🎯 失敗カテゴリの完全取得
+--------------------------------------------------
+📋 対象: 12カテゴリの完全取得
+🔄 4バッチに分割実行
+
+📦 Batch 1/4: shopping_109, shopping_110, shopping_111
+
+🔧 Batch 1 実行開始 (試行 1/3)
+🚀 拡張版ちょびリッチスクレイパー【洗練版】初期化中...
+📋 対応カテゴリ:
+   - ショッピングカテゴリ: 11カテゴリ (shop/101-111)
+   - サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)
+✅ 初期化完了
+✅ ブラウザインスタンス作成成功
+
+📂 shopping_109: 車・バイク
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/109
+   ❌ エラー: Navigating frame was detached
+     ❌ ページ1エラー: Protocol error: Connection closed.
+   ❌ shopping_109エラー: Protocol error: Connection closed.
+   🔄 Protocol error検知 - ブラウザ再起動中...
+❌ Batch 1 失敗 (試行 1): Protocol error: Connection closed.
+🛡️ エラー回復中 - 60秒待機...
+
+🔧 Batch 1 実行開始 (試行 2/3)
+🚀 拡張版ちょびリッチスクレイパー【洗練版】初期化中...
+📋 対応カテゴリ:
+   - ショッピングカテゴリ: 11カテゴリ (shop/101-111)
+   - サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)
+✅ 初期化完了
+✅ ブラウザインスタンス作成成功
+
+📂 shopping_109: 車・バイク
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/109
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=3
+   ✅ 28件の案件を取得
+     ✅ 28件取得 (累計: 88件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=4
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=5
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+     🧹 メモリクリーンアップ実行...
+   ✅ 88件取得成功
+
+📂 shopping_110: 本・雑誌・コミック
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/110
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=3
+   ✅ 6件の案件を取得
+     ✅ 6件取得 (累計: 66件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=4
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=5
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+     🧹 メモリクリーンアップ実行...
+   ✅ 66件取得成功
+
+📂 shopping_111: その他ショッピング
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/111
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/111?page=2
+   ✅ 4件の案件を取得
+     ✅ 4件取得 (累計: 34件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/111?page=3
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/shopping/shop/111?page=4
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 34件取得成功
+✅ Batch 1 完了: 188件取得
+⏳ 次バッチまで30秒待機...
+
+📦 Batch 2/4: service_101, service_103, service_104
+
+🔧 Batch 2 実行開始 (試行 1/3)
+🚀 拡張版ちょびリッチスクレイパー【洗練版】初期化中...
+📋 対応カテゴリ:
+   - ショッピングカテゴリ: 11カテゴリ (shop/101-111)
+   - サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)
+✅ 初期化完了
+✅ ブラウザインスタンス作成成功
+
+📂 service_101: エンタメ・ゲーム
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/101
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=3
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 90件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=4
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 120件)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=5
+   ✅ 16件の案件を取得
+     ✅ 16件取得 (累計: 136件)
+     🧹 メモリクリーンアップ実行...
+     📄 ページ6: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=6
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ7: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=7
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 136件取得成功
+
+📂 service_103: 資料請求・査定・相談
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/103
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=3
+   ✅ 9件の案件を取得
+     ✅ 9件取得 (累計: 69件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=4
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=5
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+     🧹 メモリクリーンアップ実行...
+   ✅ 69件取得成功
+
+📂 service_104: 会員登録・メルマガ
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104
+   ✅ 29件の案件を取得
+     ✅ 29件取得 (累計: 29件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 59件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=3
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 89件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=4
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 119件)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=5
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 149件)
+     🧹 メモリクリーンアップ実行...
+     📄 ページ6: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=6
+   ✅ 11件の案件を取得
+     ✅ 11件取得 (累計: 160件)
+     📄 ページ7: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=7
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ8: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=8
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 160件取得成功
+✅ Batch 2 完了: 365件取得
+⏳ 次バッチまで30秒待機...
+
+📦 Batch 3/4: service_106, service_107, service_108
+
+🔧 Batch 3 実行開始 (試行 1/3)
+🚀 拡張版ちょびリッチスクレイパー【洗練版】初期化中...
+📋 対応カテゴリ:
+   - ショッピングカテゴリ: 11カテゴリ (shop/101-111)
+   - サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)
+✅ 初期化完了
+✅ ブラウザインスタンス作成成功
+
+📂 service_106: 金融・投資・保険
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/106
+   ✅ 29件の案件を取得
+     ✅ 29件取得 (累計: 29件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 59件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=3
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 89件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=4
+   ✅ 25件の案件を取得
+     ✅ 25件取得 (累計: 114件)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=5
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     🧹 メモリクリーンアップ実行...
+     📄 ページ6: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=6
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 114件取得成功
+
+📂 service_107: 不動産・引越し
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/107
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=3
+   ✅ 22件の案件を取得
+     ✅ 22件取得 (累計: 82件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=4
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=5
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+     🧹 メモリクリーンアップ実行...
+   ✅ 82件取得成功
+
+📂 service_108: 美容・健康
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/108
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=3
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 90件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=4
+   ✅ 12件の案件を取得
+     ✅ 12件取得 (累計: 102件)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=5
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     🧹 メモリクリーンアップ実行...
+     📄 ページ6: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=6
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 102件取得成功
+✅ Batch 3 完了: 298件取得
+⏳ 次バッチまで30秒待機...
+
+📦 Batch 4/4: service_109, service_110, service_111
+
+🔧 Batch 4 実行開始 (試行 1/3)
+🚀 拡張版ちょびリッチスクレイパー【洗練版】初期化中...
+📋 対応カテゴリ:
+   - ショッピングカテゴリ: 11カテゴリ (shop/101-111)
+   - サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)
+✅ 初期化完了
+✅ ブラウザインスタンス作成成功
+
+📂 service_109: 旅行・宿泊
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=3
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 90件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=4
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 120件)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=5
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 150件)
+     🧹 メモリクリーンアップ実行...
+     📄 ページ6: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=6
+   ✅ 9件の案件を取得
+     ✅ 9件取得 (累計: 159件)
+     📄 ページ7: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=7
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ8: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=8
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 159件取得成功
+
+📂 service_110: 通信・プロバイダ
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=2
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 60件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=3
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 90件)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=4
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 120件)
+     📄 ページ5: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=5
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 150件)
+     🧹 メモリクリーンアップ実行...
+     📄 ページ6: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=6
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 180件)
+     📄 ページ7: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=7
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 210件)
+     📄 ページ8: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=8
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 240件)
+     📄 ページ9: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=9
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 270件)
+     📄 ページ10: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=10
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 300件)
+     🧹 メモリクリーンアップ実行...
+     📄 ページ11: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=11
+   ✅ 24件の案件を取得
+     ✅ 24件取得 (累計: 324件)
+     📄 ページ12: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=12
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ13: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=13
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 324件取得成功
+
+📂 service_111: その他サービス
+     📄 ページ1: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/111
+   ✅ 30件の案件を取得
+     ✅ 30件取得 (累計: 30件)
+     📄 ページ2: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/111?page=2
+   ✅ 21件の案件を取得
+     ✅ 21件取得 (累計: 51件)
+     📄 ページ3: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/111?page=3
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (1/2)
+     📄 ページ4: 取得中...
+   📄 取得中: https://www.chobirich.com/earn/apply/111?page=4
+   ✅ 0件の案件を取得
+     ➡️ 空ページ (2/2)
+   ✅ 51件取得成功
+✅ Batch 4 完了: 534件取得
+
+🎯 完全版データ統合
+--------------------------------------------------
+📊 統合前: 3664件
+📊 重複除去後: 3662件
+💾 完全版v3データ: chobirich_complete_v3_2025-08-11_05_39_00.json
+🚀 本番用v3データ: chobirich_production_complete_v3.json
+
+======================================================================
+🎉 ちょびリッチ完全案件取得システム v3.0 完了
+======================================================================
+⏱️  総実行時間: 42分45秒
+
+📊 最終取得結果:
+   🛍️  Web案件: 2773件
+   📱 iOS案件: 329件
+   📱 Android案件: 562件
+   🎯 総案件数: 3662件
+
+🛡️ システム堅牢性統計:
+   🔄 ブラウザ再起動回数: 5回
+   🛠️ エラー回復回数: 1回
+   🧹 メモリクリーンアップ: 11回
+   ❌ 総エラー数: 1件
+
+📈 v2からの改善:
+   v2取得数: 2279件
+   v3取得数: 3662件
+   改善: +1383件
+   最終取得率: 143.8%
+
+📈 データ品質:
+   有効データ率: 98.4%
+   有効案件数: 3602件
+
+🔍 ポイ速検索システム:
+   ✅ v3完全版データ生成完了
+   ✅ 本番反映準備完了
+   📊 検索可能案件数: 3662件
+
+🎊 🎊 🎊 目標達成！
+ちょびリッチの99.5%以上の案件を取得しました！
+Protocol error完全回避に成功！
+
+✅ システムv3.0実行完了！

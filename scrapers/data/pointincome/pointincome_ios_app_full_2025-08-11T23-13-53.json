@@ -1,0 +1,322 @@
+{
+  "scrape_date": "2025-08-11T23:13:53.144Z",
+  "device": "iOS",
+  "categories_processed": 3,
+  "total_campaigns": 24,
+  "duplicates_skipped": 0,
+  "campaigns": [
+    {
+      "id": "152933",
+      "title": "Backpack Rush: Bag Merge（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152933/",
+      "points": "350円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153717",
+      "title": "Color Water Sort puzzle:色分けゲーム（Android）",
+      "url": "https://sp.pointi.jp/ad/153717/",
+      "points": "520円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153679",
+      "title": "Color Bolts Sort Puzzle（Android用）【8/12までの高還元!!】",
+      "url": "https://sp.pointi.jp/ad/153679/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153678",
+      "title": "Color Bolts Sort Puzzle（iOS用）【8/12までの高還元!!】",
+      "url": "https://sp.pointi.jp/ad/153678/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153692",
+      "title": "Domino Dreams (iOS)",
+      "url": "https://sp.pointi.jp/ad/153692/",
+      "points": "700円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153691",
+      "title": "Domino Dreams (Android)",
+      "url": "https://sp.pointi.jp/ad/153691/",
+      "points": "530円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153334",
+      "title": "Merge Inn - マージイン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153334/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153335",
+      "title": "Merge Inn - マージイン（Android用）",
+      "url": "https://sp.pointi.jp/ad/153335/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153675",
+      "title": "マージサバイバル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153675/",
+      "points": "150円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153673",
+      "title": "Alice's Dream ：かわいいマージゲーム【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153673/",
+      "points": "5,815円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-11T22:57:24.269Z"
+    },
+    {
+      "id": "153695",
+      "title": "Drop Master!(ドロップマスター)iOS用",
+      "url": "https://sp.pointi.jp/ad/153695/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.727Z"
+    },
+    {
+      "id": "150617",
+      "title": "サメサメ進化論（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150617/",
+      "points": "400円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "150618",
+      "title": "サメサメ進化論（Android用）",
+      "url": "https://sp.pointi.jp/ad/150618/",
+      "points": "400円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153302",
+      "title": "ほんわかバトルオペレーション（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153302/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153303",
+      "title": "達人の間合い（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153303/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153570",
+      "title": "ヘリでイノシシ狩り - Heli Hog Hunt（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153570/",
+      "points": "80円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153571",
+      "title": "ヘリでイノシシ狩り - Heli Hog Hunt（Android用）",
+      "url": "https://sp.pointi.jp/ad/153571/",
+      "points": "80円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153525",
+      "title": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153525/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153300",
+      "title": "マスクハガシタインジャー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153300/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153511",
+      "title": "スライディングヒーロー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153511/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-11T22:57:50.728Z"
+    },
+    {
+      "id": "153633",
+      "title": "簡単アイテム探し：探索者の記録/Seekers Notes（Android）",
+      "url": "https://sp.pointi.jp/ad/153633/",
+      "points": "12,200円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-11T22:58:17.213Z"
+    },
+    {
+      "id": "151773",
+      "title": "仕事サボる！ -暇つぶし 簡単謎解き脱出ゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151773/",
+      "points": "60円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-11T22:58:17.213Z"
+    },
+    {
+      "id": "149864",
+      "title": "学校サボる! - 脱出ゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/149864/",
+      "points": "60円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-11T22:58:17.213Z"
+    },
+    {
+      "id": "146011",
+      "title": "勇者「入部させてください…」（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146011/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-11T22:58:17.213Z"
+    }
+  ],
+  "stats": {
+    "categoriesProcessed": 3,
+    "totalCampaigns": 24,
+    "duplicatesSkipped": 0,
+    "errors": [
+      {
+        "category": 288,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 289,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 290,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 291,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 292,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 293,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 294,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 295,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 296,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 297,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 298,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 299,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 300,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 301,
+        "error": "Protocol error: Connection closed."
+      },
+      {
+        "category": 302,
+        "error": "Protocol error: Connection closed."
+      }
+    ],
+    "categoryBreakdown": {
+      "285": 10,
+      "286": 10,
+      "287": 4
+    },
+    "consecutiveTimeouts": 0
+  }
+}

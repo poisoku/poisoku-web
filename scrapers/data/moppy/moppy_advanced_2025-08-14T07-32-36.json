@@ -1,0 +1,707 @@
+{
+  "scrapeDate": "2025-08-14T07:32:36.626Z",
+  "version": "2.0.0",
+  "systemType": "moppy_advanced_scraper",
+  "stats": {
+    "totalCampaigns": 47,
+    "totalCategories": 1,
+    "executionTime": 11,
+    "errors": 0,
+    "apiEndpointsFound": 6
+  },
+  "campaigns": [
+    {
+      "id": "moppy_138222",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=138222&track_ref=tw",
+      "title": "入会特典17万ポイント＋モッピー2万P",
+      "points": "",
+      "image": "",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_124167",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=124167&track_ref=tw",
+      "title": "【最大18,000円相当】東急カード",
+      "points": "最大18,000",
+      "image": "",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_116862",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=116862&track_ref=tw",
+      "title": "アメックスGプリファード【神】",
+      "points": "",
+      "image": "",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_159095",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=159095&track_ref=tw",
+      "title": "【激アツ】IG証券18,000P",
+      "points": "18,000P",
+      "image": "",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_159880",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=159880&track_ref=tw",
+      "title": "【無料口座開設】SBI FXトレード",
+      "points": "",
+      "image": "",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6654",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6654",
+      "title": "モッピーリユース",
+      "points": "",
+      "image": "",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1853",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1853&track_ref=reg",
+      "title": "楽天市場",
+      "points": "1.0%",
+      "image": "https://hbb.afl.rakuten.co.jp/hsb/11017737.c79a0777.14bcfd8b.3363363b",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_100822",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=100822&track_ref=reg",
+      "title": "楽天カード【最短10日でポイントGET】",
+      "points": "9,000P",
+      "image": "https://img.moppy.jp/pub/operation/2025/rakuten.gif",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_903",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=903&track_ref=reg",
+      "title": "楽天トラベル",
+      "points": "1.0%",
+      "image": "https://img.moppy.jp/pub/global/pc/banner/ec/moppy.ec/rakutentravel.png",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1753",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1753&track_ref=reg",
+      "title": "Rakuten Fashion(楽天ファッション)",
+      "points": "5.2%",
+      "image": "https://brandavenue.r10s.jp/img/library/images/20240222/125_125.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_485",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=485&track_ref=reg",
+      "title": "楽天ブックス",
+      "points": "1.0%",
+      "image": "https://hbb.afl.rakuten.co.jp/hsb/1a3d9d7d.3d913782.14bcfd8b.3363363b/?me_id=1213310&me_adv_id=1803175&t=pict",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_111069",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=111069&track_ref=reg",
+      "title": "楽天証券",
+      "points": "7,000P",
+      "image": "https://srv2.trafficgate.net/t/b/916/738/77117_250381",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_102667",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=102667&track_ref=reg",
+      "title": "【最大2,000P】楽天銀行 口座開設",
+      "points": "2,000P",
+      "image": "https://srv2.trafficgate.net/t/b/14/6609/77117_250381",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1897",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1897&track_ref=reg",
+      "title": "楽天Kobo（リピート利用OK）",
+      "points": "2.8%",
+      "image": "https://www23.a8.net/svt/bgt?aid=240617220829&wid=001&eno=01&mid=s00000025230002003000&mc=1",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_100953",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=100953&track_ref=reg",
+      "title": "楽天銀行スーパーローン",
+      "points": "11,000P",
+      "image": "https://srv2.trafficgate.net/t/b/31/6610/77117_250381",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_157680",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=157680&track_ref=reg",
+      "title": "【神還元】楽天でんき",
+      "points": "15,000P",
+      "image": "https://srv2.trafficgate.net/t/b/42/6572/77117_250381",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_158074",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=158074&track_ref=reg",
+      "title": "楽天Car車買取",
+      "points": "24,000P",
+      "image": "https://ad-track.jp/ad/p/img?_site=13&_article=19199&_link=42581&_image=43812",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_141876",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=141876&track_ref=reg",
+      "title": "【高還元】楽天証券 iDeCo",
+      "points": "2,800P",
+      "image": "https://srv2.trafficgate.net/t/b/93/6317/77117_250381",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_482",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=482&track_ref=category",
+      "title": "Yahoo!ショッピング(ヤフーショッピング)",
+      "points": "1.0%",
+      "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2728858&pid=886778472",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1118",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1118&track_ref=category",
+      "title": "Qoo10(キューテン)",
+      "points": "1.9%",
+      "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2728858&pid=889448701",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1089",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1089&track_ref=category",
+      "title": "au PAY マーケット",
+      "points": "1.0%",
+      "image": "https://mgs01y1.wowma.net/market/linkshare/aupaymarket_125_125.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1066",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1066&track_ref=category",
+      "title": "ビックカメラ.com",
+      "points": "4.0%",
+      "image": "https://www.biccamera.com/bc/c/images/affiliate/biccamera_lpgo_250x250.png",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_5901",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=5901&track_ref=category",
+      "title": "【リピート専用】SHEIN（シーイン）",
+      "points": "2.5%",
+      "image": "https://www.afi-b.com/upload_image/13600-1651566499-3.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_5952",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=5952&track_ref=category",
+      "title": "ユニクロオンラインストア",
+      "points": "0.5%",
+      "image": "https://img.moppy.jp/pub/sp/sp_gacha/UNIQLO.png",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6187",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6187&track_ref=category",
+      "title": "楽天24",
+      "points": "1.0%",
+      "image": "https://hbb.afl.rakuten.co.jp/hlb/217d3df8.54d43728.14bcfd8b.3363363b/?sid=1&shop=rakuten24&size=2&kind=1&me_id=1261122&me_adv_id=693894&t=logo",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1073",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1073&track_ref=category",
+      "title": "LOHACO(ロハコ)",
+      "points": "0.5%",
+      "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2728858&pid=886097876",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6683",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6683&track_ref=category",
+      "title": "anatae（アナタヘ）",
+      "points": "3.8%",
+      "image": "https://anatae-store-prod.s3.ap-northeast-1.amazonaws.com/241022_rakuten_logo_200square.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6385",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6385&track_ref=category",
+      "title": "AliExpress/アリエクスプレス（アリババ）",
+      "points": "10.0%",
+      "image": "https://img.moppy.jp/pub/operation/2025/202507_ali_icon.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_940",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=940&track_ref=category",
+      "title": "セブンネットショッピング",
+      "points": "5.0%",
+      "image": "https://ad.jp.ap.valuecommerce.com/vc/images/00/28/63/d0.gif",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_2520",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=2520&track_ref=category",
+      "title": "サンプル百貨店(ちょっプル)",
+      "points": "1.0%",
+      "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2728858&pid=886351541",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1576",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1576&track_ref=category",
+      "title": "SHOP CHANNEL(ショップチャンネル)",
+      "points": "0.5%",
+      "image": "https://img.moppy.jp/pub/shopchannel.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6735",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6735&track_ref=category",
+      "title": "【モッピー初回用】ビックカメラ.com",
+      "points": "5.0%",
+      "image": "https://www.biccamera.com/bc/c/images/affiliate/biccamera_lpgo_250x250.png",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6737",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6737&track_ref=category",
+      "title": "【モッピー初回用】Yahoo!ショッピング(ヤフーショッピング)",
+      "points": "2.0%",
+      "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2728858&pid=886778472",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6300",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6300&track_ref=category",
+      "title": "マルイウェブチャネル",
+      "points": "0.5%",
+      "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2728858&pid=889322011",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_484",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=484&track_ref=category",
+      "title": "ベルメゾン",
+      "points": "0.8%",
+      "image": "https://img.moppy.jp/pub/sp/250_250_0721.png",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6424",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6424&track_ref=category",
+      "title": "CAINZ（カインズ）",
+      "points": "1.5%",
+      "image": "https://img.moppy.jp/pub/operation/2024/cainz.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_539",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=539&track_ref=category",
+      "title": "ニッセン",
+      "points": "8.0%",
+      "image": "https://img.moppy.jp/pub/sp/20210810111111111.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_4495",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=4495&track_ref=category",
+      "title": "阪急・阪神オンラインショッピング/HANKYU E-STORES",
+      "points": "1.0%",
+      "image": "https://merchant.linksynergy.com/fs/banners/42950/42950_87.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_5189",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=5189&track_ref=category",
+      "title": "AEON STYLE ONLINE（イオンスタイルオンライン）",
+      "points": "2.0%",
+      "image": "https://aeonretail.com/Contents/shop/portal/linkshare/AEONSTYLE_ONLINE_125_125.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6511",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6511&track_ref=category",
+      "title": "【新規購入限定】SHEIN（シーイン）",
+      "points": "25.0%",
+      "image": "https://www.afi-b.com/upload_image/13600-1651566499-3.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_2229",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=2229&track_ref=category",
+      "title": "RING BELL（リンベル）贈り物のコンシェルジュ",
+      "points": "12.0%",
+      "image": "https://www.ringbell.co.jp/ringbell/contents/af/images/125_125_premium.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6760",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6760&track_ref=category",
+      "title": "【新規購入限定】AliExpress/アリエクスプレス（アリババ）",
+      "points": "20.0%",
+      "image": "https://img.moppy.jp/pub/operation/2025/202507_ali_icon.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_1950",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=1950&track_ref=category",
+      "title": "イオンショップ",
+      "points": "8.0%",
+      "image": "https://storage.aeonshop.com/assets/file/pages/img/AD/LS/120_120.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6719",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6719&track_ref=category",
+      "title": "TEMU（テム）【新規購入限定】",
+      "points": "30.0%",
+      "image": "https://ad-track.jp/ad/p/img?_site=1831&_article=22701&_link=41860&_image=43072",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_6007",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6007&track_ref=category",
+      "title": "ダイソーネットストア",
+      "points": "6.0%",
+      "image": "https://www27.a8.net/svt/bgt?aid=220722785094&wid=001&eno=01&mid=s00000023605001013000&mc=1",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_3703",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=3703&track_ref=category",
+      "title": "Ropping（ロッピング）",
+      "points": "2.5%",
+      "image": "https://ropping.tv-asahi.co.jp/contents/affiliate/linkshare/ropping12060.jpg",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    },
+    {
+      "id": "moppy_5261",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=5261&track_ref=category",
+      "title": "羽田空港公式通販サイト",
+      "points": "5.0%",
+      "image": "https://www28.a8.net/svt/bgt?aid=201223492344&wid=001&eno=01&mid=s00000021701001006000&mc=1",
+      "category": "総合通販",
+      "categoryType": "shopping",
+      "device": "All",
+      "scrapedAt": "2025-08-14T07:32:33.573Z"
+    }
+  ],
+  "apiEndpoints": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json",
+      "data": {
+        "generatedAt": "2025-08-13T15:00:30.167Z",
+        "dataAsOf": "2025-08-13T00:00:00.000Z",
+        "conversions": {
+          "USD": {
+            "EUR": 0.853898044573478,
+            "USD": 1,
+            "JPY": 147.27179574758773,
+            "BGN": 1.6700537955768082,
+            "CZK": 20.89573904875758,
+            "DKK": 6.372299547434037,
+            "GBP": 0.7369994022713688,
+            "HUF": 337.8447613354965,
+            "PLN": 3.637605669883016,
+            "RON": 4.3233711894799765,
+            "SEK": 9.52736743232858,
+            "CHF": 0.8034326701391854,
+            "ISK": 122.27819998292203,
+            "NOK": 10.198958244385622,
+            "TRY": 40.744428315259164,
+            "AUD": 1.5260865852617198,
+            "BRL": 5.390487575783451,
+            "CAD": 1.3759713090257024,
+            "CNY": 7.174451370506361,
+            "HKD": 7.84997011356844,
+            "IDR": 16128.75074716079,
+            "ILS": 3.3898898471522503,
+            "INR": 87.44812569379216,
+            "KRW": 1378.3622235505081,
+            "MXN": 18.541029801041756,
+            "MYR": 4.2074972248313545,
+            "NZD": 1.670993083425839,
+            "PHP": 56.64759627700453,
+            "SGD": 1.2799931688156436,
+            "THB": 32.29015455554607,
+            "ZAR": 17.515669029117923
+          },
+          "GBP": {
+            "EUR": 1.1586142973004288,
+            "USD": 1.3568532035685321,
+            "JPY": 199.82620785540496,
+            "BGN": 2.2660178426601787,
+            "CZK": 28.352450469238793,
+            "DKK": 8.64627505503418,
+            "GBP": 1,
+            "HUF": 458.40574672691463,
+            "PLN": 4.935696906499826,
+            "RON": 5.866180048661802,
+            "SEK": 12.927239022129534,
+            "CHF": 1.0901401923299734,
+            "ISK": 165.9135673734214,
+            "NOK": 13.838489166956322,
+            "TRY": 55.2842080871278,
+            "AUD": 2.070675472135326,
+            "BRL": 7.3141003359981465,
+            "CAD": 1.8669910786699109,
+            "CNY": 9.734677325918202,
+            "HKD": 10.651257096512571,
+            "IDR": 21884.347120843475,
+            "ILS": 4.599582898852972,
+            "INR": 118.65426949368556,
+            "KRW": 1870.2351987023521,
+            "MXN": 25.15745568300313,
+            "MYR": 5.708956088518132,
+            "NZD": 2.267292318387209,
+            "PHP": 76.86247248291045,
+            "SGD": 1.7367628316533428,
+            "THB": 43.81299965241571,
+            "ZAR": 23.766191634804773
+          }
+        }
+      }
+    },
+    {
+      "url": "https://d.socdm.com/adsv/v1?posall=SSPLOC&id=213409&sdktype=0&hb=true&t=json3&sizes=300x250&currency=JPY&pbver=8.17.0&sdkname=prebidjs&adapterver=1.6.2&uach=%7B%22source%22%3A1%2C%22browsers%22%3A%5B%5D%2C%22mobile%22%3A0%7D&imark=1&tp=https%3A%2F%2Fpc.moppy.jp%2Fcategory%2Flist.php%3Fparent_category%3D6%26child_category%3D80%26af_sorter%3D1%26page%3D1",
+      "data": {
+        "ad": "<!-- st=noad : id=213409 : pos=SSPLOC -->\n<iframe src=\"https://tg.socdm.com/aux/sosync?ctsv=m-ad1147&amp;seqid=e113a760-3170-31cd-1b21-c458b1dba050&amp;seqtime=1755156746582\" width=\"1\" height=\"1\" style=\"position:absolute;border:none;padding:0;margin:0;\"></iframe>",
+        "beacon": "<img src=\"https://tg.socdm.com/bc/v3?b=Y2hzbT01OSw2NjdhMmE2ZWlkPTIxMzQwOSZwb3M9U1NQTE9DJmV4PTE3NTUxNTY3NDYmY3Q9MTc1NTE1Njc0NjU4MiZzcj1odHRw&amp;xuid=aJ2RCsCo8HkAAGxlZa0AAAAA&amp;ctsv=m-ad1147&amp;seqid=e113a760-3170-31cd-1b21-c458b1dba050&amp;seqtime=1755156746582&amp;t=.gif\" width=\"1\" height=\"1\" style=\"display:none;border:none;padding:0;margin:0;width:1px;height:1px\"/>",
+        "beaconurl": "https://tg.socdm.com/bc/v3?b=Y2hzbT01OSw2NjdhMmE2ZWlkPTIxMzQwOSZwb3M9U1NQTE9DJmV4PTE3NTUxNTY3NDYmY3Q9MTc1NTE1Njc0NjU4MiZzcj1odHRw&xuid=aJ2RCsCo8HkAAGxlZa0AAAAA&ctsv=m-ad1147&seqid=e113a760-3170-31cd-1b21-c458b1dba050&seqtime=1755156746582&t=.gif",
+        "displaytype": "3",
+        "ids": {
+          "anid": "",
+          "diid": "",
+          "idfa": "",
+          "soc": ""
+        },
+        "location_params": null,
+        "locationid": "213409",
+        "results": [],
+        "rotation": "0",
+        "sdktype": "0"
+      }
+    },
+    {
+      "url": "https://d.socdm.com/adsv/v1?posall=SSPLOC&id=213410&sdktype=0&hb=true&t=json3&sizes=300x250&currency=JPY&pbver=8.17.0&sdkname=prebidjs&adapterver=1.6.2&uach=%7B%22source%22%3A1%2C%22browsers%22%3A%5B%5D%2C%22mobile%22%3A0%7D&imark=1&tp=https%3A%2F%2Fpc.moppy.jp%2Fcategory%2Flist.php%3Fparent_category%3D6%26child_category%3D80%26af_sorter%3D1%26page%3D1",
+      "data": {
+        "ad": "<!-- st=noad : id=213410 : pos=SSPLOC -->\n<iframe src=\"https://tg.socdm.com/aux/sosync?ctsv=m-ad1101&amp;seqid=5b19fe88-5b12-8d10-bc61-434bdd93cebb&amp;seqtime=1755156746589\" width=\"1\" height=\"1\" style=\"position:absolute;border:none;padding:0;margin:0;\"></iframe>",
+        "beacon": "<img src=\"https://tg.socdm.com/bc/v3?b=Y2hzbT01OSw1OGJhZTI3OGlkPTIxMzQxMCZwb3M9U1NQTE9DJmV4PTE3NTUxNTY3NDYmY3Q9MTc1NTE1Njc0NjU4OSZzcj1odHRw&amp;xuid=aJ2RCsCo8GsAALGEG2IAAAAA&amp;ctsv=m-ad1101&amp;seqid=5b19fe88-5b12-8d10-bc61-434bdd93cebb&amp;seqtime=1755156746589&amp;t=.gif\" width=\"1\" height=\"1\" style=\"display:none;border:none;padding:0;margin:0;width:1px;height:1px\"/>",
+        "beaconurl": "https://tg.socdm.com/bc/v3?b=Y2hzbT01OSw1OGJhZTI3OGlkPTIxMzQxMCZwb3M9U1NQTE9DJmV4PTE3NTUxNTY3NDYmY3Q9MTc1NTE1Njc0NjU4OSZzcj1odHRw&xuid=aJ2RCsCo8GsAALGEG2IAAAAA&ctsv=m-ad1101&seqid=5b19fe88-5b12-8d10-bc61-434bdd93cebb&seqtime=1755156746589&t=.gif",
+        "displaytype": "3",
+        "ids": {
+          "anid": "",
+          "diid": "",
+          "idfa": "",
+          "soc": ""
+        },
+        "location_params": null,
+        "locationid": "213410",
+        "results": [],
+        "rotation": "0",
+        "sdktype": "0"
+      }
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=26336&site_id=593768&zone_id=3794458&size_id=15&rf=https%3A%2F%2Fpc.moppy.jp%2Fcategory%2Flist.php%3Fparent_category%3D6%26child_category%3D80%26af_sorter%3D1%26page%3D1&tg_i.domain=pc.moppy.jp&tg_i.page=https%3A%2F%2Fpc.moppy.jp%2Fcategory%2Flist.php%3Fparent_category%3D6%26child_category%3D80%26af_sorter%3D1%26page%3D1&tg_i.pbadslot=%2F22591150966%2Fmoppy-media-PC%2Farticle-footer-rect-0&tk_flint=pbjs_lite_v8.17.0&l_pb_bid_id=8e0ad344423938&p_screen_res=3440x1440&rp_secure=1&rp_maxbids=1&slots=1&rand=0.35510887998257534",
+      "data": {
+        "status": "ok",
+        "account_id": 26336,
+        "site_id": 593768,
+        "zone_id": 3794458,
+        "size_id": 15,
+        "tracking": "",
+        "inventory": {
+          "domain": "pc.moppy.jp",
+          "pbadslot": "%2F22591150966%2Fmoppy-media-PC%2Farticle-footer-rect-0",
+          "page": "https://pc.moppy.jp/category/list.php?parent_category=6&child_category=80&af_sorter=1&page=1"
+        },
+        "ads": [
+          {
+            "status": "no-ads",
+            "reason": "no-compatible-ads",
+            "error_code": "10",
+            "impression_id": "d6d1ab00-ab63-41b5-8aed-3ba5143b04c0"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=26336&site_id=593768&zone_id=3794448&size_id=15&rf=https%3A%2F%2Fpc.moppy.jp%2Fcategory%2Flist.php%3Fparent_category%3D6%26child_category%3D80%26af_sorter%3D1%26page%3D1&tg_i.domain=pc.moppy.jp&tg_i.page=https%3A%2F%2Fpc.moppy.jp%2Fcategory%2Flist.php%3Fparent_category%3D6%26child_category%3D80%26af_sorter%3D1%26page%3D1&tg_i.pbadslot=%2F22591150966%2Fmoppy-media-PC%2Farticle-footer-rect-1&tk_flint=pbjs_lite_v8.17.0&l_pb_bid_id=98095986b91afb&p_screen_res=3440x1440&rp_secure=1&rp_maxbids=1&slots=1&rand=0.36268996526255226",
+      "data": {
+        "status": "ok",
+        "account_id": 26336,
+        "site_id": 593768,
+        "zone_id": 3794448,
+        "size_id": 15,
+        "tracking": "",
+        "inventory": {
+          "domain": "pc.moppy.jp",
+          "pbadslot": "%2F22591150966%2Fmoppy-media-PC%2Farticle-footer-rect-1",
+          "page": "https://pc.moppy.jp/category/list.php?parent_category=6&child_category=80&af_sorter=1&page=1"
+        },
+        "ads": [
+          {
+            "status": "no-ads",
+            "reason": "no-compatible-ads",
+            "error_code": "10",
+            "impression_id": "0788f7ef-b501-497a-a01b-42137ac92e7b"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://ceres.australia-3.evergage.com/api2/event/ceresprod?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJkZWZhdWx0IiwibG9jYWxlIjoiamFfSlAiLCJ1cmwiOiJodHRwczovL3BjLm1vcHB5LmpwL2NhdGVnb3J5L2xpc3QucGhwP3BhcmVudF9jYXRlZ29yeT02JmNoaWxkX2NhdGVnb3J5PTgwJmFmX3NvcnRlcj0xJnBhZ2U9MSIsInVybFJlZmVycmVyIjoiIiwiY2hhbm5lbCI6IldlYiIsImJlYWNvblZlcnNpb24iOjE2LCJjb25maWdWZXJzaW9uIjoiMzUiLCJjb250ZW50Wm9uZXMiOltdfSwidXNlciI6eyJhbm9ueW1vdXNJZCI6IjVkMDEwODY4N2ZlYjY5Y2QiLCJhdHRyaWJ1dGVzIjp7fX0sImludGVyYWN0aW9uIjp7Im5hbWUiOiJkZWZhdWx0In0sInBhZ2VWaWV3Ijp0cnVlLCJjb25zZW50cyI6W10sImFjY291bnQiOnt9LCJfdG9vbHNFdmVudExpbmtJZCI6IjI5MjM2MjY1NTU3MzE2ODU0IiwiZXhwbGFpbiI6dHJ1ZX0%3D",
+      "data": {
+        "id": "689d910bf59264125bc431be",
+        "campaignResponses": [],
+        "compiledCampaignTemplates": [],
+        "errorCode": 0,
+        "resolvedUserId": "5d0108687feb69cd"
+      }
+    }
+  ],
+  "errors": []
+}

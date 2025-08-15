@@ -1,0 +1,88 @@
+{
+  "scrape_date": "2025-08-11T05:55:39.442Z",
+  "device": "iOS",
+  "categories_processed": 0,
+  "total_campaigns": 0,
+  "duplicates_skipped": 0,
+  "campaigns": [],
+  "stats": {
+    "categoriesProcessed": 0,
+    "totalCampaigns": 0,
+    "duplicatesSkipped": 0,
+    "errors": [
+      {
+        "category": 285,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 286,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 287,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 288,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 289,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 290,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 291,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 292,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 293,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 294,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 295,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 296,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 297,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 298,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 299,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 300,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 301,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      },
+      {
+        "category": 302,
+        "error": "Navigation timeout of 45000 ms exceeded"
+      }
+    ],
+    "categoryBreakdown": {}
+  }
+}

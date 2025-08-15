@@ -1,0 +1,37 @@
+{
+  "scrape_date": "2025-08-11T11:23:35.216Z",
+  "device": "PC",
+  "category_id": 270,
+  "category_name": "PC限定案件（ブラウザゲーム）",
+  "ajax_requests": 7,
+  "total_campaigns": 1,
+  "duplicates_skipped": 3,
+  "campaigns": [
+    {
+      "id": "147452",
+      "title": "World of Warships（Windows PCのみ）",
+      "url": "https://pointi.jp/ad/147452/",
+      "points": "500円",
+      "category": "",
+      "conditions": "",
+      "device": "PC",
+      "category_id": 270,
+      "category_type": "pc_only",
+      "category_name": "PC限定案件（ブラウザゲーム）",
+      "source": "ajax_response",
+      "timestamp": "2025-08-11T11:23:16.086Z"
+    }
+  ],
+  "stats": {
+    "startTime": "2025-08-11T11:23:14.212Z",
+    "endTime": "2025-08-11T11:23:35.215Z",
+    "ajaxRequests": 7,
+    "duplicatesSkipped": 3
+  },
+  "notes": [
+    "PC環境専用案件（モバイル環境では表示されない）",
+    "AJAX応答のHTML解析により抽出",
+    "カテゴリ270: PC限定・ブラウザゲーム案件",
+    "box_ad_inner構造に基づく抽出ロジック"
+  ]
+}

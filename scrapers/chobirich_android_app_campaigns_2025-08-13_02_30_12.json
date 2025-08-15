@@ -1,0 +1,309 @@
+{
+  "scrapeDate": "2025-08-13T02:30:12.588Z",
+  "version": "mobile_app_scraper_v2.0.0",
+  "systemType": "mobile_app_final",
+  "os": "android",
+  "campaigns": [
+    {
+      "id": "1841763",
+      "title": "3Dマッチでポイ活！簡単パズルでお小遣い稼ぎゲーム",
+      "url": "https://www.chobirich.com/ad_details/1841763",
+      "points": "288pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.297Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839015",
+      "title": "Slot Mate - Vegas Slot Casino（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1839015",
+      "points": "75358pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1831509",
+      "title": "ハトジャンプ",
+      "url": "https://www.chobirich.com/ad_details/1831509",
+      "points": "237pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841900",
+      "title": "Pick Me Up! - Boat Jam Puzzle（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841900",
+      "points": "1334pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841899",
+      "title": "マフィア・シティ-極道風雲",
+      "url": "https://www.chobirich.com/ad_details/1841899",
+      "points": "48005pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841886",
+      "title": "トゥーンブラスト",
+      "url": "https://www.chobirich.com/ad_details/1841886",
+      "points": "3432pt",
+      "method": "レベル1000到達",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841882",
+      "title": "麻雀オネット：和風ソリティア（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841882",
+      "points": "1156pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841879",
+      "title": "Happy Color® – 数字で塗り絵と色ぬりえ",
+      "url": "https://www.chobirich.com/ad_details/1841879",
+      "points": "3276pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841878",
+      "title": "Triple card：Solitaire match",
+      "url": "https://www.chobirich.com/ad_details/1841878",
+      "points": "470pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841877",
+      "title": "ウッドパズル：Screw ネジ外すゲーム - 人気 脳トレ",
+      "url": "https://www.chobirich.com/ad_details/1841877",
+      "points": "646pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839709",
+      "title": "ステッカータウン",
+      "url": "https://www.chobirich.com/ad_details/1839709",
+      "points": "201pt",
+      "method": "新規アプリインストール後、ハードモード30ステージ「海水浴場」クリアで成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1837934",
+      "title": "戦国布武：我が天下戦国編（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1837934",
+      "points": "17740pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841774",
+      "title": "3Dマッチでポイ活！簡単パズルでお小遣い稼ぎゲーム（ステージ450クリア）（Android）",
+      "url": "https://www.chobirich.com/ad_details/1841774",
+      "points": "240pt",
+      "method": "ステージ450",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841773",
+      "title": "Knife Ninja",
+      "url": "https://www.chobirich.com/ad_details/1841773",
+      "points": "1247pt",
+      "method": "新規アプリインストール後、MegaOfferを30回コンプリートするで成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841772",
+      "title": "Rocket Now",
+      "url": "https://www.chobirich.com/ad_details/1841772",
+      "points": "831pt",
+      "method": "初回注文完了後、デリバリー完了で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841771",
+      "title": "8 Ball Pool",
+      "url": "https://www.chobirich.com/ad_details/1841771",
+      "points": "504pt",
+      "method": "新規アプリインストール後、レベル15到達",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.298Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841769",
+      "title": "信長の野望天下への道",
+      "url": "https://www.chobirich.com/ad_details/1841769",
+      "points": "10569pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841767",
+      "title": "大江戸ロマンス〜ようこそ利益至上主義の町へ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841767",
+      "points": "10500pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841765",
+      "title": "Coke ON（初回起動）（Android）",
+      "url": "https://www.chobirich.com/ad_details/1841765",
+      "points": "90pt",
+      "method": "新規アプリインストール後、初回起動",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841753",
+      "title": "たい焼きタイクーン",
+      "url": "https://www.chobirich.com/ad_details/1841753",
+      "points": "230pt",
+      "method": "新規アプリインストール後、ワールド4ステージ7到達で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841751",
+      "title": "Mirrativ",
+      "url": "https://www.chobirich.com/ad_details/1841751",
+      "points": "1425pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841750",
+      "title": "Zoo World（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1841750",
+      "points": "2460pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841738",
+      "title": "Tap Color Cube Away: 3D Puzzle",
+      "url": "https://www.chobirich.com/ad_details/1841738",
+      "points": "1025pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1841723",
+      "title": "Knife Ninja",
+      "url": "https://www.chobirich.com/ad_details/1841723",
+      "points": "2121pt",
+      "method": "新規アプリインストール後、各ステップクリア",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1839497",
+      "title": "ステッカータウン: シールパズル",
+      "url": "https://www.chobirich.com/ad_details/1839497",
+      "points": "254pt",
+      "method": "新規アプリインストール後、ハードモード30ステージ「海水浴場」クリア",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1824166",
+      "title": "LUCK ROCK（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1824166",
+      "points": "3900pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1820722",
+      "title": "アラクレ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1820722",
+      "points": "3720pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1817574",
+      "title": "クラウドキャッチャー（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1817574",
+      "points": "3900pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    },
+    {
+      "id": "1805190",
+      "title": "GiGO ONLINE CRANE ギゴクレ（アプリランド）",
+      "url": "https://www.chobirich.com/ad_details/1805190",
+      "points": "2760pt",
+      "method": "新規アプリインストール後、指定条件達成で成果",
+      "os": "android",
+      "scrapedAt": "2025-08-13T02:30:09.299Z",
+      "source": "mobile_app_scraper"
+    }
+  ],
+  "summary": {
+    "total": 29,
+    "os": "android",
+    "maxPages": 20,
+    "features": [
+      "User-Agent切替",
+      "1-5桁ポイント対応",
+      "太字タイトル取得",
+      "矢印表記対応"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scrapeDate": "2025-08-13T01:00:03.671Z",
+  "version": "mobile_app_scraper_v2.0.0",
+  "systemType": "mobile_app_final",
+  "os": "android",
+  "campaigns": [],
+  "summary": {
+    "total": 0,
+    "os": "android",
+    "maxPages": 20,
+    "features": [
+      "User-Agent切替",
+      "1-5桁ポイント対応",
+      "太字タイトル取得",
+      "矢印表記対応"
+    ]
+  }
+}

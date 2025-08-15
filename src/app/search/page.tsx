@@ -8,10 +8,12 @@ import { testSearchDataAccess } from '@/lib/testSearch';
 
 interface SearchResult {
   id: string;
-  siteName: string;
+  siteName?: string;
+  site?: string;
+  title?: string;
   cashback: string;
   cashbackYen?: string;
-  device: 'PC' | 'iOS' | 'Android' | 'All' | 'iOS/Android';
+  device: 'PC' | 'iOS' | 'Android' | 'All' | 'iOS/Android' | string;
   url: string;
   lastUpdated: string;
   description?: string;
@@ -273,7 +275,7 @@ function SearchContent() {
                                   rel="noopener noreferrer"
                                   className="text-xs sm:text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline transition-colors whitespace-nowrap overflow-hidden text-ellipsis block"
                                 >
-                                  {result.siteName}
+                                  {result.siteName || result.site || 'ポイントサイト'}
                                 </a>
                               </td>
                               <td className="px-2 sm:px-4 py-1 sm:py-2 w-16">
@@ -286,7 +288,7 @@ function SearchContent() {
                                   rel="noopener noreferrer"
                                   className="text-xs sm:text-sm text-gray-600 hover:text-blue-600 hover:underline transition-colors leading-tight"
                                 >
-                                  {result.displayName ? result.displayName.substring(0, 60) + (result.displayName.length > 60 ? '...' : '') : (result.description ? result.description.substring(0, 60) + (result.description.length > 60 ? '...' : '') : '案件詳細')}
+                                  {result.displayName || result.description || result.title || '案件詳細'}
                                 </a>
                               </td>
                               <td className="px-0.5 sm:px-4 py-1 sm:py-2 w-4 sm:w-20">

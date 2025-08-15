@@ -1,0 +1,1151 @@
+{
+  "scrapeDate": "2025-08-13T00:30:04.158Z",
+  "version": "extended_category_system_v1.0.0",
+  "systemType": "extended_category_page_only",
+  "specificationCompliance": true,
+  "targetCategoryTypes": [
+    "shopping",
+    "service"
+  ],
+  "campaigns": [
+    {
+      "id": "36796",
+      "title": "楽天市場",
+      "url": "https://www.chobirich.com/ad_details/36796/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.454Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "41250",
+      "title": "Yahoo!ショッピング",
+      "url": "https://www.chobirich.com/ad_details/41250/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.455Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "18999",
+      "title": "amazon（アマゾン）",
+      "url": "https://www.chobirich.com/ad_details/18999/",
+      "points": "",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.455Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1057461",
+      "title": "au PAY マーケット",
+      "url": "https://www.chobirich.com/ad_details/1057461/",
+      "points": "2.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.455Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "55744",
+      "title": "Qoo10",
+      "url": "https://www.chobirich.com/ad_details/55744/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.455Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "100057",
+      "title": "セブンネットショッピング",
+      "url": "https://www.chobirich.com/ad_details/100057/",
+      "points": "1.6％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.455Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "50400",
+      "title": "高島屋",
+      "url": "https://www.chobirich.com/ad_details/50400/",
+      "points": "2％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.455Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1529826",
+      "title": "タカシマヤファッションスクエア",
+      "url": "https://www.chobirich.com/ad_details/1529826/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.455Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "67032",
+      "title": "京王百貨店",
+      "url": "https://www.chobirich.com/ad_details/67032/",
+      "points": "1.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1154526",
+      "title": "大丸松坂屋オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/1154526/",
+      "points": "1.43%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "112424",
+      "title": "三越伊勢丹オンラインストア",
+      "url": "https://www.chobirich.com/ad_details/112424/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1029923",
+      "title": "ふるさと納税 ふるなび",
+      "url": "https://www.chobirich.com/ad_details/1029923/",
+      "points": "0.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "50845",
+      "title": "小田急オンラインショッピング",
+      "url": "https://www.chobirich.com/ad_details/50845/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1655378",
+      "title": "【さとふる】ふるさと納税サイト",
+      "url": "https://www.chobirich.com/ad_details/1655378/",
+      "points": "1.6％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1701350",
+      "title": "ANAのふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1701350/",
+      "points": "0.3％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1809942",
+      "title": "セゾンのふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1809942/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1758818",
+      "title": "マイナビふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1758818/",
+      "points": "3%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1696723",
+      "title": "ふるさと納税ニッポン",
+      "url": "https://www.chobirich.com/ad_details/1696723/",
+      "points": "0.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1729087",
+      "title": "ふるさと納税 ふるラボ",
+      "url": "https://www.chobirich.com/ad_details/1729087/",
+      "points": "0.8％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1813907",
+      "title": "マルイウェブチャネル",
+      "url": "https://www.chobirich.com/ad_details/1813907/",
+      "points": "0.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "32767",
+      "title": "e-CAPCOM（イーカプコン）",
+      "url": "https://www.chobirich.com/ad_details/32767/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1808125",
+      "title": "ホームセンター通販 DCMオンライン",
+      "url": "https://www.chobirich.com/ad_details/1808125/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1712114",
+      "title": "cui-cui",
+      "url": "https://www.chobirich.com/ad_details/1712114/",
+      "points": "5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1826880",
+      "title": "日本直販",
+      "url": "https://www.chobirich.com/ad_details/1826880/",
+      "points": "5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1708743",
+      "title": "ヨリヤス",
+      "url": "https://www.chobirich.com/ad_details/1708743/",
+      "points": "",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1704161",
+      "title": "浜名湖産直マーケット",
+      "url": "https://www.chobirich.com/ad_details/1704161/",
+      "points": "3%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1701509",
+      "title": "クラウドファンディング「READYFOR」",
+      "url": "https://www.chobirich.com/ad_details/1701509/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1693423",
+      "title": "タニタオンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1693423/",
+      "points": "2.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1809781",
+      "title": "メルカリ【購入】-アプリ",
+      "url": "https://www.chobirich.com/ad_details/1809781/",
+      "points": "0.1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1837161",
+      "title": "Wish(ウィッシュ)",
+      "url": "https://www.chobirich.com/ad_details/1837161/",
+      "points": "3％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:30.456Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1691835",
+      "title": "よろずやマルシェ本店",
+      "url": "https://www.chobirich.com/ad_details/1691835/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1688779",
+      "title": "建材通販【アウンワークス】",
+      "url": "https://www.chobirich.com/ad_details/1688779/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1682440",
+      "title": "HAPPY DOG・HAPPY CAT",
+      "url": "https://www.chobirich.com/ad_details/1682440/",
+      "points": "5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1679542",
+      "title": "ブレイズスマートEV",
+      "url": "https://www.chobirich.com/ad_details/1679542/",
+      "points": "2.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1679540",
+      "title": "オンリースタイルUPS搭載リチウム蓄電池セット",
+      "url": "https://www.chobirich.com/ad_details/1679540/",
+      "points": "2.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1791754",
+      "title": "【1回目利用の方】Green Beans（グリーンビーンズ）",
+      "url": "https://www.chobirich.com/ad_details/1791754/",
+      "points": "10%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1792167",
+      "title": "お取寄せ専門サイト【おとなの週末】",
+      "url": "https://www.chobirich.com/ad_details/1792167/",
+      "points": "2%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1791702",
+      "title": "食べチョクふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1791702/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1819679",
+      "title": "九州ふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1819679/",
+      "points": "2%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1784191",
+      "title": "JRE MALLふるさと納税",
+      "url": "https://www.chobirich.com/ad_details/1784191/",
+      "points": "0.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1780335",
+      "title": "ふるさとパレット",
+      "url": "https://www.chobirich.com/ad_details/1780335/",
+      "points": "0.7％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1776402",
+      "title": "AliExpress（アリエクスプレス）【その他カテゴリ専用】",
+      "url": "https://www.chobirich.com/ad_details/1776402/",
+      "points": "3.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1820115",
+      "title": "ココデカウ",
+      "url": "https://www.chobirich.com/ad_details/1820115/",
+      "points": "0.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1770503",
+      "title": "東武オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1770503/",
+      "points": "0.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1752831",
+      "title": "公式通販【ダイソーネットストア】",
+      "url": "https://www.chobirich.com/ad_details/1752831/",
+      "points": "3.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1696073",
+      "title": "ハーモニック",
+      "url": "https://www.chobirich.com/ad_details/1696073/",
+      "points": "2.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1397296",
+      "title": "サニーヘルスショッピング",
+      "url": "https://www.chobirich.com/ad_details/1397296/",
+      "points": "9.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1021914",
+      "title": "ロフトネットストア",
+      "url": "https://www.chobirich.com/ad_details/1021914/",
+      "points": "1.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "89854",
+      "title": "ヤマダモール",
+      "url": "https://www.chobirich.com/ad_details/89854/",
+      "points": "0.4％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "99315",
+      "title": "ココナラ",
+      "url": "https://www.chobirich.com/ad_details/99315/",
+      "points": "250pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1812731",
+      "title": "まいふる by AEON CARD",
+      "url": "https://www.chobirich.com/ad_details/1812731/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1603765",
+      "title": "日テレポシュレ",
+      "url": "https://www.chobirich.com/ad_details/1603765/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "100017",
+      "title": "ベルメゾンネット",
+      "url": "https://www.chobirich.com/ad_details/100017/",
+      "points": "0.8％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "100039",
+      "title": "セシール",
+      "url": "https://www.chobirich.com/ad_details/100039/",
+      "points": "1.8％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1050021",
+      "title": "ベルーナ（初回購入限定）",
+      "url": "https://www.chobirich.com/ad_details/1050021/",
+      "points": "1,400pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1061330",
+      "title": "ディノス オンラインショップ",
+      "url": "https://www.chobirich.com/ad_details/1061330/",
+      "points": "0.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1110351",
+      "title": "フェリシモ（FELISSIMO）",
+      "url": "https://www.chobirich.com/ad_details/1110351/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "57747",
+      "title": "フェリシモ（定期便）",
+      "url": "https://www.chobirich.com/ad_details/57747/",
+      "points": "1,000pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "56806",
+      "title": "ShopJapan（ショップジャパン）",
+      "url": "https://www.chobirich.com/ad_details/56806/",
+      "points": "8％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1602876",
+      "title": "ダイレクトテレショップ",
+      "url": "https://www.chobirich.com/ad_details/1602876/",
+      "points": "2.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:36.551Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "25657",
+      "title": "TBSショッピング",
+      "url": "https://www.chobirich.com/ad_details/25657/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:42.513Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "37031",
+      "title": "Ropping（ロッピング）",
+      "url": "https://www.chobirich.com/ad_details/37031/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:42.513Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "52923",
+      "title": "トーカ堂 テレビショッピング",
+      "url": "https://www.chobirich.com/ad_details/52923/",
+      "points": "1.4％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:42.513Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1021974",
+      "title": "快適生活オンライン",
+      "url": "https://www.chobirich.com/ad_details/1021974/",
+      "points": "2.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:42.514Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1053348",
+      "title": "LACOSTE （ラコステ）",
+      "url": "https://www.chobirich.com/ad_details/1053348/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:42.514Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "57209",
+      "title": "楽天トラベル（宿泊予約）",
+      "url": "https://www.chobirich.com/ad_details/57209/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.472Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "54288",
+      "title": "じゃらんnet",
+      "url": "https://www.chobirich.com/ad_details/54288/",
+      "points": "1.6％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "94141",
+      "title": "ホテルズドットコム（Hotels.com）",
+      "url": "https://www.chobirich.com/ad_details/94141/",
+      "points": "4％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1011176",
+      "title": "世界最大の宿泊予約サイト【Booking.com】",
+      "url": "https://www.chobirich.com/ad_details/1011176/",
+      "points": "3％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "113270",
+      "title": "じゃらんパック",
+      "url": "https://www.chobirich.com/ad_details/113270/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "71412",
+      "title": "エクスペディア【Expedia Japan】（宿泊予約）",
+      "url": "https://www.chobirich.com/ad_details/71412/",
+      "points": "5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1763102",
+      "title": "エクスペディア【Expedia Japan】（航空券購入）",
+      "url": "https://www.chobirich.com/ad_details/1763102/",
+      "points": "95pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1763103",
+      "title": "エクスペディア【Expedia Japan】（航空券＋宿泊予約）",
+      "url": "https://www.chobirich.com/ad_details/1763103/",
+      "points": "1.4％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1807856",
+      "title": "楽天トラベル（JR楽パック赤い風船）",
+      "url": "https://www.chobirich.com/ad_details/1807856/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1654620",
+      "title": "楽天トラベル（ANA楽パック・JAL楽パック）",
+      "url": "https://www.chobirich.com/ad_details/1654620/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1654621",
+      "title": "楽天トラベル（バス旅行）",
+      "url": "https://www.chobirich.com/ad_details/1654621/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "54015",
+      "title": "楽天トラベル（レンタカー）",
+      "url": "https://www.chobirich.com/ad_details/54015/",
+      "points": "2％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1768272",
+      "title": "楽天トラベル観光体験",
+      "url": "https://www.chobirich.com/ad_details/1768272/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1815441",
+      "title": "トリバゴ",
+      "url": "https://www.chobirich.com/ad_details/1815441/",
+      "points": "",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1017273",
+      "title": "じゃらん 遊び・体験予約",
+      "url": "https://www.chobirich.com/ad_details/1017273/",
+      "points": "1.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "114696",
+      "title": "じゃらんレンタカー",
+      "url": "https://www.chobirich.com/ad_details/114696/",
+      "points": "250pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "14493",
+      "title": "ニッポンレンタカー",
+      "url": "https://www.chobirich.com/ad_details/14493/",
+      "points": "440pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "24336",
+      "title": "ANAトラベラーズ",
+      "url": "https://www.chobirich.com/ad_details/24336/",
+      "points": "1,000pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "56609",
+      "title": "るるぶトラベル",
+      "url": "https://www.chobirich.com/ad_details/56609/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1015447",
+      "title": "びゅうトラベル（えきねっと JR東日本国内ツアー）",
+      "url": "https://www.chobirich.com/ad_details/1015447/",
+      "points": "3％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1182004",
+      "title": "格安航空券サイト　エアトリ【国内航空券予約】",
+      "url": "https://www.chobirich.com/ad_details/1182004/",
+      "points": "2,000pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1840459",
+      "title": "【イオンコンパストラベルモール】国内宿泊（宿・ホテル）",
+      "url": "https://www.chobirich.com/ad_details/1840459/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1840462",
+      "title": "【イオンコンパストラベルモール】全国レンタカー",
+      "url": "https://www.chobirich.com/ad_details/1840462/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "29318",
+      "title": "JAL 日本航空 国内線航空券",
+      "url": "https://www.chobirich.com/ad_details/29318/",
+      "points": "80pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1010088",
+      "title": "近畿日本ツーリスト（国内宿泊・ツアー）",
+      "url": "https://www.chobirich.com/ad_details/1010088/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "54229",
+      "title": "ジャルパック 国内ツアー",
+      "url": "https://www.chobirich.com/ad_details/54229/",
+      "points": "1.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "57752",
+      "title": "ジャルパック 海外ツアー",
+      "url": "https://www.chobirich.com/ad_details/57752/",
+      "points": "1.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1045501",
+      "title": "JAL 日本航空 国際線航空券",
+      "url": "https://www.chobirich.com/ad_details/1045501/",
+      "points": "0.25％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1068659",
+      "title": "国内外の旅行予約サイト「ホワイト・ベアーファミリー」",
+      "url": "https://www.chobirich.com/ad_details/1068659/",
+      "points": "1.3％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1830896",
+      "title": "Traveloka（旅行アクティビティ）",
+      "url": "https://www.chobirich.com/ad_details/1830896/",
+      "points": "5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:52.473Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1830895",
+      "title": "Traveloka（ホテル）",
+      "url": "https://www.chobirich.com/ad_details/1830895/",
+      "points": "6％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1830894",
+      "title": "Traveloka（国際線）",
+      "url": "https://www.chobirich.com/ad_details/1830894/",
+      "points": "0.5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1830893",
+      "title": "Traveloka（国内線）",
+      "url": "https://www.chobirich.com/ad_details/1830893/",
+      "points": "0.2％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1838903",
+      "title": "たびらいアクティビティ",
+      "url": "https://www.chobirich.com/ad_details/1838903/",
+      "points": "360pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1835975",
+      "title": "リゾートグランピングドットコム",
+      "url": "https://www.chobirich.com/ad_details/1835975/",
+      "points": "0.8％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "54240",
+      "title": "【JTB】海外旅行",
+      "url": "https://www.chobirich.com/ad_details/54240/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1828424",
+      "title": "NEWT（ニュート）",
+      "url": "https://www.chobirich.com/ad_details/1828424/",
+      "points": "2％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1154539",
+      "title": "ALL - Accor Live Limitless",
+      "url": "https://www.chobirich.com/ad_details/1154539/",
+      "points": "3％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1014257",
+      "title": "Solaseed Air（ソラシドエア）",
+      "url": "https://www.chobirich.com/ad_details/1014257/",
+      "points": "0.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "99521",
+      "title": "クラブツーリズム（バス旅行）",
+      "url": "https://www.chobirich.com/ad_details/99521/",
+      "points": "600pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "99520",
+      "title": "クラブツーリズム（国内旅行）",
+      "url": "https://www.chobirich.com/ad_details/99520/",
+      "points": "600pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1814583",
+      "title": "【東武トップツアーズ】国内ツアー・国内宿泊予約",
+      "url": "https://www.chobirich.com/ad_details/1814583/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1710250",
+      "title": "ティークエスト",
+      "url": "https://www.chobirich.com/ad_details/1710250/",
+      "points": "600pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1815174",
+      "title": "Trip.com（ホテル・宿）",
+      "url": "https://www.chobirich.com/ad_details/1815174/",
+      "points": "4％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "54243",
+      "title": "【JTB】国内宿泊予約・国内ツアー",
+      "url": "https://www.chobirich.com/ad_details/54243/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1815368",
+      "title": "Trip.com（航空券）",
+      "url": "https://www.chobirich.com/ad_details/1815368/",
+      "points": "0.8％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1815370",
+      "title": "Trip.com（航空券＋ホテル）",
+      "url": "https://www.chobirich.com/ad_details/1815370/",
+      "points": "1％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1829108",
+      "title": "Trip.com（遊び・体験）",
+      "url": "https://www.chobirich.com/ad_details/1829108/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1702279",
+      "title": "夜行バス・高速バスの予約サイト【バスブックマーク】",
+      "url": "https://www.chobirich.com/ad_details/1702279/",
+      "points": "1.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1827713",
+      "title": "高速バスドットコム",
+      "url": "https://www.chobirich.com/ad_details/1827713/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1693359",
+      "title": "羽田空港公式通販サイト",
+      "url": "https://www.chobirich.com/ad_details/1693359/",
+      "points": "5％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1689708",
+      "title": "ミルキーウェイエクスプレス",
+      "url": "https://www.chobirich.com/ad_details/1689708/",
+      "points": "2%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1825714",
+      "title": "Mochi Mochi Tour【国内航空券＋ホテル予約】",
+      "url": "https://www.chobirich.com/ad_details/1825714/",
+      "points": "0.5%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1688327",
+      "title": "ゆめやど",
+      "url": "https://www.chobirich.com/ad_details/1688327/",
+      "points": "6％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1686139",
+      "title": "JAMJAMライナー&JAMJAMツアー",
+      "url": "https://www.chobirich.com/ad_details/1686139/",
+      "points": "1.3％",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1682196",
+      "title": "全国フェリー予約【スカイチケットフェリー】",
+      "url": "https://www.chobirich.com/ad_details/1682196/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1680709",
+      "title": "高速バス・夜行バスの格安予約【バスのる】",
+      "url": "https://www.chobirich.com/ad_details/1680709/",
+      "points": "2.55%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "90009",
+      "title": "【ena（イーナ）】国内航空券予約",
+      "url": "https://www.chobirich.com/ad_details/90009/",
+      "points": "400pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1676791",
+      "title": "IHG ホテルズ＆リゾート",
+      "url": "https://www.chobirich.com/ad_details/1676791/",
+      "points": "1%",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    },
+    {
+      "id": "1678786",
+      "title": "【KiPuRu】全国の新幹線・特急券をネットで簡単予約",
+      "url": "https://www.chobirich.com/ad_details/1678786/",
+      "points": "400pt",
+      "categoryType": "shopping",
+      "scrapedAt": "2025-08-13T00:29:58.670Z",
+      "source": "extended_category_system"
+    }
+  ],
+  "summary": {
+    "total": 125,
+    "shopping": 125,
+    "service": 0,
+    "categories": 1,
+    "categoryList": [
+      null
+    ]
+  },
+  "performance": {
+    "avgCampaignsPerCategory": 125,
+    "successRate": "100%",
+    "errorRate": "0%"
+  }
+}

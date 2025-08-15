@@ -1,0 +1,23 @@
+{
+  "scrapeDate": "2025-08-13T00:46:44.462Z",
+  "version": "extended_category_system_v1.0.0",
+  "systemType": "extended_category_page_only",
+  "specificationCompliance": true,
+  "targetCategoryTypes": [
+    "shopping",
+    "service"
+  ],
+  "campaigns": [],
+  "summary": {
+    "total": 0,
+    "shopping": 0,
+    "service": 0,
+    "categories": 0,
+    "categoryList": []
+  },
+  "performance": {
+    "avgCampaignsPerCategory": null,
+    "successRate": "100%",
+    "errorRate": "0%"
+  }
+}

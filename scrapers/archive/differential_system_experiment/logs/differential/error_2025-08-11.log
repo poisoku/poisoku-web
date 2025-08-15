@@ -1,0 +1,5 @@
+{
+  "timestamp": "2025-08-11T05:18:48.481Z",
+  "error": "Script create_baseline.js failed with code 1",
+  "stack": "Error: Script create_baseline.js failed with code 1\n    at ChildProcess.<anonymous> (/Users/kn/poisoku-web/scrapers/archive/differential_system_experiment/run_differential.js:236:18)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)"
+}\n

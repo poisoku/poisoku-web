@@ -1,0 +1,14 @@
+{
+  "scrapeDate": "2025-08-14T07:16:03.131Z",
+  "version": "1.0.0",
+  "systemType": "moppy_basic_scraper",
+  "stats": {
+    "totalCampaigns": 0,
+    "totalCategories": 10,
+    "totalPages": 0,
+    "executionTime": 138,
+    "errors": 0
+  },
+  "campaigns": [],
+  "errors": []
+}

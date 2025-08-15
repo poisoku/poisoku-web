@@ -1,0 +1,12 @@
+{
+  "scrape_date": "2025-08-12T01:51:02.874Z",
+  "total_campaigns": 0,
+  "duplicates_skipped": 0,
+  "ajax_requests": 5,
+  "retry_stats": {
+    "totalFailedCategories": 0,
+    "globalRetryCount": 0,
+    "failedCategoriesDetail": {}
+  },
+  "campaigns": []
+}

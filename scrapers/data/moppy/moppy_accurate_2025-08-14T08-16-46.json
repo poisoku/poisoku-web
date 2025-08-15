@@ -1,0 +1,29 @@
+{
+  "scrapeDate": "2025-08-14T08:16:46.855Z",
+  "version": "4.0.0",
+  "systemType": "moppy_accurate_scraper",
+  "description": "メインコンテンツエリア限定の正確な案件抽出",
+  "stats": {
+    "totalCampaigns": 0,
+    "campaignsWithPoints": 0,
+    "pointDetectionRate": null,
+    "totalCategories": 0,
+    "executionTime": 57,
+    "errors": 3
+  },
+  "campaigns": [],
+  "errors": [
+    {
+      "category": "総合通販",
+      "error": "this.extractPointsFromContainer is not a function\npptr:evaluate;MoppyAccurateScraper.extractMainContentCampaigns%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyAccurateScraper.js%3A178%3A23):92:40\nNodeList.forEach (<anonymous>)\npptr:evaluate;MoppyAccurateScraper.extractMainContentCampaigns%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyAccurateScraper.js%3A178%3A23):43:17"
+    },
+    {
+      "category": "金融・投資",
+      "error": "this.extractPointsFromContainer is not a function\npptr:evaluate;MoppyAccurateScraper.extractMainContentCampaigns%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyAccurateScraper.js%3A178%3A23):92:40\nNodeList.forEach (<anonymous>)\npptr:evaluate;MoppyAccurateScraper.extractMainContentCampaigns%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyAccurateScraper.js%3A178%3A23):43:17"
+    },
+    {
+      "category": "ファッション",
+      "error": "this.extractPointsFromContainer is not a function\npptr:evaluate;MoppyAccurateScraper.extractMainContentCampaigns%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyAccurateScraper.js%3A178%3A23):92:40\nNodeList.forEach (<anonymous>)\npptr:evaluate;MoppyAccurateScraper.extractMainContentCampaigns%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyAccurateScraper.js%3A178%3A23):43:17"
+    }
+  ]
+}

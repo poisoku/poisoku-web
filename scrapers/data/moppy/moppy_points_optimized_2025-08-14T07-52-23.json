@@ -1,0 +1,28 @@
+{
+  "scrapeDate": "2025-08-14T07:52:23.822Z",
+  "version": "3.0.0",
+  "systemType": "moppy_points_optimizer",
+  "stats": {
+    "totalCampaigns": 0,
+    "campaignsWithPoints": 0,
+    "pointDetectionRate": null,
+    "totalCategories": 0,
+    "executionTime": 59,
+    "errors": 3
+  },
+  "campaigns": [],
+  "errors": [
+    {
+      "category": "総合通販",
+      "error": "this.detectPointsAdvanced is not a function\npptr:evaluate;MoppyPointsOptimizer.extractWithAdvancedPointDetection%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyPointsOptimizer.js%3A170%3A23):57:32"
+    },
+    {
+      "category": "金融・投資",
+      "error": "this.detectPointsAdvanced is not a function\npptr:evaluate;MoppyPointsOptimizer.extractWithAdvancedPointDetection%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyPointsOptimizer.js%3A170%3A23):57:32"
+    },
+    {
+      "category": "ファッション",
+      "error": "this.detectPointsAdvanced is not a function\npptr:evaluate;MoppyPointsOptimizer.extractWithAdvancedPointDetection%20(%2FUsers%2Fkn%2Fpoisoku-web%2Fscrapers%2Fsrc%2Fsites%2Fmoppy%2FMoppyPointsOptimizer.js%3A170%3A23):57:32"
+    }
+  ]
+}

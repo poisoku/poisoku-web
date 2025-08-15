@@ -29,9 +29,3 @@
 
 ## 注意
 各案件URLには、例えば、<https://www.chobirich.com/shopping/shop/101> の場合、<https://www.chobirich.com/shopping/shop/101?page=2>、<https://www.chobirich.com/shopping/shop/101?page=3> のように、2ページ目以降が存在するため、ページがなくなるまで順番にページを確認する必要がある。
-
-## 案件データを取得すべきページURLのサンプル
-- https://www.chobirich.com/ad_details/1835496
-- https://www.chobirich.com/ad_details/36796/
-- https://www.chobirich.com/ad_details/1749636/
-- https://www.chobirich.com/ad_details/1695441/

@@ -1,112 +1,95 @@
 # ポイントインカム スクレイピングシステム
 
-## 概要
-ポイントインカムの全83カテゴリ（ショッピング51 + サービス32）から案件情報を自動取得するシステムです。モバイル版の無限スクロールを使用して、2ページ目以降の案件も確実に取得します。
+## 📋 システム概要
 
-## 主要ファイル
+ポイントインカムの案件データを自動取得するスクレイピングシステム群です。
 
-### 本番用（推奨）
-- `PointIncomeOptimized.js` - 最適化版スクレイパー（コード量40%削減、保守性向上）
+## 🚀 現在の運用システム
 
-### その他のファイル
-- `PointIncomeMobileComplete.js` - 初期完成版（動作実績あり）
-- `PointIncomeMobileInfiniteScroll.js` - 開発版
+### 1. スマホアプリ案件スクレイパー（最適化版）
+- **ファイル**: `PointIncomeAppScraper.js`
+- **エントリーポイント**: `main_pointincome_app.js`
+- **特徴**:
+  - iOS環境のみで全案件取得（実行時間50%短縮）
+  - タイトルベースの自動デバイス分類
+  - AJAX手法による完全データ取得
+  - 実行時間: 約4分
+  - 取得件数: 約340件 → 370件（iOS/Android別出力）
 
-## 実績データ
-- **取得案件数**: 2,600-2,700件
-- **実行時間**: 約35-40分
-- **エラー率**: 2-3%（許容範囲内）
-- **成功事例**: 「いぬのきもち・ねこのきもち」案件（ID: 12069）の取得に成功
-
-## 使用方法
-
-### 1. 単体実行
+**実行方法**:
 ```bash
-cd scrapers/src/sites/pointincome
-node PointIncomeOptimized.js
+node main_pointincome_app.js
 ```
 
-### 2. バックグラウンド実行（推奨）
+### 2. Web案件スクレイパー
+- **ファイル**: `PointIncomeWebScraperFinal.js`
+- **対象**: Web案件（82カテゴリ）
+- **特徴**: 確実に1ページ目取得 + 可能な範囲で複数ページ対応
+
+**実行方法**:
 ```bash
-# スクリプトを使用
-cd /Users/kn/poisoku-web
-./scripts/run-pointincome-scraping.sh
+node PointIncomeWebScraperFinal.js
 ```
 
-### 3. 実行後の統合
+### 3. PC限定案件スクレイパー
+- **ファイル**: `PointIncomePCOnlyScraper.js`
+- **対象**: PC限定案件（ブラウザゲーム等）
+- **特徴**: カテゴリ270専用・AJAX対応
+
+**実行方法**:
 ```bash
-# データ統合スクリプト
-node scripts/integrate-pointincome-full-data.js
+node PointIncomePCOnlyScraper.js
 ```
 
-## 技術仕様
+## 📁 ディレクトリ構成
 
-### モバイル版無限スクロール
-- User-Agent: iOS Safari
-- スクロール待機時間: 2.5秒
-- 最大スクロール回数: 30回/カテゴリ
-- ブラウザ再起動: 15カテゴリごと
-
-### カテゴリ一覧
-```javascript
-// ショッピングカテゴリ（51個）
-shopping: [
-  66, 161, 160, 229, 244, 245, 246, 177, 179, 247, 178, 248, 249, 262, 250,
-  251, 184, 185, 263, 252, 264, 265, 183, 253, 169, 166, 168, 167, 255, 256,
-  261, 254, 171, 162, 163, 164, 173, 174, 175, 176, 230, 225, 195, 257, 258,
-  194, 196, 193, 259, 260, 180
-]
-
-// サービスカテゴリ（32個）
-service: [
-  69, 70, 75, 281, 73, 74, 276, 78, 235, 79, 240, 72, 76, 81, 274, 237,
-  209, 271, 232, 269, 234, 238, 280, 272, 278, 277, 283, 279, 77, 236, 270, 82
-]
+```
+/pointincome/
+├── README.md                           # このファイル
+├── PointIncomeAppScraper.js           # スマホアプリ案件スクレイパー（メイン）
+├── PointIncomeOptimizedAppScraper.js  # 最適化版オリジナル
+├── PointIncomeWebScraperFinal.js      # Web案件スクレイパー
+├── PointIncomePCOnlyScraper.js        # PC限定案件スクレイパー
+├── main_pointincome_app.js            # アプリ案件エントリーポイント
+├── PointIncomeScrapingConfig.js       # 設定管理
+├── PointIncomeRetryManager.js         # リトライ機能
+└── archive/                            # アーカイブディレクトリ
+    ├── deprecated_20250812/            # 廃止された旧システム
+    └── investigation_files/            # 調査・テスト用ファイル
 ```
 
-## 出力ファイル形式
+## 🔄 更新履歴
+
+- **2025-08-12**: スマホアプリ案件スクレイパーを最適化版に更新
+  - 実行時間を50%短縮（約7.5分→約4分）
+  - iOS環境のみで全案件取得
+  - タイトルベースのデバイス分類機能追加
+  - 旧システムをアーカイブに移動
+
+## 📊 出力データ形式
+
+### スマホアプリ案件
 ```json
 {
-  "scrape_date": "2025-08-10T08:44:40.248Z",
-  "version": "mobile_optimized_v1",
-  "stats": {
-    "categoriesProcessed": 83,
-    "totalScrolls": 459,
-    "totalPages": 377,
-    "duplicatesSkipped": 734,
-    "errors": [],
-    "highVolumeCategories": 25
-  },
-  "total_campaigns": 2667,
-  "campaigns": [
-    {
-      "id": "12069",
-      "title": "いぬのきもち・ねこのきもち",
-      "url": "https://pointi.jp/ad/12069/",
-      "points": "180円",
-      "device": "すべて",
-      "category_id": 258,
-      "category_type": "shopping",
-      "timestamp": "2025-08-10T08:30:15.123Z"
-    }
-  ]
+  "id": "campaign_id",
+  "title": "アプリ名",
+  "url": "https://sp.pointi.jp/...",
+  "points": "100pt",
+  "category": "ゲーム",
+  "device": "iOS",
+  "deviceClassification": "ios_only",
+  "scrapedAt": "2025-08-12T06:26:00.000Z"
 }
 ```
 
-## メンテナンス
+### 出力ファイル
+- `pointincome_ios_optimized_[timestamp].json` - iOS案件
+- `pointincome_android_optimized_[timestamp].json` - Android案件
+- `pointincome_optimized_combined_[timestamp].json` - 統合版
+- `pointincome_raw_data_[timestamp].json` - 生データ（デバッグ用）
 
-### カテゴリ追加
-`PointIncomeOptimized.js`の`categories`プロパティに番号を追加するだけ：
-```javascript
-shopping: [66, 161, ..., 999] // 新カテゴリ999を追加
-```
+## ⚠️ 注意事項
 
-### エラー対処
-- タイムアウトエラーは自動リトライ（2回まで）
-- ブラウザ接続エラーは自動再起動で対処
-- エラー率2-3%は正常範囲
-
-## 注意事項
-- 実行時は約40分かかるため、バックグラウンド実行推奨
-- 定期実行の場合は間隔を空ける（サーバー負荷軽減）
-- 取得データは`/scrapers/data/pointincome/`に保存される
+- 過度なアクセスを避けるため、実行間隔を適切に設定してください
+- スクレイピング実行時はネットワーク環境を確認してください
+- データ取得後は必ず件数と内容を確認してください

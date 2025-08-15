@@ -1,0 +1,2980 @@
+{
+  "scrape_date": "2025-08-12T01:32:44.155Z",
+  "total_campaigns": 296,
+  "ios_campaigns": 148,
+  "android_campaigns": 148,
+  "retry_stats": {
+    "ios": {
+      "totalFailedCategories": 0,
+      "globalRetryCount": 0,
+      "failedCategoriesDetail": {}
+    },
+    "android": {
+      "totalFailedCategories": 0,
+      "globalRetryCount": 0,
+      "failedCategoriesDetail": {}
+    }
+  },
+  "campaigns": [
+    {
+      "id": "152933",
+      "title": "Backpack Rush: Bag Merge（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152933/",
+      "points": "350円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153717",
+      "title": "Color Water Sort puzzle:色分けゲーム（Android）",
+      "url": "https://sp.pointi.jp/ad/153717/",
+      "points": "520円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153679",
+      "title": "Color Bolts Sort Puzzle（Android用）【8/12までの高還元!!】",
+      "url": "https://sp.pointi.jp/ad/153679/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153678",
+      "title": "Color Bolts Sort Puzzle（iOS用）【8/12までの高還元!!】",
+      "url": "https://sp.pointi.jp/ad/153678/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153692",
+      "title": "Domino Dreams (iOS)",
+      "url": "https://sp.pointi.jp/ad/153692/",
+      "points": "700円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153691",
+      "title": "Domino Dreams (Android)",
+      "url": "https://sp.pointi.jp/ad/153691/",
+      "points": "530円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153334",
+      "title": "Merge Inn - マージイン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153334/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153335",
+      "title": "Merge Inn - マージイン（Android用）",
+      "url": "https://sp.pointi.jp/ad/153335/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153675",
+      "title": "マージサバイバル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153675/",
+      "points": "150円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153673",
+      "title": "Alice's Dream ：かわいいマージゲーム【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153673/",
+      "points": "5,815円",
+      "device": "IOS",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:17:19.705Z"
+    },
+    {
+      "id": "153695",
+      "title": "Drop Master!(ドロップマスター)iOS用",
+      "url": "https://sp.pointi.jp/ad/153695/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "150617",
+      "title": "サメサメ進化論（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150617/",
+      "points": "400円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "150618",
+      "title": "サメサメ進化論（Android用）",
+      "url": "https://sp.pointi.jp/ad/150618/",
+      "points": "400円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153302",
+      "title": "ほんわかバトルオペレーション（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153302/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153303",
+      "title": "達人の間合い（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153303/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153570",
+      "title": "ヘリでイノシシ狩り - Heli Hog Hunt（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153570/",
+      "points": "80円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153571",
+      "title": "ヘリでイノシシ狩り - Heli Hog Hunt（Android用）",
+      "url": "https://sp.pointi.jp/ad/153571/",
+      "points": "80円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153525",
+      "title": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153525/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153300",
+      "title": "マスクハガシタインジャー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153300/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153511",
+      "title": "スライディングヒーロー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153511/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:17:46.232Z"
+    },
+    {
+      "id": "153633",
+      "title": "簡単アイテム探し：探索者の記録/Seekers Notes（Android）",
+      "url": "https://sp.pointi.jp/ad/153633/",
+      "points": "12,200円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:18:12.722Z"
+    },
+    {
+      "id": "151773",
+      "title": "仕事サボる！ -暇つぶし 簡単謎解き脱出ゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151773/",
+      "points": "60円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:18:12.723Z"
+    },
+    {
+      "id": "149864",
+      "title": "学校サボる! - 脱出ゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/149864/",
+      "points": "60円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:18:12.723Z"
+    },
+    {
+      "id": "146011",
+      "title": "勇者「入部させてください…」（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146011/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:18:12.723Z"
+    },
+    {
+      "id": "149940",
+      "title": "エバーテイル（Android用）",
+      "url": "https://sp.pointi.jp/ad/149940/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.431Z"
+    },
+    {
+      "id": "149938",
+      "title": "エバーテイル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/149938/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "149650",
+      "title": "ゾンビ・パニック【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/149650/",
+      "points": "3,503円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "150220",
+      "title": "ゾンビ・パニック【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/150220/",
+      "points": "3,503円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "153162",
+      "title": "RAID（レイド）: Shadow Legends（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153162/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "152928",
+      "title": "喧嘩の花道(Android用)",
+      "url": "https://sp.pointi.jp/ad/152928/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "152927",
+      "title": "喧嘩の花道(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152927/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "149927",
+      "title": "東京ディバンカー(Android用)",
+      "url": "https://sp.pointi.jp/ad/149927/",
+      "points": "150円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "149911",
+      "title": "東京ディバンカー(iOS用)",
+      "url": "https://sp.pointi.jp/ad/149911/",
+      "points": "150円",
+      "device": "IOS",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:18:40.432Z"
+    },
+    {
+      "id": "153586",
+      "title": "三国志:戦乱【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153586/",
+      "points": "2,608円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.972Z"
+    },
+    {
+      "id": "153585",
+      "title": "三国志:戦乱【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153585/",
+      "points": "2,608円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.972Z"
+    },
+    {
+      "id": "153656",
+      "title": "マフィア・シティ-極道風雲（Android用）",
+      "url": "https://sp.pointi.jp/ad/153656/",
+      "points": "7,000円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.972Z"
+    },
+    {
+      "id": "153655",
+      "title": "マフィア・シティ-極道風雲（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153655/",
+      "points": "7,000円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.972Z"
+    },
+    {
+      "id": "152400",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152400/",
+      "points": "8,181円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.973Z"
+    },
+    {
+      "id": "152401",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152401/",
+      "points": "8,181円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.973Z"
+    },
+    {
+      "id": "153363",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153363/",
+      "points": "5,427円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.973Z"
+    },
+    {
+      "id": "153364",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153364/",
+      "points": "5,427円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.973Z"
+    },
+    {
+      "id": "141430",
+      "title": "三國志 真戦（勢力15,000到達/Android用）",
+      "url": "https://sp.pointi.jp/ad/141430/",
+      "points": "3,000円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.973Z"
+    },
+    {
+      "id": "141429",
+      "title": "三國志 真戦（勢力15,000到達/iOS用）",
+      "url": "https://sp.pointi.jp/ad/141429/",
+      "points": "3,000円",
+      "device": "IOS",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:19:06.973Z"
+    },
+    {
+      "id": "151387",
+      "title": "ファミリーファームの冒険【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/151387/",
+      "points": "1,620円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.489Z"
+    },
+    {
+      "id": "151389",
+      "title": "ファミリーファームの冒険【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/151389/",
+      "points": "1,620円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.489Z"
+    },
+    {
+      "id": "153421",
+      "title": "恋するコーデ ペアリウム【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153421/",
+      "points": "5,670円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153422",
+      "title": "恋するコーデ ペアリウム【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153422/",
+      "points": "5,670円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153651",
+      "title": "たい焼きタイクーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153651/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153653",
+      "title": "たい焼きタイクーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/153653/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153598",
+      "title": "ブルブル三国（Android用）",
+      "url": "https://sp.pointi.jp/ad/153598/",
+      "points": "1,350円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153597",
+      "title": "ブルブル三国（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153597/",
+      "points": "1,350円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153127",
+      "title": "ターミナルマスター - Terminal Master（Android用）",
+      "url": "https://sp.pointi.jp/ad/153127/",
+      "points": "50円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153179",
+      "title": "ねこのカフェ: てんさいねこシェフ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153179/",
+      "points": "150円",
+      "device": "IOS",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:19:33.490Z"
+    },
+    {
+      "id": "153716",
+      "title": "8 Ball Pool（Android用）",
+      "url": "https://sp.pointi.jp/ad/153716/",
+      "points": "250円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.882Z"
+    },
+    {
+      "id": "153715",
+      "title": "8 Ball Pool（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153715/",
+      "points": "250円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "153301",
+      "title": "ドンピシャスイング（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153301/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "147688",
+      "title": "パワフルベースボール（iOS用）",
+      "url": "https://sp.pointi.jp/ad/147688/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "152308",
+      "title": "TIPSTAR - ティップスター（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152308/",
+      "points": "700円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "152309",
+      "title": "TIPSTAR - ティップスター（Android用）",
+      "url": "https://sp.pointi.jp/ad/152309/",
+      "points": "700円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "151431",
+      "title": "ダウンヒルレーサー - Downhill Racer（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151431/",
+      "points": "50円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "151432",
+      "title": "ダウンヒルレーサー - Downhill Racer（Android用）",
+      "url": "https://sp.pointi.jp/ad/151432/",
+      "points": "50円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "150828",
+      "title": "実質無料で投票可能！WINTICKET（Android用）",
+      "url": "https://sp.pointi.jp/ad/150828/",
+      "points": "1,046円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "148677",
+      "title": "実質無料で投票可能！WINTICKET（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148677/",
+      "points": "637円",
+      "device": "IOS",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:20:00.883Z"
+    },
+    {
+      "id": "153706",
+      "title": "ブラックスター -Theater Starless-（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153706/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 292,
+      "category_name": "アプリカテゴリ292",
+      "timestamp": "2025-08-12T01:20:27.345Z"
+    },
+    {
+      "id": "153707",
+      "title": "ブラックスター -Theater Starless-（Android用）",
+      "url": "https://sp.pointi.jp/ad/153707/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 292,
+      "category_name": "アプリカテゴリ292",
+      "timestamp": "2025-08-12T01:20:27.345Z"
+    },
+    {
+      "id": "153228",
+      "title": "MONOPOLY GO!（モントリオールをクリア/iOS用）",
+      "url": "https://sp.pointi.jp/ad/153228/",
+      "points": "800円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "153229",
+      "title": "MONOPOLY GO!（モントリオールをクリア/Android用）",
+      "url": "https://sp.pointi.jp/ad/153229/",
+      "points": "1,000円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "150652",
+      "title": "ピラミッドソリティア（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150652/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "153680",
+      "title": "Hit＆Blowオンライン（ヒットアンドブロー）iOS用",
+      "url": "https://sp.pointi.jp/ad/153680/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "153085",
+      "title": "Solitaire Deluxe® 2（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153085/",
+      "points": "650円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "153245",
+      "title": "MONOPOLY GO!（モントリオールをクリア＋初回課金）",
+      "url": "https://sp.pointi.jp/ad/153245/",
+      "points": "1,300円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "153039",
+      "title": "HighRoller Vegas（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153039/",
+      "points": "450円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "143414",
+      "title": "百鍛将棋（Android用）",
+      "url": "https://sp.pointi.jp/ad/143414/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "151843",
+      "title": "Bingo ジャーニー（Android用）",
+      "url": "https://sp.pointi.jp/ad/151843/",
+      "points": "654円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "145996",
+      "title": "ミリオン コインX（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145996/",
+      "points": "120円",
+      "device": "IOS",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:20:53.865Z"
+    },
+    {
+      "id": "148800",
+      "title": "タイトーオンラインクレーン　初回課金（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148800/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "148801",
+      "title": "タイトーオンラインクレーン　初回課金（Android用）",
+      "url": "https://sp.pointi.jp/ad/148801/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "147619",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/147619/",
+      "points": "250円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "147583",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/147583/",
+      "points": "250円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "146816",
+      "title": "カプとれ<初回課金>（Android用）",
+      "url": "https://sp.pointi.jp/ad/146816/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "146815",
+      "title": "カプとれ<初回課金>（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146815/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "145720",
+      "title": "アラクレ - オンラインクレーンゲーム（Android用）",
+      "url": "https://sp.pointi.jp/ad/145720/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "145496",
+      "title": "アラクレ - オンラインクレーンゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145496/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "151457",
+      "title": "モーリーオンライン（Android用）",
+      "url": "https://sp.pointi.jp/ad/151457/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "151456",
+      "title": "モーリーオンライン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151456/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:21:21.422Z"
+    },
+    {
+      "id": "145528",
+      "title": "派遣モンスター（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145528/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "146163",
+      "title": "派遣モンスター（Android用）",
+      "url": "https://sp.pointi.jp/ad/146163/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "152531",
+      "title": "出荷ぶた -冬ver-【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152531/",
+      "points": "12,303円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "152533",
+      "title": "出荷ぶた -冬ver-【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152533/",
+      "points": "12,303円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "149740",
+      "title": "プリケツにゃー【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/149740/",
+      "points": "1,935円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "149741",
+      "title": "プリケツにゃー【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/149741/",
+      "points": "1,935円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "148916",
+      "title": "さる山温泉旅館（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148916/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "148917",
+      "title": "さる山温泉旅館（Android用）",
+      "url": "https://sp.pointi.jp/ad/148917/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "148103",
+      "title": "ハチミツコレクション（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148103/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "148104",
+      "title": "ハチミツコレクション（Android用）",
+      "url": "https://sp.pointi.jp/ad/148104/",
+      "points": "180円",
+      "device": "IOS",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:21:47.905Z"
+    },
+    {
+      "id": "148890",
+      "title": "Lemon8【マルチステージアプリ/女性限定/iOS用】",
+      "url": "https://sp.pointi.jp/ad/148890/",
+      "points": "600円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "152190",
+      "title": "Pococha - ポコチャ(Android用)",
+      "url": "https://sp.pointi.jp/ad/152190/",
+      "points": "900円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "152069",
+      "title": "TikTok Lite【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152069/",
+      "points": "729円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "153469",
+      "title": "IRIAM - イリアム(Android用)",
+      "url": "https://sp.pointi.jp/ad/153469/",
+      "points": "450円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "150700",
+      "title": "ミクチャ(Android用)",
+      "url": "https://sp.pointi.jp/ad/150700/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "150701",
+      "title": "ミクチャ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/150701/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "153608",
+      "title": "ColorSing - カラーシング(Android用)",
+      "url": "https://sp.pointi.jp/ad/153608/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "153607",
+      "title": "ColorSing - カラーシング(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153607/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "153555",
+      "title": "マリッシュ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153555/",
+      "points": "120円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "153554",
+      "title": "マリッシュ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153554/",
+      "points": "120円",
+      "device": "IOS",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:22:14.401Z"
+    },
+    {
+      "id": "153005",
+      "title": "楽天ラクマ（Rakuma）",
+      "url": "https://sp.pointi.jp/ad/153005/",
+      "points": "330円",
+      "device": "IOS",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:22:41.756Z"
+    },
+    {
+      "id": "152504",
+      "title": "無料でショッピング！黒字還元！TAO - タオ",
+      "url": "https://sp.pointi.jp/ad/152504/",
+      "points": "5,500円",
+      "device": "IOS",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:22:41.757Z"
+    },
+    {
+      "id": "153373",
+      "title": "メルカリ　無料会員登録(Android用)",
+      "url": "https://sp.pointi.jp/ad/153373/",
+      "points": "200円",
+      "device": "IOS",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:22:41.757Z"
+    },
+    {
+      "id": "153372",
+      "title": "メルカリ 無料会員登録(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153372/",
+      "points": "200円",
+      "device": "IOS",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:22:41.757Z"
+    },
+    {
+      "id": "153647",
+      "title": "フリくじ （無料会員登録）",
+      "url": "https://sp.pointi.jp/ad/153647/",
+      "points": "30円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "132777",
+      "title": "Pontaアプリ（Android用）",
+      "url": "https://sp.pointi.jp/ad/132777/",
+      "points": "50円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "132776",
+      "title": "Pontaアプリ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/132776/",
+      "points": "50円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "153237",
+      "title": "Roamless_sim起動",
+      "url": "https://sp.pointi.jp/ad/153237/",
+      "points": "175円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "152628",
+      "title": "シェアフル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152628/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "152629",
+      "title": "シェアフル（Android用）",
+      "url": "https://sp.pointi.jp/ad/152629/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "144898",
+      "title": "クラシル（お試し無料会員登録/Andoid用）",
+      "url": "https://sp.pointi.jp/ad/144898/",
+      "points": "100円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "153446",
+      "title": "ペアケア（Android用）",
+      "url": "https://sp.pointi.jp/ad/153446/",
+      "points": "170円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "153445",
+      "title": "ペアケア（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153445/",
+      "points": "170円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "153020",
+      "title": "majica - 電子マネー公式アプリ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153020/",
+      "points": "80円",
+      "device": "IOS",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:23:08.300Z"
+    },
+    {
+      "id": "153389",
+      "title": "ピッコマ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153389/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:23:35.349Z"
+    },
+    {
+      "id": "153390",
+      "title": "ピッコマ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153390/",
+      "points": "300円",
+      "device": "IOS",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:23:35.349Z"
+    },
+    {
+      "id": "136906",
+      "title": "ガンガンONLINE（iOS用）",
+      "url": "https://sp.pointi.jp/ad/136906/",
+      "points": "45円",
+      "device": "IOS",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:23:35.349Z"
+    },
+    {
+      "id": "152351",
+      "title": "マンガワン(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152351/",
+      "points": "70円",
+      "device": "IOS",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:23:35.349Z"
+    },
+    {
+      "id": "152352",
+      "title": "マンガワン(Android用)",
+      "url": "https://sp.pointi.jp/ad/152352/",
+      "points": "70円",
+      "device": "IOS",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:23:35.349Z"
+    },
+    {
+      "id": "146010",
+      "title": "Apple Music -アップルミュージック（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146010/",
+      "points": "400円",
+      "device": "IOS",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:23:35.349Z"
+    },
+    {
+      "id": "152189",
+      "title": "Pococha - ポコチャ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152189/",
+      "points": "900円",
+      "device": "IOS",
+      "category_id": 300,
+      "category_name": "アプリカテゴリ300",
+      "timestamp": "2025-08-12T01:24:02.630Z"
+    },
+    {
+      "id": "153384",
+      "title": "ahame - アハミー(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153384/",
+      "points": "45円",
+      "device": "IOS",
+      "category_id": 300,
+      "category_name": "アプリカテゴリ300",
+      "timestamp": "2025-08-12T01:24:02.630Z"
+    },
+    {
+      "id": "153383",
+      "title": "ahame - アハミー(Android用)",
+      "url": "https://sp.pointi.jp/ad/153383/",
+      "points": "45円",
+      "device": "IOS",
+      "category_id": 300,
+      "category_name": "アプリカテゴリ300",
+      "timestamp": "2025-08-12T01:24:02.630Z"
+    },
+    {
+      "id": "153285",
+      "title": "【最大4,500円相当】NEOBANK 住信SBIネット銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/153285/",
+      "points": "1,500円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "152130",
+      "title": "即pt！最短3分！【三井住友銀行口座お持ちの方専用】Olive口座切替",
+      "url": "https://sp.pointi.jp/ad/152130/",
+      "points": "1,000円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "153429",
+      "title": "TRUSTDOCK(トラストドック)",
+      "url": "https://sp.pointi.jp/ad/153429/",
+      "points": "150円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "151575",
+      "title": "バンドルカード（Android用）",
+      "url": "https://sp.pointi.jp/ad/151575/",
+      "points": "600円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "151576",
+      "title": "バンドルカード（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151576/",
+      "points": "600円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "151741",
+      "title": "みんなの銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/151741/",
+      "points": "1,500円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "151522",
+      "title": "STOCKPOINT for MUFG（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151522/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "151523",
+      "title": "STOCKPOINT for MUFG（Android用）",
+      "url": "https://sp.pointi.jp/ad/151523/",
+      "points": "1,200円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "152171",
+      "title": "銀行公式アプリ　Wallet+（ウォレットプラス）",
+      "url": "https://sp.pointi.jp/ad/152171/",
+      "points": "350円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "152106",
+      "title": "Habitto（ハビット）",
+      "url": "https://sp.pointi.jp/ad/152106/",
+      "points": "1,500円",
+      "device": "IOS",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:24:29.081Z"
+    },
+    {
+      "id": "153544",
+      "title": "ヨヤクスリ 無料会員登録",
+      "url": "https://sp.pointi.jp/ad/153544/",
+      "points": "80円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "153690",
+      "title": "蒼雷の対話者　BLUE THUNDER DIPLOMAT　（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153690/",
+      "points": "30円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "153669",
+      "title": "Rocket Now（ロケットナウ）Android用",
+      "url": "https://sp.pointi.jp/ad/153669/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "153657",
+      "title": "CODE: FLAG-X（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153657/",
+      "points": "54円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "149293",
+      "title": "ガクセイ協賛",
+      "url": "https://sp.pointi.jp/ad/149293/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "153618",
+      "title": "Astral Braille 神語解析システムSIGMA（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153618/",
+      "points": "35円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "152506",
+      "title": "GO - タクシーが呼べるアプリ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152506/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "152505",
+      "title": "GO - タクシーが呼べるアプリ(Android用)",
+      "url": "https://sp.pointi.jp/ad/152505/",
+      "points": "500円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "148354",
+      "title": "キッザニアオンラインカレッジ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148354/",
+      "points": "50円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "152126",
+      "title": "Cash Giraffe - 遊んで稼ごう（Android用）",
+      "url": "https://sp.pointi.jp/ad/152126/",
+      "points": "480円",
+      "device": "IOS",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:24:55.569Z"
+    },
+    {
+      "id": "152933",
+      "title": "Backpack Rush: Bag Merge（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152933/",
+      "points": "350円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153717",
+      "title": "Color Water Sort puzzle:色分けゲーム（Android）",
+      "url": "https://sp.pointi.jp/ad/153717/",
+      "points": "520円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153679",
+      "title": "Color Bolts Sort Puzzle（Android用）【8/12までの高還元!!】",
+      "url": "https://sp.pointi.jp/ad/153679/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153678",
+      "title": "Color Bolts Sort Puzzle（iOS用）【8/12までの高還元!!】",
+      "url": "https://sp.pointi.jp/ad/153678/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153692",
+      "title": "Domino Dreams (iOS)",
+      "url": "https://sp.pointi.jp/ad/153692/",
+      "points": "700円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153691",
+      "title": "Domino Dreams (Android)",
+      "url": "https://sp.pointi.jp/ad/153691/",
+      "points": "530円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153334",
+      "title": "Merge Inn - マージイン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153334/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153335",
+      "title": "Merge Inn - マージイン（Android用）",
+      "url": "https://sp.pointi.jp/ad/153335/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153675",
+      "title": "マージサバイバル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153675/",
+      "points": "150円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153673",
+      "title": "Alice's Dream ：かわいいマージゲーム【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/153673/",
+      "points": "5,815円",
+      "device": "ANDROID",
+      "category_id": 285,
+      "category_name": "アプリカテゴリ285",
+      "timestamp": "2025-08-12T01:25:23.325Z"
+    },
+    {
+      "id": "153695",
+      "title": "Drop Master!(ドロップマスター)iOS用",
+      "url": "https://sp.pointi.jp/ad/153695/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "150617",
+      "title": "サメサメ進化論（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150617/",
+      "points": "400円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "150618",
+      "title": "サメサメ進化論（Android用）",
+      "url": "https://sp.pointi.jp/ad/150618/",
+      "points": "400円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153302",
+      "title": "ほんわかバトルオペレーション（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153302/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153303",
+      "title": "達人の間合い（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153303/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153570",
+      "title": "ヘリでイノシシ狩り - Heli Hog Hunt（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153570/",
+      "points": "80円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153571",
+      "title": "ヘリでイノシシ狩り - Heli Hog Hunt（Android用）",
+      "url": "https://sp.pointi.jp/ad/153571/",
+      "points": "80円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153525",
+      "title": "なぞなぞにゃんこ - 猫の気持ちをもっと知るのにゃ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153525/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153300",
+      "title": "マスクハガシタインジャー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153300/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153511",
+      "title": "スライディングヒーロー（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153511/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 286,
+      "category_name": "アプリカテゴリ286",
+      "timestamp": "2025-08-12T01:25:48.862Z"
+    },
+    {
+      "id": "153633",
+      "title": "簡単アイテム探し：探索者の記録/Seekers Notes（Android）",
+      "url": "https://sp.pointi.jp/ad/153633/",
+      "points": "12,200円",
+      "device": "ANDROID",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:26:14.363Z"
+    },
+    {
+      "id": "151773",
+      "title": "仕事サボる！ -暇つぶし 簡単謎解き脱出ゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151773/",
+      "points": "60円",
+      "device": "ANDROID",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:26:14.363Z"
+    },
+    {
+      "id": "149864",
+      "title": "学校サボる! - 脱出ゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/149864/",
+      "points": "60円",
+      "device": "ANDROID",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:26:14.363Z"
+    },
+    {
+      "id": "146011",
+      "title": "勇者「入部させてください…」（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146011/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 287,
+      "category_name": "アプリカテゴリ287",
+      "timestamp": "2025-08-12T01:26:14.363Z"
+    },
+    {
+      "id": "149940",
+      "title": "エバーテイル（Android用）",
+      "url": "https://sp.pointi.jp/ad/149940/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "149938",
+      "title": "エバーテイル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/149938/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "149650",
+      "title": "ゾンビ・パニック【マルチステージアプリ/iOS用】",
+      "url": "https://sp.pointi.jp/ad/149650/",
+      "points": "3,503円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "150220",
+      "title": "ゾンビ・パニック【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/150220/",
+      "points": "3,503円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "153162",
+      "title": "RAID（レイド）: Shadow Legends（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153162/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "152928",
+      "title": "喧嘩の花道(Android用)",
+      "url": "https://sp.pointi.jp/ad/152928/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "152927",
+      "title": "喧嘩の花道(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152927/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "149927",
+      "title": "東京ディバンカー(Android用)",
+      "url": "https://sp.pointi.jp/ad/149927/",
+      "points": "150円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "149911",
+      "title": "東京ディバンカー(iOS用)",
+      "url": "https://sp.pointi.jp/ad/149911/",
+      "points": "150円",
+      "device": "ANDROID",
+      "category_id": 288,
+      "category_name": "アプリカテゴリ288",
+      "timestamp": "2025-08-12T01:26:40.842Z"
+    },
+    {
+      "id": "153586",
+      "title": "三国志:戦乱【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153586/",
+      "points": "2,608円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "153585",
+      "title": "三国志:戦乱【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153585/",
+      "points": "2,608円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "153656",
+      "title": "マフィア・シティ-極道風雲（Android用）",
+      "url": "https://sp.pointi.jp/ad/153656/",
+      "points": "7,000円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "153655",
+      "title": "マフィア・シティ-極道風雲（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153655/",
+      "points": "7,000円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "152400",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152400/",
+      "points": "8,181円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "152401",
+      "title": "Puzzles & Chaos: Frozen Castle【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152401/",
+      "points": "8,181円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "153363",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153363/",
+      "points": "5,427円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "153364",
+      "title": "パズル＆コンクエスト【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153364/",
+      "points": "5,427円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "141430",
+      "title": "三國志 真戦（勢力15,000到達/Android用）",
+      "url": "https://sp.pointi.jp/ad/141430/",
+      "points": "3,000円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "141429",
+      "title": "三國志 真戦（勢力15,000到達/iOS用）",
+      "url": "https://sp.pointi.jp/ad/141429/",
+      "points": "3,000円",
+      "device": "ANDROID",
+      "category_id": 289,
+      "category_name": "アプリカテゴリ289",
+      "timestamp": "2025-08-12T01:27:06.395Z"
+    },
+    {
+      "id": "151387",
+      "title": "ファミリーファームの冒険【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/151387/",
+      "points": "1,620円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.961Z"
+    },
+    {
+      "id": "151389",
+      "title": "ファミリーファームの冒険【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/151389/",
+      "points": "1,620円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.961Z"
+    },
+    {
+      "id": "153421",
+      "title": "恋するコーデ ペアリウム【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153421/",
+      "points": "5,670円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.961Z"
+    },
+    {
+      "id": "153422",
+      "title": "恋するコーデ ペアリウム【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/153422/",
+      "points": "5,670円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.961Z"
+    },
+    {
+      "id": "153651",
+      "title": "たい焼きタイクーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153651/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.961Z"
+    },
+    {
+      "id": "153653",
+      "title": "たい焼きタイクーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/153653/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.961Z"
+    },
+    {
+      "id": "153598",
+      "title": "ブルブル三国（Android用）",
+      "url": "https://sp.pointi.jp/ad/153598/",
+      "points": "1,350円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.962Z"
+    },
+    {
+      "id": "153597",
+      "title": "ブルブル三国（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153597/",
+      "points": "1,350円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.962Z"
+    },
+    {
+      "id": "153127",
+      "title": "ターミナルマスター - Terminal Master（Android用）",
+      "url": "https://sp.pointi.jp/ad/153127/",
+      "points": "50円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.962Z"
+    },
+    {
+      "id": "153179",
+      "title": "ねこのカフェ: てんさいねこシェフ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153179/",
+      "points": "150円",
+      "device": "ANDROID",
+      "category_id": 290,
+      "category_name": "アプリカテゴリ290",
+      "timestamp": "2025-08-12T01:27:31.962Z"
+    },
+    {
+      "id": "153716",
+      "title": "8 Ball Pool（Android用）",
+      "url": "https://sp.pointi.jp/ad/153716/",
+      "points": "250円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "153715",
+      "title": "8 Ball Pool（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153715/",
+      "points": "250円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "153301",
+      "title": "ドンピシャスイング（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153301/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "147688",
+      "title": "パワフルベースボール（iOS用）",
+      "url": "https://sp.pointi.jp/ad/147688/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "152308",
+      "title": "TIPSTAR - ティップスター（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152308/",
+      "points": "700円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "152309",
+      "title": "TIPSTAR - ティップスター（Android用）",
+      "url": "https://sp.pointi.jp/ad/152309/",
+      "points": "700円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "151431",
+      "title": "ダウンヒルレーサー - Downhill Racer（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151431/",
+      "points": "50円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "151432",
+      "title": "ダウンヒルレーサー - Downhill Racer（Android用）",
+      "url": "https://sp.pointi.jp/ad/151432/",
+      "points": "50円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "150828",
+      "title": "実質無料で投票可能！WINTICKET（Android用）",
+      "url": "https://sp.pointi.jp/ad/150828/",
+      "points": "1,046円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "148677",
+      "title": "実質無料で投票可能！WINTICKET（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148677/",
+      "points": "637円",
+      "device": "ANDROID",
+      "category_id": 291,
+      "category_name": "アプリカテゴリ291",
+      "timestamp": "2025-08-12T01:27:58.273Z"
+    },
+    {
+      "id": "153706",
+      "title": "ブラックスター -Theater Starless-（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153706/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 292,
+      "category_name": "アプリカテゴリ292",
+      "timestamp": "2025-08-12T01:28:23.794Z"
+    },
+    {
+      "id": "153707",
+      "title": "ブラックスター -Theater Starless-（Android用）",
+      "url": "https://sp.pointi.jp/ad/153707/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 292,
+      "category_name": "アプリカテゴリ292",
+      "timestamp": "2025-08-12T01:28:23.795Z"
+    },
+    {
+      "id": "153228",
+      "title": "MONOPOLY GO!（モントリオールをクリア/iOS用）",
+      "url": "https://sp.pointi.jp/ad/153228/",
+      "points": "800円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.227Z"
+    },
+    {
+      "id": "153229",
+      "title": "MONOPOLY GO!（モントリオールをクリア/Android用）",
+      "url": "https://sp.pointi.jp/ad/153229/",
+      "points": "1,000円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.227Z"
+    },
+    {
+      "id": "150652",
+      "title": "ピラミッドソリティア（iOS用）",
+      "url": "https://sp.pointi.jp/ad/150652/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.227Z"
+    },
+    {
+      "id": "153680",
+      "title": "Hit＆Blowオンライン（ヒットアンドブロー）iOS用",
+      "url": "https://sp.pointi.jp/ad/153680/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.227Z"
+    },
+    {
+      "id": "153085",
+      "title": "Solitaire Deluxe® 2（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153085/",
+      "points": "650円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.227Z"
+    },
+    {
+      "id": "153245",
+      "title": "MONOPOLY GO!（モントリオールをクリア＋初回課金）",
+      "url": "https://sp.pointi.jp/ad/153245/",
+      "points": "1,300円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.227Z"
+    },
+    {
+      "id": "153039",
+      "title": "HighRoller Vegas（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153039/",
+      "points": "450円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.228Z"
+    },
+    {
+      "id": "143414",
+      "title": "百鍛将棋（Android用）",
+      "url": "https://sp.pointi.jp/ad/143414/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.228Z"
+    },
+    {
+      "id": "151843",
+      "title": "Bingo ジャーニー（Android用）",
+      "url": "https://sp.pointi.jp/ad/151843/",
+      "points": "654円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.228Z"
+    },
+    {
+      "id": "145996",
+      "title": "ミリオン コインX（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145996/",
+      "points": "120円",
+      "device": "ANDROID",
+      "category_id": 293,
+      "category_name": "アプリカテゴリ293",
+      "timestamp": "2025-08-12T01:28:49.228Z"
+    },
+    {
+      "id": "148800",
+      "title": "タイトーオンラインクレーン　初回課金（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148800/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "148801",
+      "title": "タイトーオンラインクレーン　初回課金（Android用）",
+      "url": "https://sp.pointi.jp/ad/148801/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "147619",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（Android用）",
+      "url": "https://sp.pointi.jp/ad/147619/",
+      "points": "250円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "147583",
+      "title": "LUCK ROCK - ラックロック オンラインクレーン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/147583/",
+      "points": "250円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "146816",
+      "title": "カプとれ<初回課金>（Android用）",
+      "url": "https://sp.pointi.jp/ad/146816/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "146815",
+      "title": "カプとれ<初回課金>（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146815/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "145720",
+      "title": "アラクレ - オンラインクレーンゲーム（Android用）",
+      "url": "https://sp.pointi.jp/ad/145720/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "145496",
+      "title": "アラクレ - オンラインクレーンゲーム（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145496/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "151457",
+      "title": "モーリーオンライン（Android用）",
+      "url": "https://sp.pointi.jp/ad/151457/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "151456",
+      "title": "モーリーオンライン（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151456/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 294,
+      "category_name": "アプリカテゴリ294",
+      "timestamp": "2025-08-12T01:29:15.620Z"
+    },
+    {
+      "id": "145528",
+      "title": "派遣モンスター（iOS用）",
+      "url": "https://sp.pointi.jp/ad/145528/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "146163",
+      "title": "派遣モンスター（Android用）",
+      "url": "https://sp.pointi.jp/ad/146163/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "152531",
+      "title": "出荷ぶた -冬ver-【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152531/",
+      "points": "12,303円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "152533",
+      "title": "出荷ぶた -冬ver-【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/152533/",
+      "points": "12,303円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "149740",
+      "title": "プリケツにゃー【マルチステージアプリ/iOS用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/149740/",
+      "points": "1,935円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "149741",
+      "title": "プリケツにゃー【マルチステージアプリ/Android用】〈8/12までの高還元!!〉",
+      "url": "https://sp.pointi.jp/ad/149741/",
+      "points": "1,935円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "148916",
+      "title": "さる山温泉旅館（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148916/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "148917",
+      "title": "さる山温泉旅館（Android用）",
+      "url": "https://sp.pointi.jp/ad/148917/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "148103",
+      "title": "ハチミツコレクション（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148103/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "148104",
+      "title": "ハチミツコレクション（Android用）",
+      "url": "https://sp.pointi.jp/ad/148104/",
+      "points": "180円",
+      "device": "ANDROID",
+      "category_id": 295,
+      "category_name": "アプリカテゴリ295",
+      "timestamp": "2025-08-12T01:29:41.121Z"
+    },
+    {
+      "id": "148890",
+      "title": "Lemon8【マルチステージアプリ/女性限定/iOS用】",
+      "url": "https://sp.pointi.jp/ad/148890/",
+      "points": "600円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.652Z"
+    },
+    {
+      "id": "152190",
+      "title": "Pococha - ポコチャ(Android用)",
+      "url": "https://sp.pointi.jp/ad/152190/",
+      "points": "900円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.652Z"
+    },
+    {
+      "id": "152069",
+      "title": "TikTok Lite【マルチステージアプリ/Android用】",
+      "url": "https://sp.pointi.jp/ad/152069/",
+      "points": "729円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "153469",
+      "title": "IRIAM - イリアム(Android用)",
+      "url": "https://sp.pointi.jp/ad/153469/",
+      "points": "450円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "150700",
+      "title": "ミクチャ(Android用)",
+      "url": "https://sp.pointi.jp/ad/150700/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "150701",
+      "title": "ミクチャ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/150701/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "153608",
+      "title": "ColorSing - カラーシング(Android用)",
+      "url": "https://sp.pointi.jp/ad/153608/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "153607",
+      "title": "ColorSing - カラーシング(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153607/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "153555",
+      "title": "マリッシュ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153555/",
+      "points": "120円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "153554",
+      "title": "マリッシュ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153554/",
+      "points": "120円",
+      "device": "ANDROID",
+      "category_id": 296,
+      "category_name": "アプリカテゴリ296",
+      "timestamp": "2025-08-12T01:30:06.653Z"
+    },
+    {
+      "id": "153005",
+      "title": "楽天ラクマ（Rakuma）",
+      "url": "https://sp.pointi.jp/ad/153005/",
+      "points": "330円",
+      "device": "ANDROID",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:30:32.971Z"
+    },
+    {
+      "id": "152504",
+      "title": "無料でショッピング！黒字還元！TAO - タオ",
+      "url": "https://sp.pointi.jp/ad/152504/",
+      "points": "5,500円",
+      "device": "ANDROID",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:30:32.971Z"
+    },
+    {
+      "id": "153373",
+      "title": "メルカリ　無料会員登録(Android用)",
+      "url": "https://sp.pointi.jp/ad/153373/",
+      "points": "200円",
+      "device": "ANDROID",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:30:32.971Z"
+    },
+    {
+      "id": "153372",
+      "title": "メルカリ 無料会員登録(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153372/",
+      "points": "200円",
+      "device": "ANDROID",
+      "category_id": 297,
+      "category_name": "アプリカテゴリ297",
+      "timestamp": "2025-08-12T01:30:32.971Z"
+    },
+    {
+      "id": "153647",
+      "title": "フリくじ （無料会員登録）",
+      "url": "https://sp.pointi.jp/ad/153647/",
+      "points": "30円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.445Z"
+    },
+    {
+      "id": "132777",
+      "title": "Pontaアプリ（Android用）",
+      "url": "https://sp.pointi.jp/ad/132777/",
+      "points": "50円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "132776",
+      "title": "Pontaアプリ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/132776/",
+      "points": "50円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "153237",
+      "title": "Roamless_sim起動",
+      "url": "https://sp.pointi.jp/ad/153237/",
+      "points": "175円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "152628",
+      "title": "シェアフル（iOS用）",
+      "url": "https://sp.pointi.jp/ad/152628/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "152629",
+      "title": "シェアフル（Android用）",
+      "url": "https://sp.pointi.jp/ad/152629/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "144898",
+      "title": "クラシル（お試し無料会員登録/Andoid用）",
+      "url": "https://sp.pointi.jp/ad/144898/",
+      "points": "100円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "153446",
+      "title": "ペアケア（Android用）",
+      "url": "https://sp.pointi.jp/ad/153446/",
+      "points": "170円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "153445",
+      "title": "ペアケア（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153445/",
+      "points": "170円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "153020",
+      "title": "majica - 電子マネー公式アプリ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153020/",
+      "points": "80円",
+      "device": "ANDROID",
+      "category_id": 298,
+      "category_name": "アプリカテゴリ298",
+      "timestamp": "2025-08-12T01:30:58.446Z"
+    },
+    {
+      "id": "153389",
+      "title": "ピッコマ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153389/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:31:24.114Z"
+    },
+    {
+      "id": "153390",
+      "title": "ピッコマ（Android用）",
+      "url": "https://sp.pointi.jp/ad/153390/",
+      "points": "300円",
+      "device": "ANDROID",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:31:24.114Z"
+    },
+    {
+      "id": "136906",
+      "title": "ガンガンONLINE（iOS用）",
+      "url": "https://sp.pointi.jp/ad/136906/",
+      "points": "45円",
+      "device": "ANDROID",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:31:24.114Z"
+    },
+    {
+      "id": "152351",
+      "title": "マンガワン(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152351/",
+      "points": "70円",
+      "device": "ANDROID",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:31:24.114Z"
+    },
+    {
+      "id": "152352",
+      "title": "マンガワン(Android用)",
+      "url": "https://sp.pointi.jp/ad/152352/",
+      "points": "70円",
+      "device": "ANDROID",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:31:24.114Z"
+    },
+    {
+      "id": "146010",
+      "title": "Apple Music -アップルミュージック（iOS用）",
+      "url": "https://sp.pointi.jp/ad/146010/",
+      "points": "400円",
+      "device": "ANDROID",
+      "category_id": 299,
+      "category_name": "アプリカテゴリ299",
+      "timestamp": "2025-08-12T01:31:24.114Z"
+    },
+    {
+      "id": "152189",
+      "title": "Pococha - ポコチャ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152189/",
+      "points": "900円",
+      "device": "ANDROID",
+      "category_id": 300,
+      "category_name": "アプリカテゴリ300",
+      "timestamp": "2025-08-12T01:31:50.408Z"
+    },
+    {
+      "id": "153384",
+      "title": "ahame - アハミー(iOS用)",
+      "url": "https://sp.pointi.jp/ad/153384/",
+      "points": "45円",
+      "device": "ANDROID",
+      "category_id": 300,
+      "category_name": "アプリカテゴリ300",
+      "timestamp": "2025-08-12T01:31:50.408Z"
+    },
+    {
+      "id": "153383",
+      "title": "ahame - アハミー(Android用)",
+      "url": "https://sp.pointi.jp/ad/153383/",
+      "points": "45円",
+      "device": "ANDROID",
+      "category_id": 300,
+      "category_name": "アプリカテゴリ300",
+      "timestamp": "2025-08-12T01:31:50.408Z"
+    },
+    {
+      "id": "153285",
+      "title": "【最大4,500円相当】NEOBANK 住信SBIネット銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/153285/",
+      "points": "1,500円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.957Z"
+    },
+    {
+      "id": "152130",
+      "title": "即pt！最短3分！【三井住友銀行口座お持ちの方専用】Olive口座切替",
+      "url": "https://sp.pointi.jp/ad/152130/",
+      "points": "1,000円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.957Z"
+    },
+    {
+      "id": "153429",
+      "title": "TRUSTDOCK(トラストドック)",
+      "url": "https://sp.pointi.jp/ad/153429/",
+      "points": "150円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.957Z"
+    },
+    {
+      "id": "151575",
+      "title": "バンドルカード（Android用）",
+      "url": "https://sp.pointi.jp/ad/151575/",
+      "points": "600円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.957Z"
+    },
+    {
+      "id": "151576",
+      "title": "バンドルカード（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151576/",
+      "points": "600円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.957Z"
+    },
+    {
+      "id": "151741",
+      "title": "みんなの銀行（口座開設）",
+      "url": "https://sp.pointi.jp/ad/151741/",
+      "points": "1,500円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.957Z"
+    },
+    {
+      "id": "151522",
+      "title": "STOCKPOINT for MUFG（iOS用）",
+      "url": "https://sp.pointi.jp/ad/151522/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.958Z"
+    },
+    {
+      "id": "151523",
+      "title": "STOCKPOINT for MUFG（Android用）",
+      "url": "https://sp.pointi.jp/ad/151523/",
+      "points": "1,200円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.958Z"
+    },
+    {
+      "id": "152171",
+      "title": "銀行公式アプリ　Wallet+（ウォレットプラス）",
+      "url": "https://sp.pointi.jp/ad/152171/",
+      "points": "350円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.958Z"
+    },
+    {
+      "id": "152106",
+      "title": "Habitto（ハビット）",
+      "url": "https://sp.pointi.jp/ad/152106/",
+      "points": "1,500円",
+      "device": "ANDROID",
+      "category_id": 301,
+      "category_name": "アプリカテゴリ301",
+      "timestamp": "2025-08-12T01:32:15.958Z"
+    },
+    {
+      "id": "153544",
+      "title": "ヨヤクスリ 無料会員登録",
+      "url": "https://sp.pointi.jp/ad/153544/",
+      "points": "80円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "153690",
+      "title": "蒼雷の対話者　BLUE THUNDER DIPLOMAT　（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153690/",
+      "points": "30円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "153669",
+      "title": "Rocket Now（ロケットナウ）Android用",
+      "url": "https://sp.pointi.jp/ad/153669/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "153657",
+      "title": "CODE: FLAG-X（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153657/",
+      "points": "54円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "149293",
+      "title": "ガクセイ協賛",
+      "url": "https://sp.pointi.jp/ad/149293/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "153618",
+      "title": "Astral Braille 神語解析システムSIGMA（iOS用）",
+      "url": "https://sp.pointi.jp/ad/153618/",
+      "points": "35円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "152506",
+      "title": "GO - タクシーが呼べるアプリ(iOS用)",
+      "url": "https://sp.pointi.jp/ad/152506/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "152505",
+      "title": "GO - タクシーが呼べるアプリ(Android用)",
+      "url": "https://sp.pointi.jp/ad/152505/",
+      "points": "500円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "148354",
+      "title": "キッザニアオンラインカレッジ（iOS用）",
+      "url": "https://sp.pointi.jp/ad/148354/",
+      "points": "50円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    },
+    {
+      "id": "152126",
+      "title": "Cash Giraffe - 遊んで稼ごう（Android用）",
+      "url": "https://sp.pointi.jp/ad/152126/",
+      "points": "480円",
+      "device": "ANDROID",
+      "category_id": 302,
+      "category_name": "アプリカテゴリ302",
+      "timestamp": "2025-08-12T01:32:41.484Z"
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+
+2025-08-13 16:41:55: 🚀 確実な順次スクレイピング開始
+2025-08-13 16:41:55: 🛍️ 拡張システム 実行開始
+🎉 拡張版ちょびリッチスクレイピングシステム【堅牢版】
+============================================================
+📋 仕様書対応:
+  ✅ ショッピングカテゴリ: 11カテゴリ (shop/101-111)
+  ✅ サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)
+  ✅ 全ページ対応 (page=2, page=3, ...)
+  ✅ カテゴリページ完結型
+🛡️ 403エラー対策:
+  ✅ 2カテゴリ毎ブラウザ再起動
+  ✅ 403エラー時5分待機・自動リトライ
+  ✅ カテゴリ間65秒待機（アクセス数制限対策）
+  ✅ ブラウザ再起動間65秒待機（アクセス数リセット）
+============================================================
+🎯 全カテゴリ処理
+📊 利用可能カテゴリ: 総数20 (ショッピング11, サービス9)
+🎯 拡張版スクレイピング開始（堅牢版）
+============================================================
+🚀 拡張版ちょびリッチスクレイパー【堅牢版】初期化中...
+🛡️ 403エラー対策機能（バランス型）:
+   ✅ 2カテゴリ毎の強制ブラウザ再起動
+   ✅ 403エラー時5分待機・自動リトライ
+   ✅ カテゴリ間65秒待機
+   ✅ ブラウザ再起動間65秒待機
+📋 対応カテゴリ:
+   - ショッピングカテゴリ: 11カテゴリ (shop/101-111)
+   - サービスカテゴリ: 9カテゴリ (earn/apply/101,103,104,106-111)
+🔄 新しいブラウザインスタンス作成中...
+✅ 初期化完了
+📋 処理対象: 20カテゴリ
+🔄 10バッチに分割実行（403エラー対策）
+
+📦 Batch 1/10: shopping_101, shopping_102
+
+🔧 Batch 1 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SHOPPINGカテゴリ: 総合通販・デパート・ふるさと納税
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/101
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/101?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/101?page=3
+   ✅ 5件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/101?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/101?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/101?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SHOPPINGカテゴリ: ファッション・アクセサリー
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/102
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/102?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/102?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/102?page=4
+   ✅ 23件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/102?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/102?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/102?page=7
+   ✅ 0件の案件を取得
+   ➡️ ページ7: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 1 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 2/10: shopping_103, shopping_104
+
+🔧 Batch 2 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SHOPPINGカテゴリ: コスメ・美容・健康
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/103
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=5
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=6
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=7
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=8
+   ✅ 11件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=9
+   ✅ 0件の案件を取得
+   ➡️ ページ9: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=10
+   ✅ 0件の案件を取得
+   ➡️ ページ10: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/103?page=11
+   ✅ 0件の案件を取得
+   ➡️ ページ11: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SHOPPINGカテゴリ: グルメ・食品
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/104
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=5
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=6
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=7
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=8
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=9
+   ✅ 12件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=10
+   ✅ 0件の案件を取得
+   ➡️ ページ10: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=11
+   ✅ 0件の案件を取得
+   ➡️ ページ11: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/104?page=12
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/shopping/shop/104?page=12
+   ➡️ ページ12: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 2 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 3/10: shopping_105, shopping_106
+
+🔧 Batch 3 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SHOPPINGカテゴリ: 家電・パソコン
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/105
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=5
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=6
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=7
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=8
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=9
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/shopping/shop/105?page=9
+   ➡️ ページ9: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=10
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/shopping/shop/105?page=10
+   ➡️ ページ10: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/105?page=11
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/shopping/shop/105?page=11
+   ➡️ ページ11: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SHOPPINGカテゴリ: インテリア・生活用品
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/106
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=5
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=6
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=7
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/shopping/shop/106?page=7
+   ➡️ ページ7: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=8
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/shopping/shop/106?page=8
+   ➡️ ページ8: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/106?page=9
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/shopping/shop/106?page=9
+   ➡️ ページ9: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 3 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 4/10: shopping_107, shopping_108
+
+🔧 Batch 4 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SHOPPINGカテゴリ: ホビー・エンタメ
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/107
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/107?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/107?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/107?page=4
+   ✅ 26件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/107?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/107?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/107?page=7
+   ✅ 0件の案件を取得
+   ➡️ ページ7: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SHOPPINGカテゴリ: スポーツ・アウトドア
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/108
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/108?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/108?page=3
+   ✅ 28件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/108?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/108?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/108?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 4 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 5/10: shopping_109, shopping_110
+
+🔧 Batch 5 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SHOPPINGカテゴリ: 車・バイク
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/109
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=3
+   ✅ 28件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/109?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SHOPPINGカテゴリ: 本・雑誌・コミック
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/110
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=3
+   ✅ 6件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/110?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 5 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 6/10: shopping_111, service_101
+
+🔧 Batch 6 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SHOPPINGカテゴリ: その他ショッピング
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/shopping/shop/111
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/111?page=2
+   ✅ 4件の案件を取得
+   📄 取得中: https://www.chobirich.com/shopping/shop/111?page=3
+   ✅ 0件の案件を取得
+   ➡️ ページ3: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/111?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/shopping/shop/111?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SERVICEカテゴリ: エンタメ・ゲーム
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/101
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=5
+   ✅ 16件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=7
+   ✅ 0件の案件を取得
+   ➡️ ページ7: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/101?page=8
+   ✅ 0件の案件を取得
+   ➡️ ページ8: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 6 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 7/10: service_103, service_104
+
+🔧 Batch 7 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SERVICEカテゴリ: 資料請求・査定・相談
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/103
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=3
+   ✅ 9件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/103?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SERVICEカテゴリ: 会員登録・メルマガ
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/104
+   ✅ 29件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=5
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=6
+   ✅ 11件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=7
+   ✅ 0件の案件を取得
+   ➡️ ページ7: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=8
+   ✅ 0件の案件を取得
+   ➡️ ページ8: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/104?page=9
+   ✅ 0件の案件を取得
+   ➡️ ページ9: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 7 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 8/10: service_106, service_107
+
+🔧 Batch 8 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SERVICEカテゴリ: 金融・投資・保険
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/106
+   ✅ 29件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=4
+   ✅ 26件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/106?page=7
+   ✅ 0件の案件を取得
+   ➡️ ページ7: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SERVICEカテゴリ: 不動産・引越し
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/107
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=3
+   ✅ 21件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/107?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 8 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 9/10: service_108, service_109
+
+🔧 Batch 9 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SERVICEカテゴリ: 美容・健康
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/108
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=4
+   ✅ 12件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=5
+   ✅ 0件の案件を取得
+   ➡️ ページ5: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=6
+   ✅ 0件の案件を取得
+   ➡️ ページ6: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/108?page=7
+   ✅ 0件の案件を取得
+   ➡️ ページ7: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SERVICEカテゴリ: 旅行・宿泊
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/109
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=5
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=6
+   ✅ 9件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=7
+   ✅ 0件の案件を取得
+   ➡️ ページ7: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=8
+   ✅ 0件の案件を取得
+   ➡️ ページ8: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/109?page=9
+   ✅ 0件の案件を取得
+   ➡️ ページ9: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 9 完了
+⏳ 次バッチまで65秒待機（アクセス数リセット待機）...
+
+📦 Batch 10/10: service_110, service_111
+
+🔧 Batch 10 実行開始 (試行 1/3)
+🔄 新しいブラウザインスタンス作成中...
+
+📂 SERVICEカテゴリ: 通信・プロバイダ
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/110
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=2
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=3
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=4
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=5
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=6
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=7
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=8
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=9
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=10
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=11
+   ✅ 24件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=12
+   ✅ 0件の案件を取得
+   ➡️ ページ12: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=13
+   ✅ 0件の案件を取得
+   ➡️ ページ13: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/110?page=14
+   ✅ 0件の案件を取得
+   ➡️ ページ14: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+   ⏳ 次カテゴリまで65秒待機（アクセス数制限対策）...
+
+📂 SERVICEカテゴリ: その他サービス
+--------------------------------------------------
+   📄 取得中: https://www.chobirich.com/earn/apply/111
+   ✅ 30件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/111?page=2
+   ✅ 21件の案件を取得
+   📄 取得中: https://www.chobirich.com/earn/apply/111?page=3
+   ✅ 0件の案件を取得
+   ➡️ ページ3: 案件なし（1/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/111?page=4
+   ✅ 0件の案件を取得
+   ➡️ ページ4: 案件なし（2/3）
+   📄 取得中: https://www.chobirich.com/earn/apply/111?page=5
+   ❌ HTTPエラー: 403
+   ❌ エラー: 403 Forbidden - アクセス制限: https://www.chobirich.com/earn/apply/111?page=5
+   ➡️ ページ5: 案件なし（3/3）
+   ⏭️ 3ページ連続で案件なし。次のカテゴリへ
+✅ Batch 10 完了
+
+============================================================
+📊 拡張版スクレイピング完了
+============================================================
+実行時間: 2167.0秒
+処理カテゴリ数: 0
+処理ページ数: 97
+取得案件数: 2660
+総リクエスト数: 157
+エラー数: 8
+
+📈 カテゴリ別取得数:
+  ショッピング: 0件
+  サービス: 0件
+
+🛡️ 堅牢性統計:
+  ブラウザ再起動: 11回
+  403エラー: 0回
+  リトライ実行: 0回
+  エラー回復: 0回
+
+⚡ パフォーマンス:
+  平均処理時間: 13.80秒/リクエスト
+  案件取得効率: 16.9件/リクエスト
+  成功率: 94.9%
+
+🎉 403エラー対策成功！全カテゴリを堅牢に取得
+💾 結果保存: chobirich_extended_all_2025-08-13T08-18-02-483Z.json
+\n📊 保存データ統計:
+   総案件数: 0
+   ショッピング: 0件
+   サービス: 0件
+   カテゴリ数: 0
+\n🎊 拡張版スクレイピング完了！
+2025-08-13 17:18:02: 🛍️ 拡張システム 正常完了
+2025-08-13 17:18:02: ⏳ iOS案件スクレイピング前の403エラー対策 のため120秒待機開始
+2025-08-13 17:20:02: ✅ 120秒待機完了
+2025-08-13 17:20:02: 📱 iOS案件スクレイピング 実行開始
+📱 ちょびリッチ スマホアプリ案件スクレイピングシステム【完成版】
+============================================================
+🎯 システム仕様:
+  - iOS/Android別々にアクセス（User-Agent自動切替）
+  - OSごとに異なる案件を完全取得
+  - 全20ページ対応（577-578件対応）
+  - 正確なポイント値抽出（1-5桁、カンマ区切り）
+  - 太字タイトル取得、矢印表記（→）対応
+  - レート制限対応（3秒間隔）
+============================================================
+🎯 iOS案件のみ処理
+📱 スマホアプリ案件スクレイピング開始
+============================================================
+📱 スマホアプリ案件スクレイパー初期化中...
+🎯 対応OS: iOS / Android
+✅ 初期化完了
+🎯 対象OS: IOS
+
+📱 IOS アプリ案件取得開始
+--------------------------------------------------
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=1
+   ✅ 25件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=2
+   ✅ 29件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=3
+   ✅ 27件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=4
+   ✅ 29件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=5
+   ✅ 30件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=6
+   ✅ 30件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=7
+   ✅ 28件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=8
+   ✅ 29件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=9
+   ✅ 29件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=10
+   ✅ 30件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=11
+   ✅ 29件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=12
+   ✅ 24件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=13
+   ✅ 4件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=14
+   ✅ 14件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=15
+   ✅ 28件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=16
+   ✅ 27件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=17
+   ✅ 28件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=18
+   ✅ 30件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=19
+   ✅ 28件のIOS用アプリ案件を取得
+   📱 IOSで取得中: https://www.chobirich.com/smartphone?page=20
+   ✅ 28件のIOS用アプリ案件を取得
+
+============================================================
+📊 スマホアプリ案件スクレイピング完了
+============================================================
+実行時間: 175.6秒
+処理ページ数: 20
+取得アプリ案件数: 526
+総リクエスト数: 20
+エラー数: 0
+
+📱 OS別取得数:
+  iOS: 526件
+  Android: 0件
+
+⚡ パフォーマンス:
+  平均処理時間: 8.78秒/リクエスト
+  案件取得効率: 26.3件/リクエスト
+💾 IOSファイル保存: chobirich_ios_app_campaigns_2025-08-13_08_22_58.json
+
+📊 IOS専用ファイル保存: 526件
+
+🎊 スマホアプリ案件スクレイピング完了！
+2025-08-13 17:22:58: 📱 iOS案件スクレイピング 正常完了
+2025-08-13 17:22:58: ⏳ Android案件スクレイピング前の403エラー対策 のため120秒待機開始
+2025-08-13 17:24:58: ✅ 120秒待機完了
+2025-08-13 17:24:58: 🤖 Android案件スクレイピング 実行開始
+📱 ちょびリッチ スマホアプリ案件スクレイピングシステム【完成版】
+============================================================
+🎯 システム仕様:
+  - iOS/Android別々にアクセス（User-Agent自動切替）
+  - OSごとに異なる案件を完全取得
+  - 全20ページ対応（577-578件対応）
+  - 正確なポイント値抽出（1-5桁、カンマ区切り）
+  - 太字タイトル取得、矢印表記（→）対応
+  - レート制限対応（3秒間隔）
+============================================================
+🎯 Android案件のみ処理
+📱 スマホアプリ案件スクレイピング開始
+============================================================
+📱 スマホアプリ案件スクレイパー初期化中...
+🎯 対応OS: iOS / Android
+✅ 初期化完了
+🎯 対象OS: ANDROID
+
+📱 ANDROID アプリ案件取得開始
+--------------------------------------------------
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=1
+   ✅ 26件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=2
+   ✅ 28件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=3
+   ✅ 28件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=4
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=5
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=6
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=7
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=8
+   ✅ 29件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=9
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=10
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=11
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=12
+   ✅ 21件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=13
+   ✅ 28件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=14
+   ✅ 26件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=15
+   ✅ 29件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=16
+   ✅ 29件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=17
+   ✅ 28件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=18
+   ✅ 28件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=19
+   ✅ 30件のANDROID用アプリ案件を取得
+   📱 ANDROIDで取得中: https://www.chobirich.com/smartphone?page=20
+   ✅ 29件のANDROID用アプリ案件を取得
+
+============================================================
+📊 スマホアプリ案件スクレイピング完了
+============================================================
+実行時間: 178.8秒
+処理ページ数: 20
+取得アプリ案件数: 569
+総リクエスト数: 20
+エラー数: 0
+
+📱 OS別取得数:
+  iOS: 0件
+  Android: 569件
+
+⚡ パフォーマンス:
+  平均処理時間: 8.94秒/リクエスト
+  案件取得効率: 28.4件/リクエスト
+💾 ANDROIDファイル保存: chobirich_android_app_campaigns_2025-08-13_08_27_57.json
+
+📊 ANDROID専用ファイル保存: 569件
+
+🎊 スマホアプリ案件スクレイピング完了！
+2025-08-13 17:27:57: 🤖 Android案件スクレイピング 正常完了
+2025-08-13 17:27:57: 📊 最終結果: 成功率100% (3/3)
+2025-08-13 17:27:57: ✅ 確実な順次スクレイピング完了
