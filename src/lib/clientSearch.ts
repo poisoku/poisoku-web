@@ -254,10 +254,10 @@ export async function clientSearch(options: SearchOptions = {}) {
       
       results = results.filter(campaign => {
         const searchText = `${campaign.description || campaign.title || ''} ${campaign.siteName || campaign.site || ''}`.toLowerCase();
-        const keywords = campaign.searchKeywords || '';
+        const keywords = String(campaign.searchKeywords || '');
         
         return searchTerms.every(term => 
-          searchText.includes(term) || keywords.includes(term)
+          searchText.includes(term) || keywords.toLowerCase().includes(term)
         );
       });
 
