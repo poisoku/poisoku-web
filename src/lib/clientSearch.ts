@@ -227,12 +227,20 @@ export async function clientSearch(options: SearchOptions = {}) {
   } = options;
 
   try {
-    console.log('🔍 クライアントサイド検索開始:', { keyword, osFilter });
+    console.log('🔍 クライアントサイド検索開始:', { keyword, osFilter, limit, offset, sortBy });
     
     const searchData = await loadSearchData();
     let results = [...searchData.campaigns];
 
     console.log(`📊 読み込み完了: ${results.length}件`);
+    console.log(`📊 最初の3件サンプル:`, results.slice(0, 3).map(r => ({
+      id: r.id,
+      title: r.title,
+      description: r.description,
+      siteName: r.siteName,
+      site: r.site,
+      searchKeywords: r.searchKeywords
+    })));
 
     // 無効な還元率の案件を除外
     results = results.filter(campaign => {
@@ -317,8 +325,8 @@ export async function clientSearch(options: SearchOptions = {}) {
           bValue = new Date(b.lastUpdated).getTime();
           break;
         case 'name':
-          aValue = a.description;
-          bValue = b.description;
+          aValue = a.description || a.title || a.displayName || '';
+          bValue = b.description || b.title || b.displayName || '';
           break;
         default:
           aValue = a.searchWeight;
