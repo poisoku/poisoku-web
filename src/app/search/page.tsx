@@ -25,10 +25,14 @@ interface SearchResult {
 function SearchContent() {
   const searchParams = useSearchParams();
   const query = searchParams.get('q') || '';
-  const osFilter = searchParams.get('os') || 'all';
+  
+  // 新しい複数選択デバイスフィルター
+  const devicesParam = searchParams.get('devices') || 'Web,iOS,Android,PC';
+  const initialDevices = devicesParam.split(',').filter(d => d);
+  
   const [results, setResults] = useState<SearchResult[]>([]);
   const [loading, setLoading] = useState(false);
-  const [selectedOsFilter, setSelectedOsFilter] = useState(osFilter);
+  const [selectedDevices, setSelectedDevices] = useState<string[]>(initialDevices);
   const [maxCashback7Days, setMaxCashback7Days] = useState<{
     amount: string;
     site: string;
@@ -36,16 +40,16 @@ function SearchContent() {
   } | null>(null);
 
   useEffect(() => {
-    console.log('🔄 検索Effect実行:', { query, selectedOsFilter });
+    console.log('🔄 検索Effect実行:', { query, selectedDevices });
     if (query) {
-      searchCampaignsHandler(query, selectedOsFilter);
+      searchCampaignsHandler(query, selectedDevices);
     }
-  }, [query, selectedOsFilter]);
+  }, [query, selectedDevices]);
 
-  const searchCampaignsHandler = async (searchQuery: string, osFilter: string = 'all') => {
+  const searchCampaignsHandler = async (searchQuery: string, devices: string[]) => {
     setLoading(true);
     try {
-      console.log('🔍 検索開始:', { searchQuery, osFilter });
+      console.log('🔍 検索開始:', { searchQuery, devices });
       
       // まず基本的なデータアクセステストを実行
       const testResult = await testSearchDataAccess();
@@ -55,10 +59,10 @@ function SearchContent() {
         throw new Error(`データアクセステスト失敗: ${testResult.error}`);
       }
       
-      // クライアントサイド検索を実行（すべての環境で確実に動作）
+      // クライアントサイド検索を実行（新しい複数デバイスフィルター対応）
       const result = await clientSearch({
         keyword: searchQuery,
-        osFilter: osFilter as any,
+        devices: devices,
         limit: 100,
         offset: 0,
         sortBy: 'cashback'
@@ -93,7 +97,7 @@ function SearchContent() {
     } catch (error) {
       console.error('🚨 検索エラー詳細:', error);
       console.error('🚨 エラーStack:', error instanceof Error ? error.stack : 'No stack trace');
-      console.error('🚨 検索パラメータ:', { searchQuery, osFilter });
+      console.error('🚨 検索パラメータ:', { searchQuery, devices });
       
       setResults([]);
       setMaxCashback7Days(null);
@@ -164,20 +168,25 @@ function SearchContent() {
     if (newQuery) {
       const params = new URLSearchParams();
       params.set('q', newQuery);
-      if (selectedOsFilter !== 'all') {
-        params.set('os', selectedOsFilter);
+      if (selectedDevices.length < 4 || !selectedDevices.includes('Web') || !selectedDevices.includes('iOS') || !selectedDevices.includes('Android') || !selectedDevices.includes('PC')) {
+        params.set('devices', selectedDevices.join(','));
       }
       window.location.href = `/search?${params.toString()}`;
     }
   };
 
-  const handleOsFilterChange = (newFilter: string) => {
-    setSelectedOsFilter(newFilter);
+  const handleDeviceToggle = (device: string) => {
+    const newDevices = selectedDevices.includes(device)
+      ? selectedDevices.filter(d => d !== device)
+      : [...selectedDevices, device];
+    
+    setSelectedDevices(newDevices);
+    
     if (query) {
       const params = new URLSearchParams();
       params.set('q', query);
-      if (newFilter !== 'all') {
-        params.set('os', newFilter);
+      if (newDevices.length < 4 || !newDevices.includes('Web') || !newDevices.includes('iOS') || !newDevices.includes('Android') || !newDevices.includes('PC')) {
+        params.set('devices', newDevices.join(','));
       }
       window.history.pushState({}, '', `/search?${params.toString()}`);
     }
@@ -223,7 +232,7 @@ function SearchContent() {
               </span>
             </div>
 
-            {/* OSフィルター */}
+            {/* 新しい複数選択デバイスフィルター */}
             <div className="mb-6">
               <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4">
                 <div className="flex items-center gap-2 mb-3">
@@ -231,25 +240,30 @@ function SearchContent() {
                 </div>
                 <div className="flex flex-wrap gap-2">
                   {[
-                    { value: 'all', label: 'すべて', icon: '🌐' },
-                    { value: 'ios', label: 'iOS', icon: '🍎' },
-                    { value: 'android', label: 'Android', icon: '🤖' },
-                    { value: 'pc', label: 'PC', icon: '💻' },
-                  ].map((option) => (
+                    { value: 'Web', label: 'Web', icon: '🌐' },
+                    { value: 'iOS', label: 'iOS', icon: '🍎' },
+                    { value: 'Android', label: 'Android', icon: '🤖' },
+                    { value: 'PC', label: 'PC', icon: '💻' },
+                  ].map((device) => (
                     <button
-                      key={option.value}
-                      onClick={() => handleOsFilterChange(option.value)}
+                      key={device.value}
+                      onClick={() => handleDeviceToggle(device.value)}
                       className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all ${
-                        selectedOsFilter === option.value
+                        selectedDevices.includes(device.value)
                           ? 'bg-blue-600 text-white shadow-lg'
                           : 'bg-gray-50 text-gray-600 hover:bg-gray-100'
                       }`}
                     >
-                      <span>{option.icon}</span>
-                      {option.label}
+                      <span>{device.icon}</span>
+                      {device.label}
                     </button>
                   ))}
                 </div>
+                {selectedDevices.length > 0 && (
+                  <div className="mt-2 text-xs text-gray-500">
+                    選択中: {selectedDevices.join(', ')} ({selectedDevices.length}種類)
+                  </div>
+                )}
               </div>
             </div>
 

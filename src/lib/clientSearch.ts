@@ -45,7 +45,8 @@ interface SearchData {
 
 interface SearchOptions {
   keyword?: string;
-  osFilter?: 'all' | 'ios' | 'android' | 'pc';
+  osFilter?: 'all' | 'ios' | 'android' | 'pc'; // 後方互換性のため保持
+  devices?: string[]; // 新しい複数選択デバイスフィルター
   category?: string;
   limit?: number;
   offset?: number;
@@ -219,6 +220,7 @@ export async function clientSearch(options: SearchOptions = {}) {
   const {
     keyword = '',
     osFilter = 'all',
+    devices = ['Web', 'iOS', 'Android', 'PC'], // デフォルト全選択
     category = '',
     limit = 50,
     offset = 0,
@@ -227,7 +229,7 @@ export async function clientSearch(options: SearchOptions = {}) {
   } = options;
 
   try {
-    console.log('🔍 クライアントサイド検索開始:', { keyword, osFilter, limit, offset, sortBy });
+    console.log('🔍 クライアントサイド検索開始:', { keyword, devices, limit, offset, sortBy });
     
     const searchData = await loadSearchData();
     let results = [...searchData.campaigns];
@@ -286,17 +288,32 @@ export async function clientSearch(options: SearchOptions = {}) {
       });
     }
 
-    // OSフィルタリング
-    if (osFilter !== 'all') {
+    // 新しい複数選択デバイスフィルタリング
+    if (devices && devices.length > 0) {
       results = results.filter(campaign => {
-        const device = campaign.device || 'All';
+        const device = campaign.device || 'Web';
+        
+        // iOS/Android案件の特別処理
+        if (device === 'iOS/Android') {
+          return devices.includes('iOS') || devices.includes('Android');
+        }
+        
+        // 通常のデバイス判定
+        return devices.includes(device);
+      });
+    }
+
+    // 後方互換性: 古いosFilterがある場合の処理
+    if (osFilter !== 'all' && (!devices || devices.length === 4)) {
+      results = results.filter(campaign => {
+        const device = campaign.device || 'Web';
         switch (osFilter) {
           case 'ios':
-            return ['iOS', 'iOS/Android', 'All', 'すべて'].includes(device);
+            return ['iOS', 'iOS/Android'].includes(device);
           case 'android':
-            return ['Android', 'iOS/Android', 'All', 'すべて'].includes(device);
+            return ['Android', 'iOS/Android'].includes(device);
           case 'pc':
-            return ['PC', 'All', 'すべて'].includes(device);
+            return ['PC', 'Web'].includes(device);
           default:
             return true;
         }
@@ -354,7 +371,7 @@ export async function clientSearch(options: SearchOptions = {}) {
         maxCashback7Days: searchData.metadata?.maxCashbackData || null,
         totalCount,
         hasMore: offset + limit < totalCount,
-        filters: { keyword, osFilter, category, limit, offset, sortBy, sortOrder },
+        filters: { keyword, devices, osFilter, category, limit, offset, sortBy, sortOrder },
         metadata: searchData.metadata
       }
     };
@@ -369,7 +386,7 @@ export async function clientSearch(options: SearchOptions = {}) {
         results: [],
         totalCount: 0,
         hasMore: false,
-        filters: { keyword, osFilter, category, limit, offset, sortBy, sortOrder },
+        filters: { keyword, devices, osFilter, category, limit, offset, sortBy, sortOrder },
         metadata: {}
       }
     };
