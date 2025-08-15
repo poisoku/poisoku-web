@@ -236,7 +236,7 @@ function SearchContent() {
             <div className="mb-6">
               <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4">
                 <div className="flex items-center gap-2 mb-3">
-                  <span className="text-sm font-medium text-gray-600">対応デバイスで絞り込み:</span>
+                  <span className="text-sm font-medium text-gray-600">端末フィルター:</span>
                 </div>
                 <div className="flex flex-wrap gap-2">
                   {[
