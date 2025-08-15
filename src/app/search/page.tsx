@@ -136,6 +136,8 @@ function SearchContent() {
         return { icon: '📱', label: 'スマホ' };
       case 'All':
         return { icon: '🌐', label: 'すべて' };
+      case 'Web':
+        return { icon: '🌐', label: 'Web' };
       default:
         return { icon: '❓', label: 'Unknown' };
     }
