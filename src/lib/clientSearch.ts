@@ -278,8 +278,8 @@ export async function clientSearch(options: SearchOptions = {}) {
         
         searchTerms.forEach(term => {
           if (searchText.includes(term)) relevanceScore += 2;
-          if (description.toLowerCase().includes(term)) relevanceScore += 1;
-          if (siteName.toLowerCase().includes(term)) relevanceScore += 0.5;
+          if (description && description.toLowerCase().includes(term)) relevanceScore += 1;
+          if (siteName && siteName.toLowerCase().includes(term)) relevanceScore += 0.5;
         });
         
         return { ...campaign, relevanceScore };
@@ -289,13 +289,14 @@ export async function clientSearch(options: SearchOptions = {}) {
     // OSフィルタリング
     if (osFilter !== 'all') {
       results = results.filter(campaign => {
+        const device = campaign.device || 'All';
         switch (osFilter) {
           case 'ios':
-            return ['iOS', 'iOS/Android', 'All'].includes(campaign.device);
+            return ['iOS', 'iOS/Android', 'All', 'すべて'].includes(device);
           case 'android':
-            return ['Android', 'iOS/Android', 'All'].includes(campaign.device);
+            return ['Android', 'iOS/Android', 'All', 'すべて'].includes(device);
           case 'pc':
-            return ['PC', 'All'].includes(campaign.device);
+            return ['PC', 'All', 'すべて'].includes(device);
           default:
             return true;
         }
@@ -304,7 +305,7 @@ export async function clientSearch(options: SearchOptions = {}) {
 
     // カテゴリフィルタリング
     if (category) {
-      results = results.filter(campaign => campaign.category === category);
+      results = results.filter(campaign => (campaign.category || '') === category);
     }
 
     // ソート
@@ -329,8 +330,8 @@ export async function clientSearch(options: SearchOptions = {}) {
           bValue = b.description || b.title || b.displayName || '';
           break;
         default:
-          aValue = a.searchWeight;
-          bValue = b.searchWeight;
+          aValue = a.searchWeight || 1;
+          bValue = b.searchWeight || 1;
       }
       
       if (sortOrder === 'asc') {
