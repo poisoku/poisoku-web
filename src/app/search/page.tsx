@@ -141,6 +141,20 @@ function SearchContent() {
     }
   };
 
+  const formatCashback = (cashbackYen: string | number | null, cashback: string | null) => {
+    // 優先順位: cashbackYen → cashback
+    const displayValue = cashbackYen || cashback || '';
+    const valueStr = String(displayValue);
+    
+    // パーセント表記の場合、不要な小数点を除去
+    if (valueStr.includes('%') || valueStr.includes('％')) {
+      // 1.0% → 1%, 2.5% → 2.5% (そのまま)
+      return valueStr.replace(/\.0+(%|％)/, '$1');
+    }
+    
+    return valueStr;
+  };
+
   const handleNewSearch = (e: React.FormEvent) => {
     e.preventDefault();
     const formData = new FormData(e.currentTarget);
@@ -300,7 +314,7 @@ function SearchContent() {
                                 </a>
                               </td>
                               <td className="px-2 sm:px-4 py-1 sm:py-2 w-16">
-                                <span className="text-sm sm:text-lg font-bold text-green-600 whitespace-nowrap">{result.cashbackYen || result.cashback}</span>
+                                <span className="text-sm sm:text-lg font-bold text-green-600 whitespace-nowrap">{formatCashback(result.cashbackYen, result.cashback)}</span>
                               </td>
                               <td className="px-2 sm:px-4 py-1 sm:py-2">
                                 <a
