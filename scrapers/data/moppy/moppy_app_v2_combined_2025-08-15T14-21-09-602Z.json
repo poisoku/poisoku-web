@@ -1,0 +1,201 @@
+{
+  "campaigns": [
+    {
+      "id": "moppy_app_6654",
+      "title": "アプリ案件_1",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6654",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.737Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_6654",
+      "title": "アプリ案件_2",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6654",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_6654",
+      "title": "アプリ案件_3",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6654",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_6654",
+      "title": "モッピーリユース 買い取りでポイントゲット!",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6654",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_6654",
+      "title": "モッピーリユース",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6654",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_482",
+      "title": "Y!5のつく日",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=482&track_ref=tw",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_159702",
+      "title": "※無料登録で2,000P※",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=159702&track_ref=tw",
+      "points": "2,000pt",
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_124167",
+      "title": "【最大18,000円相当】東急カード",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=124167&track_ref=tw",
+      "points": "18,000円",
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_116862",
+      "title": "アメックスGプリファード【神】",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=116862&track_ref=tw",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_138222",
+      "title": "入会特典17万ポイント＋モッピー2万P",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=138222&track_ref=tw",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_145365",
+      "title": "※8/17まで※JFRカード",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=145365&track_ref=tw",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_159095",
+      "title": "【激アツ】IG証券18,000P",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=159095&track_ref=tw",
+      "points": "18,000pt",
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_159880",
+      "title": "【無料口座開設】SBI FXトレード",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=159880&track_ref=tw",
+      "points": null,
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_102162",
+      "title": "エポスカード13,500P",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=102162&track_ref=tw",
+      "points": "13,500pt",
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_155636",
+      "title": "過去最高15,000P！Looopでんき",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=155636&track_ref=tw",
+      "points": "15,000pt",
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_138222",
+      "title": "アメックスビジゴ20,000P",
+      "url": "https://pc.moppy.jp/ad/detail.php?site_id=138222&track_ref=tw",
+      "points": "20,000pt",
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:18:21.738Z",
+      "source": "moppy_app_scraper_v2"
+    },
+    {
+      "id": "moppy_app_6611",
+      "title": "トリファ 新規アプリインストール後、プラン購入 10.0%",
+      "url": "https://pc.moppy.jp/shopping/detail.php?site_id=6611&track_ref=category",
+      "points": "10.0%",
+      "device": "iOS/Android",
+      "osType": "ios",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T14:19:05.008Z",
+      "source": "moppy_app_scraper_v2"
+    }
+  ],
+  "stats": {
+    "startTime": "2025-08-15T14:18:14.144Z",
+    "endTime": "2025-08-15T14:21:09.602Z",
+    "pagesProcessed": 20,
+    "campaignsFound": 17,
+    "totalRequests": 20,
+    "errors": [],
+    "type": "combined",
+    "version": "v2"
+  }
+}

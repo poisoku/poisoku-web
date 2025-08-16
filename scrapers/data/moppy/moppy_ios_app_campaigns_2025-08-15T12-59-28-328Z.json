@@ -1,0 +1,112 @@
+{
+  "campaigns": [
+    {
+      "id": "moppy_app_unknown_1755262758669_50",
+      "title": "アプリ・無料・資料請求",
+      "url": "https://pc.moppy.jp/category/list.php?parent_category=4&af_sorter=1&page=1#",
+      "points": null,
+      "device": "ios",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.669Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758669_51",
+      "title": "アプリ",
+      "url": "https://pc.moppy.jp/category/list.php?parent_category=4&child_category=52",
+      "points": null,
+      "device": "ios",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.669Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758671_226",
+      "title": "ローソン（初回起動）_iOS\n\t\t\t\t\t\t\t新規アプリインストール後、初回起動\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t60P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=158470&track_ref=category",
+      "points": "60pt",
+      "device": "iOS",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.671Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758671_228",
+      "title": "iAEON(アイイオン)\n\t\t\t\t\t\t\tインストール後、初回起動\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t48P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=160194&track_ref=category",
+      "points": "48pt",
+      "device": "ios",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.671Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758671_231",
+      "title": "Pontaアプリ（ポンタ）\n\t\t\t\t\t\t\t新規インストール後のログイン完了\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t120P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159393&track_ref=category",
+      "points": "120pt",
+      "device": "ios",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.671Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758671_235",
+      "title": "ブロックパズル(クラシックモード1万点達成)_iOS\n\t\t\t\t\t\t\t新規アプリインストール後、クラシックモード1万点達成\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t160P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159505&track_ref=category",
+      "points": "160pt",
+      "device": "iOS",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.671Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758671_236",
+      "title": "CokeON（コークオン）_iOS\n\t\t\t\t\t\t\t新規アプリインストール後、初回起動\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t45P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159451&track_ref=category",
+      "points": "45pt",
+      "device": "iOS",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.671Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758671_239",
+      "title": "写真バックアップアプリ\n\t\t\t\t\t\t\t新規アプリインストール後、初回起動\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t20P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159423&track_ref=category",
+      "points": "20pt",
+      "device": "ios",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.671Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262758671_240",
+      "title": "ピッコマ（iOS）\n\t\t\t\t\t\t\t新規アプリインストール後、当日読書→翌日読書完了\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t300P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=149863&track_ref=category",
+      "points": "300pt",
+      "device": "iOS",
+      "osType": "ios",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:18.671Z",
+      "source": "moppy_mobile_app_scraper"
+    }
+  ],
+  "stats": {
+    "startTime": "2025-08-15T12:59:13.141Z",
+    "endTime": "2025-08-15T12:59:28.327Z",
+    "pagesProcessed": 2,
+    "campaignsFound": 17,
+    "totalRequests": 2,
+    "errors": [],
+    "type": "ios_only"
+  }
+}

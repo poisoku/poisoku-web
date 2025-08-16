@@ -1,0 +1,101 @@
+{
+  "campaigns": [
+    {
+      "id": "moppy_app_unknown_1755262765298_227",
+      "title": "ローソン（初回起動）_Android\n\t\t\t\t\t\t\t新規アプリインストール後、初回起動\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t60P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=158468&track_ref=category",
+      "points": "60pt",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.298Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262765298_228",
+      "title": "iAEON(アイイオン)\n\t\t\t\t\t\t\tインストール後、初回起動\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t48P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=160195&track_ref=category",
+      "points": "48pt",
+      "device": "android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.298Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262765298_231",
+      "title": "CokeON（コークオン）_Android\n\t\t\t\t\t\t\t新規アプリインストール後、初回起動\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t45P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159452&track_ref=category",
+      "points": "45pt",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.298Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262765298_232",
+      "title": "Pontaアプリ（ポンタ）\n\t\t\t\t\t\t\t【▼ポイント獲得条件】記載の条件を達成\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t120P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159394&track_ref=category",
+      "points": "120ポイント",
+      "device": "android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.298Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262765298_235",
+      "title": "ピッコマ（Android）\n\t\t\t\t\t\t\t新規アプリインストール後、当日読書→翌日読書\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t300P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=149862&track_ref=category",
+      "points": "300pt",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.298Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262765298_237",
+      "title": "ギシギシ：マッチパズル(3500点到達)\n\t\t\t\t\t\t\t新規アプリインストール後、3500点到達\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t160P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=160113&track_ref=category",
+      "points": "160pt",
+      "device": "android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.298Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262765298_241",
+      "title": "※過去最高※Mistplay（ミストプレイ）/レベル7到達_Android\n\t\t\t\t\t\t\t新規アプリインストール後、プロフィール レベル7到達\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4,500P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159791&track_ref=category",
+      "points": "500pt",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.298Z",
+      "source": "moppy_mobile_app_scraper"
+    },
+    {
+      "id": "moppy_app_unknown_1755262765299_249",
+      "title": "※還元UP中！※PLAYTIME（掲載中の3つのゲームでそれぞれ3つチャレンジ完了）_Android\n\t\t\t\t\t\t\t新規アプリインストール後、掲載中の3つのゲームでそれぞれ3つチャレンジ完了\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1,500P",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159519&track_ref=category",
+      "points": "500pt",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4",
+      "scrapedAt": "2025-08-15T12:59:25.299Z",
+      "source": "moppy_mobile_app_scraper"
+    }
+  ],
+  "stats": {
+    "startTime": "2025-08-15T12:59:13.141Z",
+    "endTime": "2025-08-15T12:59:28.327Z",
+    "pagesProcessed": 2,
+    "campaignsFound": 17,
+    "totalRequests": 2,
+    "errors": [],
+    "type": "android_only"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "campaigns": [],
+  "stats": {
+    "startTime": "2025-08-15T14:18:14.144Z",
+    "endTime": "2025-08-15T14:21:09.602Z",
+    "pagesProcessed": 20,
+    "campaignsFound": 17,
+    "totalRequests": 20,
+    "errors": [],
+    "type": "android_only",
+    "version": "v2"
+  }
+}

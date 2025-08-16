@@ -1,0 +1,179 @@
+{
+  "campaigns": [
+    {
+      "id": "moppy_app_unknown_1755301541997_3",
+      "title": "ローソン（初回起動）_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=158468&track_ref=category",
+      "points": "60P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_5",
+      "title": "Pontaアプリ（ポンタ）",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159394&track_ref=category",
+      "points": "120ポイント",
+      "device": "iOS/Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_7",
+      "title": "ピッコマ（Android）",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=149862&track_ref=category",
+      "points": "300P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_9",
+      "title": "CokeON（コークオン）_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159452&track_ref=category",
+      "points": "45P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_11",
+      "title": "※過去最高※Mistplay（ミストプレイ）/レベル7到達_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159791&track_ref=category",
+      "points": "4,500P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_13",
+      "title": "フルーツバブルポップ(15,000点達成)_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=160050&track_ref=category",
+      "points": "100P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_14",
+      "title": "※還元UP中！※PLAYTIME（掲載中の3つのゲームでそれぞれ3つチャレンジ完了）_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159519&track_ref=category",
+      "points": "1,500P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_15",
+      "title": "メルカリ",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=150061&track_ref=category",
+      "points": "328P",
+      "device": "iOS/Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_16",
+      "title": "※17日まで激アツ還元※ブロックパズル(クラシックモード1万点達成)_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=159506&track_ref=category",
+      "points": "240P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_19",
+      "title": "エバーテイル（3日連続ログインボーナス獲得）【Android】",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=158295&track_ref=category",
+      "points": "320P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_22",
+      "title": "タイトーオンラインクレーン",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=147166&track_ref=category",
+      "points": "950P",
+      "device": "iOS/Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_23",
+      "title": "※還元UP中！※Match Play 3D/マッチプレイ3D(メガオファーを30回コンプリート)_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=160030&track_ref=category",
+      "points": "1,200P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_24",
+      "title": "Knife Ninja/ナイフ忍者（Mega Offerを30回コンプリート）_Android",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=160192&track_ref=category",
+      "points": "950P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_25",
+      "title": "イース6 オンライン",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=160004&track_ref=category",
+      "points": "48P",
+      "device": "iOS/Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    },
+    {
+      "id": "moppy_app_unknown_1755301541997_29",
+      "title": "三國志 真戦（Android）（勢力15000）",
+      "url": "https://pc.moppy.jp/ad/detail.php?s_id=158738&track_ref=category",
+      "points": "5,250P",
+      "device": "Android",
+      "osType": "android",
+      "urlId": "parent_category=4&child_category=52",
+      "scrapedAt": "2025-08-15T23:45:41.997Z",
+      "source": "moppy_app_scraper_v3_fixed"
+    }
+  ],
+  "stats": {
+    "startTime": "2025-08-15T23:45:20.923Z",
+    "endTime": "2025-08-15T23:45:48.040Z",
+    "pagesProcessed": 2,
+    "campaignsFound": 34,
+    "totalRequests": 2,
+    "errors": [],
+    "type": "android_only",
+    "version": "v3"
+  }
+}
