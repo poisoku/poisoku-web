@@ -25,18 +25,18 @@ class MoppyWebScraperV2 {
       errors: []
     };
     
-    // 10カテゴリで全Web案件をカバー
+    // 10URLで全Web案件をカバー
     this.targetCategories = [
-      { id: 1, name: 'アンケート・モニター' },
-      { id: 2, name: 'サービス・他' },
-      { id: 3, name: 'ショッピング' },
-      { id: 4, name: 'サービス' },
-      { id: 5, name: 'クレジットカード' },
-      { id: 6, name: 'ショッピング詳細' },
-      { id: 7, name: '旅行・レジャー' },
-      { id: 8, name: 'エンタメ' },
-      { id: 9, name: 'その他' },
-      { id: 10, name: '特別カテゴリ' }
+      { id: 1, name: 'URL1' },
+      { id: 2, name: 'URL2' },
+      { id: 3, name: 'URL3' },
+      { id: 4, name: 'URL4' },
+      { id: 5, name: 'URL5' },
+      { id: 6, name: 'URL6' },
+      { id: 7, name: 'URL7' },
+      { id: 8, name: 'URL8' },
+      { id: 9, name: 'URL9' },
+      { id: 10, name: 'URL10' }
     ];
     
     this.baseUrl = 'https://pc.moppy.jp/category/list.php';
@@ -47,8 +47,8 @@ class MoppyWebScraperV2 {
    */
   async initialize() {
     console.log('🌐 モッピー Web案件スクレイパー V2 初期化中...');
-    console.log('🎯 対象: 10カテゴリのWeb案件');
-    console.log('📊 取得方式: カテゴリページスキャン');
+    console.log('🎯 対象: 10URLのWeb案件');
+    console.log('📊 取得方式: URLページスキャン');
     
     this.browser = await puppeteer.launch({
       headless: 'new',
@@ -67,14 +67,14 @@ class MoppyWebScraperV2 {
   /**
    * ページから案件データを抽出
    */
-  async extractCampaigns(page, categoryId) {
-    return await page.evaluate((categoryId) => {
+  async extractCampaigns(page) {
+    return await page.evaluate(() => {
       const campaigns = [];
       
       // 案件リンクを取得
       const links = document.querySelectorAll('a[href*="/shopping/detail.php"], a[href*="/ad/detail.php"]');
       
-      console.log(`🔍 カテゴリ${categoryId}で${links.length}個のリンクを発見`);
+      console.log(`🔍 ページで${links.length}個のリンクを発見`);
       
       links.forEach((link, index) => {
         try {
@@ -150,7 +150,6 @@ class MoppyWebScraperV2 {
             url: href,
             points: points || 'ポイント不明',
             device: device,
-            categoryId: categoryId,
             scrapedAt: new Date().toISOString(),
             source: 'moppy_web_scraper_v2'
           };
@@ -164,14 +163,14 @@ class MoppyWebScraperV2 {
       });
       
       return campaigns;
-    }, categoryId);
+    });
   }
 
   /**
-   * 指定カテゴリの全ページをスクレイピング
+   * 指定URLの全ページをスクレイピング
    */
   async scrapeCategory(categoryId, categoryName) {
-    console.log(`\n🔍 カテゴリ${categoryId}（${categoryName}）処理開始...`);
+    console.log(`\n🔍 ${categoryName}（ID:${categoryId}）処理開始...`);
     
     const page = await this.browser.newPage();
     
@@ -182,7 +181,10 @@ class MoppyWebScraperV2 {
       let hasNextPage = true;
       const categoryResults = [];
       
-      while (hasNextPage && currentPage <= 20) { // 最大20ページ
+      let consecutiveEmptyPages = 0;
+      const maxEmptyPages = 3; // 連続3ページ空なら終了
+      
+      while (hasNextPage && currentPage <= 100) { // 最大100ページ
         const pageUrl = `${this.baseUrl}?parent_category=${categoryId}&af_sorter=1&page=${currentPage}`;
         console.log(`📄 ページ ${currentPage} 処理中...`);
         
@@ -194,25 +196,48 @@ class MoppyWebScraperV2 {
           
           await new Promise(resolve => setTimeout(resolve, 1500));
           
-          // 「条件に一致する広告はありません」チェック
-          const noAdsMessage = await page.evaluate(() => {
+          // より厳密な終了条件チェック
+          const pageAnalysis = await page.evaluate(() => {
             const pageText = document.body.textContent;
-            return pageText.includes('条件に一致する広告はありません') ||
-                   pageText.includes('該当する広告がありません');
+            
+            // 「条件に一致する広告はありません」メッセージチェック
+            const noAdsPatterns = [
+              '条件に一致する広告はありません',
+              '該当する広告がありません', 
+              '広告が見つかりません',
+              'お探しの広告はありません'
+            ];
+            
+            const hasNoAdsMessage = noAdsPatterns.some(pattern => pageText.includes(pattern));
+            
+            // 案件リンクの存在確認
+            const campaignLinks = document.querySelectorAll('a[href*="/shopping/detail.php"], a[href*="/ad/detail.php"]');
+            const hasCampaignLinks = campaignLinks.length > 0;
+            
+            return {
+              hasNoAdsMessage,
+              hasCampaignLinks,
+              linkCount: campaignLinks.length
+            };
           });
           
-          if (noAdsMessage) {
+          if (pageAnalysis.hasNoAdsMessage) {
             console.log(`📄 ページ${currentPage}: 広告なしメッセージ検出（終了）`);
             hasNextPage = false;
             break;
           }
           
           // 案件データ抽出
-          const campaigns = await this.extractCampaigns(page, categoryId);
+          const campaigns = await this.extractCampaigns(page);
           
           if (campaigns.length === 0) {
-            console.log(`📄 ページ${currentPage}: 案件が見つかりませんでした（終了）`);
-            hasNextPage = false;
+            consecutiveEmptyPages++;
+            console.log(`📄 ページ${currentPage}: 案件が見つかりませんでした（連続空ページ ${consecutiveEmptyPages}/${maxEmptyPages}）`);
+            
+            if (consecutiveEmptyPages >= maxEmptyPages) {
+              console.log(`🏁 連続${maxEmptyPages}ページ空のため処理終了`);
+              hasNextPage = false;
+            }
           } else {
             // 重複除去
             const uniqueCampaigns = [];
@@ -229,6 +254,7 @@ class MoppyWebScraperV2 {
               }
             }
             
+            consecutiveEmptyPages = 0; // 案件があったので連続空ページカウントをリセット
             categoryResults.push(...uniqueCampaigns);
             this.stats.pagesProcessed++;
             
@@ -239,12 +265,12 @@ class MoppyWebScraperV2 {
           
         } catch (error) {
           console.error(`❌ ページ ${currentPage} エラー:`, error);
-          this.stats.errors.push(`Category ${categoryId} Page ${currentPage}: ${error.message}`);
+          this.stats.errors.push(`URL ${categoryId} Page ${currentPage}: ${error.message}`);
           hasNextPage = false;
         }
       }
       
-      console.log(`✅ カテゴリ${categoryId} 完了: ${categoryResults.length}件取得`);
+      console.log(`✅ ${categoryName} 完了: ${categoryResults.length}件取得`);
       return categoryResults;
       
     } finally {
@@ -263,13 +289,13 @@ class MoppyWebScraperV2 {
     try {
       await this.initialize();
       
-      // 各カテゴリを処理
+      // 各URLを処理
       for (const category of this.targetCategories) {
         const categoryCampaigns = await this.scrapeCategory(category.id, category.name);
         this.results.push(...categoryCampaigns);
         this.stats.categoriesProcessed++;
         
-        // カテゴリ間待機
+        // URL間待機
         await new Promise(resolve => setTimeout(resolve, 2000));
       }
       
@@ -279,7 +305,7 @@ class MoppyWebScraperV2 {
       console.log('\n🎉 スクレイピング完了!');
       console.log('📊 結果サマリー:');
       console.log(`🌐 Web案件: ${this.results.length}件`);
-      console.log(`📂 処理カテゴリ: ${this.stats.categoriesProcessed}カテゴリ`);
+      console.log(`📂 処理URL: ${this.stats.categoriesProcessed}URL`);
       console.log(`📄 処理ページ数: ${this.stats.pagesProcessed}ページ`);
       console.log(`🔄 重複除去: ${this.stats.duplicatesRemoved}件`);
       console.log(`⏱️ 実行時間: ${Math.round((this.stats.endTime - this.stats.startTime) / 1000)}秒`);
